@@ -2,7 +2,7 @@
 Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries and LinkedIn posts
 
 ## COP31 — dati verificati / verified facts
-- **Date:** lunedì 9 – venerdì 20 novembre 2026 / Monday 9 – Friday 20 November 2026 (fonte: UNFCCC, "Information for COP 31 participants (A-Z)", https://unfccc.int/cop31/ifp — verificato il 2026-11-09 tramite risultati di ricerca; fetch diretto di unfccc.int bloccato dalla rete dell'ambiente / verified 2026-11-09 via search results; direct fetch of unfccc.int blocked by the environment's network)
+- **Date:** lunedì 9 – venerdì 20 novembre 2026 / Monday 9 – Friday 20 November 2026 (fonte: UNFCCC, "Information for COP 31 participants (A-Z)", https://unfccc.int/cop31/ifp — confermato dall'Overview Schedule UNFCCC, PDF letto integralmente il 2026-11-09 / confirmed by the UNFCCC Overview Schedule, PDF read in full on 2026-11-09: https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
 - **Luogo / Venue:** Antalya EXPO Center, Soğucaksu, Antalya, Türkiye
 - **Presidenza / Presidency:** Türkiye (Murat Kurum, Presidente COP31) ospita e presiede; Australia (Chris Bowen) è Presidente dei negoziati. / Türkiye (Murat Kurum, COP31 President) hosts and presides; Australia (Chris Bowen) is President of Negotiations.
 - **Leaders' Summit:** 11–12 novembre / November (Green Zone chiusa ai visitatori / closed to visitors)
@@ -10,9 +10,9 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 - Orari in Europe/Rome; Antalya = UTC+3 (+2 h rispetto a Roma in inverno / +2 h vs Rome in winter).
 
 ## Indice / Index
-| Giorno / Day | Data / Date | Sintesi / Summary | LinkedIn | Panel |
+| Giorno / Day | Data e stato / Date and status | Sintesi / Summary | LinkedIn | Panel |
 |---|---|---|---|---|
-| 1 | 2026-11-09 (agg. 10:05) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [post](giorno-01_2026-11-09/linkedin-giornaliero.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) |
+| 1 | 2026-11-09 — 🕘 provvisoria (serale, giornata in corso — agg. 10:30) / provisional | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [generale](giorno-01_2026-11-09/linkedin-generale.md) · [VSME](giorno-01_2026-11-09/linkedin-vsme.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) |
 
 ## Log cumulativo / Cumulative log
 - [rilevanza-reporting.md](rilevanza-reporting.md)
