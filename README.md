@@ -12,7 +12,7 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 ## Indice / Index
 | Giorno / Day | Data / Date | Sintesi / Summary | LinkedIn | Panel |
 |---|---|---|---|---|
-| 1 | 2026-11-09 (agg. 10:15) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [post](giorno-01_2026-11-09/linkedin-giornaliero.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) |
+| 1 | 2026-11-09 (agg. 10:05) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [post](giorno-01_2026-11-09/linkedin-giornaliero.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) |
 
 ## Log cumulativo / Cumulative log
 - [rilevanza-reporting.md](rilevanza-reporting.md)

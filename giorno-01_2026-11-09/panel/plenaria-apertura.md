@@ -10,7 +10,7 @@
   - Chris Bowen — Ministro australiano per Clima ed Energia, Presidente dei negoziati COP31 / Australian Minister for Climate Change and Energy, President of Negotiations [1]
   - Simon Stiell — Segretario esecutivo UNFCCC / UNFCCC Executive Secretary [1]
 
-> ⚠️ Nota di copertura (aggiornata ≈10:15 Europe/Rome): scheda arricchita con la lettura integrale di Reuters (via Yahoo), AFP (via Arab News), ekoIQ e SustainabilityOnline. unfccc.int, enb.iisd.org e SCMP restano non leggibili in fetch diretto. L'esito dell'adozione dell'agenda non risulta ancora confermato da nessuna fonte. / Coverage note (updated ≈10:15 Europe/Rome): enriched with full-page reads of Reuters (via Yahoo), AFP (via Arab News), ekoIQ and SustainabilityOnline. unfccc.int, enb.iisd.org and SCMP still cannot be fetched. No source yet confirms the outcome of the agenda adoption.
+> ⚠️ Nota di copertura (aggiornata ≈10:05 Europe/Rome): scheda arricchita con la lettura integrale di Reuters (via Yahoo), AFP (via Arab News), ekoIQ e SustainabilityOnline. unfccc.int, enb.iisd.org e SCMP restano non leggibili in fetch diretto. L'esito dell'adozione dell'agenda non risulta ancora confermato da nessuna fonte. / Coverage note (updated ≈10:05 Europe/Rome): enriched with full-page reads of Reuters (via Yahoo), AFP (via Arab News), ekoIQ and SustainabilityOnline. unfccc.int, enb.iisd.org and SCMP still cannot be fetched. No source yet confirms the outcome of the agenda adoption.
 
 ## IT
 
