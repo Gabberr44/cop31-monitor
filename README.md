@@ -9,10 +9,17 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 - **Domenica 15 novembre / Sunday 15 November:** sede chiusa / premises closed
 - Orari in Europe/Rome; Antalya = UTC+3 (+2 h rispetto a Roma in inverno / +2 h vs Rome in winter).
 
-## Indice / Index
-| Giorno / Day | Data e stato / Date and status | Sintesi / Summary | LinkedIn | Panel |
-|---|---|---|---|---|
-| 1 | 2026-11-09 — 🕘 provvisoria (serale, giornata in corso — agg. 10:30) / provisional | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [generale](giorno-01_2026-11-09/linkedin-generale.md) · [VSME](giorno-01_2026-11-09/linkedin-vsme.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) |
+## Indice per giorno COP / Index by COP day
+| Giorno / Day | Data e stato / Date and status | Sintesi / Summary | Panel |
+|---|---|---|---|
+| 1 | 2026-11-09 — 🕘 provvisoria serale (agg. 21:15) / provisional evening (updated 21:15) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
+
+## Post LinkedIn per data di pubblicazione / LinkedIn posts by publication date
+| Data / Date | Generale / General | VSME | Immagini / Images |
+|---|---|---|---|
+| 2026-11-10 | _in arrivo con il run delle 07:00 / coming with the 07:00 run_ | — | — |
+
+_Archivio / Archive:_ bozze del giorno 1 dal formato precedente / Day 1 drafts in the old format: [generale](linkedin/archivio/2026-11-09_linkedin-generale.md) · [VSME](linkedin/archivio/2026-11-09_linkedin-vsme.md)
 
 ## Log cumulativo / Cumulative log
 - [rilevanza-reporting.md](rilevanza-reporting.md)
