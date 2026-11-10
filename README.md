@@ -13,7 +13,8 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 | Giorno / Day | Data e stato / Date and status | Sintesi / Summary | Panel |
 |---|---|---|---|
 | 1 | 2026-11-09 — ✅ finale (2026-11-10 07:30) / final (2026-11-10 07:30) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
-| 2 | 2026-11-10 — ⏳ in corso, sintesi serale alle 21:00 / under way, evening summary at 21:00 | — | — |
+| 2 | 2026-11-10 — 🕘 provvisoria (serale, 2026-11-10 21:15) / provisional (evening, 2026-11-10 21:15) | [sintesi](giorno-02_2026-11-10/sintesi-giornata.md) | [elettrificazione 35-by-35](giorno-02_2026-11-10/panel/elettrificazione-35by35.md) · [Global Carbon Budget 2026](giorno-02_2026-11-10/panel/global-carbon-budget-2026.md) · [roadmap fossili / TAFF](giorno-02_2026-11-10/panel/roadmap-fossili-taff.md) |
+| 3 | 2026-11-11 — in programma (Leaders' Summit, giorno 1) / scheduled (Leaders' Summit, day 1) | — | — |
 
 ## Post LinkedIn per data di pubblicazione / LinkedIn posts by publication date
 | Data / Date | Generale / General | VSME | Immagini / Images |

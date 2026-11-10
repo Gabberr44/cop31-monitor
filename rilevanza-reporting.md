@@ -80,3 +80,27 @@ _Riferimenti: [29] = fonte [29] della [sintesi del giorno 1](giorno-01_2026-11-0
 - **What is happening:** ✅ 10 Nov, 08:00–11:00 Rome; co-chaired by the COP31 (Türkiye and Australia) and COP30 Presidencies; objectives include unlocking adaptation finance; expected participants include financial institutions and the private sector; 93 Parties have submitted a NAP; a Chair's summary is planned [29].
 - **Cosa cambia per una PMI che compila il VSME:** nulla di vincolante. Se la finanza privata per l'adattamento cresce, le banche chiederanno dati sull'esposizione fisica di sedi e catene di fornitura: la base è l'informativa sui rischi climatici del VSME (C4, modulo Comprehensive).
 - **What changes for an SME filling in the VSME:** nothing binding. If private adaptation finance grows, banks will ask for data on the physical exposure of sites and supply chains: the basis is the VSME climate-risk disclosure (C4, Comprehensive Module).
+
+---
+
+## 2026-11-10 — Giorno 2 / Day 2 _(🕘 versione serale provvisoria, 2026-11-10 21:15 / provisional evening version)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-02_2026-11-10/sintesi-giornata.md](giorno-02_2026-11-10/sintesi-giornata.md#fonti--sources). / [n] references = source numbering in the Day 2 summary._
+
+### 1. Pacchetto "35-by-35": tracciamento IEA dell'elettrificazione e coalizione finanziaria / "35-by-35" package: IEA electrification tracking and finance coalition — Rilevanza: Media / Medium
+- **Cosa è successo:** ✅ la Presidenza ha presentato l'obiettivo volontario di portare l'elettricità dal 23% al 35% dei consumi finali entro il 2035, con un Global Electrification Tracking Mechanism guidato dall'IEA, un Electrification Board, un forum con l'UE e la Electrify Now Finance Coalition (Banca Mondiale e BAfD co-presidenti dal 2027) [1]. 🟡 Il testo non richiede che l'elettricità sia pulita [7][8].
+- **What happened:** ✅ the Presidency presented the voluntary goal of raising electricity from 23% to 35% of final consumption by 2035, with an IEA-led Global Electrification Tracking Mechanism, an Electrification Board, a forum with the EU and the Electrify Now Finance Coalition (World Bank and AfDB co-chairs from 2027) [1]. 🟡 The text does not require the electricity to be clean [7][8].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Ma il rapporto tra energia elettrica e consumi totali diventa un indicatore seguito a livello globale, e le banche che aderiscono a coalizioni come questa tendono a chiederlo ai clienti. Nel VSME (B3) conviene già separare consumi elettrici e da combustibili, e indicare la quota rinnovabile dell'elettricità.
+- **What changes for an SME filling in the VSME:** no obligation. But the ratio of electricity to total energy use is becoming a globally tracked indicator, and banks in coalitions like this tend to ask clients for it. In the VSME (B3) it is worth already splitting electricity from fuel consumption and stating the renewable share of electricity.
+
+### 2. Impegni delle imprese sull'elettrificazione (UNEZA, We Mean Business) / Corporate commitments on electrification (UNEZA, We Mean Business) — Rilevanza: Bassa / Low
+- **Cosa è successo:** ✅ UNEZA alza l'impegno annuo in reti, rinnovabili e accumuli da 148 a 156 mld $; oltre 180 imprese con 1.690 mld $ di ricavi (tra cui Volvo, Uber, IKEA, Siemens) sostengono l'elettrificazione [1].
+- **What happened:** ✅ UNEZA raises its annual commitment for grids, renewables and storage from USD 148 bn to USD 156 bn; more than 180 companies with USD 1.69 tn in revenue (including Volvo, Uber, IKEA, Siemens) back electrification [1].
+- **Cosa cambia per una PMI che compila il VSME:** chi fornisce grandi gruppi che sostengono l'elettrificazione può ricevere domande su flotte, riscaldamento e processi alimentati a combustibili fossili. Avere i dati di consumo per vettore energetico (B3) rende più semplice rispondere.
+- **What changes for an SME filling in the VSME:** suppliers to large groups backing electrification may get questions about fleets, heating and fossil-fuelled processes. Having energy-use data by energy carrier (B3) makes it easier to answer.
+
+### 3. Global Carbon Budget 2026 / Global Carbon Budget 2026 — Rilevanza: Bassa / Low
+- **Cosa è successo:** ✅ emissioni fossili di CO₂ −0,4% (38,2 mld t), primo calo dal 2020; emissioni totali in aumento a 43,3 mld t; budget residuo per 1,5 °C di 150 mld t; la rimozione tecnologica di CO₂ compensa meno di 30 minuti di emissioni annue [3].
+- **What happened:** ✅ fossil CO₂ emissions −0.4% (38.2 bn t), the first fall since 2020; total emissions up to 43.3 bn t; remaining 1.5 °C budget of 150 bn t; technological CO₂ removal offsets less than 30 minutes of annual emissions [3].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di diretto. È un argomento utile per spiegare internamente perché clienti e banche chiedono riduzioni reali e non compensazioni: il VSME chiede le emissioni lorde, e i crediti non le riducono.
+- **What changes for an SME filling in the VSME:** nothing directly. It is a useful argument for explaining internally why customers and banks ask for real reductions rather than offsets: the VSME asks for gross emissions, and credits do not reduce them.
