@@ -1,6 +1,6 @@
 # Plenaria di apertura COP31 / CMP21 / CMA8 / Opening plenary of COP31 / CMP21 / CMA8
 
-> 🕘 Versione serale provvisoria / Provisional evening version — verrà consolidata domattina alle 07:00 / to be consolidated at 07:00 tomorrow. _(Agg. 21:15 Europe/Rome: esito dell'agenda ora confermato; ritardo precisato; aggiunti comunicato ufficiale della Presidenza e bollettino Climate Home. / Updated 21:15 Europe/Rome: agenda outcome now confirmed; delay clarified; official Presidency release and Climate Home bulletin added.)_
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-10 07:30 (Europe/Rome) / consolidated on 2026-11-10 07:30 (Europe/Rome). Aggiunti AP [7] e Down To Earth [8] (esito delle consultazioni della Presidenza); rimossa riga duplicata. / Added AP [7] and Down To Earth [8] (outcome of Presidency consultations); duplicate line removed.
 
 - **Data / Date:** 2026-11-09 (lunedì / Monday)
 - **Orario / Time:** mattina secondo il programma ufficiale [1] ✅; avvio con circa 90 minuti di ritardo secondo AFP [3] 🟡 (fonte d'agenzia singola, confermata nel contenuto da Climate Home [4]) / morning per the official programme [1] ✅; started about 90 minutes late per AFP [3] 🟡 (single wire, content consistent with Climate Home [4])
@@ -24,6 +24,9 @@
 - 🟡 Stiell ha detto che i progressi non sono abbastanza veloci [4][5]. Secondo il comunicato della Presidenza, ha citato 265 miliardi di dollari risparmiati grazie alle rinnovabili nel primo semestre 2026 [2] ✅ (dato riportato dalla Presidenza).
 - 🟡 Bowen ha detto che la decisione finale ("cover decision") non sarà "a lengthy political declaration" ma una risposta "focused, practical, concrete" [4]; il giorno prima aveva detto che "there will be no surprises" [4] (fonte singola Tier B per le citazioni).
 - 🟡 Secondo AFP, Guterres ha esortato i leader a "get serious" sulle emissioni [3].
+- 🟡 Secondo AP, le proposte d'agenda del Gruppo africano erano sostenute da molti Paesi in via di sviluppo ma osteggiate da UE e Canada [7]. Secondo Down To Earth (Tier C), l'UE sosteneva che la COP30 non avesse creato un punto d'agenda separato per il programma sulla finanza, che riguarda l'attuazione dell'Art. 9.1 dell'Accordo di Parigi [8].
+- ⚠️ Secondo Down To Earth, dalle consultazioni della Presidenza: il finanziamento del Green Climate Fund sarà discusso in un punto esistente; la settima revisione del meccanismo finanziario slitta alla COP32; il tema montagne sarà considerato per un dialogo di ricerca a SBSTA 66; i presidenti degli organi sussidiari inviteranno contributi per il prossimo dialogo sul commercio a Bonn [8] (fonte Tier C; il rinvio del punto montagne è coerente con Climate Home [4]).
+- 🟡 Secondo AP, Kurum ha detto che questa è "the first COP where it is clear beyond a reasonable doubt that the world will overshoot the 1.5-degree target" [7]. Code lunghe all'accreditamento: gli organizzatori hanno chiesto a chi non aveva attività essenziali di ritirare il badge martedì; circa 68.500 registrati [7].
 
 **Annunci / impegni / numeri**
 - ✅ Obiettivo volontario "35-by-35" della Presidenza: elettricità al 35% dei consumi finali di energia entro il 2035 [2][6]. 🟡 Oggi la quota è circa il 20% secondo AFP [3].
@@ -50,6 +53,9 @@
 - 🟡 Stiell said progress is not fast enough [4][5]. According to the Presidency release, he cited USD 265 bn saved thanks to renewables in the first half of 2026 [2] ✅ (figure as reported by the Presidency).
 - 🟡 Bowen said the final "cover decision" will not be "a lengthy political declaration" but a "focused, practical, concrete" response [4]; the day before he had said "there will be no surprises" [4] (single Tier B source for the quotes).
 - 🟡 According to AFP, Guterres urged leaders to "get serious" about emissions [3].
+- 🟡 According to AP, the African Group's agenda proposals were backed by many developing countries but opposed by the EU and Canada [7]. According to Down To Earth (Tier C), the EU argued that COP30 had not created a separate agenda item for the finance work programme, which covers implementation of Paris Agreement Art. 9.1 [8].
+- ⚠️ According to Down To Earth, from the Presidency consultations: Green Climate Fund funding will be discussed under an existing item; the seventh review of the financial mechanism is deferred to COP32; mountains will be considered for a research dialogue at SBSTA 66; the subsidiary-body chairs will invite submissions for the next trade dialogue in Bonn [8] (Tier C source; deferral of the mountains item is consistent with Climate Home [4]).
+- 🟡 According to AP, Kurum said this is "the first COP where it is clear beyond a reasonable doubt that the world will overshoot the 1.5-degree target" [7]. Long queues at registration: organisers asked those without essential business to collect badges on Tuesday; about 68,500 registered [7].
 
 **Announcements / commitments / numbers**
 - ✅ Presidency's voluntary "35-by-35" goal: electricity at 35% of final energy consumption by 2035 [2][6]. 🟡 The current share is about 20% according to AFP [3].
@@ -72,3 +78,5 @@
 [4] Tier B — Climate Home News (S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara) — "COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'" — https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/ — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
 [5] Tier B — Reuters (V. Volcovici, S. Jessop), via Yahoo News — "COP31 summit leaders urge world to 'move faster' on climate" — https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html — aggiornato 2026-11-09 08:36 UTC — consultato 2026-11-09 (pagina completa / full page)
 [6] Tier A — Ministero dell'Ambiente turco / Turkish Environment Ministry — "COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda" — https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985 — pubblicato 2026-06-09 — consultato 2026-11-09 (pagina completa / full page)
+[7] Tier B — AP (S. Fraser, S. Arasu), via PBS NewsHour — "COP31 climate summit begins after disastrous year of extreme weather" — https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather — pubblicato 2026-11-09 — consultato 2026-11-10 (pagina completa / full page)
+[8] Tier C — Down To Earth (P. Das) — "COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped" — https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)

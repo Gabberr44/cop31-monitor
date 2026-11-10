@@ -5,7 +5,7 @@ Log of every COP31 item touching VSME, CSRD/ESRS/Omnibus, ISSB, GHG Protocol, tr
 
 ---
 
-## 2026-11-09 — Giorno 1 / Day 1 _(versione serale provvisoria, agg. 21:15 / provisional evening version, updated 21:15)_
+## 2026-11-09 — Giorno 1 / Day 1 _(✅ versione finale, consolidata il 2026-11-10 07:30 / final version, consolidated on 2026-11-10 07:30)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-01_2026-11-09/sintesi-giornata.md](giorno-01_2026-11-09/sintesi-giornata.md#fonti--sources) (rinumerata alle 21:15). Le voci delle 10:30 sono state aggiornate, non cancellate. / [n] references = source numbering in the Day 1 summary (renumbered at 21:15). The 10:30 items were updated, not deleted._
 
@@ -62,3 +62,21 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-01_2026-11-09/sintesi-gior
 - **What happened:** ✅ the Presidency, WHO and ATACH launched the Antalya Initiative for Resilient Health Systems [3]. ⚠️ It is voluntary and has no announced funding, according to Health Policy Watch [19].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Il calore estremo è però un rischio per i lavoratori: le PMI esposte possono citarlo nella valutazione dei rischi climatici e collegarlo alle informazioni su salute e sicurezza (B9).
 - **What changes for an SME filling in the VSME:** no obligation. Extreme heat is, however, a risk to workers: exposed SMEs can mention it in their climate-risk assessment and link it to health and safety disclosures (B9).
+
+### 10. Programma di lavoro sulla finanza climatica: perimetro e dettagli delle consultazioni / Climate finance work programme: scope and consultation details — Rilevanza: Media / Medium _(nuovo nella versione finale / new in the final version)_
+- **Cosa è successo:** 🟡 secondo AP, le proposte d'agenda del Gruppo africano erano osteggiate da UE e Canada [25]. ⚠️ Secondo Down To Earth (Tier C), il programma riguarda l'attuazione dell'Art. 9.1 dell'Accordo di Parigi (obblighi finanziari dei Paesi sviluppati); i presidenti degli organi sussidiari inviteranno contributi per il prossimo dialogo su commercio e clima a Bonn [26]. ⚠️ Secondo un'analisi CARE pubblicata da Climate Home, i rimborsi dei prestiti climatici sono quasi triplicati tra 2020 e 2024 (da 6,9 a 20,1 mld $) [27].
+- **What happened:** 🟡 according to AP, the African Group's agenda proposals were opposed by the EU and Canada [25]. ⚠️ According to Down To Earth (Tier C), the programme covers implementation of Paris Agreement Art. 9.1 (developed countries' finance obligations); the subsidiary-body chairs will invite submissions for the next trade-and-climate dialogue in Bonn [26]. ⚠️ According to a CARE analysis published by Climate Home, climate-loan repayments nearly tripled between 2020 and 2024 (from USD 6.9 bn to 20.1 bn) [27].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Il dibattito riguarda la finanza pubblica tra Stati, non il credito alle imprese. Il tema commercio/CBAM resta aperto nel dialogo di Bonn, non nel negoziato COP: nessun cambiamento a breve per gli importatori.
+- **What changes for an SME filling in the VSME:** no obligation. The debate concerns public finance between states, not lending to companies. Trade/CBAM stays in the Bonn dialogue, not in the COP negotiation: no short-term change for importers.
+
+---
+
+## 2026-11-10 — Giorno 2 / Day 2 _(programma; la sintesi arriva con il run delle 21:00 / programme only; summary comes with the 21:00 run)_
+
+_Riferimenti: [29] = fonte [29] della [sintesi del giorno 1](giorno-01_2026-11-09/sintesi-giornata.md#fonti--sources) (nota concettuale UNFCCC); post del mattino [linkedin/2026-11-10_vsme.md](linkedin/2026-11-10_vsme.md). / References: [29] = source [29] of the Day 1 summary (UNFCCC concept note); morning post._
+
+### 1. Baku High-Level Dialogue on Adaptation con istituzioni finanziarie e settore privato / with financial institutions and private sector — Rilevanza: Media / Medium
+- **Cosa succede:** ✅ 10/11, 08:00–11:00 Roma; co-presieduto da Presidenze COP31 (Türkiye e Australia) e COP30; tra gli obiettivi "unlock finance for adaptation"; partecipanti previsti anche istituzioni finanziarie e settore privato; 93 Parti hanno presentato un NAP; è previsto un Chair's summary [29].
+- **What is happening:** ✅ 10 Nov, 08:00–11:00 Rome; co-chaired by the COP31 (Türkiye and Australia) and COP30 Presidencies; objectives include unlocking adaptation finance; expected participants include financial institutions and the private sector; 93 Parties have submitted a NAP; a Chair's summary is planned [29].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di vincolante. Se la finanza privata per l'adattamento cresce, le banche chiederanno dati sull'esposizione fisica di sedi e catene di fornitura: la base è l'informativa sui rischi climatici del VSME (C4, modulo Comprehensive).
+- **What changes for an SME filling in the VSME:** nothing binding. If private adaptation finance grows, banks will ask for data on the physical exposure of sites and supply chains: the basis is the VSME climate-risk disclosure (C4, Comprehensive Module).

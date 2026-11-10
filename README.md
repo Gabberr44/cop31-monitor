@@ -12,12 +12,13 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 ## Indice per giorno COP / Index by COP day
 | Giorno / Day | Data e stato / Date and status | Sintesi / Summary | Panel |
 |---|---|---|---|
-| 1 | 2026-11-09 — 🕘 provvisoria serale (agg. 21:15) / provisional evening (updated 21:15) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
+| 1 | 2026-11-09 — ✅ finale (2026-11-10 07:30) / final (2026-11-10 07:30) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
+| 2 | 2026-11-10 — ⏳ in corso, sintesi serale alle 21:00 / under way, evening summary at 21:00 | — | — |
 
 ## Post LinkedIn per data di pubblicazione / LinkedIn posts by publication date
 | Data / Date | Generale / General | VSME | Immagini / Images |
 |---|---|---|---|
-| 2026-11-10 | _in arrivo con il run delle 07:00 / coming with the 07:00 run_ | — | — |
+| 2026-11-10 | [generale](linkedin/2026-11-10_generale.md) | [VSME](linkedin/2026-11-10_vsme.md) | [generale.png](linkedin/2026-11-10_generale.png) · [vsme.png](linkedin/2026-11-10_vsme.png) |
 
 _Archivio / Archive:_ bozze del giorno 1 dal formato precedente / Day 1 drafts in the old format: [generale](linkedin/archivio/2026-11-09_linkedin-generale.md) · [VSME](linkedin/archivio/2026-11-09_linkedin-vsme.md)
 

@@ -1,6 +1,6 @@
 # Giornata della salute: Antalya Initiative for Resilient Health Systems (AIR) / Health Day: Antalya Initiative for Resilient Health Systems (AIR)
 
-> 🕘 Versione serale provvisoria / Provisional evening version — verrà consolidata domattina alle 07:00 / to be consolidated at 07:00 tomorrow.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-10 07:30 (Europe/Rome) / consolidated on 2026-11-10 07:30 (Europe/Rome). Nessuna nuova fonte al mattino del 10/11. / No new sources by the morning of 10 Nov.
 
 - **Data / Date:** 2026-11-09 — giornata tematica "Food, Agriculture and Health" [1][2] ✅
 - **Orario / Time:** non indicato dalle fonti / not given in sources

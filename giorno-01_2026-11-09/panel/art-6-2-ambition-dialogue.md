@@ -1,6 +1,6 @@
 # Dialogo sull'ambizione dell'Art. 6.2 / Article 6.2 Ambition Dialogue
 
-> 🕘 Versione serale provvisoria / Provisional evening version — verrà consolidata domattina alle 07:00 / to be consolidated at 07:00 tomorrow. Contenuto basato sulla nota concettuale ufficiale; nessun resoconto scritto della discussione trovato alle 21:15. / Content based on the official concept note; no written account of the discussion found as of 21:15.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-10 07:30 (Europe/Rome) / consolidated on 2026-11-10 07:30 (Europe/Rome). Nessun resoconto scritto della discussione trovato neppure al mattino del 10/11 (ENB non leggibile, 403). / No written account of the discussion found by the morning of 10 Nov either (ENB not fetchable, 403).
 
 - **Data / Date:** 2026-11-09
 - **Orario / Time:** 15:00–18:00 Antalya = 13:00–16:00 Europe/Rome [1] ✅
