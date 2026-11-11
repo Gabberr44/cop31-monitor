@@ -14,7 +14,7 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 |---|---|---|---|
 | 1 | 2026-11-09 — ✅ finale (2026-11-10 07:30) / final (2026-11-10 07:30) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
 | 2 | 2026-11-10 — ✅ finale (2026-11-11 07:45) / final (2026-11-11 07:45) | [sintesi](giorno-02_2026-11-10/sintesi-giornata.md) | [elettrificazione 35-by-35](giorno-02_2026-11-10/panel/elettrificazione-35by35.md) · [Global Carbon Budget 2026](giorno-02_2026-11-10/panel/global-carbon-budget-2026.md) · [roadmap fossili / TAFF](giorno-02_2026-11-10/panel/roadmap-fossili-taff.md) |
-| 3 | 2026-11-11 — in programma (Leaders' Summit, giorno 1) / scheduled (Leaders' Summit, day 1) | — | — |
+| 3 | 2026-11-11 — 🕘 provvisoria (2026-11-11 21:30) / provisional (2026-11-11 21:30) | [sintesi](giorno-03_2026-11-11/sintesi-giornata.md) | [apertura Leaders' Summit](giorno-03_2026-11-11/panel/leaders-summit-apertura.md) · [Zero Waste e metano](giorno-03_2026-11-11/panel/zero-waste-metano.md) · [finanza climatica e TFFF](giorno-03_2026-11-11/panel/finanza-climatica-tfff.md) |
 | 4 | 2026-11-12 — in programma (Leaders' Summit, giorno 2) / scheduled (Leaders' Summit, day 2) | — | — |
 
 ## Post LinkedIn per data di pubblicazione / LinkedIn posts by publication date

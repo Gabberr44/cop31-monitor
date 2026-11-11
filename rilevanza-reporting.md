@@ -113,18 +113,38 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-02_2026-11-10/sintesi-gior
 
 ---
 
-## 2026-11-11 — Giorno 3 / Day 3 _(programma; la sintesi arriva con il run delle 21:00 / programme only; summary comes with the 21:00 run)_
+## 2026-11-11 — Giorno 3 / Day 3 _(🕘 versione serale provvisoria 2026-11-11 21:30, da consolidare alle 07:00 / provisional evening version 2026-11-11 21:30, to be consolidated at 07:00)_
+
+_Voci 3–5: [n] = numerazione delle fonti in [giorno-03_2026-11-11/sintesi-giornata.md](giorno-03_2026-11-11/sintesi-giornata.md#fonti--sources). / Items 3–5: [n] = source numbering in the Day 3 summary._
 
 _Riferimenti / References: UNFCCC, "COP 31 Antalya Leaders' Summit Schedule – Day 1" (Tier A), https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf, letto integralmente il 2026-11-11 / read in full on 2026-11-11; UNCTAD, pagina dell'evento / event page (Tier A), https://unctad.org/fr/node/53312, consultata il 2026-11-11._
 
-### 1. Standard di sostenibilità frammentati e costi per le PMI nelle filiere (UNCTAD–SMIIC) / Fragmented sustainability standards and costs for SMEs in supply chains (UNCTAD–SMIIC) — Rilevanza: Media / Medium
+### 1. Standard di sostenibilità frammentati e costi per le PMI nelle filiere (UNCTAD–SMIIC) / Fragmented sustainability standards and costs for SMEs in supply chains (UNCTAD–SMIIC) — Rilevanza: Media / Medium _(alle 21:30 nessun resoconto scritto / no written account at 21:30)_
 - **Cosa succede:** ✅ 11/11, 08:30–09:30 ora di Antalya (06:30–07:30 Roma), Standards Pavilion: tavola rotonda UNCTAD–SMIIC con UNIDO, PEFC, RSPO, FSC e UNEP. La nota dell'organizzatore indica che schemi di certificazione frammentati, costi di conformità e sovrapposizione tra standard volontari e due diligence obbligatoria pesano su PMI e produttori; si discutono interoperabilità e mutuo riconoscimento.
 - **What is happening:** ✅ 11 Nov, 08:30–09:30 Antalya time (06:30–07:30 Rome), Standards Pavilion: UNCTAD–SMIIC roundtable with UNIDO, PEFC, RSPO, FSC and UNEP. The organiser's note says fragmented certification schemes, compliance costs and the overlap between voluntary standards and mandatory due diligence burden SMEs and producers; interoperability and mutual recognition are on the table.
 - **Cosa cambia per una PMI che compila il VSME:** è lo stesso problema che il VSME vuole risolvere: un unico set di dati da riusare con clienti e banche invece di questionari diversi. Conviene compilare il VSME e usarlo come risposta di base ai questionari di filiera.
 - **What changes for an SME filling in the VSME:** it is the same problem the VSME aims to solve: one data set reused with customers and banks instead of separate questionnaires. It makes sense to fill in the VSME and use it as the default answer to supply-chain questionnaires.
 
 ### 2. Leaders' Roundtable "Zero Waste, Circularity and Methane" / Leaders' Roundtable "Zero Waste, Circularity and Methane" — Rilevanza: Bassa / Low
-- **Cosa succede:** ✅ 11/11, 14:00–15:30 Roma, Meeting Room-4 (Kapadokya), evento di alto livello di Emine Erdoğan.
-- **What is happening:** ✅ 11 Nov, 14:00–15:30 Rome, Meeting Room-4 (Kapadokya), high-level event of Emine Erdoğan.
+- **Cosa succede:** ✅ 11/11, 14:00–15:30 Roma, Leaders' Roundtable Room 2 (Ayder) _(corretto: la nota concettuale ufficiale indica Ayder, non Kapadokya)_, sotto l'egida di Emine Erdoğan. Obiettivi proposti: dimezzare entro il 2035 l'aumento previsto dei rifiuti urbani e portare l'uso circolare dei materiali almeno al 15% [4]. Esito non ancora pubblicato alle 21:30.
+- **What is happening:** ✅ 11 Nov, 14:00–15:30 Rome, Leaders' Roundtable Room 2 (Ayder) _(corrected: the official concept note says Ayder, not Kapadokya)_, under the auspices of Emine Erdoğan. Proposed goals: halve the projected increase in municipal waste by 2035 and raise circular material use to at least 15% [4]. Outcome not yet published at 21:30.
 - **Cosa cambia per una PMI che compila il VSME:** nulla di immediato. Rifiuti e uso delle risorse sono già nel VSME (B7): tenere traccia di quantità di rifiuti e quota avviata a recupero resta la base.
 - **What changes for an SME filling in the VSME:** nothing immediate. Waste and resource use are already in the VSME (B7): tracking waste quantities and the share sent to recovery remains the basis.
+
+### 3. Standard globale "quasi zero" per il metano dell'oil & gas / Global "near-zero" methane standard for oil and gas — Rilevanza: Media / Medium _(nuovo / new)_
+- **Cosa è successo:** ✅ Guterres ha chiesto all'UNEP di sviluppare uno standard globale per emissioni di metano quasi zero nel settore oil & gas; dal 2023 solo una su otto delle oltre 5.000 allerte satellitari UNEP su grandi perdite ha avuto risposta [1].
+- **What happened:** ✅ Guterres asked UNEP to develop a global standard for near-zero methane emissions in oil and gas; since 2023 only one in eight of UNEP's 5,000+ satellite alerts on large leaks got a response [1].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di vincolante oggi. Le PMI della filiera gas (distribuzione, manutenzione, impiantistica) potrebbero ricevere richieste più precise sulle perdite. Nel VSME (B3) il metano rientra nelle emissioni di Scope 1 in tCO₂e: conviene registrare a parte eventuali perdite di gas e refrigeranti.
+- **What changes for an SME filling in the VSME:** nothing binding today. SMEs in the gas supply chain (distribution, maintenance, installation) may get more precise requests on leaks. In the VSME (B3) methane is part of Scope 1 emissions in tCO₂e: it makes sense to record gas and refrigerant leaks separately.
+
+### 4. Obiettivi 2035 su rifiuti urbani e uso circolare dei materiali (≥15%) / 2035 goals on municipal waste and circular material use (≥15%) — Rilevanza: Media / Medium _(nuovo / new)_
+- **Cosa è successo:** ✅ la Presidenza ha proposto ai leader di sostenere due obiettivi volontari: dimezzare l'aumento previsto dei rifiuti urbani mondiali e portare il tasso di uso circolare dei materiali nella produzione almeno al 15% entro il 2035 [4]. Adesioni non ancora note.
+- **What happened:** ✅ the Presidency asked leaders to back two voluntary goals: halve the projected increase in global municipal waste and raise the circular material use rate in production to at least 15% by 2035 [4]. Endorsements not yet known.
+- **Cosa cambia per una PMI che compila il VSME:** il VSME chiede già dati su rifiuti e uso delle risorse (B7). Misurare la quota di materiali riciclati in ingresso e la quota di rifiuti avviati a recupero rende l'impresa pronta se clienti o banche iniziano a chiedere indicatori di circolarità.
+- **What changes for an SME filling in the VSME:** the VSME already asks for waste and resource-use data (B7). Measuring the share of recycled input materials and the share of waste sent to recovery prepares the company if customers or banks start asking for circularity indicators.
+
+### 5. Finanza climatica pubblica in calo; UE a favore del "35-by-35" / Public climate finance falling; EU backs "35-by-35" — Rilevanza: Bassa / Low _(nuovo / new)_
+- **Cosa è successo:** ⚠️ secondo Carbon Brief, gli impegni pubblici di finanza climatica dei Paesi sviluppati calano di oltre il 70% [10]. 🟡 Von der Leyen sostiene l'obiettivo di elettrificazione 35-by-35 [7][9]; ⚠️ Climate Home scrive però che l'UE non ha firmato [5].
+- **What happened:** ⚠️ according to Carbon Brief, developed countries' public climate finance pledges fall by more than 70% [10]. 🟡 Von der Leyen backs the 35-by-35 electrification goal [7][9]; ⚠️ Climate Home, however, writes that the EU has not signed up [5].
+- **Cosa cambia per una PMI che compila il VSME:** nessun effetto diretto. Con meno fondi pubblici cresce il ruolo di banche e investitori privati, che chiedono dati ESG standard: il VSME è il formato pensato per queste richieste. Il dato B3 su elettricità consumata e quota rinnovabile diventa più rilevante con la spinta all'elettrificazione.
+- **What changes for an SME filling in the VSME:** no direct effect. With less public money, banks and private investors play a bigger role and ask for standard ESG data: the VSME is the format designed for these requests. The B3 figure on electricity consumed and renewable share becomes more relevant with the electrification push.
