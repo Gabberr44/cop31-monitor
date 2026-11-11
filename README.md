@@ -13,13 +13,15 @@ Monitoraggio COP31 – sintesi e post LinkedIn / COP31 monitoring – summaries 
 | Giorno / Day | Data e stato / Date and status | Sintesi / Summary | Panel |
 |---|---|---|---|
 | 1 | 2026-11-09 — ✅ finale (2026-11-10 07:30) / final (2026-11-10 07:30) | [sintesi](giorno-01_2026-11-09/sintesi-giornata.md) | [plenaria di apertura](giorno-01_2026-11-09/panel/plenaria-apertura.md) · [Art. 6.2 Ambition Dialogue](giorno-01_2026-11-09/panel/art-6-2-ambition-dialogue.md) · [Health Day – AIR](giorno-01_2026-11-09/panel/health-day-iniziativa-air.md) |
-| 2 | 2026-11-10 — 🕘 provvisoria (serale, 2026-11-10 21:15) / provisional (evening, 2026-11-10 21:15) | [sintesi](giorno-02_2026-11-10/sintesi-giornata.md) | [elettrificazione 35-by-35](giorno-02_2026-11-10/panel/elettrificazione-35by35.md) · [Global Carbon Budget 2026](giorno-02_2026-11-10/panel/global-carbon-budget-2026.md) · [roadmap fossili / TAFF](giorno-02_2026-11-10/panel/roadmap-fossili-taff.md) |
+| 2 | 2026-11-10 — ✅ finale (2026-11-11 07:45) / final (2026-11-11 07:45) | [sintesi](giorno-02_2026-11-10/sintesi-giornata.md) | [elettrificazione 35-by-35](giorno-02_2026-11-10/panel/elettrificazione-35by35.md) · [Global Carbon Budget 2026](giorno-02_2026-11-10/panel/global-carbon-budget-2026.md) · [roadmap fossili / TAFF](giorno-02_2026-11-10/panel/roadmap-fossili-taff.md) |
 | 3 | 2026-11-11 — in programma (Leaders' Summit, giorno 1) / scheduled (Leaders' Summit, day 1) | — | — |
+| 4 | 2026-11-12 — in programma (Leaders' Summit, giorno 2) / scheduled (Leaders' Summit, day 2) | — | — |
 
 ## Post LinkedIn per data di pubblicazione / LinkedIn posts by publication date
 | Data / Date | Generale / General | VSME | Immagini / Images |
 |---|---|---|---|
 | 2026-11-10 | [generale](linkedin/2026-11-10_generale.md) | [VSME](linkedin/2026-11-10_vsme.md) | [generale.png](linkedin/2026-11-10_generale.png) · [vsme.png](linkedin/2026-11-10_vsme.png) |
+| 2026-11-11 | [generale](linkedin/2026-11-11_generale.md) | [VSME](linkedin/2026-11-11_vsme.md) | [generale.png](linkedin/2026-11-11_generale.png) · [vsme.png](linkedin/2026-11-11_vsme.png) |
 
 _Archivio / Archive:_ bozze del giorno 1 dal formato precedente / Day 1 drafts in the old format: [generale](linkedin/archivio/2026-11-09_linkedin-generale.md) · [VSME](linkedin/archivio/2026-11-09_linkedin-vsme.md)
 

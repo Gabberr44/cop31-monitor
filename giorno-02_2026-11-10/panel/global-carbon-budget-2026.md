@@ -6,7 +6,7 @@
 - **Organizzatore / Organiser:** University of Exeter, con University of East Anglia (UEA), CICERO, LMU Monaco e Global Carbon Project (oltre 140 scienziati, più di 90 istituzioni) [3][4]
 - **Relatori / Speakers (citati nel comunicato / quoted in the release [3]):** Pierre Friedlingstein (University of Exeter, responsabile dello studio), Corinne Le Quéré (UEA), Glen Peters (CICERO), Julia Pongratz (LMU Monaco)
 
-> 🕘 Versione serale provvisoria / Provisional evening version — verrà consolidata domattina alle 07:00.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-11 07:45 (Europe/Rome) / consolidated on 2026-11-11 07:45 (Europe/Rome).
 
 ## IT
 

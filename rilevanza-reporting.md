@@ -83,13 +83,13 @@ _Riferimenti: [29] = fonte [29] della [sintesi del giorno 1](giorno-01_2026-11-0
 
 ---
 
-## 2026-11-10 — Giorno 2 / Day 2 _(🕘 versione serale provvisoria, 2026-11-10 21:15 / provisional evening version)_
+## 2026-11-10 — Giorno 2 / Day 2 _(✅ versione finale, consolidata il 2026-11-11 07:45 / final version, consolidated on 2026-11-11 07:45; prima versione serale 2026-11-10 21:15 / first evening version)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-02_2026-11-10/sintesi-giornata.md](giorno-02_2026-11-10/sintesi-giornata.md#fonti--sources). / [n] references = source numbering in the Day 2 summary._
 
 ### 1. Pacchetto "35-by-35": tracciamento IEA dell'elettrificazione e coalizione finanziaria / "35-by-35" package: IEA electrification tracking and finance coalition — Rilevanza: Media / Medium
-- **Cosa è successo:** ✅ la Presidenza ha presentato l'obiettivo volontario di portare l'elettricità dal 23% al 35% dei consumi finali entro il 2035, con un Global Electrification Tracking Mechanism guidato dall'IEA, un Electrification Board, un forum con l'UE e la Electrify Now Finance Coalition (Banca Mondiale e BAfD co-presidenti dal 2027) [1]. 🟡 Il testo non richiede che l'elettricità sia pulita [7][8].
-- **What happened:** ✅ the Presidency presented the voluntary goal of raising electricity from 23% to 35% of final consumption by 2035, with an IEA-led Global Electrification Tracking Mechanism, an Electrification Board, a forum with the EU and the Electrify Now Finance Coalition (World Bank and AfDB co-chairs from 2027) [1]. 🟡 The text does not require the electricity to be clean [7][8].
+- **Cosa è successo:** ✅ la Presidenza ha presentato l'obiettivo volontario di portare l'elettricità dal 23% al 35% dei consumi finali entro il 2035, con un Global Electrification Tracking Mechanism guidato dall'IEA, un Electrification Board, un forum con l'UE e la Electrify Now Finance Coalition (Banca Mondiale e BAfD co-presidenti dal 2027) [1]. 🟡 Il testo non richiede che l'elettricità sia pulita [7][8][15]. _(aggiornato / updated)_
+- **What happened:** ✅ the Presidency presented the voluntary goal of raising electricity from 23% to 35% of final consumption by 2035, with an IEA-led Global Electrification Tracking Mechanism, an Electrification Board, a forum with the EU and the Electrify Now Finance Coalition (World Bank and AfDB co-chairs from 2027) [1]. 🟡 The text does not require the electricity to be clean [7][8][15].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Ma il rapporto tra energia elettrica e consumi totali diventa un indicatore seguito a livello globale, e le banche che aderiscono a coalizioni come questa tendono a chiederlo ai clienti. Nel VSME (B3) conviene già separare consumi elettrici e da combustibili, e indicare la quota rinnovabile dell'elettricità.
 - **What changes for an SME filling in the VSME:** no obligation. But the ratio of electricity to total energy use is becoming a globally tracked indicator, and banks in coalitions like this tend to ask clients for it. In the VSME (B3) it is worth already splitting electricity from fuel consumption and stating the renewable share of electricity.
 
@@ -104,3 +104,27 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-02_2026-11-10/sintesi-gior
 - **What happened:** ✅ fossil CO₂ emissions −0.4% (38.2 bn t), the first fall since 2020; total emissions up to 43.3 bn t; remaining 1.5 °C budget of 150 bn t; technological CO₂ removal offsets less than 30 minutes of annual emissions [3].
 - **Cosa cambia per una PMI che compila il VSME:** nulla di diretto. È un argomento utile per spiegare internamente perché clienti e banche chiedono riduzioni reali e non compensazioni: il VSME chiede le emissioni lorde, e i crediti non le riducono.
 - **What changes for an SME filling in the VSME:** nothing directly. It is a useful argument for explaining internally why customers and banks ask for real reductions rather than offsets: the VSME asks for gross emissions, and credits do not reduce them.
+
+### 4. Roadmap brasiliana per l'uscita dai fossili: piani nazionali entro il 2028, tagli dal 2031 / Brazilian fossil fuel transition roadmap: national plans by 2028, cuts from 2031 — Rilevanza: Bassa / Low _(nuovo nella versione finale / new in the final version)_
+- **Cosa è successo:** 🟡 la Presidenza COP30 ha presentato in plenaria la roadmap: i Paesi pianificano i propri sistemi energetici entro il 2028, i tagli all'offerta di fossili partono dal 2031; non è un testo negoziato e non c'è un punto d'agenda [14][15]. Guterres chiede piani nazionali con tempi e finanziamenti [14][15].
+- **What happened:** 🟡 the COP30 Presidency presented the roadmap in plenary: countries plan their energy systems by 2028, fossil fuel supply cuts start from 2031; it is not a negotiated text and there is no agenda item [14][15]. Guterres asks for national plans with timelines and financing [14][15].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di vincolante. Se i governi fissano date nazionali, banche e clienti valuteranno il rischio di transizione di chi dipende da gas e gasolio: separare nel VSME (B3) i consumi per combustibile aiuta a mostrarlo e a pianificare.
+- **What changes for an SME filling in the VSME:** nothing binding. If governments set national dates, banks and customers will assess the transition risk of companies dependent on gas and diesel: splitting fuel consumption by type in the VSME (B3) helps show it and plan.
+
+---
+
+## 2026-11-11 — Giorno 3 / Day 3 _(programma; la sintesi arriva con il run delle 21:00 / programme only; summary comes with the 21:00 run)_
+
+_Riferimenti / References: UNFCCC, "COP 31 Antalya Leaders' Summit Schedule – Day 1" (Tier A), https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf, letto integralmente il 2026-11-11 / read in full on 2026-11-11; UNCTAD, pagina dell'evento / event page (Tier A), https://unctad.org/fr/node/53312, consultata il 2026-11-11._
+
+### 1. Standard di sostenibilità frammentati e costi per le PMI nelle filiere (UNCTAD–SMIIC) / Fragmented sustainability standards and costs for SMEs in supply chains (UNCTAD–SMIIC) — Rilevanza: Media / Medium
+- **Cosa succede:** ✅ 11/11, 08:30–09:30 ora di Antalya (06:30–07:30 Roma), Standards Pavilion: tavola rotonda UNCTAD–SMIIC con UNIDO, PEFC, RSPO, FSC e UNEP. La nota dell'organizzatore indica che schemi di certificazione frammentati, costi di conformità e sovrapposizione tra standard volontari e due diligence obbligatoria pesano su PMI e produttori; si discutono interoperabilità e mutuo riconoscimento.
+- **What is happening:** ✅ 11 Nov, 08:30–09:30 Antalya time (06:30–07:30 Rome), Standards Pavilion: UNCTAD–SMIIC roundtable with UNIDO, PEFC, RSPO, FSC and UNEP. The organiser's note says fragmented certification schemes, compliance costs and the overlap between voluntary standards and mandatory due diligence burden SMEs and producers; interoperability and mutual recognition are on the table.
+- **Cosa cambia per una PMI che compila il VSME:** è lo stesso problema che il VSME vuole risolvere: un unico set di dati da riusare con clienti e banche invece di questionari diversi. Conviene compilare il VSME e usarlo come risposta di base ai questionari di filiera.
+- **What changes for an SME filling in the VSME:** it is the same problem the VSME aims to solve: one data set reused with customers and banks instead of separate questionnaires. It makes sense to fill in the VSME and use it as the default answer to supply-chain questionnaires.
+
+### 2. Leaders' Roundtable "Zero Waste, Circularity and Methane" / Leaders' Roundtable "Zero Waste, Circularity and Methane" — Rilevanza: Bassa / Low
+- **Cosa succede:** ✅ 11/11, 14:00–15:30 Roma, Meeting Room-4 (Kapadokya), evento di alto livello di Emine Erdoğan.
+- **What is happening:** ✅ 11 Nov, 14:00–15:30 Rome, Meeting Room-4 (Kapadokya), high-level event of Emine Erdoğan.
+- **Cosa cambia per una PMI che compila il VSME:** nulla di immediato. Rifiuti e uso delle risorse sono già nel VSME (B7): tenere traccia di quantità di rifiuti e quota avviata a recupero resta la base.
+- **What changes for an SME filling in the VSME:** nothing immediate. Waste and resource use are already in the VSME (B7): tracking waste quantities and the share sent to recovery remains the basis.

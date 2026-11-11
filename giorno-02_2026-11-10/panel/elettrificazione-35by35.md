@@ -6,7 +6,7 @@
 - **Organizzatore / Organiser:** Presidenza COP31 (Türkiye) con Presidenza dei negoziati (Australia); Electrification Forum co-organizzato con l'Unione europea [1] / COP31 Presidency (Türkiye) with the Presidency of Negotiations (Australia); Electrification Forum co-hosted with the European Union [1]
 - **Relatori / Speakers (citati dalla Presidenza / quoted by the Presidency [1]):** Murat Kurum (Presidente COP31, Türkiye); Chris Bowen (Presidente dei negoziati, ministro australiano per clima ed energia); Fatih Birol (Direttore esecutivo, IEA); Francesco La Camera (Direttore generale, IRENA); Martin Pibworth (CEO SSE plc, co-presidente UNEZA); Bruce Douglas (CEO, Global Renewables Alliance); Damilola Ogunbiyi (CEO, SEforALL); Mathias Cormann (Segretario generale, OCSE); Maria Mendiluce (CEO, We Mean Business Coalition)
 
-> 🕘 Versione serale provvisoria / Provisional evening version — verrà consolidata domattina alle 07:00.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-11 07:45 (Europe/Rome) / consolidated on 2026-11-11 07:45 (Europe/Rome).
 
 ## IT
 
