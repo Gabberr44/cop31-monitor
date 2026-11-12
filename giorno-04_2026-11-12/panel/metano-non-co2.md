@@ -1,6 +1,6 @@
 # Metano e gas serra diversi dalla CO₂
-**Quando:** 12/11, 09:00–10:30 Antalya (07:00–08:30 ora italiana) per il vertice dei leader sui gas non-CO₂ · **Dove:** Meeting Room-3 (Topkapı) · **Organizza:** Regno Unito ✅ [1]
-**Relatori:** **Monique Barbut** (ministra dell'Ambiente, Francia); **Mia Mottley** (prima ministra, Barbados); **Chris Bowen** (ministro per il clima, Australia, e Presidente dei negoziati COP31) — interventi riportati da Climate Home, sede non precisata [2]
+**Quando:** 12/11, 09:00–10:30 Antalya (07:00–08:30 ora italiana) per il vertice dei leader sui gas non-CO₂ · **Dove:** Meeting Room-3 (Topkapı) · **Organizza:** Regno Unito ✅ [1]<br>
+**Relatori:** **Monique Barbut** (ministra dell'Ambiente, Francia); **Mia Mottley** (prima ministra, Barbados); **Chris Bowen** (ministro per il clima, Australia, e Presidente dei negoziati COP31) — interventi riportati da Climate Home, sede non precisata [2]<br>
 🎥 Video non ancora disponibile
 
 ## In breve
@@ -18,11 +18,11 @@ Diversi governi hanno chiesto regole più forti sul metano, un gas che scalda mo
 
 ## Fonti
 
-1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · data n.d. · consultato 12/11/2026 · documento completo
+1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · data n.d. · consultato 12/11/2026 · documento completo</sub>
 
-2. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)
-   Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)
+2. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)</sub>
 
-3. **Commonspace.eu** — [Aggiornamento COP31 n. 4: i leader mondiali intervengono al vertice di Antalya](https://www.commonspace.eu/index.php/news/cop-31-update-4-world-leaders-address-climate-summit-antalya)
-   Tier C · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa
+3. **Commonspace.eu** — [Aggiornamento COP31 n. 4: i leader mondiali intervengono al vertice di Antalya](https://www.commonspace.eu/index.php/news/cop-31-update-4-world-leaders-address-climate-summit-antalya)<br>
+   <sub>Tier C · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>

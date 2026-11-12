@@ -32,16 +32,16 @@
 
 ## Sources
 
-1. **UN News** — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page
+1. **UN News** — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-2. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule – Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · date n/a · accessed 11/11/2026 · full document
+2. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule – Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · date n/a · accessed 11/11/2026 · full document</sub>
 
-3. **Climate Home News** — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+3. **Climate Home News** — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-4. **Carbon Brief** (J. Gabbatiss) — [Analysis: Climate-finance pledges fall 70% as countries meet at COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page (note: the article alternates 70%/71% and £/$ currencies)
+4. **Carbon Brief** (J. Gabbatiss) — [Analysis: Climate-finance pledges fall 70% as countries meet at COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page (note: the article alternates 70%/71% and £/$ currencies)</sub>
 
 _In the [daily summary](../sintesi-giornata.en.md) these sources are [1], [18], [5] and [10]._

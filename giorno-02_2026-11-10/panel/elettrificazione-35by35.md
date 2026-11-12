@@ -1,6 +1,6 @@
 # Energy and Transport Day: il pacchetto "35-by-35" sull'elettrificazione
-**Quando:** 10/11, giornata intera, con conferenza stampa della Presidenza; Global Electrification Ministerial 17:30–19:30 Antalya (15:30–17:30 ora italiana) secondo la Commissione europea [2] · **Dove:** Antalya EXPO Center, Blue Zone · **Organizza:** Presidenza COP31 (Türkiye) con la Presidenza dei negoziati (Australia); Electrification Forum co-organizzato con l'Unione Europea [1]
-**Relatori** (citati dalla Presidenza [1]): **Murat Kurum** (Presidente, COP31 – Türkiye); **Chris Bowen** (Presidente dei negoziati COP31, ministro australiano per clima ed energia); **Fatih Birol** (direttore esecutivo, IEA – Agenzia internazionale dell'energia); **Francesco La Camera** (direttore generale, IRENA – Agenzia internazionale per le energie rinnovabili); **Martin Pibworth** (CEO, SSE plc; co-presidente di UNEZA – Utilities for Net Zero Alliance, l'alleanza delle aziende elettriche per lo zero netto); **Bruce Douglas** (CEO, Global Renewables Alliance); **Damilola Ogunbiyi** (CEO, SEforALL – Sustainable Energy for All); **Mathias Cormann** (segretario generale, OCSE – Organizzazione per la cooperazione e lo sviluppo economico); **Maria Mendiluce** (CEO, We Mean Business Coalition)
+**Quando:** 10/11, giornata intera, con conferenza stampa della Presidenza; Global Electrification Ministerial 17:30–19:30 Antalya (15:30–17:30 ora italiana) secondo la Commissione europea [2] · **Dove:** Antalya EXPO Center, Blue Zone · **Organizza:** Presidenza COP31 (Türkiye) con la Presidenza dei negoziati (Australia); Electrification Forum co-organizzato con l'Unione Europea [1]<br>
+**Relatori** (citati dalla Presidenza [1]): **Murat Kurum** (Presidente, COP31 – Türkiye); **Chris Bowen** (Presidente dei negoziati COP31, ministro australiano per clima ed energia); **Fatih Birol** (direttore esecutivo, IEA – Agenzia internazionale dell'energia); **Francesco La Camera** (direttore generale, IRENA – Agenzia internazionale per le energie rinnovabili); **Martin Pibworth** (CEO, SSE plc; co-presidente di UNEZA – Utilities for Net Zero Alliance, l'alleanza delle aziende elettriche per lo zero netto); **Bruce Douglas** (CEO, Global Renewables Alliance); **Damilola Ogunbiyi** (CEO, SEforALL – Sustainable Energy for All); **Mathias Cormann** (segretario generale, OCSE – Organizzazione per la cooperazione e lo sviluppo economico); **Maria Mendiluce** (CEO, We Mean Business Coalition)<br>
 🎥 Video non ancora disponibile
 
 ✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
@@ -42,14 +42,14 @@
 
 ## Fonti
 
-1. **Presidenza COP31** — [La COP31 accende l'"era dell'elettricità"](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)
-   Tier A · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+1. **Presidenza COP31** — [La COP31 accende l'"era dell'elettricità"](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)<br>
+   <sub>Tier A · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa</sub>
 
-2. **Commissione europea, DG ENER (Direzione generale Energia)** — [Eventi sull'energia alla COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
-   Tier A · data n.d. · consultato 10/11/2026 · letta il mattino del 10/11
+2. **Commissione europea, DG ENER (Direzione generale Energia)** — [Eventi sull'energia alla COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)<br>
+   <sub>Tier A · data n.d. · consultato 10/11/2026 · letta il mattino del 10/11</sub>
 
-3. **Climate Home News** (M. Rowling, J. Lo e altri) — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
-   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+3. **Climate Home News** (M. Rowling, J. Lo e altri) — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)<br>
+   <sub>Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa</sub>
 
-4. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
-   Tier B · pubblicato 11/11/2026 alle 04:33 ora dell'Australia orientale (10/11/2026 alle 18:33 ora italiana) · consultato 10/11/2026 · pagina completa
+4. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)<br>
+   <sub>Tier B · pubblicato 11/11/2026 alle 04:33 ora dell'Australia orientale (10/11/2026 alle 18:33 ora italiana) · consultato 10/11/2026 · pagina completa</sub>

@@ -1,6 +1,6 @@
 # Business Forum COP31: plenaria di apertura
-**Quando:** 12/11, 10:00–12:30 Antalya (08:00–10:30 ora italiana) · **Dove:** Plenary Hall-2 (Akdeniz) · **Organizza:** TOBB (Unione delle Camere di commercio e delle borse merci della Türkiye), inviato COP31 per il settore privato, Presidenza COP31 ✅ [1]
-**Relatori:** **Rifat Hisarcıklıoğlu** (presidente di TOBB e inviato COP31 per il settore privato) [2]; altri relatori da confermare
+**Quando:** 12/11, 10:00–12:30 Antalya (08:00–10:30 ora italiana) · **Dove:** Plenary Hall-2 (Akdeniz) · **Organizza:** TOBB (Unione delle Camere di commercio e delle borse merci della Türkiye), inviato COP31 per il settore privato, Presidenza COP31 ✅ [1]<br>
+**Relatori:** **Rifat Hisarcıklıoğlu** (presidente di TOBB e inviato COP31 per il settore privato) [2]; altri relatori da confermare<br>
 🎥 Video non ancora disponibile
 
 ## In breve
@@ -22,11 +22,11 @@ La plenaria apre il vertice delle imprese e degli investimenti della COP31, che 
 
 ## Fonti
 
-1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · data n.d. · consultato 12/11/2026 · documento completo
+1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · data n.d. · consultato 12/11/2026 · documento completo</sub>
 
-2. **Anadolu (via Haberler.com)** — [Il presidente di TOBB Hisarcıklıoğlu interviene al vertice delle imprese e degli investimenti](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)
-   Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa
+2. **Anadolu (via Haberler.com)** — [Il presidente di TOBB Hisarcıklıoğlu interviene al vertice delle imprese e degli investimenti](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)<br>
+   <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
-3. **TRT World** — [La COP31 si concentra sulle città resilienti mentre si chiude il vertice dei leader](https://www.trtworld.com/article/a50413be6c4d)
-   Tier C · data n.d. · consultato 12/11/2026 · pagina completa
+3. **TRT World** — [La COP31 si concentra sulle città resilienti mentre si chiude il vertice dei leader](https://www.trtworld.com/article/a50413be6c4d)<br>
+   <sub>Tier C · data n.d. · consultato 12/11/2026 · pagina completa</sub>

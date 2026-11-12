@@ -1,6 +1,6 @@
 # Leaders' Summit, day 2: national statements
-**When:** 12/11, 09:00–17:00 Antalya (07:00–15:00 Italian time); closing 17:00–17:30 Antalya (15:00–15:30 Italian time) · **Where:** Plenary Hall-1 (Anadolu) · **Organiser:** COP31 Presidency and UNFCCC ✅ [1]
-**Speakers (selection):** **Andy Burnham** (Prime Minister, United Kingdom); **Matthew Wale** (Prime Minister, Solomon Islands); **Greta Thunberg** (activist)
+**When:** 12/11, 09:00–17:00 Antalya (07:00–15:00 Italian time); closing 17:00–17:30 Antalya (15:00–15:30 Italian time) · **Where:** Plenary Hall-1 (Anadolu) · **Organiser:** COP31 Presidency and UNFCCC ✅ [1]<br>
+**Speakers (selection):** **Andy Burnham** (Prime Minister, United Kingdom); **Matthew Wale** (Prime Minister, Solomon Islands); **Greta Thunberg** (activist)<br>
 🎥 Video not yet available
 
 ## In brief
@@ -27,14 +27,14 @@ On the second day of the summit, leaders delivered their national statements. Th
 
 ## Sources
 
-1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · date n/a · accessed 12/11/2026 · full document
+1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · date n/a · accessed 12/11/2026 · full document</sub>
 
-2. **UK Government, Prime Minister's Office** — [PM speech at COP31 climate summit: 12 November 2026](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)
-   Tier A · published 12/11/2026 · accessed 12/11/2026 · full page
+2. **UK Government, Prime Minister's Office** — [PM speech at COP31 climate summit: 12 November 2026](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)<br>
+   <sub>Tier A · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-3. **Green Climate Fund** — [Solomon Islands makes historic first pledge to Green Climate Fund's next replenishment](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)
-   Tier A · published 12/11/2026 · accessed 12/11/2026 · full page
+3. **Green Climate Fund** — [Solomon Islands makes historic first pledge to Green Climate Fund's next replenishment](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)<br>
+   <sub>Tier A · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-4. **Climate Home News** — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)
+4. **Climate Home News** — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)</sub>

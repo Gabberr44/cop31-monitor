@@ -43,26 +43,26 @@ Nota sulle fonti: il ritardo di circa 90 minuti viene da un solo lancio d'agenzi
 
 ## Fonti
 
-1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF, versione del 7 ottobre 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
-   Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo
+1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF, versione del 7 ottobre 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+   <sub>Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo</sub>
 
-2. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
-   Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+2. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)<br>
+   <sub>Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa</sub>
 
-3. **AFP (via Taipei Times)** — [La COP31 si apre con i leader sotto pressione](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)
-   Tier B · pubblicato 10/11/2026 (edizione cartacea; lancio AFP del 09/11/2026) · consultato 09/11/2026 · pagina completa · stesso lancio anche su [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) e [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683) (contano come una sola fonte)
+3. **AFP (via Taipei Times)** — [La COP31 si apre con i leader sotto pressione](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)<br>
+   <sub>Tier B · pubblicato 10/11/2026 (edizione cartacea; lancio AFP del 09/11/2026) · consultato 09/11/2026 · pagina completa · stesso lancio anche su [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) e [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683) (contano come una sola fonte)</sub>
 
-4. **Climate Home News** — [Bollettino COP31, giorno 1: agenda definita, la COP esortata a «potenziare le soluzioni»](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · di S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara
-   Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+4. **Climate Home News** — [Bollettino COP31, giorno 1: agenda definita, la COP esortata a «potenziare le soluzioni»](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · di S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara<br>
+   <sub>Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa</sub>
 
-5. **Reuters (via Yahoo News)** — [I leader del vertice COP31 esortano il mondo a «muoversi più in fretta» sul clima](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · di V. Volcovici, S. Jessop
-   Tier B · aggiornato 09/11/2026 08:36 UTC · consultato 09/11/2026 · pagina completa
+5. **Reuters (via Yahoo News)** — [I leader del vertice COP31 esortano il mondo a «muoversi più in fretta» sul clima](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · di V. Volcovici, S. Jessop<br>
+   <sub>Tier B · aggiornato 09/11/2026 08:36 UTC · consultato 09/11/2026 · pagina completa</sub>
 
-6. **Ministero dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye** — [Il Presidente designato della COP31, il ministro Kurum, presenta l'Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)
-   Tier A · pubblicato 09/06/2026 · consultato 09/11/2026 · pagina completa
+6. **Ministero dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye** — [Il Presidente designato della COP31, il ministro Kurum, presenta l'Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)<br>
+   <sub>Tier A · pubblicato 09/06/2026 · consultato 09/11/2026 · pagina completa</sub>
 
-7. **AP (via PBS NewsHour)** — [Il vertice sul clima COP31 si apre dopo un anno disastroso di eventi estremi](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · di S. Fraser, S. Arasu
-   Tier B · pubblicato 09/11/2026 · consultato 10/11/2026 · pagina completa
+7. **AP (via PBS NewsHour)** — [Il vertice sul clima COP31 si apre dopo un anno disastroso di eventi estremi](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · di S. Fraser, S. Arasu<br>
+   <sub>Tier B · pubblicato 09/11/2026 · consultato 10/11/2026 · pagina completa</sub>
 
-8. **Down To Earth** — [La COP31 adotta il programma di lavoro sulla finanza climatica; cadono le proposte su finanza per l'adattamento e misure commerciali](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · di P. Das
-   Tier C · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+8. **Down To Earth** — [La COP31 adotta il programma di lavoro sulla finanza climatica; cadono le proposte su finanza per l'adattamento e misure commerciali](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · di P. Das<br>
+   <sub>Tier C · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa</sub>

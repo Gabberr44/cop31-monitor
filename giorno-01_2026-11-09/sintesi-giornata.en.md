@@ -83,92 +83,92 @@ Legend: ✅ official source (Tier A) · 🟡 at least 2 independent Tier B sourc
 
 ## Sources
 
-1. **UNFCCC** — [UN Climate Change Conference - Antalya: Overview Schedule (PDF, version of 7 October 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
-   Tier A · published 07/10/2026 · accessed 09/11/2026 · full document
+1. **UNFCCC** — [UN Climate Change Conference - Antalya: Overview Schedule (PDF, version of 7 October 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+   <sub>Tier A · published 07/10/2026 · accessed 09/11/2026 · full document</sub>
 
-2. **UNFCCC** — [Information for COP 31 participants (A-Z)](https://unfccc.int/cop31/ifp)
-   Tier A · date n/a · accessed 09/11/2026 · search results only
+2. **UNFCCC** — [Information for COP 31 participants (A-Z)](https://unfccc.int/cop31/ifp)<br>
+   <sub>Tier A · date n/a · accessed 09/11/2026 · search results only</sub>
 
-3. **COP31 Presidency** — [COP31 President opens UN climate summit with call to turn climate promises into action](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
-   Tier A · published 09/11/2026 · accessed 09/11/2026 · full page
+3. **COP31 Presidency** — [COP31 President opens UN climate summit with call to turn climate promises into action](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)<br>
+   <sub>Tier A · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-4. **Ministry of Environment, Urbanisation and Climate Change, Türkiye** — [COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)
-   Tier A · published 09/06/2026 · accessed 09/11/2026 · full page
+4. **Ministry of Environment, Urbanisation and Climate Change, Türkiye** — [COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)<br>
+   <sub>Tier A · published 09/06/2026 · accessed 09/11/2026 · full page</sub>
 
-5. **ITU, Green Digital Action** — [Antalya Artificial Intelligence Pledge](https://www.itu.int/initiatives/green-digital-action/?p=1485)
-   Tier A · date n/a · accessed 09/11/2026 · full page
+5. **ITU, Green Digital Action** — [Antalya Artificial Intelligence Pledge](https://www.itu.int/initiatives/green-digital-action/?p=1485)<br>
+   <sub>Tier A · date n/a · accessed 09/11/2026 · full page</sub>
 
-6. **ISPRA** — [COP31 in Antalya](https://www.isprambiente.gov.it/it/news/cop31-di-antalya)
-   Tier A · date n/a · accessed 09/11/2026 · full page
+6. **ISPRA** — [COP31 in Antalya](https://www.isprambiente.gov.it/it/news/cop31-di-antalya)<br>
+   <sub>Tier A · date n/a · accessed 09/11/2026 · full page</sub>
 
-7. **UNFCCC** — [Concept note: Article 6.2 Ambition Dialogue in conjunction with SBI 65 (PDF)](https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf)
-   Tier A · date n/a · accessed 09/11/2026 · full document
+7. **UNFCCC** — [Concept note: Article 6.2 Ambition Dialogue in conjunction with SBI 65 (PDF)](https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf)<br>
+   <sub>Tier A · date n/a · accessed 09/11/2026 · full document</sub>
 
-8. **GRI (organiser and speaker of its own events)** — [Turning climate ambition into evidence at COP31](https://www.globalreporting.org/news/news-center/turning-climate-ambition-into-evidence-at-cop31/)
-   Tier A · published 05/11/2026 · accessed 09/11/2026 · full page
+8. **GRI (organiser and speaker of its own events)** — [Turning climate ambition into evidence at COP31](https://www.globalreporting.org/news/news-center/turning-climate-ambition-into-evidence-at-cop31/)<br>
+   <sub>Tier A · published 05/11/2026 · accessed 09/11/2026 · full page</sub>
 
-9. **Reuters (via Yahoo News)** — [COP31 summit leaders urge world to 'move faster' on climate](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · by V. Volcovici, S. Jessop
-   Tier B · updated 09/11/2026 08:36 UTC · accessed 09/11/2026 · full page
+9. **Reuters (via Yahoo News)** — [COP31 summit leaders urge world to 'move faster' on climate](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · by V. Volcovici, S. Jessop<br>
+   <sub>Tier B · updated 09/11/2026 08:36 UTC · accessed 09/11/2026 · full page</sub>
 
-10. **AFP (via Taipei Times)** — [COP31 opens with leaders under pressure](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)
-   Tier B · wire of 09/11/2026 (edition of 10/11/2026) · accessed 09/11/2026 · full page · same wire also on [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) and [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683)
+10. **AFP (via Taipei Times)** — [COP31 opens with leaders under pressure](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)<br>
+   <sub>Tier B · wire of 09/11/2026 (edition of 10/11/2026) · accessed 09/11/2026 · full page · same wire also on [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) and [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683)</sub>
 
-11. **Climate Home News** — [COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · by S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara
-   Tier B · published 09/11/2026 · accessed 09/11/2026 · full page
+11. **Climate Home News** — [COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · by S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara<br>
+   <sub>Tier B · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-12. **Climate Home News** — [COP31 Briefing: What to expect from the Antalya climate summit?](https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/) · by M. Rowling et al.
-   Tier B · published 05/11/2026 · accessed 09/11/2026 · full page
+12. **Climate Home News** — [COP31 Briefing: What to expect from the Antalya climate summit?](https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/) · by M. Rowling et al.<br>
+   <sub>Tier B · published 05/11/2026 · accessed 09/11/2026 · full page</sub>
 
-13. **Climate Home News** — [Africa wants adaptation finance on COP31 agenda, raising risk of a fight](https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/)
-   Tier B · published 28/10/2026 · accessed 09/11/2026 · search results only
+13. **Climate Home News** — [Africa wants adaptation finance on COP31 agenda, raising risk of a fight](https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/)<br>
+   <sub>Tier B · published 28/10/2026 · accessed 09/11/2026 · search results only</sub>
 
-14. **Carbon Brief** — [Interactive: Tracking negotiating texts at the COP31 climate summit](https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit)
-   Tier B · published 05/11/2026 · accessed 09/11/2026 · full page
+14. **Carbon Brief** — [Interactive: Tracking negotiating texts at the COP31 climate summit](https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit)<br>
+   <sub>Tier B · published 05/11/2026 · accessed 09/11/2026 · full page</sub>
 
-15. **Carbon Brief** — [Q&A: What is the Belém-Antalya mechanism for a 'just transition'?](https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition)
-   Tier B · published 09/11/2026 · accessed 09/11/2026 · headline only from index page
+15. **Carbon Brief** — [Q&A: What is the Belém-Antalya mechanism for a 'just transition'?](https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition)<br>
+   <sub>Tier B · published 09/11/2026 · accessed 09/11/2026 · headline only from index page</sub>
 
-16. **Al Jazeera (AFP/Reuters)** — [Turkiye pushes electrification top of climate agenda as COP31 set to open](https://aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open)
-   Tier B · published 09/11/2026 · accessed 09/11/2026 · wire copy
+16. **Al Jazeera (AFP/Reuters)** — [Turkiye pushes electrification top of climate agenda as COP31 set to open](https://aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open)<br>
+   <sub>Tier B · published 09/11/2026 · accessed 09/11/2026 · wire copy</sub>
 
-17. **AFP (via Connaissance des Énergies)** — [COP31 calls for voluntary commitments on the climate challenges of AI](https://www.connaissancedesenergies.org/afp/la-cop31-appelle-a-des-engagements-volontaires-sur-les-enjeux-climatiques-de-lia-261028)
-   Tier B · updated 28/10/2026 · accessed 09/11/2026 · full page
+17. **AFP (via Connaissance des Énergies)** — [COP31 calls for voluntary commitments on the climate challenges of AI](https://www.connaissancedesenergies.org/afp/la-cop31-appelle-a-des-engagements-volontaires-sur-les-enjeux-climatiques-de-lia-261028)<br>
+   <sub>Tier B · updated 28/10/2026 · accessed 09/11/2026 · full page</sub>
 
-18. **Eunews** — [EU at COP31: climate targets and fossil fuels](https://www.eunews.it/2026/11/06/ue-cop31-obiettivi-climatici-fossili/)
-   Tier B · published 06/11/2026 · accessed 09/11/2026 · search results only
+18. **Eunews** — [EU at COP31: climate targets and fossil fuels](https://www.eunews.it/2026/11/06/ue-cop31-obiettivi-climatici-fossili/)<br>
+   <sub>Tier B · published 06/11/2026 · accessed 09/11/2026 · search results only</sub>
 
-19. **Health Policy Watch** — ['Declarations Do Not Protect People': COP31 Opens Under Pressure To Deliver Results Over Words](https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/) · by S. Anderson
-   Tier C · published 09/11/2026 · accessed 09/11/2026 · full page
+19. **Health Policy Watch** — ['Declarations Do Not Protect People': COP31 Opens Under Pressure To Deliver Results Over Words](https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/) · by S. Anderson<br>
+   <sub>Tier C · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-20. **SustainabilityOnline** — [COP31 needs to 'supercharge solutions', says Stiell](https://sustainabilityonline.net/news/cop31-needs-to-supercharge-solutions-says-un-climate-change-head/)
-   Tier C · published 09/11/2026 · accessed 09/11/2026 · full page
+20. **SustainabilityOnline** — [COP31 needs to 'supercharge solutions', says Stiell](https://sustainabilityonline.net/news/cop31-needs-to-supercharge-solutions-says-un-climate-change-head/)<br>
+   <sub>Tier C · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-21. **ekoIQ** — [COP31 has started in Antalya: what is on the busy agenda?](https://www.ekoiq.com/cop31-antalyada-basladi-yogun-gundemde-neler-var/)
-   Tier C · published 09/11/2026 · accessed 09/11/2026 · full page
+21. **ekoIQ** — [COP31 has started in Antalya: what is on the busy agenda?](https://www.ekoiq.com/cop31-antalyada-basladi-yogun-gundemde-neler-var/)<br>
+   <sub>Tier C · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-22. **Transparency International (own position)** — [COP31 begins with trust at stake as integrity safeguards remain missing](https://www.transparency.org/en/press/cop31-begins-with-trust-at-stake-integrity-safeguards-remain-missing)
-   Tier C · published 05/11/2026 · accessed 09/11/2026 · search results only
+22. **Transparency International (own position)** — [COP31 begins with trust at stake as integrity safeguards remain missing](https://www.transparency.org/en/press/cop31-begins-with-trust-at-stake-integrity-safeguards-remain-missing)<br>
+   <sub>Tier C · published 05/11/2026 · accessed 09/11/2026 · search results only</sub>
 
-23. **WRI and NRDC (own positions)** — [WRI: Antalya AI Pledge Must Turn Climate Ambition into Accountability](https://www.wri.org/news/wri-statement-antalya-ai-pledge-must-turn-climate-ambition-accountability); [NRDC: Antalya AI Pledge is an Important Start, But Needs Teeth](https://www.nrdc.org/reaction/antalya-ai-pledge-important-start-needs-teeth-and-must-go-further)
-   Tier C · published October 2026 · accessed 09/11/2026 · search results only
+23. **WRI and NRDC (own positions)** — [WRI: Antalya AI Pledge Must Turn Climate Ambition into Accountability](https://www.wri.org/news/wri-statement-antalya-ai-pledge-must-turn-climate-ambition-accountability); [NRDC: Antalya AI Pledge is an Important Start, But Needs Teeth](https://www.nrdc.org/reaction/antalya-ai-pledge-important-start-needs-teeth-and-must-go-further)<br>
+   <sub>Tier C · published October 2026 · accessed 09/11/2026 · search results only</sub>
 
-24. **co2news.sk** — [Challenges, priorities and negotiations of COP31 in Antalya](https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/)
-   Tier C · published 26/10/2026 · accessed 09/11/2026 · search results only
+24. **co2news.sk** — [Challenges, priorities and negotiations of COP31 in Antalya](https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/)<br>
+   <sub>Tier C · published 26/10/2026 · accessed 09/11/2026 · search results only</sub>
 
-25. **AP (via PBS NewsHour)** — [COP31 climate summit begins after disastrous year of extreme weather](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · by S. Fraser, S. Arasu
-   Tier B · published 09/11/2026 · accessed 10/11/2026 · full page
+25. **AP (via PBS NewsHour)** — [COP31 climate summit begins after disastrous year of extreme weather](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · by S. Fraser, S. Arasu<br>
+   <sub>Tier B · published 09/11/2026 · accessed 10/11/2026 · full page</sub>
 
-26. **Down To Earth** — [COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · by P. Das
-   Tier C · published 10/11/2026 · accessed 10/11/2026 · full page
+26. **Down To Earth** — [COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · by P. Das<br>
+   <sub>Tier C · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-27. **Climate Home News** — [Developing countries face climate finance deficit as loan repayments soar](https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/) · by M. Civillini
-   Tier B · published 10/11/2026 · accessed 10/11/2026 · full page
+27. **Climate Home News** — [Developing countries face climate finance deficit as loan repayments soar](https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/) · by M. Civillini<br>
+   <sub>Tier B · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-28. **FAO** — [The Turquoise Nexus Initiative](https://www.fao.org/climate-change/fao-at-cop31/the-turquoise-nexus-initiative/en)
-   Tier A · date n/a · accessed 10/11/2026 · full page (9 Nov launch date from search results only)
+28. **FAO** — [The Turquoise Nexus Initiative](https://www.fao.org/climate-change/fao-at-cop31/the-turquoise-nexus-initiative/en)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · full page (9 Nov launch date from search results only)</sub>
 
-29. **UNFCCC** — [COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)
-   Tier A · date n/a · accessed 10/11/2026 · full document
+29. **UNFCCC** — [COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · full document</sub>
 
-30. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
-   Tier A · date n/a · accessed 10/11/2026 · full page
+30. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · full page</sub>

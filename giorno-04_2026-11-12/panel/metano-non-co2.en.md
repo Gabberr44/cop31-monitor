@@ -1,6 +1,6 @@
 # Methane and non-CO₂ greenhouse gases
-**When:** 12/11, 09:00–10:30 Antalya (07:00–08:30 Italian time) for the leaders-level non-CO₂ summit · **Where:** Meeting Room-3 (Topkapı) · **Organiser:** United Kingdom ✅ [1]
-**Speakers:** **Monique Barbut** (Environment Minister, France); **Mia Mottley** (Prime Minister, Barbados); **Chris Bowen** (Climate Minister, Australia, and COP31 President of Negotiations) — remarks reported by Climate Home, venue not specified [2]
+**When:** 12/11, 09:00–10:30 Antalya (07:00–08:30 Italian time) for the leaders-level non-CO₂ summit · **Where:** Meeting Room-3 (Topkapı) · **Organiser:** United Kingdom ✅ [1]<br>
+**Speakers:** **Monique Barbut** (Environment Minister, France); **Mia Mottley** (Prime Minister, Barbados); **Chris Bowen** (Climate Minister, Australia, and COP31 President of Negotiations) — remarks reported by Climate Home, venue not specified [2]<br>
 🎥 Video not yet available
 
 ## In brief
@@ -18,11 +18,11 @@ Several governments called for stronger rules on methane, a gas that warms far m
 
 ## Sources
 
-1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · date n/a · accessed 12/11/2026 · full document
+1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · date n/a · accessed 12/11/2026 · full document</sub>
 
-2. **Climate Home News** — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)
+2. **Climate Home News** — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)</sub>
 
-3. **Commonspace.eu** — [COP 31 Update 4: World leaders address climate summit in Antalya](https://www.commonspace.eu/index.php/news/cop-31-update-4-world-leaders-address-climate-summit-antalya)
-   Tier C · published 12/11/2026 · accessed 12/11/2026 · full page
+3. **Commonspace.eu** — [COP 31 Update 4: World leaders address climate summit in Antalya](https://www.commonspace.eu/index.php/news/cop-31-update-4-world-leaders-address-climate-summit-antalya)<br>
+   <sub>Tier C · published 12/11/2026 · accessed 12/11/2026 · full page</sub>

@@ -1,6 +1,6 @@
 # Energy and Transport Day: the "35-by-35" electrification package
-**When:** 10/11, all day, with a Presidency press conference; Global Electrification Ministerial 17:30–19:30 Antalya (15:30–17:30 Italian time) according to the European Commission [2] · **Where:** Antalya EXPO Center, Blue Zone · **Organiser:** COP31 Presidency (Türkiye) with the Presidency of Negotiations (Australia); Electrification Forum co-hosted with the European Union [1]
-**Speakers** (quoted by the Presidency [1]): **Murat Kurum** (President, COP31 – Türkiye); **Chris Bowen** (COP31 President of Negotiations, Australian Minister for Climate Change and Energy); **Fatih Birol** (Executive Director, IEA – International Energy Agency); **Francesco La Camera** (Director-General, IRENA – International Renewable Energy Agency); **Martin Pibworth** (CEO, SSE plc; co-chair of UNEZA – Utilities for Net Zero Alliance, the alliance of power companies for net zero); **Bruce Douglas** (CEO, Global Renewables Alliance); **Damilola Ogunbiyi** (CEO, SEforALL – Sustainable Energy for All); **Mathias Cormann** (Secretary-General, OECD – Organisation for Economic Co-operation and Development); **Maria Mendiluce** (CEO, We Mean Business Coalition)
+**When:** 10/11, all day, with a Presidency press conference; Global Electrification Ministerial 17:30–19:30 Antalya (15:30–17:30 Italian time) according to the European Commission [2] · **Where:** Antalya EXPO Center, Blue Zone · **Organiser:** COP31 Presidency (Türkiye) with the Presidency of Negotiations (Australia); Electrification Forum co-hosted with the European Union [1]<br>
+**Speakers** (quoted by the Presidency [1]): **Murat Kurum** (President, COP31 – Türkiye); **Chris Bowen** (COP31 President of Negotiations, Australian Minister for Climate Change and Energy); **Fatih Birol** (Executive Director, IEA – International Energy Agency); **Francesco La Camera** (Director-General, IRENA – International Renewable Energy Agency); **Martin Pibworth** (CEO, SSE plc; co-chair of UNEZA – Utilities for Net Zero Alliance, the alliance of power companies for net zero); **Bruce Douglas** (CEO, Global Renewables Alliance); **Damilola Ogunbiyi** (CEO, SEforALL – Sustainable Energy for All); **Mathias Cormann** (Secretary-General, OECD – Organisation for Economic Co-operation and Development); **Maria Mendiluce** (CEO, We Mean Business Coalition)<br>
 🎥 Video not yet available
 
 ✅ Final version — consolidated on 11/11/2026 at 07:45 (Italian time)
@@ -42,14 +42,14 @@
 
 ## Sources
 
-1. **COP31 Presidency** — [COP31 flicks the switch on 'age of electricity'](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)
-   Tier A · published 10/11/2026 · accessed 10/11/2026 · full page
+1. **COP31 Presidency** — [COP31 flicks the switch on 'age of electricity'](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)<br>
+   <sub>Tier A · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-2. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
-   Tier A · date n/a · accessed 10/11/2026 · read on the morning of 10/11
+2. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · read on the morning of 10/11</sub>
 
-3. **Climate Home News** (M. Rowling, J. Lo et al.) — [COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
-   Tier B · published 10/11/2026 · accessed 10/11/2026 · full page
+3. **Climate Home News** (M. Rowling, J. Lo et al.) — [COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)<br>
+   <sub>Tier B · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-4. **ABC News Australia** (L. Tingle) — [COP31 electric power target sparks row over cutting fossil fuel use](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
-   Tier B · published 11/11/2026 at 04:33 Australian Eastern Daylight Time (10/11/2026 at 18:33 Italian time) · accessed 10/11/2026 · full page
+4. **ABC News Australia** (L. Tingle) — [COP31 electric power target sparks row over cutting fossil fuel use](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)<br>
+   <sub>Tier B · published 11/11/2026 at 04:33 Australian Eastern Daylight Time (10/11/2026 at 18:33 Italian time) · accessed 10/11/2026 · full page</sub>

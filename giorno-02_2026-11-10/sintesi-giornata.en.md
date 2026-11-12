@@ -94,53 +94,53 @@ Wednesday 11 Nov is day one of the **Antalya Leaders' Summit**. The schedule com
 
 ## Sources
 
-1. **COP31 Presidency** — [COP31 flicks the switch on 'age of electricity'](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)
-   Tier A · published 10/11/2026 · accessed 10/11/2026 · full page
+1. **COP31 Presidency** — [COP31 flicks the switch on 'age of electricity'](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)<br>
+   <sub>Tier A · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-2. **COP31 Presidency** — [COP31 Advisory: Anticipated Traffic and Access Disruptions on 11-12 November](https://cop31.tr/news-detail/cop31-leaders-summit-transport-arrangements)
-   Tier A · published 10/11/2026 · accessed 10/11/2026 · summary from the news list only
+2. **COP31 Presidency** — [COP31 Advisory: Anticipated Traffic and Access Disruptions on 11-12 November](https://cop31.tr/news-detail/cop31-leaders-summit-transport-arrangements)<br>
+   <sub>Tier A · published 10/11/2026 · accessed 10/11/2026 · summary from the news list only</sub>
 
-3. **University of East Anglia / Global Carbon Project (via EuropaWire)** — [UEA Scientists Project Fall in Fossil CO₂ Emissions in 2026 as Total Carbon Emissions Rise](https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/)
-   Tier A · original release · published 10/11/2026 · accessed 10/11/2026 · full page
+3. **University of East Anglia / Global Carbon Project (via EuropaWire)** — [UEA Scientists Project Fall in Fossil CO₂ Emissions in 2026 as Total Carbon Emissions Rise](https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/)<br>
+   <sub>Tier A · original release · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-4. **UNFCCC** — [University of Exeter (UoE): Launch of the Global Carbon Budget 2026 Report](https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report)
-   Tier A · date n/a · accessed 10/11/2026 · search results only
+4. **UNFCCC** — [University of Exeter (UoE): Launch of the Global Carbon Budget 2026 Report](https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · search results only</sub>
 
-5. **UNFCCC** — [Concept note: Article 6.8 in-session workshop GCNMA10 (PDF)](https://unfccc.int/sites/default/files/resource/Concept_note_Article_6.8_in-session_workshop_GCNMA10.pdf)
-   Tier A · date n/a · accessed 10/11/2026 · search results only
+5. **UNFCCC** — [Concept note: Article 6.8 in-session workshop GCNMA10 (PDF)](https://unfccc.int/sites/default/files/resource/Concept_note_Article_6.8_in-session_workshop_GCNMA10.pdf)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · search results only</sub>
 
-6. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
-   Tier A · date n/a · accessed 10/11/2026 · read on the morning of 10/11
+6. **European Commission, DG ENER (Directorate-General for Energy)** — [Energy events at COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)<br>
+   <sub>Tier A · date n/a · accessed 10/11/2026 · read on the morning of 10/11</sub>
 
-7. **Climate Home News** (M. Rowling, J. Lo, S. Rodriguez, C. Farand, V. Chime, M. Civillini) — [COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
-   Tier B · published 10/11/2026 · accessed 10/11/2026 · full page
+7. **Climate Home News** (M. Rowling, J. Lo, S. Rodriguez, C. Farand, V. Chime, M. Civillini) — [COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)<br>
+   <sub>Tier B · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-8. **ABC News Australia** (L. Tingle) — [COP31 electric power target sparks row over cutting fossil fuel use](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
-   Tier B · published 11/11/2026 at 04:33 Australian Eastern Daylight Time (10/11/2026 at 18:33 Italian time) · accessed 10/11/2026 · full page
+8. **ABC News Australia** (L. Tingle) — [COP31 electric power target sparks row over cutting fossil fuel use](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)<br>
+   <sub>Tier B · published 11/11/2026 at 04:33 Australian Eastern Daylight Time (10/11/2026 at 18:33 Italian time) · accessed 10/11/2026 · full page</sub>
 
-9. **Anadolu Agency** (S. Kurt; used for Turkish government facts only) — [COP31 enters 2nd day with focus on energy, transport](https://aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177)
-   Tier B · published 10/11/2026 · accessed 10/11/2026 · full page
+9. **Anadolu Agency** (S. Kurt; used for Turkish government facts only) — [COP31 enters 2nd day with focus on energy, transport](https://aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177)<br>
+   <sub>Tier B · published 10/11/2026 · accessed 10/11/2026 · full page</sub>
 
-10. **UNFCCC** — [COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)
-    Tier A · date n/a · accessed 10/11/2026 · full document (read in the morning)
+10. **UNFCCC** — [COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)<br>
+    <sub>Tier A · date n/a · accessed 10/11/2026 · full document (read in the morning)</sub>
 
-11. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/node/662632); [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf); [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf); [COP 31 Overview Schedule (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
-    Tier A · date n/a · accessed 10/11/2026 · full document (Day 2 PDF; Day 1 PDF read in full on 11/11/2026)
+11. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/node/662632); [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf); [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf); [COP 31 Overview Schedule (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+    <sub>Tier A · date n/a · accessed 10/11/2026 · full document (Day 2 PDF; Day 1 PDF read in full on 11/11/2026)</sub>
 
-12. **Euronews** — ['The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)
-    Tier C · published 04/11/2026 · accessed 10/11/2026 · search results only
+12. **Euronews** — ['The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)<br>
+    <sub>Tier C · published 04/11/2026 · accessed 10/11/2026 · search results only</sub>
 
-13. **Climate Home News** — [Brazil's fossil fuel roadmap sketches out first global timetable](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)
-    Tier B · published 03/11/2026 · accessed 10/11/2026 · search results only
+13. **Climate Home News** — [Brazil's fossil fuel roadmap sketches out first global timetable](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)<br>
+    <sub>Tier B · published 03/11/2026 · accessed 10/11/2026 · search results only</sub>
 
-14. **Climate Home News** (S. Rodriguez) — [Big fossil-fuel countries back Brazil-led transition roadmap](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)
-    Tier B · published 10/11/2026 · accessed 11/11/2026 · full page
+14. **Climate Home News** (S. Rodriguez) — [Big fossil-fuel countries back Brazil-led transition roadmap](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)<br>
+    <sub>Tier B · published 10/11/2026 · accessed 11/11/2026 · full page</sub>
 
-15. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [World leaders to address COP31 as Turkey pushes for new climate deal](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)
-    Tier B · published 10/11/2026 at 22:09 · accessed 11/11/2026 · full page
+15. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [World leaders to address COP31 as Turkey pushes for new climate deal](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)<br>
+    <sub>Tier B · published 10/11/2026 at 22:09 · accessed 11/11/2026 · full page</sub>
 
-16. **Associated Press (via WDBO)** — [World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)
-    Tier B · published 11/11/2026 at 06:05 Italian time · accessed 11/11/2026 · full page
+16. **Associated Press (via WDBO)** — [World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)<br>
+    <sub>Tier B · published 11/11/2026 at 06:05 Italian time · accessed 11/11/2026 · full page</sub>
 
-17. **Carbon Brief** — [Analysis: Which countries have sent the most delegates to COP31?](https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31)
-    Tier B · published 10/11/2026 · accessed 11/11/2026 · full page
+17. **Carbon Brief** — [Analysis: Which countries have sent the most delegates to COP31?](https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31)<br>
+    <sub>Tier B · published 10/11/2026 · accessed 11/11/2026 · full page</sub>

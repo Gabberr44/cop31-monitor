@@ -1,6 +1,6 @@
 # Vertice dei leader, giorno 2: dichiarazioni nazionali
-**Quando:** 12/11, 09:00–17:00 Antalya (07:00–15:00 ora italiana); chiusura 17:00–17:30 Antalya (15:00–15:30 ora italiana) · **Dove:** Plenary Hall-1 (Anadolu) · **Organizza:** Presidenza COP31 e UNFCCC ✅ [1]
-**Relatori (selezione):** **Andy Burnham** (primo ministro, Regno Unito); **Matthew Wale** (primo ministro, Isole Salomone); **Greta Thunberg** (attivista)
+**Quando:** 12/11, 09:00–17:00 Antalya (07:00–15:00 ora italiana); chiusura 17:00–17:30 Antalya (15:00–15:30 ora italiana) · **Dove:** Plenary Hall-1 (Anadolu) · **Organizza:** Presidenza COP31 e UNFCCC ✅ [1]<br>
+**Relatori (selezione):** **Andy Burnham** (primo ministro, Regno Unito); **Matthew Wale** (primo ministro, Isole Salomone); **Greta Thunberg** (attivista)<br>
 🎥 Video non ancora disponibile
 
 ## In breve
@@ -27,14 +27,14 @@ Nella seconda giornata del vertice i leader hanno letto le dichiarazioni naziona
 
 ## Fonti
 
-1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · data n.d. · consultato 12/11/2026 · documento completo
+1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · data n.d. · consultato 12/11/2026 · documento completo</sub>
 
-2. **Governo del Regno Unito, Ufficio del primo ministro** — [Discorso del primo ministro al vertice COP31](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)
-   Tier A · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa
+2. **Governo del Regno Unito, Ufficio del primo ministro** — [Discorso del primo ministro al vertice COP31](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)<br>
+   <sub>Tier A · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
-3. **Green Climate Fund** — [Le Isole Salomone fanno il primo storico contributo alla prossima ricostituzione del GCF](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)
-   Tier A · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa
+3. **Green Climate Fund** — [Le Isole Salomone fanno il primo storico contributo alla prossima ricostituzione del GCF](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)<br>
+   <sub>Tier A · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
-4. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)
-   Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)
+4. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)</sub>

@@ -21,8 +21,8 @@
 
 ## Sources
 
-1. **UNFCCC** — [Concept note: Article 6.2 Ambition Dialogue in conjunction with SBI 65 in Antalya, Türkiye (PDF)](https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf)
-   Tier A · date n/a · accessed 09/11/2026 · full document · [event page](https://unfccc.int/event/article-62-ambition-dialogue-mandated-event): search results only
+1. **UNFCCC** — [Concept note: Article 6.2 Ambition Dialogue in conjunction with SBI 65 in Antalya, Türkiye (PDF)](https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf)<br>
+   <sub>Tier A · date n/a · accessed 09/11/2026 · full document · [event page](https://unfccc.int/event/article-62-ambition-dialogue-mandated-event): search results only</sub>
 
-2. **co2news.sk** — [Challenges, priorities and negotiations of COP31 in Antalya](https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/)
-   Tier C · published 26/10/2026 · accessed 09/11/2026 · search results only
+2. **co2news.sk** — [Challenges, priorities and negotiations of COP31 in Antalya](https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/)<br>
+   <sub>Tier C · published 26/10/2026 · accessed 09/11/2026 · search results only</sub>

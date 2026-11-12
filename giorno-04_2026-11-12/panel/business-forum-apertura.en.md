@@ -1,6 +1,6 @@
 # COP31 Business Forum: opening plenary
-**When:** 12/11, 10:00–12:30 Antalya (08:00–10:30 Italian time) · **Where:** Plenary Hall-2 (Akdeniz) · **Organiser:** TOBB (Union of Chambers and Commodity Exchanges of Türkiye), COP31 Private Sector Envoy, COP31 Presidency ✅ [1]
-**Speakers:** **Rifat Hisarcıklıoğlu** (President of TOBB and COP31 Private Sector Envoy) [2]; other speakers to be confirmed
+**When:** 12/11, 10:00–12:30 Antalya (08:00–10:30 Italian time) · **Where:** Plenary Hall-2 (Akdeniz) · **Organiser:** TOBB (Union of Chambers and Commodity Exchanges of Türkiye), COP31 Private Sector Envoy, COP31 Presidency ✅ [1]<br>
+**Speakers:** **Rifat Hisarcıklıoğlu** (President of TOBB and COP31 Private Sector Envoy) [2]; other speakers to be confirmed<br>
 🎥 Video not yet available
 
 ## In brief
@@ -22,11 +22,11 @@ The plenary opens the COP31 Business and Investment Summit, which continues on 1
 
 ## Sources
 
-1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · date n/a · accessed 12/11/2026 · full document
+1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · date n/a · accessed 12/11/2026 · full document</sub>
 
-2. **Anadolu (via Haberler.com)** — [TOBB President Hisarcıklıoğlu speaks at the Business and Investment Summit](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+2. **Anadolu (via Haberler.com)** — [TOBB President Hisarcıklıoğlu speaks at the Business and Investment Summit](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-3. **TRT World** — [COP31 shifts focus to resilient cities as leaders' meeting concludes](https://www.trtworld.com/article/a50413be6c4d)
-   Tier C · date n/a · accessed 12/11/2026 · full page
+3. **TRT World** — [COP31 shifts focus to resilient cities as leaders' meeting concludes](https://www.trtworld.com/article/a50413be6c4d)<br>
+   <sub>Tier C · date n/a · accessed 12/11/2026 · full page</sub>

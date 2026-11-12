@@ -34,16 +34,16 @@ _**Climate Home News** dichiara che viaggio e alloggio sono stati pagati dal gov
 
 ## Fonti
 
-1. **UN News** (L. Quinones) — [«Make or bake time»: Guterres chiede un patto per la giustizia climatica mentre i leader si riuniscono alla COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa
+1. **UN News** (L. Quinones) — [«Make or bake time»: Guterres chiede un patto per la giustizia climatica mentre i leader si riuniscono alla COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
-2. **UNFCCC / Presidenza COP31** — [Tavola rotonda dei leader: rifiuti zero, circolarità e metano (nota concettuale, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)
-   Tier A · data n.d. · consultato 11/11/2026 · documento completo
+2. **UNFCCC / Presidenza COP31** — [Tavola rotonda dei leader: rifiuti zero, circolarità e metano (nota concettuale, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)<br>
+   <sub>Tier A · data n.d. · consultato 11/11/2026 · documento completo</sub>
 
-3. **Climate Home News** — [Bollettino COP31, giorno 3: la gente resta fuori, i leader arrivano in jet](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa
+3. **Climate Home News** — [Bollettino COP31, giorno 3: la gente resta fuori, i leader arrivano in jet](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
-4. **Climate Home News** (J. Lo) — [La Türkiye spinge i «rifiuti zero» alla COP31, ma ci riesce in casa?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)
-   Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa
+4. **Climate Home News** (J. Lo) — [La Türkiye spinge i «rifiuti zero» alla COP31, ma ci riesce in casa?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)<br>
+   <sub>Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
 _Nota: **le fonti 3 e 4** sono articoli della stessa testata e contano come una sola fonte indipendente. Nella [sintesi della giornata](../sintesi-giornata.md) queste fonti sono la [1], [4], [5] e [6]._

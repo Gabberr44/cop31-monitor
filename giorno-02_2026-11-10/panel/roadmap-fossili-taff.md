@@ -1,6 +1,6 @@
 # Roadmap per l'uscita dai combustibili fossili (TAFF): la Presidenza COP30 presenta il suo strumento
-**Quando:** 10/11, orario n.d. · **Dove:** Antalya EXPO Center, in plenaria · **Organizza:** Presidenza COP30 (Brasile) [1][3][5]
-**Relatori:** **André Corrêa do Lago** (Presidente, COP30) [5]; **António Guterres** (segretario generale, ONU) [1][2][5][6]. Secondo Climate Home sono intervenuti anche **India**, **Nigeria**, **Germania**, il **Gruppo africano** (con **Antwi-Boasiako Amoah**, Ghana), **Laurent Fabius** e **John Kerry** [5]
+**Quando:** 10/11, orario n.d. · **Dove:** Antalya EXPO Center, in plenaria · **Organizza:** Presidenza COP30 (Brasile) [1][3][5]<br>
+**Relatori:** **André Corrêa do Lago** (Presidente, COP30) [5]; **António Guterres** (segretario generale, ONU) [1][2][5][6]. Secondo Climate Home sono intervenuti anche **India**, **Nigeria**, **Germania**, il **Gruppo africano** (con **Antwi-Boasiako Amoah**, Ghana), **Laurent Fabius** e **John Kerry** [5]<br>
 🎥 Video non ancora disponibile
 
 ✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
@@ -29,23 +29,23 @@
 
 ## Fonti
 
-1. **Climate Home News** — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
-   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+1. **Climate Home News** — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)<br>
+   <sub>Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa</sub>
 
-2. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
-   Tier B · pubblicato 10/11/2026 (ora italiana) · consultato 10/11/2026 · pagina completa
+2. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)<br>
+   <sub>Tier B · pubblicato 10/11/2026 (ora italiana) · consultato 10/11/2026 · pagina completa</sub>
 
-3. **Euronews** — ["La transizione è inevitabile": il Brasile pubblica la prima roadmap globale per l'uscita dai fossili](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)
-   Tier C · pubblicato 04/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
+3. **Euronews** — ["La transizione è inevitabile": il Brasile pubblica la prima roadmap globale per l'uscita dai fossili](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)<br>
+   <sub>Tier C · pubblicato 04/11/2026 · consultato 10/11/2026 · solo risultati di ricerca</sub>
 
-4. **Climate Home News** — [La roadmap brasiliana sui fossili abbozza il primo calendario globale](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)
-   Tier B · pubblicato 03/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
+4. **Climate Home News** — [La roadmap brasiliana sui fossili abbozza il primo calendario globale](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)<br>
+   <sub>Tier B · pubblicato 03/11/2026 · consultato 10/11/2026 · solo risultati di ricerca</sub>
 
-5. **Climate Home News** (S. Rodriguez) — [Grandi Paesi fossili sostengono la roadmap di transizione guidata dal Brasile](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)
-   Tier B · pubblicato 10/11/2026 · consultato 11/11/2026 · pagina completa
+5. **Climate Home News** (S. Rodriguez) — [Grandi Paesi fossili sostengono la roadmap di transizione guidata dal Brasile](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)<br>
+   <sub>Tier B · pubblicato 10/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
-6. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [I leader mondiali parlano alla COP31 mentre la Turchia spinge per un nuovo accordo sul clima](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)
-   Tier B · pubblicato 10/11/2026 alle 22:09 · consultato 11/11/2026 · pagina completa
+6. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [I leader mondiali parlano alla COP31 mentre la Turchia spinge per un nuovo accordo sul clima](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)<br>
+   <sub>Tier B · pubblicato 10/11/2026 alle 22:09 · consultato 11/11/2026 · pagina completa</sub>
 
-7. **Associated Press (via WDBO)** — [I leader mondiali avviano i colloqui alla conferenza ONU sul clima tra timori di azioni inadeguate e lente](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)
-   Tier B · pubblicato 11/11/2026 alle 06:05 ora italiana · consultato 11/11/2026 · pagina completa
+7. **Associated Press (via WDBO)** — [I leader mondiali avviano i colloqui alla conferenza ONU sul clima tra timori di azioni inadeguate e lente](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)<br>
+   <sub>Tier B · pubblicato 11/11/2026 alle 06:05 ora italiana · consultato 11/11/2026 · pagina completa</sub>

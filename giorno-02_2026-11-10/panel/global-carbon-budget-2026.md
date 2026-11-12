@@ -1,6 +1,6 @@
 # Lancio del Global Carbon Budget 2026
-**Quando:** 10/11, orario n.d. (evento nel programma UNFCCC [2]; comunicato con embargo del 10/11) · **Dove:** Antalya EXPO Center · **Organizza:** University of Exeter, con University of East Anglia (UEA), CICERO (centro di ricerca sul clima), Università LMU di Monaco e Global Carbon Project: oltre 140 scienziati di più di 90 istituzioni [1][2]
-**Relatori** (citati nel comunicato [1]): **Pierre Friedlingstein** (responsabile dello studio, University of Exeter); **Corinne Le Quéré** (University of East Anglia); **Glen Peters** (CICERO); **Julia Pongratz** (LMU Monaco)
+**Quando:** 10/11, orario n.d. (evento nel programma UNFCCC [2]; comunicato con embargo del 10/11) · **Dove:** Antalya EXPO Center · **Organizza:** University of Exeter, con University of East Anglia (UEA), CICERO (centro di ricerca sul clima), Università LMU di Monaco e Global Carbon Project: oltre 140 scienziati di più di 90 istituzioni [1][2]<br>
+**Relatori** (citati nel comunicato [1]): **Pierre Friedlingstein** (responsabile dello studio, University of Exeter); **Corinne Le Quéré** (University of East Anglia); **Glen Peters** (CICERO); **Julia Pongratz** (LMU Monaco)<br>
 🎥 Video non ancora disponibile
 
 ✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
@@ -28,8 +28,8 @@
 
 ## Fonti
 
-1. **University of East Anglia / Global Carbon Project (via EuropaWire)** — [Gli scienziati UEA prevedono un calo delle emissioni fossili di CO₂ nel 2026, mentre le emissioni totali crescono](https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/)
-   Tier A · comunicato originale ripubblicato da EuropaWire · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+1. **University of East Anglia / Global Carbon Project (via EuropaWire)** — [Gli scienziati UEA prevedono un calo delle emissioni fossili di CO₂ nel 2026, mentre le emissioni totali crescono](https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/)<br>
+   <sub>Tier A · comunicato originale ripubblicato da EuropaWire · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa</sub>
 
-2. **UNFCCC (la Convenzione ONU sul clima)** — [University of Exeter: lancio del rapporto Global Carbon Budget 2026](https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report)
-   Tier A · data n.d. · consultato 10/11/2026 · solo risultati di ricerca
+2. **UNFCCC (la Convenzione ONU sul clima)** — [University of Exeter: lancio del rapporto Global Carbon Budget 2026](https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report)<br>
+   <sub>Tier A · data n.d. · consultato 10/11/2026 · solo risultati di ricerca</sub>

@@ -43,26 +43,26 @@ Source note: the delay of about 90 minutes comes from a single wire (AFP), consi
 
 ## Sources
 
-1. **UNFCCC** — [UN Climate Change Conference - Antalya: Overview Schedule (PDF, version of 7 October 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
-   Tier A · published 07/10/2026 · accessed 09/11/2026 · full document
+1. **UNFCCC** — [UN Climate Change Conference - Antalya: Overview Schedule (PDF, version of 7 October 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+   <sub>Tier A · published 07/10/2026 · accessed 09/11/2026 · full document</sub>
 
-2. **COP31 Presidency** — [COP31 President opens UN climate summit with call to turn climate promises into action](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
-   Tier A · published 09/11/2026 · accessed 09/11/2026 · full page
+2. **COP31 Presidency** — [COP31 President opens UN climate summit with call to turn climate promises into action](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)<br>
+   <sub>Tier A · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-3. **AFP (via Taipei Times)** — [COP31 opens with leaders under pressure](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)
-   Tier B · published 10/11/2026 (print edition; AFP wire of 09/11/2026) · accessed 09/11/2026 · full page · same wire also on [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) and [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683) (count as one source)
+3. **AFP (via Taipei Times)** — [COP31 opens with leaders under pressure](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)<br>
+   <sub>Tier B · published 10/11/2026 (print edition; AFP wire of 09/11/2026) · accessed 09/11/2026 · full page · same wire also on [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) and [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683) (count as one source)</sub>
 
-4. **Climate Home News** — [COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · by S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara
-   Tier B · published 09/11/2026 · accessed 09/11/2026 · full page
+4. **Climate Home News** — [COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · by S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara<br>
+   <sub>Tier B · published 09/11/2026 · accessed 09/11/2026 · full page</sub>
 
-5. **Reuters (via Yahoo News)** — [COP31 summit leaders urge world to 'move faster' on climate](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · by V. Volcovici, S. Jessop
-   Tier B · updated 09/11/2026 08:36 UTC · accessed 09/11/2026 · full page
+5. **Reuters (via Yahoo News)** — [COP31 summit leaders urge world to 'move faster' on climate](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · by V. Volcovici, S. Jessop<br>
+   <sub>Tier B · updated 09/11/2026 08:36 UTC · accessed 09/11/2026 · full page</sub>
 
-6. **Ministry of Environment, Urbanisation and Climate Change, Türkiye** — [COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)
-   Tier A · published 09/06/2026 · accessed 09/11/2026 · full page
+6. **Ministry of Environment, Urbanisation and Climate Change, Türkiye** — [COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)<br>
+   <sub>Tier A · published 09/06/2026 · accessed 09/11/2026 · full page</sub>
 
-7. **AP (via PBS NewsHour)** — [COP31 climate summit begins after disastrous year of extreme weather](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · by S. Fraser, S. Arasu
-   Tier B · published 09/11/2026 · accessed 10/11/2026 · full page
+7. **AP (via PBS NewsHour)** — [COP31 climate summit begins after disastrous year of extreme weather](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · by S. Fraser, S. Arasu<br>
+   <sub>Tier B · published 09/11/2026 · accessed 10/11/2026 · full page</sub>
 
-8. **Down To Earth** — [COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · by P. Das
-   Tier C · published 10/11/2026 · accessed 10/11/2026 · full page
+8. **Down To Earth** — [COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · by P. Das<br>
+   <sub>Tier C · published 10/11/2026 · accessed 10/11/2026 · full page</sub>

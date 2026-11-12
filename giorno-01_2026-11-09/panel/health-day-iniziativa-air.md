@@ -24,11 +24,11 @@
 
 ## Fonti
 
-1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
-   Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo
+1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+   <sub>Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo</sub>
 
-2. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
-   Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+2. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)<br>
+   <sub>Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa</sub>
 
-3. **Health Policy Watch** — [«Le dichiarazioni non proteggono le persone»: la COP31 si apre sotto pressione per dare risultati, non parole](https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/) · di S. Anderson
-   Tier C · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+3. **Health Policy Watch** — [«Le dichiarazioni non proteggono le persone»: la COP31 si apre sotto pressione per dare risultati, non parole](https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/) · di S. Anderson<br>
+   <sub>Tier C · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa</sub>

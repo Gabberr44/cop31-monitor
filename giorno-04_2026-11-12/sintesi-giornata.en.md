@@ -1,6 +1,6 @@
 # COP31 — Day 4 · Thursday 12 November 2026
-🕘 Provisional evening version — will be consolidated tomorrow morning at 06:00 (Italian time)
-⚠️ Day in progress — updated on 12/11/2026 at 12:45 (Italian time). Many afternoon events have no written account yet.
+🕘 Provisional evening version — will be consolidated tomorrow morning at 06:00 (Italian time)<br>
+⚠️ Day in progress — updated on 12/11/2026 at 13:00 (Italian time). Many afternoon events have no written account yet.
 
 Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Resilient Cities and Built Environment" ✅ [2]. It is the second and last day of the Leaders' Summit ✅ [1].
 
@@ -10,7 +10,7 @@ Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Resilient Citie
 - **Tomorrow:** the Presidency dedicates Friday 13 to "Finance and Trade" ✅ [2].
 
 ## Key facts
-1. **Andy Burnham, UK Prime Minister**, appointed **Dame Madeline Alessandri** as the UK's first special representative for climate security ✅ [4]. Burnham said: "Climate is a national security issue" ✅ [4].
+1. **Andy Burnham, UK Prime Minister**, appointed **Dame Madeline Alessandri** as the UK's first special representative for climate security ✅ [4]. Burnham said: "Climate is a national security issue" ✅ [4].<br>
    🎥 Video not yet available
 2. **Andy Burnham** announced UK backing for **Amplify**, a programme that aims to raise £5 billion of private finance for clean energy ✅ [4]. He pledged to make climate resilience a priority of next year's UK G20 presidency ✅ [4].
 3. **Matthew Wale, Prime Minister of Solomon Islands**, announced USD 400,000 for the next replenishment of the GCF (the UN Green Climate Fund) ✅ [5]. It is the first pledge from a country that is both a small island developing state and a least developed country ✅ [5].
@@ -24,7 +24,7 @@ _No readable IISD ENB report (error 403). Status is based on Climate Home and of
 
 | Theme | What moved | What is stuck | Texts released |
 |---|---|---|---|
-| Final decision ("cover decision") | **Australia** leads negotiations on the main text ⚠️ [3]. **France** and other countries want a methane mandate ⚠️ [3]. | No known agreement on methane in the text ⚠️ [3]. | None published at 12:45 |
+| Final decision ("cover decision") | **Australia** leads negotiations on the main text ⚠️ [3]. **France** and other countries want a methane mandate ⚠️ [3]. | No known agreement on methane in the text ⚠️ [3]. | None published at 13:00 |
 | Finance | **Solomon Islands**: first pledge to the GCF replenishment ✅ [5]. **United Kingdom**: backing for Amplify (£5 bn private) ✅ [4]. | The UK halved its GCF contribution this year ⚠️ according to Climate Home [3]. | — |
 | Global Stocktake follow-up (the Paris Agreement's global review) | **Monique Barbut** expects COP31 to start a process to reference methane in the 2028 stocktake ⚠️ [3]. | — | — |
 
@@ -36,7 +36,7 @@ _No readable IISD ENB report (error 403). Status is based on Climate Home and of
 | [Methane and non-CO₂ gases](panel/metano-non-co2.en.md) | United Kingdom, France, Barbados, Australia | Calls for stronger methane rules; the non-CO₂ summit has no account yet | Medium | Not yet available |
 
 ## Events without a written account
-_Events confirmed by the official UNFCCC programme [1]; no account found at 12:45 (Italian time)._
+_Events confirmed by the official UNFCCC programme [1]; no account found at 13:00 (Italian time)._
 
 | Time | Event | Organiser |
 |---|---|---|
@@ -62,28 +62,28 @@ _Events confirmed by the official UNFCCC programme [1]; no account found at 12:4
 | B (specialised journalism or wires) | 3 |
 | C (other) | 0 |
 
-- **Sites not readable:** enb.iisd.org (403); unep.org (403); tobb.org.tr (503); minister.dcceew.gov.au (503); channelstv.com (403); UNFCCC webcast page empty.
+- **Sites not readable:** enb.iisd.org (403); unep.org (403); tobb.org.tr (503); minister.dcceew.gov.au (503); channelstv.com (403); UNFCCC webcast page empty; UNFCCC concept note on the Pacific Resilience Facility (PDF could not be decoded).
 - **Claims kept ⚠️:** Hisarcıklıoğlu's statements (Anadolu only); Barbut's and Mottley's methane demands and Bowen's pledge (Climate Home only); halving of the UK GCF contribution (Climate Home only).
 
 ## Sources
 
-1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · date n/a · accessed 12/11/2026 · full document
+1. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule, Day 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · date n/a · accessed 12/11/2026 · full document</sub>
 
-2. **COP31 Presidency** — [Official COP31 website, thematic programme](https://cop31.tr/)
-   Tier A · date n/a · accessed 12/11/2026 · full page
+2. **COP31 Presidency** — [Official COP31 website, thematic programme](https://cop31.tr/)<br>
+   <sub>Tier A · date n/a · accessed 12/11/2026 · full page</sub>
 
-3. **Climate Home News** (J. Lo, M. Civillini, S. Rodriguez, V. Chime, M. Rowling) — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)
+3. **Climate Home News** (J. Lo, M. Civillini, S. Rodriguez, V. Chime, M. Rowling) — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)</sub>
 
-4. **UK Government, Prime Minister's Office** — [PM speech at COP31 climate summit: 12 November 2026](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)
-   Tier A · published 12/11/2026 · accessed 12/11/2026 · full page
+4. **UK Government, Prime Minister's Office** — [PM speech at COP31 climate summit: 12 November 2026](https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026)<br>
+   <sub>Tier A · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-5. **Green Climate Fund** — [Solomon Islands makes historic first pledge to Green Climate Fund's next replenishment](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)
-   Tier A · published 12/11/2026 · accessed 12/11/2026 · full page
+5. **Green Climate Fund** — [Solomon Islands makes historic first pledge to Green Climate Fund's next replenishment](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)<br>
+   <sub>Tier A · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-6. **LaPresse** (citing The Guardian) — [COP31, Greta Thunberg: "The planet isn't dying, it's being killed"](https://uk.lapresse.it/environment-en/2026/11/12/cop31-greta-thunberg-the-planet-isnt-dying-its-being-killed/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+6. **LaPresse** (citing The Guardian) — [COP31, Greta Thunberg: "The planet isn't dying, it's being killed"](https://uk.lapresse.it/environment-en/2026/11/12/cop31-greta-thunberg-the-planet-isnt-dying-its-being-killed/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-7. **Anadolu (via Haberler.com)** — [TOBB President Hisarcıklıoğlu speaks at the Business and Investment Summit](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)
-   Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+7. **Anadolu (via Haberler.com)** — [TOBB President Hisarcıklıoğlu speaks at the Business and Investment Summit](https://www.haberler.com/ekonomi/iklim-zirvesi-cop31-antalya-tobb-baskani-20420063-haberi/)<br>
+   <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>

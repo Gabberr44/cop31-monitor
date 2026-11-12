@@ -118,59 +118,59 @@ _**The UNFCCC (UN climate convention) and organiser programmes** list these even
 
 ## Sources
 
-1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page
+1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-2. **COP31 Presidency** — [COP31 Leaders' Summit Opening Address](https://cop31.tr/speech-detail/cop31-leaders-summit-opening-address)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page
+2. **COP31 Presidency** — [COP31 Leaders' Summit Opening Address](https://cop31.tr/speech-detail/cop31-leaders-summit-opening-address)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-3. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/cop31/high-level) and [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf)
-   Tier A · date n/a · accessed 11/11/2026 · full document (PDF read on the morning of 11 Nov)
+3. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/cop31/high-level) and [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf)<br>
+   <sub>Tier A · date n/a · accessed 11/11/2026 · full document (PDF read on the morning of 11 Nov)</sub>
 
-4. **UNFCCC / COP31 Presidency** — [Leaders' Roundtable: Zero Waste, Circularity and Methane (concept note, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)
-   Tier A · date n/a · accessed 11/11/2026 · full document
+4. **UNFCCC / COP31 Presidency** — [Leaders' Roundtable: Zero Waste, Circularity and Methane (concept note, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)<br>
+   <sub>Tier A · date n/a · accessed 11/11/2026 · full document</sub>
 
-5. **Climate Home News** (J. Lo, S. Rodriguez, M. Rowling) — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+5. **Climate Home News** (J. Lo, S. Rodriguez, M. Rowling) — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-6. **Climate Home News** (J. Lo) — [Türkiye pushes "zero waste" at COP31, but is it delivering at home?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+6. **Climate Home News** (J. Lo) — [Türkiye pushes "zero waste" at COP31, but is it delivering at home?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-7. **Reuters (via ThePrint)** (W. James, T. Gumrukcu) — [World leaders speak at COP31 climate conference](https://theprint.in/world/world-leaders-speak-at-cop31-climate-conference/3096451/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+7. **Reuters (via ThePrint)** (W. James, T. Gumrukcu) — [World leaders speak at COP31 climate conference](https://theprint.in/world/world-leaders-speak-at-cop31-climate-conference/3096451/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-8. **Al Jazeera / AFP** — ['Climate crisis is outrunning us,' UN chief Guterres says at COP31](https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+8. **Al Jazeera / AFP** — ['Climate crisis is outrunning us,' UN chief Guterres says at COP31](https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-9. **DPA (via Yahoo News)** — [EU chief: Europe committed to becoming first climate-neutral continent](https://www.yahoo.com/news/science/articles/eu-chief-europe-committed-becoming-171831999.html)
-   Tier C · published 11/11/2026 · accessed 11/11/2026 · full page
+9. **DPA (via Yahoo News)** — [EU chief: Europe committed to becoming first climate-neutral continent](https://www.yahoo.com/news/science/articles/eu-chief-europe-committed-becoming-171831999.html)<br>
+   <sub>Tier C · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-10. **Carbon Brief** (J. Gabbatiss) — [Analysis: Climate-finance pledges fall 70% as countries meet at COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)
-    Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+10. **Carbon Brief** (J. Gabbatiss) — [Analysis: Climate-finance pledges fall 70% as countries meet at COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)<br>
+    <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-11. **Carbon Brief** — [Interactive: Tracking negotiating texts at the COP31 climate summit](https://www.carbonbrief.org/?p=84611)
-    Tier B · updated 11/11/2026 · accessed 11/11/2026 · intro text only
+11. **Carbon Brief** — [Interactive: Tracking negotiating texts at the COP31 climate summit](https://www.carbonbrief.org/?p=84611)<br>
+    <sub>Tier B · updated 11/11/2026 · accessed 11/11/2026 · intro text only</sub>
 
-12. **CAN Europe (NGO position)** — [Von der Leyen misses the mark at COP31…](https://caneurope.org/news/von-der-leyen-misses-the-mark-at-cop31-while-taking-the-stage-in-absence-of-other-european-leaders/)
-    Tier C · published 11/11/2026 · accessed 11/11/2026 · search results only
+12. **CAN Europe (NGO position)** — [Von der Leyen misses the mark at COP31…](https://caneurope.org/news/von-der-leyen-misses-the-mark-at-cop31-while-taking-the-stage-in-absence-of-other-european-leaders/)<br>
+    <sub>Tier C · published 11/11/2026 · accessed 11/11/2026 · search results only</sub>
 
-13. **UNCTAD** — [UNCTAD–SMIIC event page](https://unctad.org/fr/node/53312)
-    Tier A · date n/a · accessed 11/11/2026 · search results only or read earlier
+13. **UNCTAD** — [UNCTAD–SMIIC event page](https://unctad.org/fr/node/53312)<br>
+    <sub>Tier A · date n/a · accessed 11/11/2026 · search results only or read earlier</sub>
 
-14. **Carbon Brief (summarises Politico, AP, FT, Guardian)** — [Daily Briefing: World leaders at COP31; UK rejects biggest solar farm; Ask Ed Miliband anything](https://www.carbonbrief.org/daily-briefing-world-leaders-at-cop31-uk-rejects-biggest-solar-farm-ask-ed-miliband-anything)
-    Tier B · published 11/11/2026 · accessed 12/11/2026 · full page
+14. **Carbon Brief (summarises Politico, AP, FT, Guardian)** — [Daily Briefing: World leaders at COP31; UK rejects biggest solar farm; Ask Ed Miliband anything](https://www.carbonbrief.org/daily-briefing-world-leaders-at-cop31-uk-rejects-biggest-solar-farm-ask-ed-miliband-anything)<br>
+    <sub>Tier B · published 11/11/2026 · accessed 12/11/2026 · full page</sub>
 
-15. **UN News** — [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/en/story/2026/11/1168787)
-    Tier A · published 11/11/2026 · accessed 12/11/2026 · full page
+15. **UN News** — [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/en/story/2026/11/1168787)<br>
+    <sub>Tier A · published 11/11/2026 · accessed 12/11/2026 · full page</sub>
 
-16. **Reuters (via Business Recorder)** — [Leaders warn COP31: War, conflict must not distract from climate action](https://www.brecorder.com/news/40448508/leaders-warn-cop31-war-conflict-must-not-distract-from-climate-action)
-    Tier B · published 12/11/2026 at 05:03 (time zone not stated) · accessed 12/11/2026 · full page
+16. **Reuters (via Business Recorder)** — [Leaders warn COP31: War, conflict must not distract from climate action](https://www.brecorder.com/news/40448508/leaders-warn-cop31-war-conflict-must-not-distract-from-climate-action)<br>
+    <sub>Tier B · published 12/11/2026 at 05:03 (time zone not stated) · accessed 12/11/2026 · full page</sub>
 
-17. **ABC News Australia** (C. Armstrong) — [Australia faces climate questions at COP31 as PM calls for aid for Pacific](https://abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792)
-    Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+17. **ABC News Australia** (C. Armstrong) — [Australia faces climate questions at COP31 as PM calls for aid for Pacific](https://abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792)<br>
+    <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-18. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule — Day 2: Thursday, 12 November (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-    Tier A · date n/a · accessed 12/11/2026 · full document
+18. **UNFCCC** — [COP 31 Antalya Leaders' Summit Schedule — Day 2: Thursday, 12 November (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+    <sub>Tier A · date n/a · accessed 12/11/2026 · full document</sub>
 
-19. **UN-Habitat** — [COP31 leaders to tackle the gap between urban climate commitments and action](https://unhabitat.org/news/06-nov-2026/cop31-leaders-to-tackle-the-gap-between-urban-climate-commitments-and-action)
-    Tier A · published 06/11/2026 · accessed 12/11/2026 · full page
+19. **UN-Habitat** — [COP31 leaders to tackle the gap between urban climate commitments and action](https://unhabitat.org/news/06-nov-2026/cop31-leaders-to-tackle-the-gap-between-urban-climate-commitments-and-action)<br>
+    <sub>Tier A · published 06/11/2026 · accessed 12/11/2026 · full page</sub>

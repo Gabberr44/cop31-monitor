@@ -34,16 +34,16 @@ _**Climate Home News** discloses its travel and accommodation were paid by the T
 
 ## Sources
 
-1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page
+1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-2. **UNFCCC / COP31 Presidency** — [Leaders' Roundtable: Zero Waste, Circularity and Methane (concept note, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)
-   Tier A · date n/a · accessed 11/11/2026 · full document
+2. **UNFCCC / COP31 Presidency** — [Leaders' Roundtable: Zero Waste, Circularity and Methane (concept note, PDF)](https://unfccc.int/sites/default/files/resource/Zero-Waste-Circularity-and-Methane.pdf)<br>
+   <sub>Tier A · date n/a · accessed 11/11/2026 · full document</sub>
 
-3. **Climate Home News** — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+3. **Climate Home News** — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-4. **Climate Home News** (J. Lo) — [Türkiye pushes "zero waste" at COP31, but is it delivering at home?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+4. **Climate Home News** (J. Lo) — [Türkiye pushes "zero waste" at COP31, but is it delivering at home?](https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
 _Note: **sources 3 and 4** are from the same outlet and count as one independent source. In the [daily summary](../sintesi-giornata.en.md) these sources are [1], [4], [5] and [6]._

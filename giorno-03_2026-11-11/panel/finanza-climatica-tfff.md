@@ -32,16 +32,16 @@
 
 ## Fonti
 
-1. **UN News** — [«Make or bake time»: Guterres chiede un patto per la giustizia climatica mentre i leader si riuniscono alla COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa
+1. **UN News** — [«Make or bake time»: Guterres chiede un patto per la giustizia climatica mentre i leader si riuniscono alla COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
-2. **UNFCCC** — [Programma del Leaders' Summit di Antalya, Giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)
-   Tier A · data n.d. · consultato 11/11/2026 · documento completo
+2. **UNFCCC** — [Programma del Leaders' Summit di Antalya, Giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
+   <sub>Tier A · data n.d. · consultato 11/11/2026 · documento completo</sub>
 
-3. **Climate Home News** — [Bollettino COP31, giorno 3: la gente resta fuori, i leader arrivano in jet](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa
+3. **Climate Home News** — [Bollettino COP31, giorno 3: la gente resta fuori, i leader arrivano in jet](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa</sub>
 
-4. **Carbon Brief** (J. Gabbatiss) — [Analisi: gli impegni di finanza climatica calano del 70% mentre i Paesi si riuniscono alla COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)
-   Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa (nota: l'articolo alterna 70%/71% e valute £/$)
+4. **Carbon Brief** (J. Gabbatiss) — [Analisi: gli impegni di finanza climatica calano del 70% mentre i Paesi si riuniscono alla COP31](https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31)<br>
+   <sub>Tier B · pubblicato 11/11/2026 · consultato 11/11/2026 · pagina completa (nota: l'articolo alterna 70%/71% e valute £/$)</sub>
 
 _Nella [sintesi della giornata](../sintesi-giornata.md) queste fonti sono la [1], la [18], la [5] e la [10]._

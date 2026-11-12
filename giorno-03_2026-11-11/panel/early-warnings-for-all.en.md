@@ -31,7 +31,7 @@
 
 ## Sources
 
-1. **UN News** — [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/en/story/2026/11/1168787)
-   Tier A · published 11/11/2026 · accessed 12/11/2026 · full page
+1. **UN News** — [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/en/story/2026/11/1168787)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 12/11/2026 · full page</sub>
 
 _In the [daily summary](../sintesi-giornata.en.md) this source is [15]._

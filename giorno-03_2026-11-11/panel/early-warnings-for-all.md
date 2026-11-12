@@ -31,7 +31,7 @@
 
 ## Fonti
 
-1. **UN News** — [Dal Giappone al Ruanda l'allerta precoce salva vite, ma milioni di persone restano senza protezione](https://news.un.org/en/story/2026/11/1168787)
-   Tier A · pubblicato 11/11/2026 · consultato 12/11/2026 · pagina completa
+1. **UN News** — [Dal Giappone al Ruanda l'allerta precoce salva vite, ma milioni di persone restano senza protezione](https://news.un.org/en/story/2026/11/1168787)<br>
+   <sub>Tier A · pubblicato 11/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
 _Nella [sintesi della giornata](../sintesi-giornata.md) questa fonte è la [15]._

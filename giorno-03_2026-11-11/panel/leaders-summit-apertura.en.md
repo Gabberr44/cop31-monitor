@@ -49,37 +49,37 @@
 
 ## Sources
 
-1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page
+1. **UN News** (L. Quinones) — ['Make or bake time': Guterres urges climate justice pact as leaders gather at COP31](https://news.un.org/en/story/2026/11/1168783)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-2. **COP31 Presidency** — [COP31 Leaders' Summit Opening Address](https://cop31.tr/speech-detail/cop31-leaders-summit-opening-address)
-   Tier A · published 11/11/2026 · accessed 11/11/2026 · full page (speaker not named)
+2. **COP31 Presidency** — [COP31 Leaders' Summit Opening Address](https://cop31.tr/speech-detail/cop31-leaders-summit-opening-address)<br>
+   <sub>Tier A · published 11/11/2026 · accessed 11/11/2026 · full page (speaker not named)</sub>
 
-3. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/cop31/high-level) and [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf)
-   Tier A · date n/a · accessed 11/11/2026 · full document (PDF read on the morning of 11 Nov; it returned an HTML page in the evening)
+3. **UNFCCC** — [Antalya Leaders' Summit at COP 31](https://unfccc.int/cop31/high-level) and [COP 31 Antalya Leaders' Summit Schedule, Day 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf)<br>
+   <sub>Tier A · date n/a · accessed 11/11/2026 · full document (PDF read on the morning of 11 Nov; it returned an HTML page in the evening)</sub>
 
-4. **Climate Home News** (J. Lo, S. Rodriguez, M. Rowling) — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+4. **Climate Home News** (J. Lo, S. Rodriguez, M. Rowling) — [COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in](https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-5. **Reuters (via ThePrint)** (W. James, T. Gumrukcu) — [World leaders speak at COP31 climate conference](https://theprint.in/world/world-leaders-speak-at-cop31-climate-conference/3096451/)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+5. **Reuters (via ThePrint)** (W. James, T. Gumrukcu) — [World leaders speak at COP31 climate conference](https://theprint.in/world/world-leaders-speak-at-cop31-climate-conference/3096451/)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-6. **Al Jazeera / AFP** — ['Climate crisis is outrunning us,' UN chief Guterres says at COP31](https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31)
-   Tier B · published 11/11/2026 · accessed 11/11/2026 · full page
+6. **Al Jazeera / AFP** — ['Climate crisis is outrunning us,' UN chief Guterres says at COP31](https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 11/11/2026 · full page</sub>
 
-7. **DPA (via Yahoo News)** — [EU chief: Europe committed to becoming first climate-neutral continent](https://www.yahoo.com/news/science/articles/eu-chief-europe-committed-becoming-171831999.html)
-   Tier C · published 11/11/2026 at 18:18 (Italian time) · accessed 11/11/2026 · full page
+7. **DPA (via Yahoo News)** — [EU chief: Europe committed to becoming first climate-neutral continent](https://www.yahoo.com/news/science/articles/eu-chief-europe-committed-becoming-171831999.html)<br>
+   <sub>Tier C · published 11/11/2026 at 18:18 (Italian time) · accessed 11/11/2026 · full page</sub>
 
-8. **CAN Europe (NGO position)** — [Von der Leyen misses the mark at COP31…](https://caneurope.org/news/von-der-leyen-misses-the-mark-at-cop31-while-taking-the-stage-in-absence-of-other-european-leaders/)
-   Tier C · published 11/11/2026 · accessed 11/11/2026 · search results only
+8. **CAN Europe (NGO position)** — [Von der Leyen misses the mark at COP31…](https://caneurope.org/news/von-der-leyen-misses-the-mark-at-cop31-while-taking-the-stage-in-absence-of-other-european-leaders/)<br>
+   <sub>Tier C · published 11/11/2026 · accessed 11/11/2026 · search results only</sub>
 
-9. **Carbon Brief (summarises Politico)** — [Daily Briefing: World leaders at COP31…](https://www.carbonbrief.org/daily-briefing-world-leaders-at-cop31-uk-rejects-biggest-solar-farm-ask-ed-miliband-anything)
-   Tier B · published 11/11/2026 · accessed 12/11/2026 · full page
+9. **Carbon Brief (summarises Politico)** — [Daily Briefing: World leaders at COP31…](https://www.carbonbrief.org/daily-briefing-world-leaders-at-cop31-uk-rejects-biggest-solar-farm-ask-ed-miliband-anything)<br>
+   <sub>Tier B · published 11/11/2026 · accessed 12/11/2026 · full page</sub>
 
-10. **Reuters (via Business Recorder)** — [Leaders warn COP31: War, conflict must not distract from climate action](https://www.brecorder.com/news/40448508/leaders-warn-cop31-war-conflict-must-not-distract-from-climate-action)
-    Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+10. **Reuters (via Business Recorder)** — [Leaders warn COP31: War, conflict must not distract from climate action](https://www.brecorder.com/news/40448508/leaders-warn-cop31-war-conflict-must-not-distract-from-climate-action)<br>
+    <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-11. **ABC News Australia** (C. Armstrong) — [Australia faces climate questions at COP31 as PM calls for aid for Pacific](https://abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792)
-    Tier B · published 12/11/2026 · accessed 12/11/2026 · full page
+11. **ABC News Australia** (C. Armstrong) — [Australia faces climate questions at COP31 as PM calls for aid for Pacific](https://abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792)<br>
+    <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
 _In the [daily summary](../sintesi-giornata.en.md) these sources are, in order, [1], [2], [3], [5], [7], [8], [9], [12], [14], [16] and [17]._
