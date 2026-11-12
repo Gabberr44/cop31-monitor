@@ -1,127 +1,146 @@
-# COP31 — Giorno 2 / Day 2 — 2026-11-10 (martedì / Tuesday)
+# COP31 — Giorno 2 · martedì 10 novembre 2026
+✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
 
-> ✅ **Versione finale / Final version** — consolidata il 2026-11-11 07:45 (Europe/Rome) / consolidated on 2026-11-11 07:45 (Europe/Rome). Prima versione serale / first evening version: 2026-11-10 21:15. Aggiunte nella versione finale / added in the final version: Reuters, AP, Climate Home sulla roadmap fossili, Carbon Brief sulle delegazioni, programma integrale del Leaders' Summit (PDF UNFCCC) / Reuters, AP, Climate Home on the fossil roadmap, Carbon Brief on delegations, full Leaders' Summit schedule (UNFCCC PDF).
+## In breve
+- **Cosa è successo:** **La Presidenza turca della COP31** ha dedicato la giornata a energia e trasporti e ha lanciato il pacchetto "35-by-35" sull'elettrificazione ✅ [1][9].
+- **Perché conta:** banche e grandi clienti potrebbero chiedere più spesso alle PMI la quota di elettricità e di rinnovabili nei consumi, un dato già previsto dal VSME (lo standard volontario EFRAG per le PMI).
+- **Domani:** **il Leaders' Summit di Antalya** si apre con le dichiarazioni dei leader e la giornata tematica "Zero Waste" ✅ [11].
 
-Legenda / Legend: ✅ fonte ufficiale (Tier A) / official source · 🟡 ≥2 fonti Tier B indipendenti / ≥2 independent Tier B sources · ⚠️ fonte singola non ufficiale / non confermato — single non-official source / unconfirmed.
+## I fatti principali
+1. **La Presidenza turca della COP31** ha presentato il pacchetto "35-by-35" ✅ [1]. L'obiettivo volontario porta l'elettricità dal 23% circa al 35% dei consumi finali entro il 2035 ✅ [1]. Il pacchetto crea un Electrification Forum con l'Unione Europea e un Electrification Board con l'IEA (Agenzia internazionale dell'energia) come segretariato ✅ [1]. Prevede anche un meccanismo di tracciamento guidato dall'IEA ✅ [1]. Nasce la Electrify Now Finance Coalition, con Banca Mondiale e Banca africana di sviluppo co-presidenti dal 2027 ✅ [1]. **Murat Kurum, Presidente della COP31**, ha detto: "COP31 will be remembered as the moment we flicked the switch" («la COP31 sarà ricordata come il momento in cui abbiamo premuto l'interruttore») ✅ [1].
+2. **Alcuni Paesi produttori di combustibili fossili** dovrebbero opporsi a ogni riferimento all'elettricità "pulita" nella decisione finale 🟡 [7][8]. Lo scontro nasce dal testo: non richiede che l'elettricità aggiuntiva venga da fonti pulite 🟡 [8][15]. **Chris Bowen, Presidente dei negoziati (Australia)**, ha detto che senza il 35% il mondo "has no chance of holding to 1.5 degrees" («non ha alcuna possibilità di restare entro 1,5 gradi») 🟡 [8].
+3. **Il Global Carbon Project**, nel rapporto Global Carbon Budget 2026, stima le emissioni fossili di CO₂ a 38,2 mld t, in calo dello 0,4% ✅ [3]. È il primo calo dal 2020, in parte per lo shock petrolifero legato al conflitto con l'Iran ✅ [3]. Le emissioni totali salgono però a 43,3 mld t ✅ [3]. Il budget residuo per 1,5 °C è di 150 mld t, meno di quattro anni di emissioni ✅ [3].
+4. **La Presidenza COP30 (Brasile)** ha presentato in plenaria la roadmap TAFF (l'uscita dai combustibili fossili) 🟡 [14][15]. La roadmap prevede piani nazionali entro il 2028 e tagli all'offerta dal 2031 🟡 [14][15]. **António Guterres, segretario generale ONU**, ha detto: "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable" («è ora di smettere di trattare l'uscita dai fossili come un tabù o un problema irrisolvibile») 🟡 [14][15]. **I governi** non hanno un piano condiviso e alla COP31 non c'è un punto d'agenda sui fossili 🟡 [8][15]. **India, Nigeria e Germania** hanno sostenuto la roadmap, secondo Climate Home ⚠️ [14].
+5. **UNEZA (Utilities for Net Zero Alliance, l'alleanza delle aziende elettriche per lo zero netto)** alza l'impegno annuo in reti, rinnovabili e accumuli da 148 a 156 mld $ ✅ [1]. **La We Mean Business Coalition** riunisce oltre 180 imprese, con 1.690 mld $ di ricavi, che sostengono l'elettrificazione ✅ [1].
+6. **L'Australia** guida una dichiarazione per raddoppiare a 300 milioni le famiglie con fotovoltaico sul tetto entro il 2030 🟡 [7][8]. **Bangladesh, Kenya, Nigeria e Vanuatu** sono tra i firmatari 🟡 [7][8].
+7. **Gli Stati Uniti** sono assenti per il secondo anno consecutivo 🟡 [15][16]. **Carbon Brief** conta 92.934 iscritti in presenza (dati provvisori): sarebbe la COP più grande di sempre ⚠️ [17]. Secondo Carbon Brief, la delegazione più numerosa è quella della Türkiye (2.950), seguita da Brasile, Nigeria, Cina e Indonesia ⚠️ [17]. **Climate Home News** riporta invece 68.374 iscritti in presenza, di cui 14.285 ospiti del Paese ospitante (circa uno su cinque) ⚠️ [7]. Tra questi ospiti figurano dirigenti di aziende fossili, riportato da una sola fonte ⚠️ [7].
 
-Tema della giornata / Theme of the day: **Energia e Trasporti / Energy and Transport** [1][9].
+## Negoziati: a che punto siamo
+Anche al consolidamento del mattino dell'11/11 nessun resoconto ENB (Earth Negotiations Bulletin, il resoconto quotidiano indipendente dei negoziati) del 10/11 era leggibile (errore 403). Nessuna fonte Tier A/B descrive l'esito delle riunioni negoziali. La tabella riflette solo ciò che è stato riportato.
 
-## IT
+| Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
+|---|---|---|---|
+| NDC (i piani nazionali di riduzione delle emissioni) / mitigazione | **La Presidenza COP31** consulta i Paesi su un possibile richiamo all'elettrificazione nella decisione finale 🟡 [7][8]. **Il Global Carbon Budget** conferma che il budget per 1,5 °C si sta esaurendo ✅ [3]. | **L'elettrificazione** resta fuori dal negoziato formale, nell'Action Agenda (l'agenda delle iniziative volontarie) 🟡 [7][8]. | Nessun testo nuovo riportato. |
+| Finanza | **La Presidenza COP31** lancia la Electrify Now Finance Coalition ✅ [1]. **I Climate Investment Funds** annunciano quasi 100 mln $ per ridurre il rischio di progetti su energia pulita, reti e accumuli, secondo Climate Home ⚠️ [7]. | Nessuna notizia sul programma di lavoro sulla finanza climatica adottato il 9/11. | — |
+| Articolo 6 (mercati del carbonio) | **L'UNFCCC (la Convenzione ONU sul clima)** aveva in programma il workshop sugli approcci non di mercato (Art. 6.8), 10ª riunione del Glasgow Committee ✅ [5]. Il tema era "mettere in pratica gli approcci non di mercato" ✅ [5]. | — | Nessun resoconto. |
+| Adattamento / GGA (l'obiettivo globale sull'adattamento) | **L'UNFCCC** aveva in programma il Baku High-Level Dialogue on Adaptation, 10:00–13:00 Antalya (08:00–11:00 ora italiana) ✅ [10]. **Green Climate Fund e Adaptation Fund** hanno lanciato un quadro per estendere i progetti di adattamento già riusciti, secondo Climate Home ⚠️ [7]. | — | Il dialogo deve produrre un riassunto dei co-presidenti ✅ [10]. Il riassunto non è ancora pubblicato. |
+| Transizione giusta | **La Powering Past Coal Alliance (alleanza per l'uscita dal carbone)** ha lanciato le "Coal Transition Partnerships" per oltre 23 mld $, secondo Climate Home ⚠️ [7]. | Nessuna notizia sul Belém-Antalya Mechanism. | — |
+| Seguito del Global Stocktake (il bilancio globale dell'Accordo di Parigi) | **La Presidenza COP30 (Brasile)** indica nella sua roadmap il Global Stocktake 2028 come momento di verifica 🟡 [7][14]. | — | — |
 
-### I fatti della giornata
-1. ✅ **La Presidenza ha presentato il pacchetto "35-by-35".** Obiettivo volontario: elettricità dal 23% circa al 35% dei consumi finali entro il 2035. Con esso nascono un Electrification Forum con l'UE, un Electrification Board con l'IEA come segretariato, un meccanismo di tracciamento guidato dall'IEA e la Electrify Now Finance Coalition, con Banca Mondiale e Banca africana di sviluppo co-presidenti dal 2027 [1]. Kurum: "COP31 will be remembered as the moment we flicked the switch" [1].
-2. 🟡 **Lo scontro è sull'elettricità "pulita".** Il testo non richiede che l'elettricità aggiuntiva venga da fonti pulite [8][15]; alcuni produttori di fossili dovrebbero opporsi a ogni riferimento in tal senso nella decisione finale [7][8]. Bowen: senza il 35% il mondo "has no chance of holding to 1.5 degrees" [8].
-3. ✅ **Global Carbon Budget 2026:** emissioni fossili di CO₂ a 38,2 mld t, −0,4%, primo calo dal 2020, in parte per lo shock petrolifero legato al conflitto con l'Iran. Le emissioni totali salgono però a 43,3 mld t e il budget residuo per 1,5 °C è di 150 mld t, meno di quattro anni [3].
-4. 🟡 **Roadmap sui fossili.** La Presidenza COP30 (Brasile) ha presentato in plenaria la roadmap per l'uscita dai fossili: piani nazionali entro il 2028, tagli all'offerta dal 2031 [14][15]. Guterres: "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable" [14][15]. Non c'è un punto d'agenda sui fossili [8] e i governi non hanno un piano condiviso [15]. ⚠️ Secondo Climate Home, India, Nigeria e Germania l'hanno sostenuta [14].
-5. ✅ **Impegni di imprese e utility:** UNEZA alza l'impegno annuo in reti, rinnovabili e accumuli da 148 a 156 mld $; oltre 180 imprese della We Mean Business Coalition (1.690 mld $ di ricavi) sostengono l'elettrificazione [1].
-6. 🟡 **Fotovoltaico sui tetti:** dichiarazione guidata dall'Australia per raddoppiare a 300 milioni le famiglie con pannelli entro il 2030; tra i firmatari Bangladesh, Kenya, Nigeria, Vanuatu [7][8].
-7. 🟡 **Stati Uniti assenti per il secondo anno consecutivo** [15][16]. ⚠️ Secondo Carbon Brief, 92.934 iscritti in presenza (dati provvisori): sarebbe la COP più grande di sempre; prima delegazione la Türkiye (2.950), poi Brasile, Nigeria, Cina, Indonesia [17].
-8. 🟡 **Logistica:** secondo mattino di traffico e navette sovraffollate; alcuni eventi del mattino sono stati riprogrammati [7][8]. ✅ La Presidenza annuncia disagi alla viabilità l'11–12/11 per il Leaders' Summit [2].
+## Panel ed eventi del giorno
+| Evento | Chi | In una riga | Rilevanza VSME | Video |
+|---|---|---|---|---|
+| [Pacchetto "35-by-35" sull'elettrificazione](panel/elettrificazione-35by35.md) | Presidenza COP31, Presidenza dei negoziati (Australia), IEA, IRENA (Agenzia internazionale per le energie rinnovabili), imprese e utility | Obiettivo, forum, board, tracciamento IEA, coalizione finanziaria, impegni UNEZA e imprese, fotovoltaico sui tetti | Media | Non ancora disponibile |
+| [Global Carbon Budget 2026](panel/global-carbon-budget-2026.md) | University of Exeter, University of East Anglia, Global Carbon Project e altri istituti | Emissioni fossili −0,4%, totali in aumento, budget per 1,5 °C sotto i quattro anni | Bassa | Non ancora disponibile |
+| [Roadmap sull'uscita dai fossili (TAFF)](panel/roadmap-fossili-taff.md) | Presidenza COP30 (Brasile), António Guterres | Strumento della Presidenza COP30, appello di Guterres, opposizioni attese | Bassa | Non ancora disponibile |
 
-### Stato dei negoziati per tema
-_Anche al consolidamento del mattino nessun resoconto ENB del 10/11 è leggibile (403) e nessuna fonte Tier A/B descrive l'esito delle riunioni negoziali. Lo stato sotto riflette ciò che è stato riportato._
-- **Mitigazione / NDC:** nessun testo nuovo riportato. 🟡 L'elettrificazione resta fuori dal negoziato formale (Action Agenda); la Presidenza consulta i Paesi su un eventuale richiamo nella decisione finale [7][8]. ✅ Il Global Carbon Budget conferma che il budget per 1,5 °C si sta esaurendo [3].
-- **Finanza:** ✅ nuova Electrify Now Finance Coalition [1]. ⚠️ Secondo Climate Home, i Climate Investment Funds hanno annunciato quasi 100 mln $ per ridurre il rischio di progetti su energia pulita, reti e accumuli [7]. Nessuna notizia sul programma di lavoro sulla finanza climatica adottato ieri.
-- **Articolo 6 (mercati del carbonio):** ✅ era in programma il workshop sugli approcci non di mercato (Art. 6.8, 10ª riunione del Glasgow Committee), tema "mettere in pratica gli approcci non di mercato" [5]. Nessun resoconto.
-- **Adattamento / GGA:** ✅ era in programma il Baku High-Level Dialogue on Adaptation (08:00–11:00 Roma), che deve produrre un riassunto dei co-presidenti [10]. Riassunto non ancora pubblicato. ⚠️ Secondo Climate Home, Green Climate Fund e Adaptation Fund hanno lanciato un quadro per portare su scala più ampia i progetti di adattamento già riusciti [7].
-- **Perdite e danni:** nessuna novità riportata.
-- **Transizione giusta:** ⚠️ secondo Climate Home, la Powering Past Coal Alliance ha lanciato "Coal Transition Partnerships" per oltre 23 mld $ [7]. Nessuna notizia sul Belém-Antalya Mechanism.
-- **Seguito del Global Stocktake:** 🟡 la roadmap brasiliana punta al Global Stocktake 2028 come momento di verifica [7][14].
-- **Commercio / misure unilaterali:** nessuna novità riportata.
-- **Altro:** 🟡 Stati Uniti assenti [15][16]. ⚠️ secondo Climate Home, 14.285 dei 68.374 iscritti in presenza sono ospiti del Paese ospitante (circa uno su cinque) e tra loro figurano dirigenti di aziende fossili [7] (fonte singola). ⚠️ Domani parlano 42 leader, tra cui Lula, von der Leyen e Han Zheng, secondo Climate Home [7].
+## Eventi senza resoconto scritto
+Eventi del programma UNFCCC o della Presidenza per cui non è stato trovato alcun resoconto scritto.
+- **Baku High-Level Dialogue on Adaptation**, 10:00–13:00 Antalya (08:00–11:00 ora italiana): riassunto dei co-presidenti non ancora pubblicato [10].
+- **Workshop Art. 6.8 sugli approcci non di mercato** (GCNMA 10, la 10ª riunione del Glasgow Committee on Non-market Approaches) [5].
+- **FMCP4 parte II** (l'esame multilaterale dei progressi).
+- **Global Electrification Ministerial**, 17:30–19:30 Antalya (15:30–17:30 ora italiana) [6]: contenuti noti solo dal comunicato complessivo della Presidenza [1].
+- **Electrification Forum** co-organizzato con l'Unione Europea [1]: nessun resoconto della Commissione europea trovato.
+- **Riunione ministeriale sul partenariato per l'energia verde Azerbaigian–Kazakhstan–Uzbekistan** [9].
+- **Panel sulla transizione energetica dell'Ucraina** [9].
+- **Evento "Redefining Sustainable Mobility" (Togg)** nella Green Zone [9].
+- **Padiglioni UE e Italia, EFRAG (l'ente europeo autore del VSME), ISSB/IFRS (il comitato internazionale per gli standard di sostenibilità), GHG Protocol (lo standard di contabilità dei gas serra), SBTi (l'iniziativa per obiettivi climatici su base scientifica), GFANZ (l'alleanza finanziaria di Glasgow per lo zero netto), UNEP FI (l'iniziativa finanziaria del Programma ONU per l'ambiente), WBCSD (il Consiglio mondiale delle imprese per lo sviluppo sostenibile)**: nessun evento del 10/11 con materiale scritto trovato.
 
-### Indice dei panel
-| Panel | Sintesi | Rilevanza |
-|---|---|---|
-| [Pacchetto "35-by-35" sull'elettrificazione](panel/elettrificazione-35by35.md) | Obiettivo, forum, board, tracciamento IEA, coalizione finanziaria, impegni UNEZA e imprese, fotovoltaico sui tetti | Media |
-| [Global Carbon Budget 2026](panel/global-carbon-budget-2026.md) | Emissioni fossili −0,4%, totali in aumento, budget 1,5 °C sotto i 4 anni | Bassa |
-| [Roadmap sull'uscita dai fossili (TAFF)](panel/roadmap-fossili-taff.md) | Strumento della Presidenza COP30, appello di Guterres, opposizioni attese | Bassa |
+## Cosa aspettarsi domani
+Mercoledì 11/11 è il primo giorno del **Leaders' Summit di Antalya**. Il programma viene dal PDF UNFCCC, letto integralmente al mattino ✅ [11].
 
-### Eventi senza fonte scritta
-_(Programma UNFCCC/Presidenza; nessun resoconto scritto trovato.)_
-- Baku High-Level Dialogue on Adaptation (10:00–13:00 Antalya) [10]: riassunto dei co-presidenti non ancora pubblicato.
-- Workshop Art. 6.8 sugli approcci non di mercato (GCNMA 10) [5].
-- FMCP4 parte II (esame multilaterale dei progressi).
-- Global Electrification Ministerial (15:30–17:30 CET) [6]: contenuti noti solo tramite il comunicato complessivo della Presidenza [1].
-- Electrification Forum co-organizzato con l'UE [1]: nessun resoconto della Commissione trovato.
-- Riunione ministeriale sul partenariato per l'energia verde Azerbaigian–Kazakhstan–Uzbekistan; panel sulla transizione energetica dell'Ucraina; evento "Redefining Sustainable Mobility" (Togg) nella Green Zone [9].
-- Padiglioni UE e Italia; EFRAG, ISSB/IFRS, GHG Protocol, SBTi, GFANZ, UNEP FI, WBCSD: nessun evento del 10/11 con materiale scritto trovato.
+| Orario | Evento |
+|---|---|
+| 12:15–13:30 Antalya (10:15–11:30 ora italiana) | Dichiarazioni di apertura di **Recep Tayyip Erdoğan, presidente della Türkiye**, **António Guterres, segretario generale ONU**, e del **Primo ministro australiano** ✅ [11] |
+| 14:00 Antalya (12:00 ora italiana) | Apertura del segmento di alto livello ✅ [11] |
+| 14:30–18:30 Antalya (12:30–16:30 ora italiana) | Dichiarazioni nazionali ✅ [11] |
+| orario n.d. | Eventi su foreste, "35 by 35", rifiuti zero e metano, industria verde ed Early Warnings for All (l'allerta precoce per tutti) ✅ [11] |
+| giornata intera | Giornata tematica "Zero Waste", secondo l'Overview Schedule UNFCCC (giorno 1 del summit) ✅ [11] |
 
-### Cosa aspettarsi domani (mercoledì 11/11)
-- ✅ Primo giorno del **Leaders' Summit di Antalya** (PDF UNFCCC letto integralmente al mattino): dichiarazioni di apertura di Erdoğan, Guterres e del Primo ministro australiano 10:15–11:30 Roma; apertura del segmento di alto livello 12:00; dichiarazioni nazionali 12:30–16:30; eventi su foreste, "35 by 35", rifiuti zero/metano, industria verde ed Early Warnings for All [11]. 🟡 Tra gli oratori attesi Lula, von der Leyen e Han Zheng [7][15].
-- ✅ Disagi alla viabilità e minore capacità delle navette l'11–12/11 [2].
-- ✅ Giornata tematica "Zero Waste" secondo l'Overview Schedule UNFCCC (giorno 1 del summit) [11].
-- Possibile pubblicazione del riassunto del Baku High-Level Dialogue e del primo report ENB.
+- **Luiz Inácio Lula da Silva (Brasile), Ursula von der Leyen (Commissione europea) e Han Zheng (Cina)** sono tra gli oratori attesi 🟡 [7][15].
+- **Climate Home News** conta 42 leader in programma, riportato da una sola fonte ⚠️ [7].
+- **La Presidenza COP31** annuncia disagi alla viabilità e minore capacità delle navette l'11 e il 12/11 ✅ [2].
+- **Climate Home News e ABC News** hanno già riportato il 10/11 un secondo mattino di traffico e navette sovraffollate 🟡 [7][8]. Alcuni eventi del mattino sono stati riprogrammati 🟡 [7][8].
+- **I co-presidenti del Baku High-Level Dialogue** potrebbero pubblicare il loro riassunto. **ENB** potrebbe pubblicare il primo report.
 
-## EN
+## Qualità delle fonti
+| Tier | N. fonti |
+|---|---|
+| A (fonti ufficiali) | 8 |
+| B | 8 |
+| C | 1 |
+| **Totale** | **17** |
 
-### Facts of the day
-1. ✅ **The Presidency presented the "35-by-35" package.** Voluntary goal: electricity from about 23% to 35% of final consumption by 2035. Alongside it: an Electrification Forum with the EU, an Electrification Board with the IEA as secretariat, an IEA-led tracking mechanism and the Electrify Now Finance Coalition, with the World Bank and the African Development Bank as co-chairs from 2027 [1]. Kurum: "COP31 will be remembered as the moment we flicked the switch" [1].
-2. 🟡 **The fight is over "clean" electricity.** The text does not require the additional electricity to come from clean sources [8][15]; some fossil fuel producers are expected to oppose any such reference in the final decision [7][8]. Bowen: without 35%, the world "has no chance of holding to 1.5 degrees" [8].
-3. ✅ **Global Carbon Budget 2026:** fossil CO₂ emissions at 38.2 bn t, −0.4%, the first fall since 2020, partly due to the oil shock linked to the Iran conflict. Total emissions, however, rise to 43.3 bn t and the remaining 1.5 °C budget is 150 bn t, under four years [3].
-4. 🟡 **Fossil fuel roadmap.** The COP30 Presidency (Brazil) presented its transition-away-from-fossil-fuels roadmap in plenary: national plans by 2028, supply cuts from 2031 [14][15]. Guterres: "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable" [14][15]. There is no fossil fuel agenda item [8] and governments have no shared plan [15]. ⚠️ According to Climate Home, India, Nigeria and Germany backed it [14].
-5. ✅ **Corporate and utility commitments:** UNEZA raises its annual commitment for grids, renewables and storage from USD 148 bn to USD 156 bn; over 180 We Mean Business Coalition companies (USD 1.69 tn revenue) back electrification [1].
-6. 🟡 **Rooftop solar:** an Australia-led declaration to double households with panels to 300 million by 2030; signatories include Bangladesh, Kenya, Nigeria, Vanuatu [7][8].
-7. 🟡 **The United States is absent for the second year running** [15][16]. ⚠️ According to Carbon Brief, 92,934 in-person registrants (provisional): it would be the largest COP ever; the largest delegation is Türkiye's (2,950), followed by Brazil, Nigeria, China, Indonesia [17].
-8. 🟡 **Logistics:** a second morning of traffic and overcrowded shuttles; some morning events were rescheduled [7][8]. ✅ The Presidency warns of traffic disruption on 11–12 Nov for the Leaders' Summit [2].
+- **Legenda:** ✅ fonte ufficiale (Tier A) · 🟡 almeno 2 fonti Tier B indipendenti · ⚠️ fonte singola non ufficiale o non confermato.
+- **Lette integralmente:** [1] [3] [7] [8] [9] [14] [15] [16] [17]. PDF UNFCCC del Leaders' Summit, giorno 1 (11/11): letto integralmente al mattino. PDF giorno 2 (12/11): letto integralmente.
+- **Via risultati di ricerca o lette in precedenza:** [4] [5] [6] [10] [11] [12] [13].
+- **Siti non leggibili:**
+  - enb.iisd.org e sdg.iisd.org: nessun report del 10/11 indicizzato.
+  - PDF UNFCCC "ALS-2026-DAY1": non leggibile la sera, letto al mattino.
+  - unfccc.int: la richiesta curl restituisce HTML.
+  - cop31.tr: elenco notizie leggibile solo nella prima pagina.
+  - Carbon Brief: nessun resoconto quotidiano, solo l'analisi sulle delegazioni.
+  - Carbon Pulse: contenuti a pagamento.
+  - AFP (Agence France-Presse): nessun articolo del 10/11 trovato.
+- **Affermazioni rimaste ⚠️:**
+  - Solo da Climate Home: adesioni al 35-by-35 (Australia, Etiopia, Germania, Norvegia); circa 100 mln $ dei Climate Investment Funds; quadro Green Climate Fund–Adaptation Fund; Coal Transition Partnerships (23 mld $); pass per ospiti (14.285); giacimenti di Gabar; sostegno di India, Nigeria e Germania alla roadmap.
+  - Solo da Carbon Brief: numero di iscritti (92.934).
+- **Conflitti tra fonti:**
+  - **Co-presidenti della Electrify Now Finance Coalition.** La Presidenza (fonte ufficiale) indica Banca Mondiale e Banca africana di sviluppo dal 2027. Climate Home scrive che la Banca Mondiale co-presiede il piano di lavoro 2027, con l'adesione di BERS (Banca europea per la ricostruzione e lo sviluppo), BEI (Banca europea per gli investimenti) e BID (Banca interamericana di sviluppo).
+  - **Quota attuale di elettricità.** Presidenza e Bowen indicano il 23%. Reuters scrive "just over a fifth" (poco più di un quinto).
+  - **Iscritti in presenza.** Climate Home indica 68.374, Carbon Brief 92.934. Sono dati provvisori, probabilmente su basi diverse. Nessun dato ufficiale UNFCCC trovato.
+  - **Inizio dei negoziati formali.** AP scrive che iniziano l'11/11. Il programma UNFCCC li fa partire dal 9/11: prevale il programma ufficiale.
+- **Storia della versione:** prima versione serale il 10/11/2026 alle 21:15 (ora italiana). La versione finale aggiunge Reuters, AP e Climate Home sulla roadmap fossili, Carbon Brief sulle delegazioni e il programma integrale del Leaders' Summit (PDF UNFCCC).
 
-### State of negotiations by theme
-_Even at the morning consolidation no ENB report for 10 Nov is readable (403) and no Tier A/B source describes the outcome of the negotiating meetings. The status below reflects what was reported._
-- **Mitigation / NDCs:** no new text reported. 🟡 Electrification stays outside the formal negotiations (Action Agenda); the Presidency is consulting countries on a possible reference in the final decision [7][8]. ✅ The Global Carbon Budget confirms the 1.5 °C budget is running out [3].
-- **Finance:** ✅ new Electrify Now Finance Coalition [1]. ⚠️ According to Climate Home, the Climate Investment Funds announced nearly USD 100 m to de-risk clean power, grid and storage projects [7]. No news on the climate finance work programme adopted yesterday.
-- **Article 6 (carbon markets):** ✅ the workshop on non-market approaches (Art. 6.8, 10th meeting of the Glasgow Committee) was scheduled, on "putting non-market approaches into practice" [5]. No account.
-- **Adaptation / GGA:** ✅ the Baku High-Level Dialogue on Adaptation (08:00–11:00 Rome) was scheduled and is to produce a co-chairs' summary [10]. Summary not yet published. ⚠️ According to Climate Home, the Green Climate Fund and the Adaptation Fund launched a framework to scale up successful adaptation projects [7].
-- **Loss & damage:** nothing new reported.
-- **Just transition:** ⚠️ according to Climate Home, the Powering Past Coal Alliance launched "Coal Transition Partnerships" to unlock over USD 23 bn [7]. No news on the Belém-Antalya Mechanism.
-- **GST follow-up:** 🟡 the Brazilian roadmap targets the 2028 Global Stocktake as the review moment [7][14].
-- **Trade / unilateral measures:** nothing new reported.
-- **Other:** 🟡 United States absent [15][16]. ⚠️ according to Climate Home, 14,285 of 68,374 in-person registrants are host-country guests (about one in five), including fossil fuel executives [7] (single source). ⚠️ Tomorrow 42 leaders speak, including Lula, von der Leyen and Han Zheng, according to Climate Home [7].
+## Fonti
 
-### Panel index
-| Panel | Summary | Relevance |
-|---|---|---|
-| ["35-by-35" electrification package](panel/elettrificazione-35by35.md) | Goal, forum, board, IEA tracking, finance coalition, UNEZA and corporate commitments, rooftop solar | Medium |
-| [Global Carbon Budget 2026](panel/global-carbon-budget-2026.md) | Fossil emissions −0.4%, total rising, 1.5 °C budget under 4 years | Low |
-| [Fossil fuel transition roadmap (TAFF)](panel/roadmap-fossili-taff.md) | COP30 Presidency toolkit, Guterres's appeal, expected opposition | Low |
+1. **Presidenza COP31** — [La COP31 accende l'"era dell'elettricità"](https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge)
+   Tier A · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
 
-### Events without a written source
-_(UNFCCC/Presidency programme; no written account found.)_
-- Baku High-Level Dialogue on Adaptation (10:00–13:00 Antalya) [10]: co-chairs' summary not yet published.
-- Art. 6.8 workshop on non-market approaches (GCNMA 10) [5].
-- FMCP4 Part II (multilateral review of progress).
-- Global Electrification Ministerial (15:30–17:30 CET) [6]: content known only through the Presidency's overall release [1].
-- Electrification Forum co-hosted with the EU [1]: no Commission account found.
-- Ministerial meeting on the Azerbaijan–Kazakhstan–Uzbekistan green energy partnership; panel on Ukraine's energy transition; "Redefining Sustainable Mobility" (Togg) in the Green Zone [9].
-- EU and Italy pavilions; EFRAG, ISSB/IFRS, GHG Protocol, SBTi, GFANZ, UNEP FI, WBCSD: no 10 Nov event with written material found.
+2. **Presidenza COP31** — [Avviso COP31: disagi previsti a viabilità e accessi l'11-12 novembre](https://cop31.tr/news-detail/cop31-leaders-summit-transport-arrangements)
+   Tier A · pubblicato 10/11/2026 · consultato 10/11/2026 · solo sommario dalla pagina notizie
 
-### What to expect tomorrow (Wednesday 11 Nov)
-- ✅ Day one of the **Antalya Leaders' Summit** (UNFCCC PDF read in full in the morning): opening statements by Erdoğan, Guterres and the Australian Prime Minister 10:15–11:30 Rome; opening of the high-level segment 12:00; national statements 12:30–16:30; events on forests, "35 by 35", zero waste/methane, green industry and Early Warnings for All [11]. 🟡 Expected speakers include Lula, von der Leyen and Han Zheng [7][15].
-- ✅ Traffic disruption and reduced shuttle capacity on 11–12 Nov [2].
-- ✅ "Zero Waste" thematic day according to the UNFCCC Overview Schedule (summit day 1) [11].
-- Possible publication of the Baku High-Level Dialogue summary and the first ENB report.
+3. **University of East Anglia / Global Carbon Project (via EuropaWire)** — [Gli scienziati UEA prevedono un calo delle emissioni fossili di CO₂ nel 2026, mentre le emissioni totali crescono](https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/)
+   Tier A · comunicato originale · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
 
-## Qualità delle fonti / Source quality
-- **Fonti usate / Sources used:** 17 — Tier A: 8 · Tier B: 8 · Tier C: 1.
-- **Lette integralmente / Read in full:** [1] [3] [7] [8] [9] [14] [15] [16] [17]; PDF UNFCCC Leaders' Summit giorno 1 / day 1 (11/11) letto integralmente al mattino / read in full in the morning; PDF UNFCCC Leaders' Summit giorno 2 / day 2 (12/11) letto integralmente; [5] [4] [6] [10] [11] [12] [13] via risultati di ricerca o letti in precedenza / via search results or read earlier.
-- **Non accessibili / Not fetchable:** enb.iisd.org / sdg.iisd.org (nessun report del 10/11 indicizzato / no 10 Nov report indexed); PDF UNFCCC "ALS-2026-DAY1" (non leggibile la sera, letto al mattino / unreadable in the evening, read in the morning); curl verso unfccc.int restituisce HTML / curl to unfccc.int returns HTML; cop31.tr elenco notizie solo prima pagina / news list first page only. Carbon Brief: nessun debriefing quotidiano, solo l'analisi sulle delegazioni / no daily debrief, only the delegations analysis. Carbon Pulse: paywall. AFP: nessun articolo del 10/11 trovato / no 10 Nov article found.
-- **Restano ⚠️ / Kept ⚠️:** adesioni al 35-by-35 (Australia, Etiopia, Germania, Norvegia); CIF ~100 mln $; quadro GCF–Adaptation Fund; Coal Transition Partnerships (23 mld $); pass per ospiti (14.285); giacimenti di Gabar; sostegno di India/Nigeria/Germania alla roadmap — tutti da Climate Home soltanto / all from Climate Home only. Numero di iscritti (92.934) — solo Carbon Brief / Carbon Brief only.
-- **Conflitti / Conflicts:** co-presidenti della Electrify Now Finance Coalition: Presidenza = Banca Mondiale + BAfD dal 2027 (ufficiale); Climate Home = Banca Mondiale co-presiede il piano di lavoro 2027, con BERS, BEI, BID aderenti / co-chairs: Presidency = World Bank + AfDB from 2027 (official); Climate Home = World Bank co-chairs the 2027 work plan, with EBRD, EIB, IDB joining. Quota attuale di elettricità: Presidenza e Bowen 23%; Reuters "just over a fifth" / current electricity share: Presidency and Bowen 23%; Reuters "just over a fifth". Iscritti in presenza: Climate Home 68.374, Carbon Brief 92.934 (provvisori, probabilmente basi diverse; nessun dato UNFCCC ufficiale trovato) / in-person registrants: Climate Home 68,374, Carbon Brief 92,934 (provisional, probably different bases; no official UNFCCC figure found). AP scrive che i negoziati formali iniziano l'11/11, in contrasto con il programma UNFCCC (negoziati dal 9/11): prevale il programma ufficiale / AP writes formal talks start on 11 Nov, contradicting the UNFCCC programme (talks since 9 Nov): the official programme prevails.
+4. **UNFCCC** — [University of Exeter: lancio del rapporto Global Carbon Budget 2026](https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report)
+   Tier A · data n.d. · consultato 10/11/2026 · solo risultati di ricerca
 
-## Fonti / Sources
-[1] Tier A — Presidenza COP31 / COP31 Presidency — "COP31 flicks the switch on 'age of electricity'" — https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[2] Tier A — Presidenza COP31 / COP31 Presidency — "COP31 Advisory: Anticipated Traffic and Access Disruptions on 11-12 November" — https://cop31.tr/news-detail/cop31-leaders-summit-transport-arrangements — pubblicato 2026-11-10 — consultato 2026-11-10 (sommario dalla pagina notizie / summary from news list)
-[3] Tier A — University of East Anglia / Global Carbon Project (comunicato originale, via EuropaWire / original release, via EuropaWire) — "UEA Scientists Project Fall in Fossil CO₂ Emissions in 2026 as Total Carbon Emissions Rise" — https://news.europawire.eu/uea-scientists-project-fall-in-fossil-co%E2%82%82-emissions-in-2026-as-total-carbon-emissions-rise/eu-press-release/2026/11/10/11/10/05/186889/ — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[4] Tier A — UNFCCC — "University of Exeter (UoE): Launch of the Global Carbon Budget 2026 Report" — https://unfccc.int/event/university-of-exeter-uoe-launch-of-the-global-carbon-budget-2026-report — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[5] Tier A — UNFCCC — "Concept note: Article 6.8 in-session workshop GCNMA10" — https://unfccc.int/sites/default/files/resource/Concept_note_Article_6.8_in-session_workshop_GCNMA10.pdf — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[6] Tier A — Commissione europea, DG ENER / European Commission, DG ENER — "Energy events at COP31" — https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en — consultato 2026-11-10 (letto il 2026-11-10 mattina / read on 2026-11-10 morning)
-[7] Tier B — Climate Home News (M. Rowling, J. Lo, S. Rodriguez, C. Farand, V. Chime, M. Civillini) — "COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition" — https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/ — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[8] Tier B — ABC News Australia (L. Tingle) — "COP31 electric power target sparks row over cutting fossil fuel use" — https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196 — pubblicato 2026-11-11 04:33 AEDT (2026-11-10 18:33 Roma) — consultato 2026-11-10 (pagina completa / full page)
-[9] Tier B — Anadolu Agency (S. Kurt) (solo fatti del governo turco / Turkish government facts only) — "COP31 enters 2nd day with focus on energy, transport" — https://aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177 — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[10] Tier A — UNFCCC — "COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note" — https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf — consultato 2026-11-10 (PDF integrale, letto il mattino / full PDF, read in the morning)
-[11] Tier A — UNFCCC — "Antalya Leaders' Summit at COP 31" (https://unfccc.int/node/662632) e "COP 31 Antalya Leaders' Summit Schedule" Day 1 (https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf) e Day 2 (https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf); Overview Schedule (https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf) — consultati 2026-11-10 (Day 2 PDF integrale; Day 1 PDF integrale letto il 2026-11-11 / Day 1 full PDF read on 2026-11-11)
-[12] Tier C — Euronews — "'The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels" — https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f — pubblicato 2026-11-04 — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[13] Tier B — Climate Home News — "Brazil's fossil fuel roadmap sketches out first global timetable" — https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable — pubblicato 2026-11-03 — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[14] Tier B — Climate Home News (S. Rodriguez) — "Big fossil-fuel countries back Brazil-led transition roadmap" — https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/ — pubblicato 2026-11-10 — consultato 2026-11-11 (pagina completa / full page)
-[15] Tier B — Reuters (T. Gumrukcu, V. Volcovici), via Investing.com — "World leaders to address COP31 as Turkey pushes for new climate deal" — https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570 — pubblicato 2026-11-10 22:09 — consultato 2026-11-11 (pagina completa / full page)
-[16] Tier B — Associated Press, via WDBO — "World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow" — https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/ — pubblicato 2026-11-11 06:05 Roma — consultato 2026-11-11 (pagina completa / full page)
-[17] Tier B — Carbon Brief — "Analysis: Which countries have sent the most delegates to COP31?" — https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31 — pubblicato 2026-11-10 — consultato 2026-11-11 (pagina completa / full page)
+5. **UNFCCC** — [Nota concettuale: workshop in sessione sull'Articolo 6.8, GCNMA10 (PDF)](https://unfccc.int/sites/default/files/resource/Concept_note_Article_6.8_in-session_workshop_GCNMA10.pdf)
+   Tier A · data n.d. · consultato 10/11/2026 · solo risultati di ricerca
+
+6. **Commissione europea, DG ENER (Direzione generale Energia)** — [Eventi sull'energia alla COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
+   Tier A · data n.d. · consultato 10/11/2026 · letta il mattino del 10/11
+
+7. **Climate Home News** (M. Rowling, J. Lo, S. Rodriguez, C. Farand, V. Chime, M. Civillini) — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
+   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+
+8. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
+   Tier B · pubblicato 11/11/2026 alle 04:33 ora dell'Australia orientale (10/11/2026 alle 18:33 ora italiana) · consultato 10/11/2026 · pagina completa
+
+9. **Anadolu Agency** (S. Kurt; usata solo per i fatti del governo turco) — [La COP31 entra nel secondo giorno con focus su energia e trasporti](https://aa.com.tr/en/turkiye/cop31-enters-2nd-day-with-focus-on-energy-transport/4118177)
+   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+
+10. **UNFCCC** — [Baku High Level Dialogue on Adaptation alla COP31 – evento mandatario: nota concettuale (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)
+    Tier A · data n.d. · consultato 10/11/2026 · documento completo (letto al mattino)
+
+11. **UNFCCC** — [Antalya Leaders' Summit alla COP 31](https://unfccc.int/node/662632); [Programma del Leaders' Summit, giorno 1 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY1.pdf); [Programma del Leaders' Summit, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf); [Programma generale COP 31 (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
+    Tier A · data n.d. · consultato 10/11/2026 · documento completo (PDF giorno 2; PDF giorno 1 letto integralmente l'11/11/2026)
+
+12. **Euronews** — ["La transizione è inevitabile": il Brasile pubblica la prima roadmap globale per l'uscita dai fossili](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)
+    Tier C · pubblicato 04/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
+
+13. **Climate Home News** — [La roadmap brasiliana sui fossili abbozza il primo calendario globale](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)
+    Tier B · pubblicato 03/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
+
+14. **Climate Home News** (S. Rodriguez) — [Grandi Paesi fossili sostengono la roadmap di transizione guidata dal Brasile](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)
+    Tier B · pubblicato 10/11/2026 · consultato 11/11/2026 · pagina completa
+
+15. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [I leader mondiali parlano alla COP31 mentre la Turchia spinge per un nuovo accordo sul clima](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)
+    Tier B · pubblicato 10/11/2026 alle 22:09 · consultato 11/11/2026 · pagina completa
+
+16. **Associated Press (via WDBO)** — [I leader mondiali avviano i colloqui alla conferenza ONU sul clima tra timori di azioni inadeguate e lente](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)
+    Tier B · pubblicato 11/11/2026 alle 06:05 ora italiana · consultato 11/11/2026 · pagina completa
+
+17. **Carbon Brief** — [Analisi: quali Paesi hanno inviato più delegati alla COP31?](https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31)
+    Tier B · pubblicato 10/11/2026 · consultato 11/11/2026 · pagina completa

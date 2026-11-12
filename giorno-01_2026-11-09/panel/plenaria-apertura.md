@@ -1,82 +1,68 @@
-# Plenaria di apertura COP31 / CMP21 / CMA8 / Opening plenary of COP31 / CMP21 / CMA8
+# Plenaria di apertura COP31 / CMP21 / CMA8
+✅ Versione finale — consolidata il 10/11/2026 alle 07:30 (ora italiana)
 
-> ✅ **Versione finale / Final version** — consolidata il 2026-11-10 07:30 (Europe/Rome) / consolidated on 2026-11-10 07:30 (Europe/Rome). Aggiunti AP [7] e Down To Earth [8] (esito delle consultazioni della Presidenza); rimossa riga duplicata. / Added AP [7] and Down To Earth [8] (outcome of Presidency consultations); duplicate line removed.
+**Quando:** 09/11 (lunedì), mattina, orario esatto n.d. ✅ [1]; avvio con circa 90 minuti di ritardo secondo AFP 🟡 [3] · **Dove:** Antalya EXPO Center, Antalya, Türkiye [1][2] · **Organizza:** Segretariato UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici) e Presidenza COP31 (Türkiye)
+**Relatori:** **Murat Kurum** (presidente COP31, ministro dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye) [2]; **Chris Bowen** (ministro australiano per il Cambiamento climatico e l'Energia, presidente dei negoziati) [2][4]; **Simon Stiell** (segretario esecutivo, UNFCCC) [2][4]; **António Guterres** (segretario generale, ONU) [3]; **André Corrêa do Lago** (presidente COP30, Brasile; ha aperto la sessione) [3]
+🎥 Video non ancora disponibile
 
-- **Data / Date:** 2026-11-09 (lunedì / Monday)
-- **Orario / Time:** mattina secondo il programma ufficiale [1] ✅; avvio con circa 90 minuti di ritardo secondo AFP [3] 🟡 (fonte d'agenzia singola, confermata nel contenuto da Climate Home [4]) / morning per the official programme [1] ✅; started about 90 minutes late per AFP [3] 🟡 (single wire, content consistent with Climate Home [4])
-- **Luogo / Venue:** Antalya EXPO Center, Antalya, Türkiye [1][2]
-- **Organizzatore / Organiser:** Segretariato UNFCCC, Presidenza COP31 (Türkiye) / UNFCCC Secretariat, COP31 Presidency (Türkiye)
-- **Relatori / Speakers:**
-  - Murat Kurum — Presidente COP31, Ministro dell'Ambiente, Urbanizzazione e Cambiamento climatico, Türkiye / COP31 President, Minister of Environment, Urbanisation and Climate Change, Türkiye [2]
-  - Chris Bowen — Ministro australiano per il Cambiamento climatico e l'Energia, Presidente dei negoziati / Australian Minister for Climate Change and Energy, President of Negotiations [2][4]
-  - Simon Stiell — Segretario esecutivo UNFCCC / UNFCCC Executive Secretary [2][4]
-  - António Guterres — Segretario generale ONU / UN Secretary-General [3]
-  - André Corrêa do Lago — Presidente COP30 (Brasile), ha aperto la sessione / COP30 President (Brazil), opened the session [3]
+Sigle del titolo: COP31 è la 31ª conferenza ONU sul clima; CMP21 è la 21ª riunione delle Parti del Protocollo di Kyoto; CMA8 è l'8ª riunione delle Parti dell'Accordo di Parigi.
 
-## IT
+## In breve
+**La COP31** si è aperta ad Antalya con una presidenza divisa, la prima nella storia delle COP: **la Türkiye** ospita e presiede la conferenza e l'Action Agenda, **l'Australia** guida i negoziati [2][3][4]. **La Presidenza** la presenta come la "COP dell'attuazione" ✅ [2]; l'agenda adottata pesa sulle future richieste di dati climatici alle PMI.
 
-**Contesto.** La COP31 si è aperta ad Antalya con una presidenza divisa, la prima nella storia delle COP: la Türkiye ospita e presiede la conferenza e l'Action Agenda, l'Australia guida i negoziati [2][3][4]. La Presidenza la presenta come la "COP dell'attuazione" [2] ✅.
+Nota sulle fonti: il ritardo di circa 90 minuti viene da un solo lancio d'agenzia (AFP), coerente nel contenuto con Climate Home [4].
 
-**Punti chiave**
-- 🟡 **Agenda adottata senza scontro in plenaria.** Dopo trattative fino a domenica notte, il "programma di lavoro sulla finanza climatica" nato alla COP30 è stato inserito in agenda su pressione dei Paesi in via di sviluppo [3][4]. La richiesta africana di punti separati su triplicazione della finanza per l'adattamento e commercio è stata accantonata: l'adattamento sarà trattato in altri filoni, come il Global Goal on Adaptation e il programma sulla finanza [3][4].
-- ⚠️ Secondo Climate Home, il punto sulle montagne chiesto dal Nepal non è stato adottato e il tema passa a consultazioni; il Nepal lo giudica un compromesso che "falls short of our expectations" [4] (fonte singola).
-- ✅ Kurum ha chiesto una "Implementation COP", ha detto che l'obiettivo di 1,5 °C "remains our guide" e che "our promises must be backed by capital" [2].
-- 🟡 Stiell ha detto che i progressi non sono abbastanza veloci [4][5]. Secondo il comunicato della Presidenza, ha citato 265 miliardi di dollari risparmiati grazie alle rinnovabili nel primo semestre 2026 [2] ✅ (dato riportato dalla Presidenza).
-- 🟡 Bowen ha detto che la decisione finale ("cover decision") non sarà "a lengthy political declaration" ma una risposta "focused, practical, concrete" [4]; il giorno prima aveva detto che "there will be no surprises" [4] (fonte singola Tier B per le citazioni).
-- 🟡 Secondo AFP, Guterres ha esortato i leader a "get serious" sulle emissioni [3].
-- 🟡 Secondo AP, le proposte d'agenda del Gruppo africano erano sostenute da molti Paesi in via di sviluppo ma osteggiate da UE e Canada [7]. Secondo Down To Earth (Tier C), l'UE sosteneva che la COP30 non avesse creato un punto d'agenda separato per il programma sulla finanza, che riguarda l'attuazione dell'Art. 9.1 dell'Accordo di Parigi [8].
-- ⚠️ Secondo Down To Earth, dalle consultazioni della Presidenza: il finanziamento del Green Climate Fund sarà discusso in un punto esistente; la settima revisione del meccanismo finanziario slitta alla COP32; il tema montagne sarà considerato per un dialogo di ricerca a SBSTA 66; i presidenti degli organi sussidiari inviteranno contributi per il prossimo dialogo sul commercio a Bonn [8] (fonte Tier C; il rinvio del punto montagne è coerente con Climate Home [4]).
-- 🟡 Secondo AP, Kurum ha detto che questa è "the first COP where it is clear beyond a reasonable doubt that the world will overshoot the 1.5-degree target" [7]. Code lunghe all'accreditamento: gli organizzatori hanno chiesto a chi non aveva attività essenziali di ritirare il badge martedì; circa 68.500 registrati [7].
+## Punti chiave
+- **I Paesi in via di sviluppo** hanno ottenuto l'inserimento in agenda del "programma di lavoro sulla finanza climatica" nato alla COP30, dopo trattative fino a domenica notte 🟡 [3][4]. L'agenda è stata adottata senza scontro in plenaria 🟡 [3][4].
+  - **Il Gruppo africano** chiedeva punti separati su triplicazione della finanza per l'adattamento e commercio: le richieste sono state accantonate 🟡 [3][4]. L'adattamento sarà trattato in altri filoni, come il GGA (l'obiettivo globale sull'adattamento) e il programma sulla finanza 🟡 [3][4].
+  - **Molti Paesi in via di sviluppo** sostenevano le proposte africane, mentre **Unione Europea e Canada** si opponevano, secondo AP 🟡 [7].
+  - **L'Unione Europea** sosteneva che la COP30 non avesse creato un punto d'agenda separato per il programma sulla finanza, secondo Down To Earth (Tier C) [8]. Il programma riguarda l'attuazione dell'Art. 9.1 dell'Accordo di Parigi [8].
+  - **Il Nepal** aveva chiesto un punto sulle montagne: non è stato adottato e il tema passa a consultazioni, secondo Climate Home ⚠️ [4]. Il Nepal giudica il compromesso «al di sotto delle nostre aspettative»; riportato da una sola fonte ⚠️ [4].
+  - **Le consultazioni della Presidenza**, secondo Down To Earth (Tier C), spostano il finanziamento del Green Climate Fund (il Fondo verde per il clima) in un punto esistente ⚠️ [8]. La settima revisione del meccanismo finanziario slitta alla COP32 ⚠️ [8]. Le montagne saranno considerate per un dialogo di ricerca a SBSTA 66 (l'organo sussidiario per la consulenza scientifica e tecnologica) ⚠️ [8]. I presidenti degli organi sussidiari inviteranno contributi per il prossimo dialogo sul commercio a Bonn ⚠️ [8]. Il rinvio del punto montagne è coerente con Climate Home [4].
+- **Murat Kurum, presidente COP31**, ha chiesto una "COP dell'attuazione" ✅ [2]. Ha detto che l'obiettivo di 1,5 °C «resta la nostra guida» e che «le nostre promesse devono essere sostenute da capitali» ✅ [2]. **Kurum** ha anche detto che questa è «la prima COP in cui è chiaro oltre ogni ragionevole dubbio che il mondo supererà l'obiettivo di 1,5 gradi», secondo AP 🟡 [7].
+- **Simon Stiell, segretario esecutivo UNFCCC**, ha detto che i progressi non sono abbastanza veloci 🟡 [4][5]. **Stiell** ha citato 265 miliardi di dollari risparmiati grazie alle rinnovabili nel primo semestre 2026, secondo il comunicato della Presidenza ✅ [2].
+- **Chris Bowen, presidente dei negoziati**, ha detto che la decisione finale ("cover decision") non sarà «una lunga dichiarazione politica» 🟡 [4]. Sarà invece una risposta «mirata, pratica, concreta» 🟡 [4]. Il giorno prima aveva detto che «non ci saranno sorprese»; per le citazioni c'è una sola fonte Tier B 🟡 [4].
+- **António Guterres, segretario generale ONU**, ha esortato i leader a «fare sul serio» sulle emissioni, secondo AFP 🟡 [3].
 
-**Annunci / impegni / numeri**
-- ✅ Obiettivo volontario "35-by-35" della Presidenza: elettricità al 35% dei consumi finali di energia entro il 2035 [2][6]. 🟡 Oggi la quota è circa il 20% secondo AFP [3].
-- ✅ Pubblicato il rapporto "Belém Mission to 1.5" delle presidenze di Türkiye, Australia, Brasile e Azerbaigian [2].
-- ✅ Il comunicato della Presidenza richiama l'obiettivo di Baku: almeno 300 mld $/anno per i Paesi in via di sviluppo entro il 2035 e 1.300 mld $/anno da tutte le fonti [2].
-- ✅ Secondo la WMO, citata dalla Presidenza, gli ultimi 12 anni sono stati ciascuno tra i più caldi mai registrati, gli ultimi quattro i più caldi in assoluto [2].
-- ⚠️ Secondo Climate Home, la Germania ha fornito 4,7 mld € di finanza climatica nel 2025, sotto l'obiettivo di 6 mld € [4]. Egitto e Argentina hanno presentato le NDC al 2035 [4] (fonte singola).
-- 🟡 Gli Stati Uniti non hanno inviato funzionari dell'amministrazione [3][5]; secondo AFP sarà presente una delegazione del Congresso [3].
+## Annunci e numeri
+- **La Presidenza COP31** propone l'obiettivo volontario "35-by-35": elettricità al 35% dei consumi finali di energia entro il 2035 ✅ [2][6]. Oggi la quota è circa il 20%, secondo AFP 🟡 [3].
+- **Le presidenze di Türkiye, Australia, Brasile e Azerbaigian** hanno pubblicato il rapporto "Belém Mission to 1.5" ✅ [2].
+- **La Presidenza COP31** richiama l'obiettivo di Baku: almeno 300 mld $/anno per i Paesi in via di sviluppo entro il 2035 e 1.300 mld $/anno da tutte le fonti ✅ [2].
+- **La WMO (l'Organizzazione meteorologica mondiale)**, citata dalla Presidenza, indica che ciascuno degli ultimi 12 anni è tra i più caldi mai registrati, e gli ultimi quattro i più caldi in assoluto ✅ [2].
+- **La Germania** ha fornito 4,7 mld € di finanza climatica nel 2025, sotto l'obiettivo di 6 mld €, secondo Climate Home ⚠️ [4].
+- **Egitto e Argentina** hanno presentato le NDC (i piani nazionali di riduzione delle emissioni) al 2035; riportato da una sola fonte ⚠️ [4].
+- **Gli Stati Uniti** non hanno inviato funzionari dell'amministrazione 🟡 [3][5]. **Una delegazione del Congresso USA** sarà presente, secondo AFP 🟡 [3].
+- **Gli organizzatori** hanno chiesto a chi non aveva attività essenziali di ritirare il badge martedì, per le lunghe code all'accreditamento, secondo AP 🟡 [7]. I registrati sono circa 68.500 🟡 [7].
 
-**Citazioni**
-- "Now our promises must be backed by capital." — Murat Kurum, Presidente COP31 [2]
-- "We have entered a new age of climate extremes." — António Guterres, secondo AFP [3]
+## Citazioni
+- «Ora le nostre promesse devono essere sostenute da capitali.» — **Murat Kurum, presidente COP31** [2] _(traduzione; originale: "Now our promises must be backed by capital.")_
+- «Siamo entrati in una nuova era di estremi climatici.» — **António Guterres, segretario generale ONU**, secondo AFP [3] _(traduzione; originale: "We have entered a new age of climate extremes.")_
 
-**Rilevanza per il reporting / VSME: Media** — nessuna decisione sul reporting. L'ingresso in agenda del programma sulla finanza climatica e il rinvio dell'adattamento ad altri filoni pesano però sulle richieste future di dati su rischi fisici e transizione che banche e clienti rivolgono alle PMI.
+## Rilevanza per il VSME
+**Media** — **La plenaria** non ha preso decisioni sul reporting. Il programma sulla finanza climatica in agenda e il rinvio dell'adattamento ad altri filoni peseranno però sulle richieste di dati su rischi fisici e transizione che banche e clienti rivolgono alle PMI.
 
-## EN
+## Fonti
 
-**Context.** COP31 opened in Antalya under a split presidency, the first in COP history: Türkiye hosts and presides over the conference and the Action Agenda, while Australia leads the negotiations [2][3][4]. The Presidency calls it the "Implementation COP" [2] ✅.
+1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF, versione del 7 ottobre 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
+   Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo
 
-**Key points**
-- 🟡 **Agenda adopted without a floor fight.** After talks ran into Sunday night, the climate finance work programme created at COP30 was put on the agenda under pressure from developing countries [3][4]. The African request for separate items on tripling adaptation finance and on trade was shelved: adaptation will be handled in other strands, such as the Global Goal on Adaptation and the finance work programme [3][4].
-- ⚠️ According to Climate Home, Nepal's requested item on mountains was not adopted and the topic moves to consultations; Nepal said the compromise "falls short of our expectations" [4] (single source).
-- ✅ Kurum called for an "Implementation COP", said the 1.5 °C goal "remains our guide" and that "our promises must be backed by capital" [2].
-- 🟡 Stiell said progress is not fast enough [4][5]. According to the Presidency release, he cited USD 265 bn saved thanks to renewables in the first half of 2026 [2] ✅ (figure as reported by the Presidency).
-- 🟡 Bowen said the final "cover decision" will not be "a lengthy political declaration" but a "focused, practical, concrete" response [4]; the day before he had said "there will be no surprises" [4] (single Tier B source for the quotes).
-- 🟡 According to AFP, Guterres urged leaders to "get serious" about emissions [3].
-- 🟡 According to AP, the African Group's agenda proposals were backed by many developing countries but opposed by the EU and Canada [7]. According to Down To Earth (Tier C), the EU argued that COP30 had not created a separate agenda item for the finance work programme, which covers implementation of Paris Agreement Art. 9.1 [8].
-- ⚠️ According to Down To Earth, from the Presidency consultations: Green Climate Fund funding will be discussed under an existing item; the seventh review of the financial mechanism is deferred to COP32; mountains will be considered for a research dialogue at SBSTA 66; the subsidiary-body chairs will invite submissions for the next trade dialogue in Bonn [8] (Tier C source; deferral of the mountains item is consistent with Climate Home [4]).
-- 🟡 According to AP, Kurum said this is "the first COP where it is clear beyond a reasonable doubt that the world will overshoot the 1.5-degree target" [7]. Long queues at registration: organisers asked those without essential business to collect badges on Tuesday; about 68,500 registered [7].
+2. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
+   Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
 
-**Announcements / commitments / numbers**
-- ✅ Presidency's voluntary "35-by-35" goal: electricity at 35% of final energy consumption by 2035 [2][6]. 🟡 The current share is about 20% according to AFP [3].
-- ✅ The "Belém Mission to 1.5" report by the Türkiye, Australia, Brazil and Azerbaijan presidencies was published [2].
-- ✅ The Presidency release recalls the Baku goal: at least USD 300 bn a year for developing countries by 2035 and USD 1.3 trillion a year from all sources [2].
-- ✅ According to the WMO, cited by the Presidency, each of the last 12 years ranks among the warmest on record, with the last four the warmest of all [2].
-- ⚠️ According to Climate Home, Germany provided €4.7 bn in climate finance in 2025, short of its €6 bn target [4]. Egypt and Argentina submitted 2035 NDCs [4] (single source).
-- 🟡 The United States sent no administration officials [3][5]; according to AFP, a congressional delegation will attend [3].
+3. **AFP (via Taipei Times)** — [La COP31 si apre con i leader sotto pressione](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)
+   Tier B · pubblicato 10/11/2026 (edizione cartacea; lancio AFP del 09/11/2026) · consultato 09/11/2026 · pagina completa · stesso lancio anche su [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) e [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683) (contano come una sola fonte)
 
-**Quotes**
-- "Now our promises must be backed by capital." — Murat Kurum, COP31 President [2]
-- "We have entered a new age of climate extremes." — António Guterres, per AFP [3]
+4. **Climate Home News** — [Bollettino COP31, giorno 1: agenda definita, la COP esortata a «potenziare le soluzioni»](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · di S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara
+   Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
 
-**Relevance for reporting / VSME: Medium** — no reporting decisions. However, putting the climate finance work programme on the agenda and moving adaptation into other strands will shape future requests for physical-risk and transition data that banks and customers send to SMEs.
+5. **Reuters (via Yahoo News)** — [I leader del vertice COP31 esortano il mondo a «muoversi più in fretta» sul clima](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · di V. Volcovici, S. Jessop
+   Tier B · aggiornato 09/11/2026 08:36 UTC · consultato 09/11/2026 · pagina completa
 
-## Fonti / Sources
-[1] Tier A — UNFCCC — "UN Climate Change Conference - Antalya: Overview Schedule" (v. 7 ott. 2026) — https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf — pubblicato 2026-10-07 — consultato 2026-11-09 (PDF integrale / full PDF)
-[2] Tier A — Presidenza COP31 / COP31 Presidency — "COP31 President opens UN climate summit with call to turn climate promises into action" — https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[3] Tier B — AFP, via Taipei Times — "COP31 opens with leaders under pressure" — https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463 — pubblicato 2026-11-10 (ed. cartacea; filo AFP del 2026-11-09) — consultato 2026-11-09 (pagina completa / full page). Stesso filo / same wire: Turkish Minute https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/ e Arab News https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683 (contano come una fonte / count as one source)
-[4] Tier B — Climate Home News (S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara) — "COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'" — https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/ — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[5] Tier B — Reuters (V. Volcovici, S. Jessop), via Yahoo News — "COP31 summit leaders urge world to 'move faster' on climate" — https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html — aggiornato 2026-11-09 08:36 UTC — consultato 2026-11-09 (pagina completa / full page)
-[6] Tier A — Ministero dell'Ambiente turco / Turkish Environment Ministry — "COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda" — https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985 — pubblicato 2026-06-09 — consultato 2026-11-09 (pagina completa / full page)
-[7] Tier B — AP (S. Fraser, S. Arasu), via PBS NewsHour — "COP31 climate summit begins after disastrous year of extreme weather" — https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather — pubblicato 2026-11-09 — consultato 2026-11-10 (pagina completa / full page)
-[8] Tier C — Down To Earth (P. Das) — "COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped" — https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
+6. **Ministero dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye** — [Il Presidente designato della COP31, il ministro Kurum, presenta l'Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)
+   Tier A · pubblicato 09/06/2026 · consultato 09/11/2026 · pagina completa
+
+7. **AP (via PBS NewsHour)** — [Il vertice sul clima COP31 si apre dopo un anno disastroso di eventi estremi](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · di S. Fraser, S. Arasu
+   Tier B · pubblicato 09/11/2026 · consultato 10/11/2026 · pagina completa
+
+8. **Down To Earth** — [La COP31 adotta il programma di lavoro sulla finanza climatica; cadono le proposte su finanza per l'adattamento e misure commerciali](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · di P. Das
+   Tier C · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa

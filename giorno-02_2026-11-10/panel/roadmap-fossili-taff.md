@@ -1,60 +1,51 @@
-# Roadmap per l'uscita dai combustibili fossili (TAFF): la Presidenza COP30 presenta il suo strumento / Transition away from fossil fuels (TAFF) roadmap: the COP30 Presidency presents its toolkit
+# Roadmap per l'uscita dai combustibili fossili (TAFF): la Presidenza COP30 presenta il suo strumento
+**Quando:** 10/11, orario n.d. · **Dove:** Antalya EXPO Center, in plenaria · **Organizza:** Presidenza COP30 (Brasile) [1][3][5]
+**Relatori:** **André Corrêa do Lago** (Presidente, COP30) [5]; **António Guterres** (segretario generale, ONU) [1][2][5][6]. Secondo Climate Home sono intervenuti anche **India**, **Nigeria**, **Germania**, il **Gruppo africano** (con **Antwi-Boasiako Amoah**, Ghana), **Laurent Fabius** e **John Kerry** [5]
+🎥 Video non ancora disponibile
 
-- **Data / Date:** martedì 10 novembre 2026 / Tuesday 10 November 2026
-- **Orario / Time (Europe/Rome):** n.d. / n/a
-- **Luogo / Venue:** Antalya EXPO Center
-- **Organizzatore / Organiser:** Presidenza COP30 (Brasile), in plenaria / COP30 Presidency (Brazil), in plenary [7][12][14]
-- **Relatori / Speakers:** André Corrêa do Lago (Presidente COP30 / COP30 President) [14]; António Guterres (Segretario generale ONU / UN Secretary-General) [7][8][14][15]; interventi di India, Nigeria, Germania, Gruppo africano (Antwi-Boasiako Amoah, Ghana), Laurent Fabius, John Kerry secondo Climate Home / interventions by India, Nigeria, Germany, African Group, Laurent Fabius, John Kerry according to Climate Home [14]
+✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
 
-> ✅ **Versione finale / Final version** — consolidata il 2026-11-11 07:45 (Europe/Rome) / consolidated on 2026-11-11 07:45 (Europe/Rome).
+## In breve
+**La Presidenza COP30 (Brasile)** ha presentato ad Antalya uno strumento per pianificare la TAFF (transition away from fossil fuels, l'uscita dai combustibili fossili), dopo aver pubblicato da sola la sua roadmap il 3/11 [2][4]. Conta perché a Belém (COP30) non c'era stato accordo su chi dovesse scriverla e alla COP31 non c'è un punto d'agenda sui fossili [2][4].
 
-## IT
+## Punti chiave
+- **La Presidenza COP30** ha presentato un "toolkit" per aiutare i Paesi a pianificare l'uscita da carbone, petrolio e gas 🟡 [1][2].
+- **António Guterres, segretario generale ONU**, ha chiesto roadmap nazionali con tempi, responsabilità e fabbisogni finanziari 🟡 [1]. Secondo Climate Home, ha detto che entro il Global Stocktake 2028 (il bilancio globale dell'Accordo di Parigi) "every country should be able to show what it has done to cut fossil fuel use or production" («ogni Paese dovrebbe poter mostrare cosa ha fatto per ridurre uso o produzione di fossili») 🟡 [1]. Secondo ABC, ha chiesto a Türkiye e Australia di portare avanti la roadmap 🟡 [2].
+- **Il Brasile** presenta la roadmap come un invito all'azione, non come un testo da negoziare 🟡 [3][4][5]. **Alcuni Paesi produttori di fossili** dovrebbero opporsi a ogni aggancio nella decisione finale 🟡 [1][5].
+- **La roadmap** fissa un calendario: i Paesi pianificano e valutano i propri sistemi energetici entro il 2028 🟡 [5][6]. I tagli all'offerta di fossili partono dal 2031 🟡 [5][6].
+- **India, Nigeria e Germania** hanno espresso sostegno, secondo Climate Home ⚠️ [5]. **Paesi Bassi, Regno Unito e Australia** lo avevano già fatto, riportato da una sola fonte ⚠️ [5]. **Il Gruppo africano** chiede flessibilità sui tempi e sostegno finanziario e tecnologico [5].
+- **Recep Tayyip Erdoğan, presidente della Türkiye**, lo stesso giorno ha celebrato su X l'aumento della produzione dei nuovi giacimenti di Gabar, secondo Climate Home ⚠️ [1]. La produzione supererebbe i 100.000 barili al giorno nel 2027, riportato da una sola fonte ⚠️ [1].
 
-**Contesto.** A Belém (COP30) non c'è stato accordo su chi dovesse scrivere una roadmap per uscire dai fossili. Il Brasile l'ha pubblicata da solo il 3/11; non c'è un punto d'agenda sui fossili a COP31 [8][13].
+## Annunci e numeri
+- **La Powering Past Coal Alliance (alleanza per l'uscita dal carbone)** ha lanciato le "Coal Transition Partnerships", secondo Climate Home ⚠️ [1]. L'obiettivo è sbloccare oltre 23 mld $ per i primi piani di uscita dal carbone nei Paesi in via di sviluppo, riportato da una sola fonte ⚠️ [1].
+- **Nessun Paese** ha assunto impegni vincolanti.
 
-**Punti chiave**
-- 🟡 La Presidenza COP30 ha presentato ad Antalya uno strumento ("toolkit") per aiutare i Paesi a pianificare l'uscita da carbone, petrolio e gas [7][8].
-- 🟡 Guterres ha chiesto roadmap nazionali con tempi, responsabilità e fabbisogni finanziari; secondo Climate Home, entro il Global Stocktake 2028 "every country should be able to show what it has done to cut fossil fuel use or production" [7]. Secondo ABC ha chiesto a Türkiye e Australia di andare avanti con la roadmap [8].
-- 🟡 Il Brasile presenta la roadmap come invito all'azione, non come testo da negoziare [12][13][14]. Alcuni produttori di fossili dovrebbero opporsi a ogni aggancio nella decisione finale [7][14].
-- 🟡 Calendario della roadmap: i Paesi pianificano e valutano i propri sistemi energetici entro il 2028; i tagli all'offerta di fossili partono dal 2031 [14][15].
-- ⚠️ Secondo Climate Home, India, Nigeria e Germania hanno espresso sostegno; Paesi Bassi, Regno Unito e Australia lo avevano già fatto [14] (fonte singola). Il Gruppo africano chiede flessibilità sui tempi e sostegno finanziario e tecnologico [14].
-- ⚠️ Secondo Climate Home, lo stesso giorno il presidente Erdoğan ha celebrato su X l'aumento della produzione dei nuovi giacimenti di Gabar (oltre 100.000 barili al giorno nel 2027) [7] (fonte singola).
-- ⚠️ Secondo Climate Home, la Powering Past Coal Alliance ha lanciato le "Coal Transition Partnerships" per sbloccare oltre 23 mld $ per i primi piani di uscita dal carbone nei Paesi in via di sviluppo [7] (fonte singola).
+## Citazioni
+- "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable." («È ora di smettere di trattare l'uscita dai fossili come un tabù o un problema irrisolvibile») — **António Guterres, segretario generale ONU**, secondo Reuters e Climate Home [5][6]
+- "We don't need more promises, we need plans." («Non servono altre promesse, servono piani») — **John Kerry**, secondo AP [7]
 
-**Annunci / impegni / numeri** — nessun impegno vincolante.
+## Rilevanza per il VSME
+**Bassa** — nessun effetto diretto, ma se le roadmap nazionali avranno scadenze cambierà il modo in cui le banche valutano il rischio di transizione delle imprese più dipendenti da gas e gasolio.
 
-**Citazioni**
-- "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable." — António Guterres, secondo Reuters e Climate Home [14][15]
-- "We don't need more promises, we need plans." — John Kerry, secondo AP [16]
+## Fonti
 
-**Rilevanza per reporting / VSME: Bassa** — nessun effetto diretto. Se le roadmap nazionali prendono forma con scadenze, cambierà la percezione del rischio di transizione da parte delle banche verso le imprese più dipendenti da gas e gasolio.
+1. **Climate Home News** — [Bollettino COP31, giorno 2: cresce lo slancio su elettrificazione e uscita dai fossili](https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/)
+   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
 
-## EN
+2. **ABC News Australia** (L. Tingle) — [L'obiettivo COP31 sull'elettricità accende lo scontro sul taglio dei fossili](https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196)
+   Tier B · pubblicato 10/11/2026 (ora italiana) · consultato 10/11/2026 · pagina completa
 
-**Context.** At Belém (COP30) there was no agreement on who should draft a roadmap away from fossil fuels. Brazil published one on its own on 3 Nov; there is no fossil fuel agenda item at COP31 [8][13].
+3. **Euronews** — ["La transizione è inevitabile": il Brasile pubblica la prima roadmap globale per l'uscita dai fossili](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f)
+   Tier C · pubblicato 04/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
 
-**Key points**
-- 🟡 The COP30 Presidency presented a toolkit in Antalya to help countries plan the transition away from coal, oil and gas [7][8].
-- 🟡 Guterres called for national roadmaps with timelines, responsibilities and financing needs; according to Climate Home, by the 2028 Global Stocktake "every country should be able to show what it has done to cut fossil fuel use or production" [7]. According to ABC, he urged Türkiye and Australia to take the roadmap forward [8].
-- 🟡 Brazil frames the roadmap as a call to action, not a text for negotiation [12][13][14]. Some fossil fuel producers are expected to resist anchoring it in the final decision [7][14].
-- 🟡 Roadmap timeline: countries plan and assess their energy systems by 2028; cuts to fossil fuel supply start from 2031 [14][15].
-- ⚠️ According to Climate Home, India, Nigeria and Germany voiced support; the Netherlands, the UK and Australia had already done so [14] (single source). The African Group asks for flexibility on timelines and for finance and technology support [14].
-- ⚠️ According to Climate Home, on the same day President Erdoğan celebrated on X the production increase at the new Gabar oilfields (over 100,000 barrels a day in 2027) [7] (single source).
-- ⚠️ According to Climate Home, the Powering Past Coal Alliance launched "Coal Transition Partnerships" to unlock over USD 23 bn for first coal phase-out plans in developing countries [7] (single source).
+4. **Climate Home News** — [La roadmap brasiliana sui fossili abbozza il primo calendario globale](https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable)
+   Tier B · pubblicato 03/11/2026 · consultato 10/11/2026 · solo risultati di ricerca
 
-**Announcements / commitments / numbers** — no binding commitments.
+5. **Climate Home News** (S. Rodriguez) — [Grandi Paesi fossili sostengono la roadmap di transizione guidata dal Brasile](https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/)
+   Tier B · pubblicato 10/11/2026 · consultato 11/11/2026 · pagina completa
 
-**Quotes**
-- "It is long past time to stop treating the transition away from fossil fuels as taboo or intractable." — António Guterres, according to Reuters and Climate Home [14][15]
-- "We don't need more promises, we need plans." — John Kerry, according to AP [16]
+6. **Reuters (via Investing.com)** (T. Gumrukcu, V. Volcovici) — [I leader mondiali parlano alla COP31 mentre la Turchia spinge per un nuovo accordo sul clima](https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570)
+   Tier B · pubblicato 10/11/2026 alle 22:09 · consultato 11/11/2026 · pagina completa
 
-**Relevance for reporting / VSME: Low** — no direct effect. If national roadmaps take shape with deadlines, banks' view of transition risk will change for companies most dependent on gas and diesel.
-
-## Fonti / Sources
-[7] Tier B — Climate Home News — "COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition" — https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/ — pubblicato 2026-11-10 — consultato 2026-11-10
-[8] Tier B — ABC News (L. Tingle) — "COP31 electric power target sparks row over cutting fossil fuel use" — https://abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196 — pubblicato 2026-11-10 (ora di Roma) — consultato 2026-11-10
-[12] Tier C — Euronews — "'The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels" — https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f — pubblicato 2026-11-04 — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[13] Tier B — Climate Home News — "Brazil's fossil fuel roadmap sketches out first global timetable" — https://climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable — pubblicato 2026-11-03 — consultato 2026-11-10 (via risultati di ricerca / via search results)
-[14] Tier B — Climate Home News (S. Rodriguez) — "Big fossil-fuel countries back Brazil-led transition roadmap" — https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/ — pubblicato 2026-11-10 — consultato 2026-11-11 (pagina completa / full page)
-[15] Tier B — Reuters (T. Gumrukcu, V. Volcovici), via Investing.com — "World leaders to address COP31 as Turkey pushes for new climate deal" — https://www.investing.com/news/commodities-news/world-leaders-to-address-cop31-as-turkey-pushes-for-new-climate-deal-5017570 — pubblicato 2026-11-10 22:09 — consultato 2026-11-11 (pagina completa / full page)
-[16] Tier B — Associated Press, via WDBO — "World leaders begin talks at UN climate conference amid concerns that actions are inadequate, slow" — https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/ — pubblicato 2026-11-11 06:05 Roma — consultato 2026-11-11 (pagina completa / full page)
+7. **Associated Press (via WDBO)** — [I leader mondiali avviano i colloqui alla conferenza ONU sul clima tra timori di azioni inadeguate e lente](https://www.wdbo.com/news/world/world-leaders-begin/4JTBE77IDUZCFJ4F3F7SZGBWFA/)
+   Tier B · pubblicato 11/11/2026 alle 06:05 ora italiana · consultato 11/11/2026 · pagina completa

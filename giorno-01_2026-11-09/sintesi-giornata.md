@@ -1,139 +1,174 @@
-# COP31 — Giorno 1 / Day 1 — 2026-11-09 (lunedì / Monday)
+# COP31 — Giorno 1 · lunedì 9 novembre 2026
+✅ Versione finale — consolidata il 10/11/2026 alle 07:30 (ora italiana)
 
-> ✅ **Versione finale / Final version** — consolidata il 2026-11-10 07:30 (Europe/Rome) / consolidated on 2026-11-10 07:30 (Europe/Rome).
-> _Rispetto alla versione serale delle 21:15: aggiunti AP [25], Down To Earth [26] (esito delle consultazioni della Presidenza), l'analisi CARE pubblicata da Climate Home [27], la pagina FAO sulla Turquoise Nexus Initiative [28], la nota concettuale del Baku High-Level Dialogue [29] e la pagina eventi della Commissione [30]; corretta la sezione "domani" (conflitto sulla data della Turquoise Nexus). Nessun report ENB leggibile (403). / Vs. the 21:15 evening version: added AP [25], Down To Earth [26] (outcome of Presidency consultations), the CARE analysis published by Climate Home [27], the FAO Turquoise Nexus page [28], the Baku High-Level Dialogue concept note [29] and the Commission events page [30]; fixed the "tomorrow" section (conflicting Turquoise Nexus date). No ENB report could be read (403)._
+## In breve
+- **Cosa è successo:** **La COP31 (la 31ª conferenza ONU sul clima)** si è aperta ad Antalya e ha adottato l'agenda senza scontro in plenaria, con il programma di lavoro sulla finanza climatica 🟡 [10][11].
+- **Perché conta:** Il programma sulla finanza in agenda e il rinvio dell'adattamento ad altri filoni peseranno sulle richieste di dati su rischi fisici e transizione che banche e clienti rivolgono alle PMI.
+- **Domani:** **La giornata "Energy and Transport" di martedì 10/11** prevede il Baku High-Level Dialogue sull'adattamento e un workshop sugli approcci non di mercato ✅ [1].
 
-Legenda / Legend: ✅ fonte ufficiale (Tier A) / official source · 🟡 ≥2 fonti Tier B indipendenti, o 1 Tier B su dettaglio non critico / ≥2 independent Tier B, or 1 Tier B on a non-critical detail · ⚠️ fonte singola non ufficiale / non confermato — single non-official source / unconfirmed.
+## I fatti principali
+1. **I Paesi in via di sviluppo** hanno ottenuto l'inserimento in agenda del programma di lavoro sulla finanza climatica nato alla COP30 🟡 [10][11]. Le trattative sono durate fino a domenica notte 🟡 [10][11]. **Il Gruppo africano** chiedeva punti separati su triplicazione della finanza per l'adattamento e su commercio: le richieste sono state accantonate 🟡 [10][11]. L'adattamento sarà trattato nel GGA (l'obiettivo globale sull'adattamento) e nel programma sulla finanza 🟡 [10][11]. **La plenaria di apertura** è partita con circa 90 minuti di ritardo, secondo l'agenzia AFP 🟡 [10].
+2. **Murat Kurum, presidente della COP31 e ministro turco dell'Ambiente**, ha aperto la "COP dell'attuazione" ✅ [3]. Per lui l'obiettivo di 1,5 °C «resta la nostra guida» e «le nostre promesse devono essere sostenute da capitali» ✅ [3]. **Chris Bowen, ministro australiano per Clima ed Energia**, guida i negoziati per conto dell'**Australia** 🟡 [11]. Promette una decisione finale «mirata, pratica, concreta», non una lunga dichiarazione politica 🟡 [11].
+3. **Simon Stiell, segretario esecutivo dell'UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici)**, ha detto che i progressi sono «tutt'altro che abbastanza rapidi» 🟡 [9][11]. **Stiell** ha ricordato che le rinnovabili hanno fatto risparmiare 265 mld $ nel primo semestre 2026, secondo la Presidenza ✅ [3]. **António Guterres, segretario generale ONU**, ha detto che il mondo è entrato in «una nuova era di estremi climatici», secondo AFP 🟡 [10].
+4. **La Presidenza COP31** ha rilanciato l'obiettivo volontario "35-by-35": elettricità al 35% dei consumi finali entro il 2035 ✅ [3]. **La Presidenza**, con Australia, Brasile e Azerbaigian, ha pubblicato il rapporto "Belém Mission to 1.5" ✅ [3]. **Reuters e Climate Home** riportano critiche: l'obiettivo non richiede che l'elettricità aggiuntiva sia a basse emissioni 🟡 [9][12].
+5. **La Presidenza COP31, l'OMS (Organizzazione mondiale della sanità) e ATACH (l'Alleanza per l'azione trasformativa su clima e salute)** hanno lanciato l'Antalya Initiative for Resilient Health Systems (AIR) ✅ [3]. Il lancio è avvenuto nella giornata "Food, Agriculture and Health" ✅ [3]. **Health Policy Watch** scrive che l'iniziativa è volontaria e non ha ancora fondi né Paesi aderenti; riportato da una sola fonte ⚠️ [19].
+6. **Il Segretariato UNFCCC** ha tenuto l'Art. 6.2 Ambition Dialogue, 15:00–18:00 Antalya (13:00–16:00 ora italiana) ✅ [7]. Il tema era l'autorizzazione degli ITMO (le riduzioni di emissioni scambiate tra Paesi) ✅ [7]. Non esiste un resoconto scritto della discussione.
+7. **Gli Stati Uniti** non hanno inviato funzionari dell'amministrazione 🟡 [9][10]. **L'agenzia AP** riporta che **Unione Europea e Canada** si sono opposti alle proposte d'agenda del Gruppo africano 🟡 [25]. **AP** conta circa 68.500 registrati, con code all'accreditamento 🟡 [25].
 
-## IT
+## Negoziati: a che punto siamo
+| Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
+|---|---|---|---|
+| NDC (i piani nazionali di riduzione delle emissioni) / mitigazione | **Le Parti** discutono il futuro del Mitigation Work Programme (il programma di lavoro sulla mitigazione) [14]. **Le Parti** discutono anche il possibile riconoscimento dello sforamento («overshoot») di 1,5 °C [14]. **20 ministri della HAC (la Coalizione per l'alta ambizione)** si sono impegnati a mantenere 1,5 °C «a portata di mano» dopo lo sforamento, secondo Climate Home ⚠️ [11]. **Egitto e Argentina** hanno presentato le NDC al 2035, secondo Climate Home ⚠️ [11]. **L'Unione Europea** punta sull'attuazione degli impegni di Dubai, secondo Eunews [18]. | — | Nessun testo uscito |
+| Finanza | **I Paesi in via di sviluppo** hanno portato in agenda il programma di lavoro sulla finanza climatica 🟡 [10][11]. **La Presidenza COP31** richiama l'obiettivo di Baku: 300 mld $/anno entro il 2035 e 1.300 mld $/anno da tutte le fonti ✅ [3]. **Le consultazioni della Presidenza** spostano il finanziamento del Green Climate Fund (il Fondo verde per il clima) in un punto d'agenda esistente, secondo Down To Earth ⚠️ [26]. | **Un alto funzionario UE** ha detto la settimana scorsa che non c'è «volontà politica» per nuovi impegni, secondo AFP 🟡 [10]. **La Germania** ha fornito 4,7 mld € nel 2025, sotto l'obiettivo di 6 mld €, secondo Climate Home ⚠️ [11]. **La settima revisione del meccanismo finanziario** slitta alla COP32, secondo Down To Earth ⚠️ [26]. | — |
+| Articolo 6 (mercati del carbonio) | **Brasile, Germania, Bhutan, Carbon Market Watch e RINGO (le ONG di ricerca e indipendenti)** sono intervenuti all'Ambition Dialogue sull'Art. 6.2, dedicato all'autorizzazione degli ITMO ✅ [7]. Non esiste un resoconto scritto. | **Un accordo Brasile–Cina** e il finanziamento dell'infrastruttura 6.2 alla CMA8 (la riunione delle Parti dell'Accordo di Parigi) restano non confermati: solo fonti Tier C ⚠️ [24]. | — |
+| Adattamento / GGA | **I negoziatori** vogliono chiudere il sistema di indicatori del GGA [14]. | **La triplicazione della finanza per l'adattamento** non ha un punto d'agenda proprio: sarà discussa nel GGA e nel programma sulla finanza 🟡 [10][11]. | — |
+| Perdite e danni | **Il tema montagne** sarà considerato per un dialogo di ricerca a SBSTA 66 (l'organo sussidiario per la consulenza scientifica e tecnologica), secondo Down To Earth ⚠️ [26]. | **Il Nepal** aveva chiesto un punto sulle montagne dopo le alluvioni: non è stato adottato e passa a consultazioni, secondo Climate Home ⚠️ [11]. | — |
+| Transizione giusta | **Le Parti** negoziano l'operatività del "Belém-Antalya Mechanism" [12][14]. **Murat Kurum** lo cita tra le priorità ✅ [3]. | — | — |
+| Seguito del Global Stocktake (il bilancio globale dei progressi) | **Il Segretariato UNFCCC** ha tenuto una sessione tecnica sugli impatti delle misure di risposta, 15:00–16:30 Antalya (13:00–14:30 ora italiana) ✅ [1]. Non esiste un resoconto scritto. | — | — |
+| Commercio / misure unilaterali | **I presidenti degli organi sussidiari** inviteranno contributi per il prossimo dialogo su commercio e clima a Bonn, secondo Down To Earth ⚠️ [26]. **L'Unione Europea** vuole che resti quella la sede ⚠️ [26]. | **Il Gruppo africano** non ha ottenuto il punto d'agenda su commercio e clima 🟡 [10][11]. Il tema, e indirettamente il CBAM (il meccanismo UE di adeguamento del carbonio alle frontiere), può riemergere in altri filoni [12][13]. | — |
 
-### I fatti della giornata
-1. 🟡 **Agenda adottata senza scontro in plenaria.** Dopo trattative fino a domenica notte, il programma di lavoro sulla finanza climatica nato alla COP30 è entrato in agenda su pressione dei Paesi in via di sviluppo. La richiesta africana di punti separati su triplicazione della finanza per l'adattamento e commercio è stata accantonata: l'adattamento sarà trattato nel Global Goal on Adaptation e nel programma sulla finanza [10][11]. La plenaria di apertura è partita con circa 90 minuti di ritardo, secondo AFP [10].
-2. ✅ Il Presidente Murat Kurum ha aperto la "COP dell'attuazione": l'obiettivo di 1,5 °C "remains our guide" e "our promises must be backed by capital" [3]. 🟡 L'Australia (Chris Bowen) guida i negoziati e promette una decisione finale "focused, practical, concrete", non una lunga dichiarazione politica [11].
-3. 🟡 Stiell (UNFCCC) ha detto che i progressi sono "nowhere near fast enough" [9][11]. ✅ Secondo la Presidenza, ha ricordato che le rinnovabili hanno fatto risparmiare 265 mld $ nel primo semestre 2026 [3]. 🟡 Secondo AFP, Guterres ha detto che il mondo è entrato in "a new age of climate extremes" [10].
-4. ✅ La Presidenza ha rilanciato l'obiettivo volontario "35-by-35" (elettricità al 35% dei consumi finali entro il 2035) e ha pubblicato con Australia, Brasile e Azerbaigian il rapporto "Belém Mission to 1.5" [3]. 🟡 È criticato perché non richiede che l'elettricità aggiuntiva sia a basse emissioni [9][12].
-5. ✅ Nella giornata "Food, Agriculture and Health", Presidenza, OMS e ATACH hanno lanciato l'Antalya Initiative for Resilient Health Systems (AIR) [3]. ⚠️ Secondo Health Policy Watch, l'iniziativa è volontaria e non ha ancora fondi né Paesi aderenti [19].
-6. ✅ Si è tenuto l'Art. 6.2 Ambition Dialogue (13:00–16:00 Roma), dedicato all'autorizzazione degli ITMO [7]. Nessun resoconto scritto della discussione.
-7. 🟡 Gli Stati Uniti non hanno inviato funzionari dell'amministrazione [9][10]. 🟡 Secondo AP, le proposte d'agenda del Gruppo africano erano osteggiate da UE e Canada; circa 68.500 registrati, con code all'accreditamento [25].
+**Contesto e altre notizie**
+- **CARE, ONG**, in un'analisi pubblicata da Climate Home, calcola che i rimborsi dei prestiti climatici dei Paesi in via di sviluppo sono quasi triplicati ⚠️ [27]. Sono passati da 6,9 mld $ (2020) a 20,1 mld $ (2024) e potrebbero superare i nuovi prestiti nel 2036 ⚠️ [27].
+- **Il rapporto UNEP sul divario di adattamento**, citato da Climate Home, stima che una finanza triplicata arriverebbe a 85–120 mld $/anno, contro fabbisogni di 305 mld $ [12].
+- **Reuters** riporta che il crollo di un ghiacciaio in Nepal ha causato oltre 1.450 morti 🟡 [9].
+- **Carbon Brief** ha pubblicato oggi un Q&A sul Belém-Antalya Mechanism per la transizione giusta [15].
+- **Irlanda e Tuvalu** co-presiederanno la seconda conferenza sull'uscita dai combustibili fossili, secondo Climate Home ⚠️ [11]. L'evento principale si terrà a fine luglio a Tuvalu ⚠️ [11].
+- **L'IPCC (il Gruppo intergovernativo sul cambiamento climatico)** resta in stallo sul calendario dei rapporti AR7 (il settimo ciclo di valutazione), secondo Climate Home ⚠️ [11]. I colloqui virtuali partono il 1° dicembre ⚠️ [11].
+- **La GRI (Global Reporting Initiative, l'ente degli standard di rendicontazione)** parteciperà a sei eventi su reporting climatico e piani di transizione tra l'11 e il 17/11 ✅ [8].
 
-### Stato dei negoziati per tema
-- **Mitigazione / NDC:** nessun testo uscito. Sono in discussione il futuro del Mitigation Work Programme e il possibile riconoscimento dello sforamento ("overshoot") di 1,5 °C [14]. ⚠️ Secondo Climate Home, 20 ministri della High Ambition Coalition si sono impegnati a mantenere 1,5 °C "within reach" dopo l'overshoot; Egitto e Argentina hanno presentato le NDC al 2035 [11] (fonte singola). Secondo Eunews l'UE punta sull'attuazione degli impegni di Dubai [18].
-- **Finanza:** 🟡 il programma di lavoro sulla finanza climatica è in agenda [10][11]. ✅ La Presidenza richiama l'obiettivo di Baku di 300 mld $/anno entro il 2035 e 1.300 mld $/anno da tutte le fonti [3]. 🟡 Secondo AFP, un alto funzionario UE ha detto la settimana scorsa che non c'è "no political will" per nuovi impegni [10]. ⚠️ Secondo Climate Home, la Germania ha fornito 4,7 mld € nel 2025, sotto l'obiettivo di 6 mld € [11]. ⚠️ Secondo Down To Earth (Tier C), il finanziamento del Green Climate Fund sarà discusso in un punto d'agenda esistente e la settima revisione del meccanismo finanziario slitta alla COP32 [26]. ⚠️ Secondo un'analisi CARE pubblicata da Climate Home, i rimborsi dei prestiti climatici dei Paesi in via di sviluppo sono quasi triplicati, da 6,9 mld $ (2020) a 20,1 mld $ (2024), e potrebbero superare i nuovi prestiti nel 2036 [27] (posizione/analisi di una ONG).
-- **Articolo 6 (mercati del carbonio):** ✅ l'Ambition Dialogue sull'Art. 6.2 si è concentrato sull'autorizzazione degli ITMO, con interventi di Brasile, Germania, Bhutan, Carbon Market Watch e RINGO [7]. Nessun resoconto. ⚠️ Accordo Brasile–Cina e finanziamento dell'infrastruttura 6.2 alla CMA8: solo fonti Tier C [24].
-- **Adattamento / GGA:** 🟡 la triplicazione della finanza per l'adattamento non ha un punto d'agenda proprio e sarà discussa nel GGA e nel programma sulla finanza [10][11]. I negoziatori vogliono chiudere il sistema di indicatori del GGA [14]. Secondo l'Adaptation Gap Report UNEP citato da Climate Home, una finanza triplicata arriverebbe a 85–120 mld $/anno contro fabbisogni di 305 mld $ [12].
-- **Perdite e danni:** ⚠️ secondo Climate Home, il punto sulle montagne chiesto dal Nepal dopo le alluvioni non è stato adottato e passa a consultazioni [11]. 🟡 Secondo Reuters, il crollo di un ghiacciaio in Nepal ha causato oltre 1.450 morti [9]. Secondo Down To Earth, il tema sarà considerato per un dialogo di ricerca a SBSTA 66 [26] ⚠️.
-- **Transizione giusta:** si negozia l'operatività del "Belém-Antalya Mechanism" [12][14]. Carbon Brief ha pubblicato oggi un Q&A sul meccanismo [15]. ✅ Kurum lo cita tra le priorità [3].
-- **Seguito del Global Stocktake:** ✅ sessione tecnica sugli impatti delle misure di risposta (13:00–14:30 Roma) [1]. Nessun resoconto.
-- **Commercio / misure unilaterali:** 🟡 il punto d'agenda chiesto dal Gruppo africano su commercio e clima non è stato adottato [10][11]. Il tema (e indirettamente il CBAM UE) può riemergere in altri filoni [12][13]. ⚠️ Secondo Down To Earth, i presidenti degli organi sussidiari inviteranno contributi per il prossimo dialogo su commercio e clima a Bonn; l'UE vuole che resti quella la sede [26].
-- **Altro:** ⚠️ secondo Climate Home, Irlanda e Tuvalu co-presiederanno la seconda conferenza sull'uscita dai combustibili fossili, con l'evento principale a fine luglio a Tuvalu [11]. ⚠️ Lo stallo sul calendario dei rapporti IPCC AR7 continua; colloqui virtuali dal 1° dicembre [11]. ✅ La GRI parteciperà a sei eventi su reporting climatico e piani di transizione tra l'11 e il 17/11 [8].
+## Panel ed eventi del giorno
+| Evento | Chi | In una riga | Rilevanza VSME | Video |
+|---|---|---|---|---|
+| [Plenaria di apertura COP31/CMP21/CMA8](panel/plenaria-apertura.md) | Murat Kurum, Chris Bowen, Simon Stiell, António Guterres | Agenda adottata con il programma sulla finanza; adattamento e commercio rinviati ad altri filoni. | Media | Non ancora disponibile |
+| [Dialogo sull'ambizione dell'Art. 6.2](panel/art-6-2-ambition-dialogue.md) | Segretariato UNFCCC; Brasile, Germania, Bhutan, Carbon Market Watch, RINGO | Dialogo tecnico sull'autorizzazione degli ITMO; nessun resoconto scritto. | Bassa | Non ancora disponibile |
+| [Giornata della salute: iniziativa AIR](panel/health-day-iniziativa-air.md) | Presidenza COP31, OMS, ATACH | Lancio di un'iniziativa volontaria sui sistemi sanitari resilienti. | Bassa | Non ancora disponibile |
 
-### Indice dei panel
-| Panel | Sintesi | Rilevanza |
+## Eventi senza resoconto scritto
+Fonte: programma ufficiale UNFCCC [1], salvo diversa indicazione.
+- **SBSTA 65 e SBI 65 (l'organo sussidiario per l'attuazione)** hanno tenuto le plenarie di apertura.
+- **World Café Workshop** sul supporto all'ETF (il quadro rafforzato di trasparenza).
+- **Global Implementation Accelerator**, sessione informativa, 13:00–15:00 Antalya (11:00–13:00 ora italiana).
+- **Earth Information Day 2026**.
+- **Sessione tecnica** sugli impatti sociali ed economici delle NDC, 16:30–18:00 Antalya (14:30–16:00 ora italiana).
+- **FMCP4 parte I** (l'esame multilaterale facilitativo dei progressi sulla trasparenza), **LCIPP** (la piattaforma delle comunità locali e dei popoli indigeni), **Capacity Building Hub**.
+- **La Presidenza COP31, con IFAD (il Fondo internazionale per lo sviluppo agricolo) e FAO (l'Organizzazione ONU per l'alimentazione e l'agricoltura)**, ha annunciato dialoghi di alto livello con donne e giovani agricoltori [3]. Non c'è un resoconto dei contenuti.
+- **Padiglioni UE e Italia**: nessun programma del 9/11 con resoconto trovato.
+- **EFRAG (l'ente europeo che redige il VSME), ISSB/IFRS (il comitato per gli standard internazionali di sostenibilità), GHG Protocol (lo standard di calcolo dei gas serra), SBTi (l'iniziativa per obiettivi climatici su base scientifica), GFANZ (l'alleanza finanziaria di Glasgow per il net zero), UNEP FI (l'iniziativa finanziaria del Programma ONU per l'ambiente), WBCSD (il Consiglio mondiale delle imprese per lo sviluppo sostenibile)**: nessun evento del 9/11 con materiale scritto trovato.
+
+## Cosa aspettarsi domani
+| Quando | Evento | Note |
 |---|---|---|
-| [Plenaria di apertura COP31/CMP21/CMA8](panel/plenaria-apertura.md) | Agenda adottata con il programma sulla finanza; adattamento e commercio rinviati ad altri filoni; interventi di Kurum, Bowen, Stiell, Guterres | Media |
-| [Art. 6.2 Ambition Dialogue](panel/art-6-2-ambition-dialogue.md) | Dialogo tecnico sull'autorizzazione degli ITMO; nessun resoconto | Bassa |
-| [Health Day: iniziativa AIR](panel/health-day-iniziativa-air.md) | Lancio dell'iniziativa volontaria su sistemi sanitari resilienti con OMS | Bassa |
+| Martedì 10/11 | Giornata "Energy and Transport": Baku High-Level Dialogue sull'adattamento, workshop sugli approcci non di mercato (Art. 6.8), FMCP4 parte II | Programma ufficiale ✅ [1] |
+| 10/11, 10:00–13:00 Antalya (08:00–11:00 ora italiana) | **Baku High-Level Dialogue sull'adattamento** | **Le Presidenze COP31 e COP30** lo co-presiedono ✅ [29] |
+| 10/11, 17:30–19:30 Antalya (15:30–17:30 ora italiana) | **Global Electrification Ministerial** | Pagina eventi della Commissione europea ✅ [30] |
+| Data da verificare | **Turquoise Nexus Initiative (FAO/Türkiye)** | **La Presidenza** ne annuncia il lancio per il 10/11 [3]. **Il programma FAO** indicizzato lo colloca invece lunedì 9/11, 15:00–17:00 Antalya (13:00–15:00 ora italiana) ⚠️ [28] |
+| Nei prossimi giorni | Prime riunioni dei gruppi di contatto sul programma di lavoro sulla finanza e sul GGA; primo report ENB (Earth Negotiations Bulletin, il resoconto quotidiano dei negoziati) | — |
+| 11–12/11 | **Leaders' Summit**, con la Green Zone chiusa ai visitatori | Informazioni UNFCCC per i partecipanti ✅ [2] |
 
-### Eventi senza fonte scritta
-_(Dal programma ufficiale [1]; orari Antalya, Roma = −2 h.)_
-- Plenarie di apertura di SBSTA 65 e SBI 65.
-- World Café Workshop sul supporto all'ETF (Enhanced Transparency Framework).
-- Global Implementation Accelerator, sessione informativa (13:00–15:00 Antalya).
-- Earth Information Day 2026.
-- Sessione tecnica sugli impatti sociali ed economici delle NDC (16:30–18:00 Antalya).
-- FMCP4 parte I, LCIPP, Capacity Building Hub.
-- Dialoghi di alto livello su donne e giovani agricoltori (Presidenza con IFAD e FAO) [3]: annunciati, nessun resoconto dei contenuti.
-- Padiglioni UE e Italia: nessun programma del 9/11 con resoconto trovato. EFRAG, ISSB/IFRS, GHG Protocol, SBTi, GFANZ, UNEP FI, WBCSD: nessun evento del 9/11 con materiale scritto trovato.
+## Qualità delle fonti
+Legenda: ✅ fonte ufficiale (Tier A) · 🟡 almeno 2 fonti Tier B indipendenti, o 1 Tier B su un dettaglio non critico · ⚠️ fonte singola non ufficiale o non confermato.
 
-### Cosa aspettarsi domani
-- Martedì 10/11, giornata "Energy and Transport": Baku High-Level Dialogue on Adaptation, workshop sugli approcci non di mercato (Art. 6.8), FMCP4 parte II [1] ✅.
-- ⚠️ Turquoise Nexus Initiative (FAO/Türkiye): la Presidenza ne annuncia il lancio per il 10/11 [3], ma il programma FAO indicizzato la colloca lunedì 9/11 (15:00–17:00 Antalya) [28]; data da verificare. ✅ Baku High-Level Dialogue on Adaptation, 10/11 10:00–13:00 Antalya (08:00–11:00 Roma), co-presieduto da Presidenze COP31 e COP30 [29]. ✅ Global Electrification Ministerial, 15:30–17:30 CET [30].
-- Prime riunioni dei gruppi di contatto sul programma di lavoro sulla finanza e sul GGA; primo report ENB.
-- Leaders' Summit l'11–12/11, con Green Zone chiusa ai visitatori [2] ✅.
-
-## EN
-
-### Facts of the day
-1. 🟡 **Agenda adopted without a floor fight.** After talks ran into Sunday night, the climate finance work programme created at COP30 was put on the agenda under pressure from developing countries. The African request for separate items on tripling adaptation finance and on trade was shelved: adaptation will be handled under the Global Goal on Adaptation and the finance work programme [10][11]. The opening plenary started about 90 minutes late, according to AFP [10].
-2. ✅ President Murat Kurum opened the "Implementation COP": the 1.5 °C goal "remains our guide" and "our promises must be backed by capital" [3]. 🟡 Australia (Chris Bowen) leads the negotiations and promises a "focused, practical, concrete" final decision rather than a lengthy political declaration [11].
-3. 🟡 Stiell (UNFCCC) said progress is "nowhere near fast enough" [9][11]. ✅ According to the Presidency, he noted that renewables saved USD 265 bn in the first half of 2026 [3]. 🟡 According to AFP, Guterres said the world has entered "a new age of climate extremes" [10].
-4. ✅ The Presidency relaunched its voluntary "35-by-35" goal (electricity at 35% of final consumption by 2035) and, with Australia, Brazil and Azerbaijan, published the "Belém Mission to 1.5" report [3]. 🟡 The goal is criticised for not requiring the additional electricity to be low-carbon [9][12].
-5. ✅ On the "Food, Agriculture and Health" day, the Presidency, WHO and ATACH launched the Antalya Initiative for Resilient Health Systems (AIR) [3]. ⚠️ According to Health Policy Watch, the initiative is voluntary and has no funding or participating countries yet [19].
-6. ✅ The Art. 6.2 Ambition Dialogue took place (13:00–16:00 Rome), focused on the authorisation of ITMOs [7]. No written account of the discussion.
-7. 🟡 The United States sent no administration officials [9][10]. 🟡 According to AP, the African Group's agenda proposals were opposed by the EU and Canada; about 68,500 registered, with queues at accreditation [25].
-
-### State of negotiations by theme
-- **Mitigation / NDCs:** no text yet. Under discussion are the future of the Mitigation Work Programme and a possible recognition of 1.5 °C "overshoot" [14]. ⚠️ According to Climate Home, 20 High Ambition Coalition ministers vowed to keep 1.5 °C "within reach" after overshoot; Egypt and Argentina submitted 2035 NDCs [11] (single source). According to Eunews, the EU is focusing on delivering the Dubai commitments [18].
-- **Finance:** 🟡 the climate finance work programme is on the agenda [10][11]. ✅ The Presidency recalls the Baku goal of USD 300 bn a year by 2035 and USD 1.3 trillion a year from all sources [3]. 🟡 According to AFP, a senior EU official said last week there is "no political will" for new pledges [10]. ⚠️ According to Climate Home, Germany provided €4.7 bn in 2025, short of its €6 bn target [11]. ⚠️ According to Down To Earth (Tier C), Green Climate Fund funding will be discussed under an existing agenda item and the seventh review of the financial mechanism is deferred to COP32 [26]. ⚠️ According to a CARE analysis published by Climate Home, developing countries' climate-loan repayments nearly tripled from USD 6.9 bn (2020) to USD 20.1 bn (2024) and could exceed new lending by 2036 [27] (NGO analysis).
-- **Article 6 (carbon markets):** ✅ the Art. 6.2 Ambition Dialogue focused on ITMO authorisation, with input from Brazil, Germany, Bhutan, Carbon Market Watch and RINGO [7]. No written account. ⚠️ Brazil–China deal and CMA8 funding for the 6.2 infrastructure: Tier C sources only [24].
-- **Adaptation / GGA:** 🟡 tripling adaptation finance has no agenda item of its own and will be discussed under the GGA and the finance work programme [10][11]. Negotiators want to finalise the GGA indicator system [14]. According to the UNEP Adaptation Gap Report cited by Climate Home, tripled finance would reach USD 85–120 bn a year against needs of USD 305 bn [12].
-- **Loss & damage:** ⚠️ according to Climate Home, the mountains item requested by Nepal after its floods was not adopted and moves to consultations [11]. 🟡 According to Reuters, a glacier collapse in Nepal killed more than 1,450 people [9]. According to Down To Earth, the topic will be considered for a research dialogue at SBSTA 66 [26] ⚠️.
-- **Just transition:** Parties are negotiating how the "Belém-Antalya Mechanism" will work [12][14]. Carbon Brief published a Q&A on the mechanism today [15]. ✅ Kurum lists it among the priorities [3].
-- **GST follow-up:** ✅ technical session on the impacts of response measures (13:00–14:30 Rome) [1]. No written account.
-- **Trade / unilateral measures:** 🟡 the trade-and-climate agenda item requested by the African Group was not adopted [10][11]. The topic (and indirectly the EU CBAM) may resurface in other strands [12][13]. ⚠️ According to Down To Earth, the subsidiary-body chairs will invite submissions for the next trade-and-climate dialogue in Bonn; the EU wants that to remain the forum [26].
-- **Other:** ⚠️ according to Climate Home, Ireland and Tuvalu will co-chair the second conference on transitioning away from fossil fuels, with the main event in late July in Tuvalu [11]. ⚠️ The deadlock over the timing of IPCC AR7 reports continues; virtual talks start on 1 December [11]. ✅ GRI will take part in six events on climate reporting and transition plans between 11 and 17 Nov [8].
-
-### Panel index
-| Panel | Summary | Relevance |
+| Tier | N. fonti | Quali |
 |---|---|---|
-| [Opening plenary COP31/CMP21/CMA8](panel/plenaria-apertura.md) | Agenda adopted with the finance work programme; adaptation and trade moved to other strands; remarks by Kurum, Bowen, Stiell, Guterres | Medium |
-| [Art. 6.2 Ambition Dialogue](panel/art-6-2-ambition-dialogue.md) | Technical dialogue on ITMO authorisation; no written account | Low |
-| [Health Day: AIR initiative](panel/health-day-iniziativa-air.md) | Launch of a voluntary initiative on resilient health systems with WHO | Low |
+| A | 11 | UNFCCC ×3, nota UNFCCC sul Baku HLD, FAO, Commissione europea, Presidenza COP31, Ministero dell'Ambiente turco, ITU, ISPRA, GRI (solo per i propri eventi) |
+| B | 12 | AP via PBS, Reuters, AFP ×2, Climate Home ×4 (inclusa l'analisi CARE), Carbon Brief ×2, Al Jazeera, Eunews |
+| C | 7 | Down To Earth, Health Policy Watch, SustainabilityOnline, ekoIQ, Transparency International, WRI/NRDC, co2news.sk — solo contesto o posizioni attribuite |
 
-### Events without a written source
-_(From the official programme [1]; Antalya times, Rome = −2 h.)_
-- SBSTA 65 and SBI 65 opening plenaries.
-- World Café Workshop on ETF (Enhanced Transparency Framework) support.
-- Global Implementation Accelerator information session (13:00–15:00 Antalya).
-- Earth Information Day 2026.
-- Technical session on the social and economic impacts of NDCs (16:30–18:00 Antalya).
-- FMCP4 Part I, LCIPP, Capacity Building Hub.
-- High-level dialogues with women and young farmers (Presidency with IFAD and FAO) [3]: announced, no account of content.
-- EU and Italy pavilions: no 9 Nov programme with a written account found. EFRAG, ISSB/IFRS, GHG Protocol, SBTi, GFANZ, UNEP FI, WBCSD: no 9 Nov event with written material found.
+- **Note sul conteggio:** il lancio AFP ripubblicato da Taipei Times, Turkish Minute e Arab News conta come una sola fonte. Al Jazeera è materiale d'agenzia, non indipendente.
+- **Fonti escluse:** IndexBox, theplanetbrief.com, onestopesg.com (aggregatori/SEO), CarbonCredits.com (marketing di crediti), Wikipedia.
+- **Siti non leggibili:** enb.iisd.org e sdg.iisd.org (nessun report del 9/11 indicizzato; errore 403 in precedenza). Le pagine HTML di unfccc.int risultano vuote; i PDF funzionano. Non è stato trovato un testo ufficiale dei discorsi di Stiell e Guterres. Al mattino del 10/11: enb.iisd.org 403; unsdg.un.org 403; business-standard.com 403.
+- **Affermazioni rimaste ⚠️:** punto del Nepal sulle montagne; dati sulla finanza tedesca 2025; NDC di Egitto e Argentina; impegno HAC; dettagli su AIR e sul Belém Health Action Plan (Tier C); accordo Brasile–Cina sull'Art. 6; conferenza Irlanda–Tuvalu. Aggiunte nella versione finale: dettagli delle consultazioni della Presidenza (solo Down To Earth, Tier C); analisi CARE (Climate Home); data della Turquoise Nexus.
+- **Correzioni:** "lieve ritardo" è diventato "circa 90 minuti" (AFP). L'esito dell'agenda, ⚠️ nella versione delle 10:30, è ora 🟡. Nella versione finale la Turquoise Nexus, prima indicata ✅ per il 10/11, è ora ⚠️ per il conflitto con la FAO.
+- **Aggiunte rispetto alla versione serale delle 21:15:** AP [25], Down To Earth [26] (esito delle consultazioni della Presidenza), analisi CARE pubblicata da Climate Home [27], pagina FAO sulla Turquoise Nexus Initiative [28], nota concettuale del Baku High-Level Dialogue [29], pagina eventi della Commissione [30]. Corretta la sezione "domani". Nessun report ENB leggibile (403).
 
-### What to expect tomorrow
-- Tuesday 10 Nov, "Energy and Transport" day: Baku High-Level Dialogue on Adaptation, workshop on non-market approaches (Art. 6.8), FMCP4 Part II [1] ✅.
-- ⚠️ Turquoise Nexus Initiative (FAO/Türkiye): the Presidency announces its launch for 10 Nov [3], but FAO's indexed programme places it on Monday 9 Nov (15:00–17:00 Antalya) [28]; date to be verified. ✅ Baku High-Level Dialogue on Adaptation, 10 Nov 10:00–13:00 Antalya (08:00–11:00 Rome), co-chaired by the COP31 and COP30 Presidencies [29]. ✅ Global Electrification Ministerial, 15:30–17:30 CET [30].
-- First contact-group meetings on the finance work programme and the GGA; first ENB report.
-- Leaders' Summit on 11–12 Nov, with the Green Zone closed to visitors [2] ✅.
+## Fonti
 
-## Qualità delle fonti / Source quality
-- **Tier A:** 11 (UNFCCC nota Baku HLD / Baku HLD concept note, FAO, Commissione europea / European Commission, UNFCCC ×3, Presidenza COP31 / COP31 Presidency, Ministero dell'Ambiente turco / Turkish Environment Ministry, ITU, ISPRA, GRI per i propri eventi / for its own events)
-- **Tier B:** 12 (AP via PBS, Reuters, AFP ×2 [stesso filo ripubblicato da Taipei Times, Turkish Minute, Arab News: conta come una fonte / same wire republished: counts as one], Climate Home ×4 [incl. analisi CARE / CARE analysis], Carbon Brief ×2, Al Jazeera [materiale d'agenzia, non indipendente / wire copy, not independent], Eunews)
-- **Tier C:** 7 (Down To Earth, Health Policy Watch, SustainabilityOnline, ekoIQ, Transparency International, WRI/NRDC, co2news.sk) — solo contesto o posizioni attribuite / context or attributed positions only.
-- **Escluse / Excluded:** IndexBox, theplanetbrief.com, onestopesg.com (aggregatori/SEO / aggregators/SEO), CarbonCredits.com (marketing crediti / credit marketing), Wikipedia.
-- **Non leggibili / Could not be fetched:** enb.iisd.org e sdg.iisd.org (nessun report del 9/11 indicizzato / no 9 Nov report indexed; 403 in precedenza / earlier 403); pagine HTML di unfccc.int (vuote; PDF ok / empty; PDFs work); nessun testo ufficiale trovato per i discorsi di Stiell e Guterres / no official text found for Stiell's and Guterres's speeches. Al mattino del 10/11: enb.iisd.org 403; unsdg.un.org 403; business-standard.com 403. / Morning of 10 Nov: enb.iisd.org 403; unsdg.un.org 403; business-standard.com 403.
-- **Claim mantenuti come ⚠️ / Claims kept as ⚠️:** punto Nepal sulle montagne / Nepal mountains item; dati Germania finanza 2025 / Germany 2025 finance figures; NDC di Egitto e Argentina / Egypt and Argentina NDCs; impegno HAC / HAC pledge; dettagli su AIR e Belém Health Action Plan (Tier C); accordo Art. 6 Brasile–Cina / Brazil–China Art. 6 deal; conferenza Irlanda–Tuvalu / Ireland–Tuvalu conference. Aggiunti / Added: dettagli delle consultazioni della Presidenza (solo Down To Earth, Tier C) / Presidency consultation details (Down To Earth only, Tier C); analisi CARE (Climate Home) / CARE analysis (Climate Home); data della Turquoise Nexus / Turquoise Nexus date.
-- **Correzioni / Corrections:** "lieve ritardo" → circa 90 minuti (AFP) / "slight delay" → about 90 minutes (AFP); l'esito dell'agenda, ⚠️ nella versione delle 10:30, è ora 🟡 / the agenda outcome, ⚠️ in the 10:30 version, is now 🟡. Versione finale: la Turquoise Nexus era indicata come ✅ per il 10/11 nella sezione "domani"; ora ⚠️ per conflitto con la FAO. / Final version: Turquoise Nexus was listed as ✅ for 10 Nov in the "tomorrow" section; now ⚠️ due to conflict with FAO.
+1. **UNFCCC** — [Conferenza ONU sul clima di Antalya: programma generale (PDF, versione del 7 ottobre 2026)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)
+   Tier A · pubblicato 07/10/2026 · consultato 09/11/2026 · documento completo
 
-## Fonti / Sources
-[1] Tier A — UNFCCC — "UN Climate Change Conference - Antalya: Overview Schedule" (v. 7 ott. 2026) — https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf — pubblicato 2026-10-07 — consultato 2026-11-09 (PDF integrale / full PDF)
-[2] Tier A — UNFCCC — "Information for COP 31 participants (A-Z)" — https://unfccc.int/cop31/ifp — data n.d. — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[3] Tier A — Presidenza COP31 / COP31 Presidency — "COP31 President opens UN climate summit with call to turn climate promises into action" — https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[4] Tier A — Ministero dell'Ambiente, Urbanizzazione e Cambiamento climatico, Türkiye — "COP31 President-Designate and Minister Kurum Unveils COP31 Action Agenda" — https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985 — pubblicato 2026-06-09 — consultato 2026-11-09 (pagina completa / full page)
-[5] Tier A — ITU, Green Digital Action — "Antalya Artificial Intelligence Pledge" — https://www.itu.int/initiatives/green-digital-action/?p=1485 — data n.d. — consultato 2026-11-09 (pagina completa / full page)
-[6] Tier A — ISPRA — "COP31 di Antalya" — https://www.isprambiente.gov.it/it/news/cop31-di-antalya — data n.d. — consultato 2026-11-09 (pagina completa / full page)
-[7] Tier A — UNFCCC — "Concept note: Article 6.2 Ambition Dialogue in conjunction with SBI 65" — https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf — data n.d. — consultato 2026-11-09 (PDF integrale / full PDF)
-[8] Tier A — GRI (organizzatore/relatore dei propri eventi / organiser-speaker of its own events) — "Turning climate ambition into evidence at COP31" — https://www.globalreporting.org/news/news-center/turning-climate-ambition-into-evidence-at-cop31/ — pubblicato 2026-11-05 — consultato 2026-11-09 (pagina completa / full page)
-[9] Tier B — Reuters (V. Volcovici, S. Jessop), via Yahoo News — "COP31 summit leaders urge world to 'move faster' on climate" — https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html — aggiornato 2026-11-09 08:36 UTC — consultato 2026-11-09 (pagina completa / full page)
-[10] Tier B — AFP, via Taipei Times — "COP31 opens with leaders under pressure" — https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463 — filo del 2026-11-09 (ed. 2026-11-10) — consultato 2026-11-09 (pagina completa / full page). Stesso filo / same wire: https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/ ; https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683
-[11] Tier B — Climate Home News (S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara) — "COP31 Bulletin Day 1: Agenda settled as COP urged to 'supercharge solutions'" — https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/ — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[12] Tier B — Climate Home News (M. Rowling et al.) — "COP31 Briefing: What to expect from the Antalya climate summit?" — https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/ — pubblicato 2026-11-05 — consultato 2026-11-09 (pagina completa / full page)
-[13] Tier B — Climate Home News — "Africa wants adaptation finance on COP31 agenda, raising risk of a fight" — https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/ — pubblicato 2026-10-28 — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[14] Tier B — Carbon Brief — "Interactive: Tracking negotiating texts at the COP31 climate summit" — https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit — pubblicato 2026-11-05 — consultato 2026-11-09 (pagina completa / full page)
-[15] Tier B — Carbon Brief — "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?" — https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition — pubblicato 2026-11-09 — consultato 2026-11-09 (solo titolo dalla pagina indice / headline only from index page)
-[16] Tier B — Al Jazeera (AFP/Reuters) — "Turkiye pushes electrification top of climate agenda as COP31 set to open" — https://aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open — pubblicato 2026-11-09 — consultato 2026-11-09 (materiale d'agenzia / wire copy)
-[17] Tier B — AFP, via Connaissance des Énergies — "La COP31 appelle à des engagements volontaires sur les enjeux climatiques de l'IA" — https://www.connaissancedesenergies.org/afp/la-cop31-appelle-a-des-engagements-volontaires-sur-les-enjeux-climatiques-de-lia-261028 — aggiornato 2026-10-28 — consultato 2026-11-09 (pagina completa / full page)
-[18] Tier B — Eunews — "UE alla COP31: obiettivi climatici e fossili" — https://www.eunews.it/2026/11/06/ue-cop31-obiettivi-climatici-fossili/ — pubblicato 2026-11-06 — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[19] Tier C — Health Policy Watch (S. Anderson) — "'Declarations Do Not Protect People': COP31 Opens Under Pressure To Deliver Results Over Words" — https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/ — pubblicato 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[20] Tier C — SustainabilityOnline — "COP31 needs to 'supercharge solutions', says Stiell" — https://sustainabilityonline.net/news/cop31-needs-to-supercharge-solutions-says-un-climate-change-head/ — 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[21] Tier C — ekoIQ — "COP31 Antalya'da Başladı: Yoğun Gündemde Neler Var?" — https://www.ekoiq.com/cop31-antalyada-basladi-yogun-gundemde-neler-var/ — 2026-11-09 — consultato 2026-11-09 (pagina completa / full page)
-[22] Tier C — Transparency International (posizione propria / own position) — "COP31 begins with trust at stake as integrity safeguards remain missing" — https://www.transparency.org/en/press/cop31-begins-with-trust-at-stake-integrity-safeguards-remain-missing — 2026-11-05 — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[23] Tier C — WRI, "Antalya AI Pledge Must Turn Climate Ambition into Accountability" — https://www.wri.org/news/wri-statement-antalya-ai-pledge-must-turn-climate-ambition-accountability ; NRDC, "Antalya AI Pledge is an Important Start, But Needs Teeth" — https://www.nrdc.org/reaction/antalya-ai-pledge-important-start-needs-teeth-and-must-go-further (posizioni proprie / own positions) — ottobre 2026 — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[24] Tier C — co2news.sk — "Challenges, priorities and negotiations of COP31 in Antalya" — https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/ — 2026-10-26 — consultato 2026-11-09 (via risultati di ricerca / via search results)
-[25] Tier B — AP (S. Fraser, S. Arasu), via PBS NewsHour — "COP31 climate summit begins after disastrous year of extreme weather" — https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather — pubblicato 2026-11-09 — consultato 2026-11-10 (pagina completa / full page)
-[26] Tier C — Down To Earth (P. Das) — "COP31 adopts climate finance work programme; proposals for adaptation funding, trade measures dropped" — https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[27] Tier B — Climate Home News (M. Civillini) — "Developing countries face climate finance deficit as loan repayments soar" — https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/ — pubblicato 2026-11-10 — consultato 2026-11-10 (pagina completa / full page)
-[28] Tier A — FAO — "The Turquoise Nexus Initiative" — https://www.fao.org/climate-change/fao-at-cop31/the-turquoise-nexus-initiative/en — data n.d. — consultato 2026-11-10 (pagina completa; data del lancio 9/11 solo da risultati di ricerca / full page; 9 Nov launch date from search results only)
-[29] Tier A — UNFCCC — "COP31 Baku High Level Dialogue on Adaptation – Mandated Event: Concept Note" — https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf — data n.d. — consultato 2026-11-10 (PDF integrale / full PDF)
-[30] Tier A — Commissione europea, DG ENER / European Commission, DG ENER — "Energy events at COP31" — https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en — data n.d. — consultato 2026-11-10 (pagina completa / full page)
+2. **UNFCCC** — [Informazioni per i partecipanti alla COP 31 (A-Z)](https://unfccc.int/cop31/ifp)
+   Tier A · data n.d. · consultato 09/11/2026 · solo risultati di ricerca
+
+3. **Presidenza COP31** — [Il Presidente della COP31 apre il vertice ONU sul clima chiedendo di trasformare le promesse in azione](https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action)
+   Tier A · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+
+4. **Ministero dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye** — [Il Presidente designato della COP31, il ministro Kurum, presenta l'Action Agenda](https://iklim.gov.tr/en/cop31-president-designate-and-minister-kurum-unveils-cop31-action-agenda-news-4985)
+   Tier A · pubblicato 09/06/2026 · consultato 09/11/2026 · pagina completa
+
+5. **ITU, Green Digital Action** — [Impegno di Antalya sull'intelligenza artificiale](https://www.itu.int/initiatives/green-digital-action/?p=1485)
+   Tier A · data n.d. · consultato 09/11/2026 · pagina completa
+
+6. **ISPRA** — [COP31 di Antalya](https://www.isprambiente.gov.it/it/news/cop31-di-antalya)
+   Tier A · data n.d. · consultato 09/11/2026 · pagina completa
+
+7. **UNFCCC** — [Nota concettuale: Dialogo sull'ambizione dell'Art. 6.2 in concomitanza con SBI 65 (PDF)](https://unfccc.int/sites/default/files/resource/SBI65_A6.2_AmbitionDialogue_Draft_ConceptNote.pdf)
+   Tier A · data n.d. · consultato 09/11/2026 · documento completo
+
+8. **GRI (organizzatore e relatore dei propri eventi)** — [Trasformare l'ambizione climatica in evidenze alla COP31](https://www.globalreporting.org/news/news-center/turning-climate-ambition-into-evidence-at-cop31/)
+   Tier A · pubblicato 05/11/2026 · consultato 09/11/2026 · pagina completa
+
+9. **Reuters (via Yahoo News)** — [I leader del vertice COP31 esortano il mondo a «muoversi più in fretta» sul clima](https://www.yahoo.com/news/articles/cop31-open-turkey-climate-goals-010350405.html) · di V. Volcovici, S. Jessop
+   Tier B · aggiornato 09/11/2026 08:36 UTC · consultato 09/11/2026 · pagina completa
+
+10. **AFP (via Taipei Times)** — [La COP31 si apre con i leader sotto pressione](https://www.taipeitimes.com/News/front/archives/2026/11/10/2003867463)
+   Tier B · lancio del 09/11/2026 (edizione del 10/11/2026) · consultato 09/11/2026 · pagina completa · stesso lancio anche su [Turkish Minute](https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/) e [Arab News](https://www.arabnews.com/world/cop31-opens-after-delay-over-climate-finance-3010683)
+
+11. **Climate Home News** — [Bollettino COP31, giorno 1: agenda definita, la COP esortata a «potenziare le soluzioni»](https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/) · di S. Rodriguez, M. Civillini, J. Lo, T. Gadea Lara
+   Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+
+12. **Climate Home News** — [Briefing COP31: cosa aspettarsi dal vertice sul clima di Antalya](https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/) · di M. Rowling et al.
+   Tier B · pubblicato 05/11/2026 · consultato 09/11/2026 · pagina completa
+
+13. **Climate Home News** — [L'Africa vuole la finanza per l'adattamento nell'agenda della COP31, con il rischio di uno scontro](https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/)
+   Tier B · pubblicato 28/10/2026 · consultato 09/11/2026 · solo risultati di ricerca
+
+14. **Carbon Brief** — [Interattivo: i testi negoziali del vertice COP31](https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit)
+   Tier B · pubblicato 05/11/2026 · consultato 09/11/2026 · pagina completa
+
+15. **Carbon Brief** — [Domande e risposte: che cos'è il meccanismo Belém-Antalya per una «transizione giusta»?](https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition)
+   Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · solo titolo dalla pagina indice
+
+16. **Al Jazeera (AFP/Reuters)** — [La Türkiye mette l'elettrificazione in cima all'agenda climatica alla vigilia della COP31](https://aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open)
+   Tier B · pubblicato 09/11/2026 · consultato 09/11/2026 · materiale d'agenzia
+
+17. **AFP (via Connaissance des Énergies)** — [La COP31 chiede impegni volontari sulle sfide climatiche dell'IA](https://www.connaissancedesenergies.org/afp/la-cop31-appelle-a-des-engagements-volontaires-sur-les-enjeux-climatiques-de-lia-261028)
+   Tier B · aggiornato 28/10/2026 · consultato 09/11/2026 · pagina completa
+
+18. **Eunews** — [UE alla COP31: obiettivi climatici e fossili](https://www.eunews.it/2026/11/06/ue-cop31-obiettivi-climatici-fossili/)
+   Tier B · pubblicato 06/11/2026 · consultato 09/11/2026 · solo risultati di ricerca
+
+19. **Health Policy Watch** — [«Le dichiarazioni non proteggono le persone»: la COP31 si apre sotto pressione per dare risultati, non parole](https://healthpolicy-watch.news/declarations-do-not-protect-people-cop31-opens-under-pressure-to-deliver-results-over-words/) · di S. Anderson
+   Tier C · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+
+20. **SustainabilityOnline** — [La COP31 deve «potenziare le soluzioni», dice Stiell](https://sustainabilityonline.net/news/cop31-needs-to-supercharge-solutions-says-un-climate-change-head/)
+   Tier C · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+
+21. **ekoIQ** — [La COP31 è iniziata ad Antalya: cosa c'è nella fitta agenda?](https://www.ekoiq.com/cop31-antalyada-basladi-yogun-gundemde-neler-var/)
+   Tier C · pubblicato 09/11/2026 · consultato 09/11/2026 · pagina completa
+
+22. **Transparency International (posizione propria)** — [La COP31 inizia con la fiducia in gioco: mancano ancora le garanzie di integrità](https://www.transparency.org/en/press/cop31-begins-with-trust-at-stake-integrity-safeguards-remain-missing)
+   Tier C · pubblicato 05/11/2026 · consultato 09/11/2026 · solo risultati di ricerca
+
+23. **WRI e NRDC (posizioni proprie)** — [WRI: l'impegno di Antalya sull'IA deve trasformare l'ambizione climatica in responsabilità](https://www.wri.org/news/wri-statement-antalya-ai-pledge-must-turn-climate-ambition-accountability); [NRDC: l'impegno di Antalya sull'IA è un inizio importante, ma deve avere più forza e andare oltre](https://www.nrdc.org/reaction/antalya-ai-pledge-important-start-needs-teeth-and-must-go-further)
+   Tier C · pubblicato ottobre 2026 · consultato 09/11/2026 · solo risultati di ricerca
+
+24. **co2news.sk** — [Sfide, priorità e negoziati della COP31 di Antalya](https://www.co2news.sk/en/2026/10/26/challenges-priorities-and-negotiations-of-cop31-in-antalya-analysis-of-key-agendas-and-implications-for-the-eu/)
+   Tier C · pubblicato 26/10/2026 · consultato 09/11/2026 · solo risultati di ricerca
+
+25. **AP (via PBS NewsHour)** — [Il vertice sul clima COP31 si apre dopo un anno disastroso di eventi estremi](https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather) · di S. Fraser, S. Arasu
+   Tier B · pubblicato 09/11/2026 · consultato 10/11/2026 · pagina completa
+
+26. **Down To Earth** — [La COP31 adotta il programma di lavoro sulla finanza climatica; cadono le proposte su finanza per l'adattamento e misure commerciali](https://www.downtoearth.org.in/climate-change/cop31-adopts-climate-finance-work-programme-proposals-for-adaptation-funding-trade-measures-dropped) · di P. Das
+   Tier C · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+
+27. **Climate Home News** — [I Paesi in via di sviluppo verso un deficit di finanza climatica con l'impennata dei rimborsi dei prestiti](https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/) · di M. Civillini
+   Tier B · pubblicato 10/11/2026 · consultato 10/11/2026 · pagina completa
+
+28. **FAO** — [La Turquoise Nexus Initiative](https://www.fao.org/climate-change/fao-at-cop31/the-turquoise-nexus-initiative/en)
+   Tier A · data n.d. · consultato 10/11/2026 · pagina completa (data di lancio del 9/11 solo da risultati di ricerca)
+
+29. **UNFCCC** — [Baku High-Level Dialogue sull'adattamento alla COP31, evento obbligatorio: nota concettuale (PDF)](https://unfccc.int/sites/default/files/resource/Concept%20note_COP31%20Baku%20High%20Level%20Dialogue%20on%20Adaptation.pdf)
+   Tier A · data n.d. · consultato 10/11/2026 · documento completo
+
+30. **Commissione europea, DG ENER (direzione generale Energia)** — [Eventi sull'energia alla COP31](https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en)
+   Tier A · data n.d. · consultato 10/11/2026 · pagina completa
