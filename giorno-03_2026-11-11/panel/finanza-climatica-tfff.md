@@ -1,6 +1,6 @@
 # Finanza climatica: impegni pubblici in calo ed evento sul fondo per le foreste tropicali (TFFF) / Climate finance: falling public pledges and the Tropical Forest Forever Facility (TFFF) event
 
-> 🕘 **Versione serale provvisoria / Provisional evening version** — 2026-11-11 21:30 (Europe/Rome) — verrà consolidata domattina alle 07:00 / will be consolidated tomorrow morning at 07:00.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-12 07:45 (Europe/Rome) / consolidated on 2026-11-12 07:45. Prima versione serale / first evening version: 2026-11-11 21:30.
 
 - **Data / Date:** mercoledì 11 novembre 2026 / Wednesday 11 November 2026
 - **Orario / Time (Europe/Rome):** n.d. / n/a

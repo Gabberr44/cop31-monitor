@@ -1,6 +1,6 @@
 # Giornata "Zero Waste": tavola rotonda dei leader su rifiuti zero, circolarità e metano / "Zero Waste" day: Leaders' Roundtable on zero waste, circularity and methane
 
-> 🕘 **Versione serale provvisoria / Provisional evening version** — 2026-11-11 21:30 (Europe/Rome) — verrà consolidata domattina alle 07:00 / will be consolidated tomorrow morning at 07:00.
+> ✅ **Versione finale / Final version** — consolidata il 2026-11-12 07:45 (Europe/Rome) / consolidated on 2026-11-12 07:45. Prima versione serale / first evening version: 2026-11-11 21:30.
 
 - **Data / Date:** mercoledì 11 novembre 2026 / Wednesday 11 November 2026
 - **Orario / Time (Europe/Rome):** 14:00–15:30 (16:00–17:30 ora di Antalya / Antalya time) [4]
