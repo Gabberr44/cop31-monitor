@@ -155,7 +155,7 @@ _Riferimenti / References: UNFCCC, "COP 31 Antalya Leaders' Summit Schedule – 
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo nuovo. Il VSME non richiede un'analisi del rischio fisico nel modulo Base, ma banche e assicurazioni la chiedono sempre più spesso: annotare per ogni sito i pericoli principali (alluvione, caldo estremo, frane) usando le mappe pubbliche e i sistemi di allerta locali è un primo passo a costo quasi zero.
 - **What changes for an SME filling in the VSME:** no new obligation. The VSME Basic Module does not require a physical risk analysis, but banks and insurers increasingly ask for one: noting the main hazards for each site (flood, extreme heat, landslides) using public maps and local warning systems is a near-zero-cost first step.
 
-## 2026-11-12 — Giorno 4 / Day 4 _(🕘 versione serale provvisoria, aggiornata alle 12:45 ora italiana; giornata in corso / provisional evening version, updated 12:45 Italian time; day in progress)_
+## 2026-11-12 — Giorno 4 / Day 4 _(🕘 versione serale provvisoria, aggiornata alle 22:15 ora italiana / provisional evening version, updated 22:15 Italian time)_
 _Fonti / Sources: numerate come in / numbered as in `giorno-04_2026-11-12/sintesi-giornata.md`; [D] = GOV.UK Defra, "Government to stamp illegal deforestation out of UK supply chains" (Tier A, 11/11/2026) https://www.gov.uk/government/news/government-to-stamp-illegal-deforestation-out-of-uk-supply-chains_
 
 ### 1. Business Forum COP31: misure comuni del carbonio e "riportare una volta sola" / COP31 Business Forum: common carbon metrics and "report once" — Rilevanza: Media / Medium
@@ -172,7 +172,9 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-04_2026-11-12/sintes
 
 ### 3. Metano: richieste di regole più forti e impegno australiano / Methane: calls for stronger rules and Australian pledge — Rilevanza: Bassa / Low
 - **Cosa è successo:** ⚠️ secondo Climate Home, **Monique Barbut (Francia)** vuole il metano nella decisione finale, **Mia Mottley (Barbados)** propone un trattato vincolante e **Chris Bowen (Australia)** firmerà un impegno volontario a metano "quasi zero" per i fossili [3].
+- **Aggiornamento serale:** al vertice sui gas non-CO₂ co-ospitato da **Cina, Regno Unito e Brasile** i donatori filantropici hanno promesso oltre 480 milioni di dollari per metano e super inquinanti ⚠️ secondo Health Policy Watch [8].
 - **What happened:** ⚠️ according to Climate Home, **Monique Barbut (France)** wants methane in the final decision, **Mia Mottley (Barbados)** proposes a binding treaty and **Chris Bowen (Australia)** will sign a voluntary "near-zero" fossil methane pledge [3].
+- **Evening update:** at the non-CO₂ summit co-hosted by **China, the UK and Brazil**, philanthropic donors pledged over USD 480 million for methane and super pollutants ⚠️ according to Health Policy Watch [8].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Si rafforza la tendenza del giorno 3 (standard UNEP sul metano): le PMI con gas naturale, refrigeranti o reflui fanno bene a separare queste voci nello Scope 1 del B3.
 - **What changes for an SME filling in the VSME:** no obligation. It reinforces the day 3 trend (UNEP methane standard): SMEs with natural gas, refrigerants or wastewater should separate these items in B3 Scope 1.
 
@@ -181,3 +183,15 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-04_2026-11-12/sintes
 - **What happened:** **Andy Burnham, UK Prime Minister**, backs Amplify (£5 bn of private finance for clean energy) ✅ [4]; **Solomon Islands** makes the first pledge to the GCF replenishment (USD 400,000) ✅ [5].
 - **Cosa cambia per una PMI che compila il VSME:** nessun effetto diretto. Più finanza privata significa più richieste di dati ESG da banche e investitori: un VSME compilato riduce i tempi di risposta.
 - **What changes for an SME filling in the VSME:** no direct effect. More private finance means more ESG data requests from banks and investors: a completed VSME shortens response times.
+
+### 5. Crediti di carbonio da stufe pulite (Articolo 6) / Clean-cookstove carbon credits (Article 6) — Rilevanza: Bassa / Low
+- **Cosa è successo:** **BURN, produttore di stufe pulite**, ha annunciato accordi con Togo e Nigeria per vendere crediti di carbonio dell'Articolo 6; **Jiwoh Emmanuel Abdulai, ministro dell'Ambiente della Sierra Leone**, ha chiesto mercati del carbonio "di alta integrità" ⚠️ secondo Climate Home [3].
+- **What happened:** **BURN, a clean-cookstove developer**, announced deals with Togo and Nigeria to sell Article 6 carbon credits; **Jiwoh Emmanuel Abdulai, Sierra Leone's Environment Minister**, called for "high-integrity" carbon markets ⚠️ according to Climate Home [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI compra crediti (anche da stufe pulite) non li sottrae dalle emissioni del B3: li indica a parte, con tipo, quantità e standard di certificazione.
+- **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits (including cookstove credits) it does not subtract them from B3 emissions: it reports them separately, with type, quantity and certification standard.
+
+### 6. Decisione finale in bilico / Final decision in doubt — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Russia, Arabia Saudita e LMDC** mettono in dubbio la necessità di una "cover decision"; **l'Australia** attende contributi scritti fino a sabato 14 ⚠️ secondo Climate Home [3].
+- **What happened:** **Russia, Saudi Arabia and the LMDCs** question the need for a "cover decision"; **Australia** awaits written submissions until Saturday 14 ⚠️ according to Climate Home [3].
+- **Cosa cambia per una PMI che compila il VSME:** per ora nulla. Da seguire: se la decisione finale citerà metano o piani di transizione, aumenterà la pressione dei clienti per dati di Scope 1 più dettagliati.
+- **What changes for an SME filling in the VSME:** nothing yet. Worth watching: if the final decision mentions methane or transition plans, customer pressure for more detailed Scope 1 data will grow.

@@ -1,28 +1,35 @@
-# Metano e gas serra diversi dalla CO₂
-**Quando:** 12/11, 09:00–10:30 Antalya (07:00–08:30 ora italiana) per il vertice dei leader sui gas non-CO₂ · **Dove:** Meeting Room-3 (Topkapı) · **Organizza:** Regno Unito ✅ [1]<br>
-**Relatori:** **Monique Barbut** (ministra dell'Ambiente, Francia); **Mia Mottley** (prima ministra, Barbados); **Chris Bowen** (ministro per il clima, Australia, e Presidente dei negoziati COP31) — interventi riportati da Climate Home, sede non precisata [2]<br>
+# Vertice dei leader sul metano e sui gas serra diversi dalla CO₂
+**Quando:** 12/11, 09:00–10:30 Antalya (07:00–08:30 ora italiana) · **Dove:** Meeting Room-3 (Topkapı) · **Organizza:** Regno Unito nel programma ufficiale ✅ [1]; co-ospitato da Cina, Regno Unito e Brasile ⚠️ [3]<br>
+**Relatori:** **Monique Barbut** (ministra della Transizione ecologica, Francia); **Mia Mottley** (prima ministra, Barbados); **Ana Toni** (segretaria nazionale per il cambiamento climatico, Brasile); **Heike Henn** (segretaria di Stato, Germania); **Chris Bowen** (ministro per il clima, Australia, e Presidente dei negoziati COP31) [2][3]<br>
 🎥 Video non ancora disponibile
 
 ## In breve
-Diversi governi hanno chiesto regole più forti sul metano, un gas che scalda molto più della CO₂ nel breve periodo. Il tema conta perché potrebbe entrare nella decisione finale della COP31.
+I leader hanno chiesto regole più forti sul metano, un gas che scalda molto più della CO₂ nel breve periodo. I donatori privati hanno promesso nuovi fondi, mentre alcuni governi spingono per citare il metano nella decisione finale della COP31.
 
 ## Punti chiave
-- **Monique Barbut, ministra francese dell'Ambiente**, ha chiesto una menzione forte del metano nella decisione finale ("cover decision") ⚠️ secondo Climate Home [2].
-- **Monique Barbut** ha chiesto alle compagnie oil & gas di portare l'intensità di metano vicino a zero entro il 2030 e di fermare combustione e rilascio in torcia ("flaring" e "venting") ⚠️ [2].
-- **Mia Mottley, prima ministra delle Barbados**, ha proposto un trattato globale vincolante sul metano ⚠️ secondo Climate Home [2]. Come primo passo suggerisce un vertice dei Paesi volenterosi ⚠️ [2].
-- **Chris Bowen, ministro australiano per il clima**, ha detto che l'Australia firmerà un impegno volontario a metano "quasi zero" per i combustibili fossili, nonostante le pressioni degli agricoltori ⚠️ secondo Climate Home [2].
-- **CCAC (Coalizione per il clima e l'aria pulita), UNEP e UNICEF** hanno stimato che acque reflue e servizi igienici producono il 7–10% del metano globale ⚠️ secondo Commonspace [3].
+- **Donatori filantropici** hanno promesso oltre 480 milioni di dollari per tagliare il metano in energia, agricoltura e rifiuti ⚠️ secondo Health Policy Watch [3]. Si aggiungono a oltre 530 milioni già erogati dal 2021 ⚠️ [3].
+- **Monique Barbut, ministra francese**, ha chiesto una menzione forte del metano nella decisione finale ("cover decision") ⚠️ secondo Climate Home e Health Policy Watch [2][3]. Vuole intensità di metano "quasi zero" per petrolio e gas entro il 2030 e lo stop a "flaring" e "venting" (combustione e rilascio diretto del gas) ⚠️ [2][3].
+- **Mia Mottley, prima ministra delle Barbados**, ha proposto un accordo globale vincolante sul metano invece di impegni volontari ⚠️ [2][3].
+- **Ana Toni, segretaria brasiliana per il clima**, ha detto che le emissioni di metano "are flat" (non calano) ⚠️ secondo Health Policy Watch [3].
+- **Chris Bowen, ministro australiano per il clima**, ha detto che l'Australia firmerà un impegno volontario a metano "quasi zero" per i combustibili fossili ⚠️ secondo Climate Home [2]. Secondo Health Policy Watch non ha citato il metano nel suo intervento al vertice ⚠️ [3].
+
+## Annunci e numeri
+- **Health Policy Watch**: la finanza tracciata per ridurre il metano è scesa da 7,7 miliardi di dollari (2021) a 5,2 miliardi (2023), circa il 4% del necessario ⚠️ [3].
+- **Climate Home**: circa il 40% del metano viene dall'agricoltura, oltre il 20% dalle discariche e un terzo da petrolio e gas 🟡 [2].
+
+## Citazioni
+- "This cover decision must incorporate a strong and substantive mention to methane." — **Monique Barbut, ministra francese** [2]
 
 ## Rilevanza per il VSME
-**Media** — Nel VSME (modulo B3) il metano rientra nelle emissioni di Scope 1 in tCO₂e: le PMI con caldaie a gas, perdite di rete o trattamento reflui possono ricevere domande più precise.
+**Media** — Nel VSME (modulo B3) il metano rientra nelle emissioni di Scope 1 in tCO₂e: le PMI con caldaie a gas, perdite di rete, allevamenti o reflui possono ricevere domande più precise da clienti e banche.
 
 ## Fonti
 
 1. **UNFCCC** — [Programma del vertice dei leader di Antalya, giorno 2 (PDF)](https://unfccc.int/sites/default/files/resource/ALS-2026-DAY2.pdf)<br>
    <sub>Tier A · data n.d. · consultato 12/11/2026 · documento completo</sub>
 
-2. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
-   <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)</sub>
+2. **Climate Home News** — [Bollettino COP31, giorno 4: le economie emergenti mettono in dubbio la decisione finale](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+   <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
-3. **Commonspace.eu** — [Aggiornamento COP31 n. 4: i leader mondiali intervengono al vertice di Antalya](https://www.commonspace.eu/index.php/news/cop-31-update-4-world-leaders-address-climate-summit-antalya)<br>
+3. **Health Policy Watch** (S. Anderson) — [La Francia chiede un obiettivo di metano quasi zero per petrolio e gas nell'accordo COP31](https://healthpolicy-watch.news/france-seeks-near-zero-methane-target-for-oil-and-gas-in-cop31-deal/)<br>
    <sub>Tier C · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>

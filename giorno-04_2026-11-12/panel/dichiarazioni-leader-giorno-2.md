@@ -36,5 +36,5 @@ Nella seconda giornata del vertice i leader hanno letto le dichiarazioni naziona
 3. **Green Climate Fund** — [Le Isole Salomone fanno il primo storico contributo alla prossima ricostituzione del GCF](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)<br>
    <sub>Tier A · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
 
-4. **Climate Home News** — [Bollettino COP31, giorno 4: parla Burnham, sotto accusa la politica climatica britannica](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+4. **Climate Home News** — [Bollettino COP31, giorno 4: le economie emergenti mettono in dubbio la decisione finale](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
    <sub>Tier B · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa (in parte a pagamento)</sub>

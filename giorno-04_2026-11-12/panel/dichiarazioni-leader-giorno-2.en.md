@@ -36,5 +36,5 @@ On the second day of the summit, leaders delivered their national statements. Th
 3. **Green Climate Fund** — [Solomon Islands makes historic first pledge to Green Climate Fund's next replenishment](https://www.greenclimate.fund/about/news-and-updates/solomon-islands-makes-historic-first-pledge-green-climate-funds-next-replenishment)<br>
    <sub>Tier A · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
 
-4. **Climate Home News** — [COP31 Bulletin Day 4: Burnham speaks with UK climate policy under fire](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
+4. **Climate Home News** — [COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision](https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/)<br>
    <sub>Tier B · published 12/11/2026 · accessed 12/11/2026 · full page (partly paywalled)</sub>
