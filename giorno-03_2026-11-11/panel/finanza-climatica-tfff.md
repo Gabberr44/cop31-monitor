@@ -1,8 +1,8 @@
 # Finanza climatica: impegni pubblici in calo ed evento sul fondo per le foreste tropicali (TFFF)
 ✅ Versione finale — consolidata il 12/11/2026 alle 07:45 (ora italiana). Prima versione serale: 11/11/2026 alle 21:30 (ora italiana).
 
-**Quando:** 11/11, orario n.d. · **Dove:** Antalya EXPO Center (evento TFFF a margine del Leaders' Summit) [3] · **Organizza:** evento TFFF: Brasile e Paesi sostenitori, secondo Climate Home [3]; analisi: Carbon Brief [4]
-**Relatori:** **João Paulo Capobianco** (ministro dell'Ambiente, Brasile; interviene per il presidente Lula) [3]; nessun altro relatore confermato da fonti scritte
+**Quando:** 11/11, orario n.d. · **Dove:** Antalya EXPO Center (evento TFFF a margine del Leaders' Summit) [3] · **Organizza:** evento TFFF: Brasile e Paesi sostenitori, secondo Climate Home [3]; analisi: Carbon Brief [4]<br>
+**Relatori:** **João Paulo Capobianco** (ministro dell'Ambiente, Brasile; interviene per il presidente Lula) [3]; nessun altro relatore confermato da fonti scritte<br>
 🎥 Video non ancora disponibile
 
 ## In breve

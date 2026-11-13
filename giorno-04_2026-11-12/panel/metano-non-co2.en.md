@@ -7,7 +7,7 @@
 Leaders called for stronger rules on methane, a gas that warms far more than CO₂ in the short term. Private donors pledged new money, while some governments push to mention methane in the COP31 final decision.
 
 ## Key points
-- **Philanthropic donors** pledged more than USD 480 million to cut methane in energy, agriculture and waste ⚠️ according to Health Policy Watch [3]. This adds to more than USD 530 million delivered since 2021 ⚠️ [3].
+- **Philanthropic donors** pledged more than USD 480 million to cut methane in energy, agriculture and waste ✅ [3][4]. A further USD 25 million goes to emission cuts in seven countries ✅ [4]. This adds to more than USD 530 million delivered since 2021 ⚠️ [3].
 - **Monique Barbut, French minister**, asked for a strong mention of methane in the final decision ("cover decision") ⚠️ according to Climate Home and Health Policy Watch [2][3]. She wants "near-zero" oil and gas methane intensity by 2030 and an end to flaring and venting (burning and direct release of gas) ⚠️ [2][3].
 - **Mia Mottley, Prime Minister of Barbados**, proposed a binding global methane agreement instead of voluntary pledges ⚠️ [2][3].
 - **Ana Toni, Brazil's climate secretary**, said methane emissions "are flat" ⚠️ according to Health Policy Watch [3].
@@ -33,3 +33,6 @@ Leaders called for stronger rules on methane, a gas that warms far more than CO�
 
 3. **Health Policy Watch** (S. Anderson) — [France Seeks Near-Zero Methane Target For Oil And Gas In COP31 Deal](https://healthpolicy-watch.news/france-seeks-near-zero-methane-target-for-oil-and-gas-in-cop31-deal/)<br>
    <sub>Tier C · published 12/11/2026 · accessed 12/11/2026 · full page</sub>
+
+4. **UN News** (L. Quinones) — [COP31: Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/en/story/2026/11/1168792)<br>
+   <sub>Tier A · published 12/11/2026 · accessed 13/11/2026 · full page</sub>

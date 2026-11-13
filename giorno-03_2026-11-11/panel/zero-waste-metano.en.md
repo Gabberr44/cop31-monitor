@@ -1,9 +1,9 @@
 # "Zero Waste" day: Leaders' Roundtable on zero waste, circularity and methane
 ✅ Final version — consolidated on 12/11/2026 at 07:45 (Italian time). First evening version: 11/11/2026 at 21:30 (Italian time).
 
-**When:** 11/11, 16:00–17:30 Antalya (14:00–15:30 Italian time) [2] · **Where:** Leaders' Roundtable Room 2 (Ayder), Antalya EXPO Center [2] · **Organiser:** COP31 Presidency of Türkiye [2]
-**Scheduled speakers [2]:** **Emine Erdoğan** (First Lady of Türkiye, Chair of the UN Secretary-General's Advisory Board on Zero Waste); **Murat Kurum** (President, COP31); **Samed Ağırbaş** (High-Level Climate Champion, COP31); **António Guterres** (Secretary-General, UN)
-🎥 Video not yet available
+**When:** 11/11, 16:00–17:30 Antalya (14:00–15:30 Italian time) [2] · **Where:** Leaders' Roundtable Room 2 (Ayder), Antalya EXPO Center [2] · **Organiser:** COP31 Presidency of Türkiye [2]<br>
+**Scheduled speakers [2]:** **Emine Erdoğan** (First Lady of Türkiye, Chair of the UN Secretary-General's Advisory Board on Zero Waste); **Murat Kurum** (President, COP31); **Samed Ağırbaş** (High-Level Climate Champion, COP31); **António Guterres** (Secretary-General, UN)<br>
+🎥 [Video integrale — Leaders' Roundtable on zero waste, circularity and methane (UN Web TV, 1:42:27)](https://webtv.un.org/en/asset/k1r/k1rvqpgkha)
 
 _Correction: **the morning log** said Meeting Room-4 (Kapadokya); the official concept note prevails._
 

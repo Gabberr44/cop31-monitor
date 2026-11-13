@@ -1,8 +1,8 @@
 # Plenaria di apertura COP31 / CMP21 / CMA8
 ✅ Versione finale — consolidata il 10/11/2026 alle 07:30 (ora italiana)
 
-**Quando:** 09/11 (lunedì), mattina, orario esatto n.d. ✅ [1]; avvio con circa 90 minuti di ritardo secondo AFP 🟡 [3] · **Dove:** Antalya EXPO Center, Antalya, Türkiye [1][2] · **Organizza:** Segretariato UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici) e Presidenza COP31 (Türkiye)
-**Relatori:** **Murat Kurum** (presidente COP31, ministro dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye) [2]; **Chris Bowen** (ministro australiano per il Cambiamento climatico e l'Energia, presidente dei negoziati) [2][4]; **Simon Stiell** (segretario esecutivo, UNFCCC) [2][4]; **António Guterres** (segretario generale, ONU) [3]; **André Corrêa do Lago** (presidente COP30, Brasile; ha aperto la sessione) [3]
+**Quando:** 09/11 (lunedì), mattina, orario esatto n.d. ✅ [1]; avvio con circa 90 minuti di ritardo secondo AFP 🟡 [3] · **Dove:** Antalya EXPO Center, Antalya, Türkiye [1][2] · **Organizza:** Segretariato UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici) e Presidenza COP31 (Türkiye)<br>
+**Relatori:** **Murat Kurum** (presidente COP31, ministro dell'Ambiente, dell'Urbanizzazione e del Cambiamento climatico, Türkiye) [2]; **Chris Bowen** (ministro australiano per il Cambiamento climatico e l'Energia, presidente dei negoziati) [2][4]; **Simon Stiell** (segretario esecutivo, UNFCCC) [2][4]; **António Guterres** (segretario generale, ONU) [3]; **André Corrêa do Lago** (presidente COP30, Brasile; ha aperto la sessione) [3]<br>
 🎥 Video non ancora disponibile
 
 Sigle del titolo: COP31 è la 31ª conferenza ONU sul clima; CMP21 è la 21ª riunione delle Parti del Protocollo di Kyoto; CMA8 è l'8ª riunione delle Parti dell'Accordo di Parigi.

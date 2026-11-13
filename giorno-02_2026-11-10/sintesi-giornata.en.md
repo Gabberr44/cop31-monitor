@@ -32,7 +32,7 @@ Even at the morning consolidation on 11 Nov, no ENB (Earth Negotiations Bulletin
 |---|---|---|---|---|
 | ["35-by-35" electrification package](panel/elettrificazione-35by35.en.md) | COP31 Presidency, Presidency of Negotiations (Australia), IEA, IRENA (International Renewable Energy Agency), companies and utilities | Goal, forum, board, IEA tracking, finance coalition, UNEZA and corporate commitments, rooftop solar | Medium | Not yet available |
 | [Global Carbon Budget 2026](panel/global-carbon-budget-2026.en.md) | University of Exeter, University of East Anglia, Global Carbon Project and other institutes | Fossil emissions −0.4%, total rising, 1.5 °C budget under four years | Low | Not yet available |
-| [Fossil fuel transition roadmap (TAFF)](panel/roadmap-fossili-taff.en.md) | COP30 Presidency (Brazil), António Guterres | COP30 Presidency toolkit, Guterres's appeal, expected opposition | Low | Not yet available |
+| [Fossil fuel transition roadmap (TAFF)](panel/roadmap-fossili-taff.en.md) | COP30 Presidency (Brazil), António Guterres | COP30 Presidency toolkit, Guterres's appeal, expected opposition | Low | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1b/k1brkp0hqo) |
 
 ## Events without a written account
 Events in the UNFCCC or Presidency programme for which no written account was found.

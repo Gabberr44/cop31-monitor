@@ -1,9 +1,9 @@
 # Allerta precoce per tutti: evento di alto livello e nuovo rapporto
 ✅ Versione finale — consolidata il 12/11/2026 alle 07:45 (ora italiana). Panel aggiunto nella versione finale.
 
-**Quando:** 11/11, orario n.d. · **Dove:** COP31, Antalya [1] · **Organizza:** iniziativa ONU Early Warnings for All (allerta precoce per tutti) [1]
-**Relatori:** **António Guterres** (segretario generale, ONU) [1]
-🎥 Video non ancora disponibile
+**Quando:** 11/11, orario n.d. · **Dove:** COP31, Antalya [1] · **Organizza:** iniziativa ONU Early Warnings for All (allerta precoce per tutti) [1]<br>
+**Relatori:** **António Guterres** (segretario generale, ONU) [1]<br>
+🎥 [Video integrale — Evento di alto livello Early Warnings for All (UN Web TV, 1:57:11)](https://webtv.un.org/en/asset/k11/k1133twdx3)
 
 ## In breve
 **L'iniziativa ONU Early Warnings for All** ha tenuto un evento di alto livello e pubblicato un rapporto di avanzamento ✅ [1]. **Il rapporto** mostra che i sistemi di allerta salvano vite, ma un Paese su tre ne è ancora privo ✅ [1].

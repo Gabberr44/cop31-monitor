@@ -32,7 +32,7 @@ Anche al consolidamento del mattino dell'11/11 nessun resoconto ENB (Earth Negot
 |---|---|---|---|---|
 | [Pacchetto "35-by-35" sull'elettrificazione](panel/elettrificazione-35by35.md) | Presidenza COP31, Presidenza dei negoziati (Australia), IEA, IRENA (Agenzia internazionale per le energie rinnovabili), imprese e utility | Obiettivo, forum, board, tracciamento IEA, coalizione finanziaria, impegni UNEZA e imprese, fotovoltaico sui tetti | Media | Non ancora disponibile |
 | [Global Carbon Budget 2026](panel/global-carbon-budget-2026.md) | University of Exeter, University of East Anglia, Global Carbon Project e altri istituti | Emissioni fossili −0,4%, totali in aumento, budget per 1,5 °C sotto i quattro anni | Bassa | Non ancora disponibile |
-| [Roadmap sull'uscita dai fossili (TAFF)](panel/roadmap-fossili-taff.md) | Presidenza COP30 (Brasile), António Guterres | Strumento della Presidenza COP30, appello di Guterres, opposizioni attese | Bassa | Non ancora disponibile |
+| [Roadmap sull'uscita dai fossili (TAFF)](panel/roadmap-fossili-taff.md) | Presidenza COP30 (Brasile), António Guterres | Strumento della Presidenza COP30, appello di Guterres, opposizioni attese | Bassa | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1b/k1brkp0hqo) |
 
 ## Eventi senza resoconto scritto
 Eventi del programma UNFCCC o della Presidenza per cui non è stato trovato alcun resoconto scritto.

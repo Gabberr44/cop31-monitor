@@ -1,7 +1,7 @@
 # Roadmap per l'uscita dai combustibili fossili (TAFF): la Presidenza COP30 presenta il suo strumento
 **Quando:** 10/11, orario n.d. · **Dove:** Antalya EXPO Center, in plenaria · **Organizza:** Presidenza COP30 (Brasile) [1][3][5]<br>
 **Relatori:** **André Corrêa do Lago** (Presidente, COP30) [5]; **António Guterres** (segretario generale, ONU) [1][2][5][6]. Secondo Climate Home sono intervenuti anche **India**, **Nigeria**, **Germania**, il **Gruppo africano** (con **Antwi-Boasiako Amoah**, Ghana), **Laurent Fabius** e **John Kerry** [5]<br>
-🎥 Video non ancora disponibile
+🎥 [Video integrale — Evento della Presidenza COP30 sulla roadmap per l'uscita dai fossili (UN Web TV, 1:51:29)](https://webtv.un.org/en/asset/k1b/k1brkp0hqo)
 
 ✅ Versione finale — consolidata il 11/11/2026 alle 07:45 (ora italiana)
 

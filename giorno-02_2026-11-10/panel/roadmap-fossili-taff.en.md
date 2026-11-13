@@ -1,7 +1,7 @@
 # Transition away from fossil fuels (TAFF) roadmap: the COP30 Presidency presents its toolkit
 **When:** 10/11, time n/a · **Where:** Antalya EXPO Center, in plenary · **Organiser:** COP30 Presidency (Brazil) [1][3][5]<br>
 **Speakers:** **André Corrêa do Lago** (President, COP30) [5]; **António Guterres** (Secretary-General, UN) [1][2][5][6]. According to Climate Home, **India**, **Nigeria**, **Germany**, the **African Group** (with **Antwi-Boasiako Amoah**, Ghana), **Laurent Fabius** and **John Kerry** also spoke [5]<br>
-🎥 Video not yet available
+🎥 [Video integrale — COP30 Presidency event on the fossil fuel transition roadmap (UN Web TV, 1:51:29)](https://webtv.un.org/en/asset/k1b/k1brkp0hqo)
 
 ✅ Final version — consolidated on 11/11/2026 at 07:45 (Italian time)
 

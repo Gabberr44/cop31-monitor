@@ -1,8 +1,8 @@
 # Opening plenary of COP31 / CMP21 / CMA8
 ✅ Final version — consolidated on 10/11/2026 at 07:30 (Italian time)
 
-**When:** 09/11 (Monday), morning, exact time n/a ✅ [1]; started about 90 minutes late according to AFP 🟡 [3] · **Where:** Antalya EXPO Center, Antalya, Türkiye [1][2] · **Organiser:** UNFCCC Secretariat (the UN Framework Convention on Climate Change) and COP31 Presidency (Türkiye)
-**Speakers:** **Murat Kurum** (COP31 President, Minister of Environment, Urbanisation and Climate Change, Türkiye) [2]; **Chris Bowen** (Australian Minister for Climate Change and Energy, President of Negotiations) [2][4]; **Simon Stiell** (Executive Secretary, UNFCCC) [2][4]; **António Guterres** (Secretary-General, UN) [3]; **André Corrêa do Lago** (COP30 President, Brazil; opened the session) [3]
+**When:** 09/11 (Monday), morning, exact time n/a ✅ [1]; started about 90 minutes late according to AFP 🟡 [3] · **Where:** Antalya EXPO Center, Antalya, Türkiye [1][2] · **Organiser:** UNFCCC Secretariat (the UN Framework Convention on Climate Change) and COP31 Presidency (Türkiye)<br>
+**Speakers:** **Murat Kurum** (COP31 President, Minister of Environment, Urbanisation and Climate Change, Türkiye) [2]; **Chris Bowen** (Australian Minister for Climate Change and Energy, President of Negotiations) [2][4]; **Simon Stiell** (Executive Secretary, UNFCCC) [2][4]; **António Guterres** (Secretary-General, UN) [3]; **André Corrêa do Lago** (COP30 President, Brazil; opened the session) [3]<br>
 🎥 Video not yet available
 
 Acronyms in the title: COP31 is the 31st UN climate conference; CMP21 is the 21st meeting of the Parties to the Kyoto Protocol; CMA8 is the 8th meeting of the Parties to the Paris Agreement.

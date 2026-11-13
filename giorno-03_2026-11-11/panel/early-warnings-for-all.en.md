@@ -1,9 +1,9 @@
 # Early Warnings for All: high-level event and new report
 ✅ Final version — consolidated on 12/11/2026 at 07:45 (Italian time). Panel added in the final version.
 
-**When:** 11/11, time n/a · **Where:** COP31, Antalya [1] · **Organiser:** UN Early Warnings for All initiative [1]
-**Speakers:** **António Guterres** (Secretary-General, UN) [1]
-🎥 Video not yet available
+**When:** 11/11, time n/a · **Where:** COP31, Antalya [1] · **Organiser:** UN Early Warnings for All initiative [1]<br>
+**Speakers:** **António Guterres** (Secretary-General, UN) [1]<br>
+🎥 [Video integrale — High-level event Early Warnings for All (UN Web TV, 1:57:11)](https://webtv.un.org/en/asset/k11/k1133twdx3)
 
 ## In brief
 **The UN Early Warnings for All initiative** held a high-level event and released a progress report ✅ [1]. **The report** shows that warning systems save lives, but one country in three still has none ✅ [1].

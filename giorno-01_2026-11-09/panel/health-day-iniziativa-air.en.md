@@ -1,8 +1,8 @@
 # Health Day: Antalya Initiative for Resilient Health Systems (AIR)
 ✅ Final version — consolidated on 10/11/2026 at 07:30 (Italian time)
 
-**When:** 09/11, time n/a — "Food, Agriculture and Health" thematic day ✅ [1][2] · **Where:** Antalya EXPO Center · **Organiser:** COP31 Presidency (Türkiye) with WHO (the World Health Organization) and ATACH (the Alliance for Transformative Action on Climate and Health) [2]
-**Speakers (per Health Policy Watch, Tier C [3]):** **Kemal Memişoğlu** (Health Minister, Türkiye); **Tedros Adhanom Ghebreyesus** (Director-General, WHO); **Alexandre Padilha** (Health Minister, Brazil); **Tuafafa Latasi** (Health Minister, Tuvalu)
+**When:** 09/11, time n/a — "Food, Agriculture and Health" thematic day ✅ [1][2] · **Where:** Antalya EXPO Center · **Organiser:** COP31 Presidency (Türkiye) with WHO (the World Health Organization) and ATACH (the Alliance for Transformative Action on Climate and Health) [2]<br>
+**Speakers (per Health Policy Watch, Tier C [3]):** **Kemal Memişoğlu** (Health Minister, Türkiye); **Tedros Adhanom Ghebreyesus** (Director-General, WHO); **Alexandre Padilha** (Health Minister, Brazil); **Tuafafa Latasi** (Health Minister, Tuvalu)<br>
 🎥 Video not yet available
 
 ## In brief

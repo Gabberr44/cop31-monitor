@@ -1,9 +1,9 @@
 # Giornata «Zero Waste»: tavola rotonda dei leader su rifiuti zero, circolarità e metano
 ✅ Versione finale — consolidata il 12/11/2026 alle 07:45 (ora italiana). Prima versione serale: 11/11/2026 alle 21:30 (ora italiana).
 
-**Quando:** 11/11, 16:00–17:30 Antalya (14:00–15:30 ora italiana) [2] · **Dove:** Leaders' Roundtable Room 2 (Ayder), Antalya EXPO Center [2] · **Organizza:** Presidenza COP31 della Türkiye [2]
-**Relatori previsti [2]:** **Emine Erdoğan** (First Lady della Türkiye, presidente dell'Advisory Board del segretario generale ONU sui rifiuti zero); **Murat Kurum** (presidente, COP31); **Samed Ağırbaş** (High-Level Climate Champion, COP31); **António Guterres** (segretario generale, ONU)
-🎥 Video non ancora disponibile
+**Quando:** 11/11, 16:00–17:30 Antalya (14:00–15:30 ora italiana) [2] · **Dove:** Leaders' Roundtable Room 2 (Ayder), Antalya EXPO Center [2] · **Organizza:** Presidenza COP31 della Türkiye [2]<br>
+**Relatori previsti [2]:** **Emine Erdoğan** (First Lady della Türkiye, presidente dell'Advisory Board del segretario generale ONU sui rifiuti zero); **Murat Kurum** (presidente, COP31); **Samed Ağırbaş** (High-Level Climate Champion, COP31); **António Guterres** (segretario generale, ONU)<br>
+🎥 [Video integrale — Tavola rotonda dei leader su rifiuti zero, circolarità e metano (UN Web TV, 1:42:27)](https://webtv.un.org/en/asset/k1r/k1rvqpgkha)
 
 _Correzione: **il log del mattino** indicava la Meeting Room-4 (Kapadokya); prevale la nota concettuale ufficiale._
 

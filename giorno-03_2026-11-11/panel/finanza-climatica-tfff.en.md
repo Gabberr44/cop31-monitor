@@ -1,8 +1,8 @@
 # Climate finance: falling public pledges and the Tropical Forest Forever Facility (TFFF) event
 ✅ Final version — consolidated on 12/11/2026 at 07:45 (Italian time). First evening version: 11/11/2026 at 21:30 (Italian time).
 
-**When:** 11/11, time n/a · **Where:** Antalya EXPO Center (TFFF event on the sidelines of the Leaders' Summit) [3] · **Organiser:** TFFF event: Brazil and supporting countries, according to Climate Home [3]; analysis: Carbon Brief [4]
-**Speakers:** **João Paulo Capobianco** (Environment Minister, Brazil; speaking for President Lula) [3]; no other speaker confirmed by written sources
+**When:** 11/11, time n/a · **Where:** Antalya EXPO Center (TFFF event on the sidelines of the Leaders' Summit) [3] · **Organiser:** TFFF event: Brazil and supporting countries, according to Climate Home [3]; analysis: Carbon Brief [4]<br>
+**Speakers:** **João Paulo Capobianco** (Environment Minister, Brazil; speaking for President Lula) [3]; no other speaker confirmed by written sources<br>
 🎥 Video not yet available
 
 ## In brief

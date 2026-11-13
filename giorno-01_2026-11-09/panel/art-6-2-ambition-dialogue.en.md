@@ -1,8 +1,8 @@
 # Article 6.2 Ambition Dialogue
 ✅ Final version — consolidated on 10/11/2026 at 07:30 (Italian time)
 
-**When:** 09/11, 15:00–18:00 Antalya (13:00–16:00 Italian time) ✅ [1] · **Where:** Meeting Room 19 – Ahlat, Antalya EXPO Center; also streamed on the COP31 digital platform [1] · **Organiser:** UNFCCC Secretariat (the UN Framework Convention on Climate Change), alongside SBI 65 (the Subsidiary Body for Implementation) [1]
-**Invited speakers:** **Brazil**; **Germany**; **Bhutan**; **Carbon Market Watch**; **RINGO** (Research and Independent NGOs). Moderators to be defined in the note [1].
+**When:** 09/11, 15:00–18:00 Antalya (13:00–16:00 Italian time) ✅ [1] · **Where:** Meeting Room 19 – Ahlat, Antalya EXPO Center; also streamed on the COP31 digital platform [1] · **Organiser:** UNFCCC Secretariat (the UN Framework Convention on Climate Change), alongside SBI 65 (the Subsidiary Body for Implementation) [1]<br>
+**Invited speakers:** **Brazil**; **Germany**; **Bhutan**; **Carbon Market Watch**; **RINGO** (Research and Independent NGOs). Moderators to be defined in the note [1].<br>
 🎥 Video not yet available
 
 ## In brief

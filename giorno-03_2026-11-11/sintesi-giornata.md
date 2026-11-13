@@ -53,10 +53,12 @@ _**Il bollettino ENB (Earth Negotiations Bulletin)** non era leggibile (errore 4
 ## Panel ed eventi del giorno
 | Evento | Chi | In una riga | Rilevanza VSME | Video |
 |---|---|---|---|---|
-| [Apertura del Leaders' Summit e dichiarazioni dei leader](panel/leaders-summit-apertura.md) | Guterres, Erdoğan, Lula, Albanese, von der Leyen | Patto di Guterres, Unione Europea e 35-by-35, grandi assenze | Bassa | Non ancora disponibile |
-| [Zero Waste: rifiuti, circolarità e metano](panel/zero-waste-metano.md) | Presidenza COP31; Guterres | Obiettivi 2035 su rifiuti e circolarità, standard globale sul metano di petrolio e gas | Media | Non ancora disponibile |
+| [Apertura del Leaders' Summit e dichiarazioni dei leader](panel/leaders-summit-apertura.md) | Guterres, Erdoğan, Lula, Albanese, von der Leyen | Patto di Guterres, Unione Europea e 35-by-35, grandi assenze | Bassa | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1f/k1f5r4tpfa) |
+| [Zero Waste: rifiuti, circolarità e metano](panel/zero-waste-metano.md) | Presidenza COP31; Guterres | Obiettivi 2035 su rifiuti e circolarità, standard globale sul metano di petrolio e gas | Media | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1r/k1rvqpgkha) |
 | [Finanza climatica e TFFF](panel/finanza-climatica-tfff.md) | Carbon Brief (analisi); evento TFFF | Impegni pubblici in calo, fondo per le foreste a 7,9 miliardi di dollari | Bassa | Non ancora disponibile |
-| [Early Warnings for All](panel/early-warnings-for-all.md) | Guterres; iniziativa ONU Early Warnings for All | 136 Paesi con allerta multi-rischio, mortalità 6,1 volte più bassa, tre priorità di Guterres | Media | Non ancora disponibile |
+| [Early Warnings for All](panel/early-warnings-for-all.md) | Guterres; iniziativa ONU Early Warnings for All | 136 Paesi con allerta multi-rischio, mortalità 6,1 volte più bassa, tre priorità di Guterres | Media | [🎥 UN Web TV](https://webtv.un.org/en/asset/k11/k1133twdx3) |
+
+🎥 Altri video ufficiali del giorno: [Dialogo di alto livello «35 by 35: Powering the Future» su transizione energetica ed elettrificazione (UN Web TV, 1:59:13)](https://webtv.un.org/en/asset/k1x/k1xn8ez8gz)
 
 _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità per le PMI (piccole e medie imprese)._
 

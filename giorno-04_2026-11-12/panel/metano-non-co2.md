@@ -7,7 +7,7 @@
 I leader hanno chiesto regole più forti sul metano, un gas che scalda molto più della CO₂ nel breve periodo. I donatori privati hanno promesso nuovi fondi, mentre alcuni governi spingono per citare il metano nella decisione finale della COP31.
 
 ## Punti chiave
-- **Donatori filantropici** hanno promesso oltre 480 milioni di dollari per tagliare il metano in energia, agricoltura e rifiuti ⚠️ secondo Health Policy Watch [3]. Si aggiungono a oltre 530 milioni già erogati dal 2021 ⚠️ [3].
+- **Donatori filantropici** hanno promesso oltre 480 milioni di dollari per tagliare il metano in energia, agricoltura e rifiuti ✅ [3][4]. Altri 25 milioni vanno a riduzioni delle emissioni in sette Paesi ✅ [4]. Si aggiungono a oltre 530 milioni già erogati dal 2021 ⚠️ [3].
 - **Monique Barbut, ministra francese**, ha chiesto una menzione forte del metano nella decisione finale ("cover decision") ⚠️ secondo Climate Home e Health Policy Watch [2][3]. Vuole intensità di metano "quasi zero" per petrolio e gas entro il 2030 e lo stop a "flaring" e "venting" (combustione e rilascio diretto del gas) ⚠️ [2][3].
 - **Mia Mottley, prima ministra delle Barbados**, ha proposto un accordo globale vincolante sul metano invece di impegni volontari ⚠️ [2][3].
 - **Ana Toni, segretaria brasiliana per il clima**, ha detto che le emissioni di metano "are flat" (non calano) ⚠️ secondo Health Policy Watch [3].
@@ -33,3 +33,6 @@ I leader hanno chiesto regole più forti sul metano, un gas che scalda molto pi�
 
 3. **Health Policy Watch** (S. Anderson) — [La Francia chiede un obiettivo di metano quasi zero per petrolio e gas nell'accordo COP31](https://healthpolicy-watch.news/france-seeks-near-zero-methane-target-for-oil-and-gas-in-cop31-deal/)<br>
    <sub>Tier C · pubblicato 12/11/2026 · consultato 12/11/2026 · pagina completa</sub>
+
+4. **UN News** (L. Quinones) — [COP31: le città salgono nell'agenda climatica mentre i leader affrontano richieste di azione](https://news.un.org/en/story/2026/11/1168792)<br>
+   <sub>Tier A · pubblicato 12/11/2026 · consultato 13/11/2026 · pagina completa</sub>

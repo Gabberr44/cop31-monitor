@@ -53,10 +53,12 @@ _**The ENB (Earth Negotiations Bulletin)** report was not readable (error 403). 
 ## Panels and events of the day
 | Event | Who | In one line | VSME relevance | Video |
 |---|---|---|---|---|
-| [Opening of the Leaders' Summit and leaders' statements](panel/leaders-summit-apertura.en.md) | Guterres, Erdoğan, Lula, Albanese, von der Leyen | Guterres's compact, European Union and 35-by-35, notable absences | Low | Not yet available |
-| [Zero Waste: waste, circularity and methane](panel/zero-waste-metano.en.md) | COP31 Presidency; Guterres | 2035 waste and circularity goals, global oil-and-gas methane standard | Medium | Not yet available |
+| [Opening of the Leaders' Summit and leaders' statements](panel/leaders-summit-apertura.en.md) | Guterres, Erdoğan, Lula, Albanese, von der Leyen | Guterres's compact, European Union and 35-by-35, notable absences | Low | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1f/k1f5r4tpfa) |
+| [Zero Waste: waste, circularity and methane](panel/zero-waste-metano.en.md) | COP31 Presidency; Guterres | 2035 waste and circularity goals, global oil-and-gas methane standard | Medium | [🎥 UN Web TV](https://webtv.un.org/en/asset/k1r/k1rvqpgkha) |
 | [Climate finance and TFFF](panel/finanza-climatica-tfff.en.md) | Carbon Brief (analysis); TFFF event | Falling public pledges, forest fund at USD 7.9 bn | Low | Not yet available |
-| [Early Warnings for All](panel/early-warnings-for-all.en.md) | Guterres; UN Early Warnings for All initiative | 136 countries with multi-hazard warnings, 6.1 times lower mortality, Guterres's three priorities | Medium | Not yet available |
+| [Early Warnings for All](panel/early-warnings-for-all.en.md) | Guterres; UN Early Warnings for All initiative | 136 countries with multi-hazard warnings, 6.1 times lower mortality, Guterres's three priorities | Medium | [🎥 UN Web TV](https://webtv.un.org/en/asset/k11/k1133twdx3) |
+
+🎥 Other official videos of the day: [High-Level Dialogue "35 by 35: Powering the Future" on clean energy transition and electrification (UN Web TV, 1:59:13)](https://webtv.un.org/en/asset/k1x/k1xn8ez8gz)
 
 _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and medium-sized enterprises)._
 

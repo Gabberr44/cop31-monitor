@@ -1,8 +1,8 @@
 # Dialogo sull'ambizione dell'Art. 6.2
 ✅ Versione finale — consolidata il 10/11/2026 alle 07:30 (ora italiana)
 
-**Quando:** 09/11, 15:00–18:00 Antalya (13:00–16:00 ora italiana) ✅ [1] · **Dove:** Meeting Room 19 – Ahlat, Antalya EXPO Center; anche in diretta sulla piattaforma digitale COP31 [1] · **Organizza:** Segretariato UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici), nell'ambito di SBI 65 (l'organo sussidiario per l'attuazione) [1]
-**Relatori invitati:** **Brasile**; **Germania**; **Bhutan**; **Carbon Market Watch**; **RINGO** (le ONG di ricerca e indipendenti). Moderatori da definire nella nota [1].
+**Quando:** 09/11, 15:00–18:00 Antalya (13:00–16:00 ora italiana) ✅ [1] · **Dove:** Meeting Room 19 – Ahlat, Antalya EXPO Center; anche in diretta sulla piattaforma digitale COP31 [1] · **Organizza:** Segretariato UNFCCC (la Convenzione quadro ONU sui cambiamenti climatici), nell'ambito di SBI 65 (l'organo sussidiario per l'attuazione) [1]<br>
+**Relatori invitati:** **Brasile**; **Germania**; **Bhutan**; **Carbon Market Watch**; **RINGO** (le ONG di ricerca e indipendenti). Moderatori da definire nella nota [1].<br>
 🎥 Video non ancora disponibile
 
 ## In breve
