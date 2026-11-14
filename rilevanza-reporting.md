@@ -241,3 +241,25 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-05_2026-11-13/sintes
 - **What happened:** **Mkhuthazi Steleki, Chair of the Art. 6.4 Supervisory Body**, reported the first credits issued and 5 methodologies; without new funding the mechanism will lack resources after 2027 🟡 [3].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI compra crediti (anche ONU Art. 6.4) li indica a parte rispetto alle emissioni del B3, con tipo e standard.
 - **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits (including UN Art. 6.4 credits) it reports them separately from B3 emissions, with type and standard.
+
+
+## 2026-11-14 — Giorno 6 / Day 6 _(🕘 versione serale provvisoria, 14/11/2026 22:45 ora italiana / provisional evening version, 14/11/2026 22:45 Italian time)_
+_Fonti / Sources: numerate come in / numbered as in `giorno-06_2026-11-14/sintesi-giornata.md`_
+
+### 1. Rapporto UNEP sul superamento di 1,5 °C contestato / UNEP 1.5 °C overshoot report challenged — Rilevanza: Media / Medium
+- **Cosa è successo:** **il Gruppo arabo, guidato dall'Arabia Saudita**, contesta il rigore del rapporto UNEP "Limiting Overshoot"; **gli LMDC** non vogliono citare rapporti esterni al processo ONU; **UE, Regno Unito, Paesi meno sviluppati e piccole isole** lo vogliono tra le priorità ⚠️ [4].
+- **What happened:** **the Arab Group, led by Saudi Arabia**, questions the rigour of UNEP's "Limiting Overshoot" report; **the LMDCs** do not want references to reports outside the UN process; **the EU, UK, LDCs and small islands** want it among the priorities ⚠️ [4].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Banche e grandi clienti usano scenari di riscaldamento sopra 1,5 °C per valutare il rischio fisico: una PMI può prepararsi mappando le proprie sedi esposte a caldo, alluvioni o siccità.
+- **What changes for an SME filling in the VSME:** no obligation. Banks and large customers use warming scenarios above 1.5 °C to assess physical risk: an SME can prepare by mapping its sites exposed to heat, floods or drought.
+
+### 2. Piani di transizione delle istituzioni finanziarie (evento senza resoconto) / Financial institutions' transition plans (event without a written account) — Rilevanza: Media / Medium
+- **Cosa è successo:** **UNEP FI e la coalizione dei Campioni ONU di alto livello per il clima** hanno tenuto un evento per accelerare l'adozione dei piani di transizione delle istituzioni finanziarie ✅ [8]. Nessun resoconto scritto alle 22:45.
+- **What happened:** **UNEP FI and the Climate High-Level Champions coalition** held an event to accelerate the adoption of financial institutions' transition plans ✅ [8]. No written account at 22:45.
+- **Cosa cambia per una PMI che compila il VSME:** nulla subito. I piani di transizione delle banche si basano sulle emissioni dei clienti finanziati: le PMI che compilano il B3 (energia e GHG) avranno dati pronti quando la banca li chiederà.
+- **What changes for an SME filling in the VSME:** nothing immediately. Banks' transition plans rely on financed clients' emissions: SMEs that complete B3 (energy and GHG) will have data ready when their bank asks.
+
+### 3. Finanza per l'adattamento: la richiesta di triplicare / Adaptation finance: the tripling demand — Rilevanza: Bassa / Low
+- **Cosa è successo:** **il Gruppo africano** chiede di triplicare la finanza per l'adattamento ad almeno 120 miliardi di dollari l'anno entro il 2035; un'opzione rivale propone di rivedere l'obiettivo della COP30 ⚠️ [3].
+- **What happened:** **the African Group** asks to triple adaptation finance to at least $120 billion a year by 2035; a rival option proposes reviewing the COP30 goal ⚠️ [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun effetto diretto in Italia; riguarda i flussi pubblici verso i Paesi in via di sviluppo.
+- **What changes for an SME filling in the VSME:** no direct effect in Italy; it concerns public flows to developing countries.
