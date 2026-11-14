@@ -208,3 +208,36 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-04_2026-11-12/sintes
 - **Cosa cambia per una PMI che compila il VSME:** nulla nell'immediato: il CBAM resta una norma UE. Le PMI che importano acciaio, alluminio, cemento o fertilizzanti sopra la soglia annua di 50 tonnellate devono comunque dichiarare le emissioni incorporate: chiedere i dati ai fornitori extra-UE resta la priorità.
 - **What changes for an SME filling in the VSME:** nothing immediate: CBAM remains EU law. SMEs importing steel, aluminium, cement or fertilisers above the 50-tonne annual threshold must still declare embedded emissions: getting data from non-EU suppliers remains the priority.
 
+
+## 2026-11-13 — Giorno 5 / Day 5 _(✅ versione finale, consolidata il 14/11/2026 alle 10:00 ora italiana / final version, consolidated 14/11/2026 at 10:00 Italian time)_
+_Fonti / Sources: numerate come in / numbered as in `giorno-05_2026-11-13/sintesi-giornata.md` (versione finale / final version)_
+
+### 1. Giornata del commercio: regole comuni per dati e contabilità del carbonio / Trade day: common rules for carbon data and accounting — Rilevanza: Alta / High
+- **Cosa è successo:** **la Presidenza COP31, con OMC, UNCTAD e ITC**, ha dedicato la giornata a clima e commercio, con una sessione sulle PMI e una sull'interoperabilità di dati, contabilità del carbonio e MRV con ISO, OCSE e WBCSD ✅ [1][2]. **Nove ministri del Commercio, tra cui Maroš Šefčovič (UE)**, chiedono meno frammentazione delle regole 🟡 [11].
+- **What happened:** **the COP31 Presidency, with the WTO, UNCTAD and ITC**, devoted the day to climate and trade, with a session on SMEs and one on interoperability of data, carbon accounting and MRV with ISO, the OECD and WBCSD ✅ [1][2]. **Nine trade ministers, including Maroš Šefčovič (EU)**, call for less rule fragmentation 🟡 [11].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di vincolante. Se le regole di contabilità del carbonio convergono, i questionari dei clienti esteri diventano più simili: un B3 (energia e GHG) ben documentato, con fattori di emissione e fonti, sarà riutilizzabile per più richieste.
+- **What changes for an SME filling in the VSME:** nothing binding. If carbon accounting rules converge, foreign customers' questionnaires will become more similar: a well-documented B3 (energy and GHG), with emission factors and sources, will be reusable for several requests.
+
+### 2. Decisione finale e misure commerciali unilaterali (CBAM) / Final decision and unilateral trade measures (CBAM) — Rilevanza: Media / Medium
+- **Cosa è successo:** **le Presidenze COP31** hanno fatto circolare una "sintesi delle riflessioni" con 35-by-35 e metano 🟡 [4][15]; vi compare anche l'eliminazione con scadenza delle misure commerciali unilaterali ⚠️ secondo Climate Home e Down To Earth [4][8]. **Il Gruppo arabo** chiede ai Paesi sviluppati di eliminarle 🟡 [3].
+- **What happened:** **the COP31 Presidencies** circulated a "summary of reflections" including 35-by-35 and methane 🟡 [4][15]; it also mentions a time-bound phase-out of unilateral trade measures ⚠️ according to Climate Home and Down To Earth [4][8]. **The Arab Group** asks developed countries to phase them out 🟡 [3].
+- **Cosa cambia per una PMI che compila il VSME:** per ora nulla: il CBAM resta legge UE e una decisione COP non lo abroga. Gli importatori di acciaio, alluminio, cemento e fertilizzanti continuano a raccogliere le emissioni incorporate dai fornitori.
+- **What changes for an SME filling in the VSME:** nothing for now: CBAM remains EU law and a COP decision does not repeal it. Importers of steel, aluminium, cement and fertilisers keep collecting embedded emissions from suppliers.
+
+### 3. IA: richiesta di trasparenza su energia e impronta ambientale / AI: call for transparency on energy and footprint — Rilevanza: Media / Medium
+- **Cosa è successo:** **l'Iniziativa globale per l'integrità dell'informazione sul clima (ONU, UNESCO, Brasile)** chiede alle aziende di IA di pubblicare consumi di energia e impronte di carbonio, acqua e suolo ✅ [16]. Nei negoziati tecnici non c'è accordo sul citare l'IA 🟡 [3].
+- **What happened:** **the Global Initiative for Information Integrity on Climate Change (UN, UNESCO, Brazil)** asks AI companies to disclose energy use and carbon, water and land footprints ✅ [16]. In the technical talks there is no agreement on referencing AI 🟡 [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Le PMI che usano molto cloud e servizi di IA possono chiedere ai fornitori i dati di consumo per stimare le emissioni indirette; chi ha server propri li include nei consumi elettrici del B3.
+- **What changes for an SME filling in the VSME:** no obligation. SMEs using a lot of cloud and AI services can ask suppliers for consumption data to estimate indirect emissions; those with their own servers include them in B3 electricity use.
+
+### 4. Finanza: iniziativa "10by30" delle banche pubbliche di sviluppo / Finance: DFIs' "10by30" initiative — Rilevanza: Bassa / Low
+- **Cosa è successo:** **British International Investment, Norfund e FinDev Canada** puntano a 10 miliardi di dollari per il clima nei mercati emergenti entro il 2030 ✅ [5][6]; coordineranno anche la rendicontazione climatica ⚠️ secondo Reuters [6].
+- **What happened:** **British International Investment, Norfund and FinDev Canada** target USD 10 billion for climate in emerging markets by 2030 ✅ [5][6]; they will also coordinate climate reporting ⚠️ according to Reuters [6].
+- **Cosa cambia per una PMI che compila il VSME:** nessun effetto diretto in Italia. Le PMI fornitrici di progetti finanziati da queste banche possono ricevere richieste di dati climatici: il VSME è un formato pronto.
+- **What changes for an SME filling in the VSME:** no direct effect in Italy. SMEs supplying projects financed by these banks may receive climate data requests: the VSME is a ready format.
+
+### 5. Articolo 6.4: primi crediti ONU, finanziamento incerto dopo il 2027 / Article 6.4: first UN credits, funding uncertain after 2027 — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Mkhuthazi Steleki, presidente dell'organo di supervisione dell'Art. 6.4**, ha riferito i primi crediti emessi e 5 metodologie; senza nuovi fondi il meccanismo non avrà risorse dopo il 2027 🟡 [3].
+- **What happened:** **Mkhuthazi Steleki, Chair of the Art. 6.4 Supervisory Body**, reported the first credits issued and 5 methodologies; without new funding the mechanism will lack resources after 2027 🟡 [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI compra crediti (anche ONU Art. 6.4) li indica a parte rispetto alle emissioni del B3, con tipo e standard.
+- **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits (including UN Art. 6.4 credits) it reports them separately from B3 emissions, with type and standard.

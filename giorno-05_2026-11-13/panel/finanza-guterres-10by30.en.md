@@ -1,7 +1,7 @@
 # Climate finance: Guterres's press conference and the "10by30" initiative
 **When:** 13/11; Guterres's press conference at 16:30 Antalya (14:30 Italian time) according to the UNFCCC calendar ⚠️ (search results only) · **Where:** Antalya EXPO Center, press room · **Organiser:** Office of the UN Secretary-General; British International Investment, Norfund, FinDev Canada<br>
 **Speakers:** **António Guterres** (UN Secretary-General); **Simon Stiell** (UNFCCC Executive Secretary)<br>
-🎥 Video not yet available
+🎥 [Full video — António Guterres press conference (UN Web TV, 20:52)](https://webtv.un.org/en/asset/k1d/k1dgleivnu) [5]
 
 ## At a glance
 On finance day, Guterres called developed countries' climate finance insufficient and three public development banks launched a USD 10 billion initiative. It matters because more finance for climate projects brings more climate data requests along supply chains.
@@ -39,3 +39,6 @@ On finance day, Guterres called developed countries' climate finance insufficien
 
 4. **Reuters** (S. Jessop, W. James; republished by BNN Bloomberg) — [UK, Norway and Canada launch US$10 billion climate finance initiative](https://www.bnnbloomberg.ca/business/international/2026/11/13/uk-norway-and-canada-launch-us10-billion-climate-finance-initiative/)<br>
    <sub>Tier B · published 13/11/2026 · accessed 13/11/2026 · full page</sub>
+
+5. **UN Web TV** — [Press conference of the Secretary-General — UN Climate Change Conference](https://webtv.un.org/en/asset/k1d/k1dgleivnu)<br>
+   <sub>Tier A · published 13/11/2026 · accessed 14/11/2026 · full page (video 20:52)</sub>

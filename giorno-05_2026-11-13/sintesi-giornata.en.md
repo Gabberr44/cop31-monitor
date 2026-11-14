@@ -1,23 +1,24 @@
 # COP31 — Day 5 · Friday 13 November 2026
-🕘 Provisional evening version — to be consolidated tomorrow morning at 09:30 (Italian time)<br>
-First draft: 13/11/2026 at 22:45 (Italian time).
+✅ Final version — consolidated on 14/11/2026 at 10:00 (Italian time)<br>
+First evening draft: 13/11/2026 at 22:45 (Italian time).
 
 Theme of the day set by the **COP31 Presidency (Türkiye)**: "Finance and trade" ✅ [1][2]. The subsidiary bodies are wrapping up their first-week work 🟡 [3]. On Sunday 15 the venue is closed.
 
 ## At a glance
 - **What happened:** the **COP31 Presidencies (Türkiye and Australia)** circulated the first outline of the final political decision ✅ [4][5]. **António Guterres, UN Secretary-General**, spoke about climate finance at his last press conference at a COP ✅ [5].
 - **Why it matters:** the outline includes a phase-out of unilateral climate trade measures, which puts direct pressure on the CBAM (the EU carbon border levy) ⚠️ [4][8].
-- **Tomorrow:** Saturday 14 is the deadline for written views on the final decision ✅ [14]. A first draft on the climate finance work programme is expected ⚠️ [4].
+- **Tomorrow:** on Saturday 14 the subsidiary bodies (SBs, the Convention's two technical bodies) close ✅ [19]. It is also the deadline for written views on the final decision 🟡 [4][15].
 
 ## Key facts
-1. **The COP31 Presidencies (Türkiye and Australia)** circulated a "summary of reflections" for the final decision ("cover decision", the political text that accompanies the technical decisions) ✅ [4][5]. The Presidency says the text does not reflect consensus ⚠️ according to Climate Home [4].
-2. **According to Climate Home and Down To Earth**, the outline lists: limiting the duration and size of the 1.5 °C overshoot; raising electricity to 35% of final energy use by 2035 ("35-by-35"); cutting methane; a time-bound phase-out of unilateral trade measures ⚠️ [4][8].
+1. **The COP31 Presidencies (Türkiye and Australia)** circulated a "summary of reflections" for the final decision ("cover decision", the political text that accompanies the technical decisions) ✅ [4][5]. **Chris Bowen, President of Negotiations (Australia)**, stressed that the reflections text is not a negotiating text 🟡 [4][15]. The official draft is expected early next week 🟡 [4][15].
+2. **According to Climate Home and The Guardian**, the outline includes electricity at 35% of final energy use by 2035 ("35-by-35"), methane cuts and finance for developing countries 🟡 [4][15]. It also mentions the 1.5 °C overshoot and a time-bound phase-out of unilateral trade measures ⚠️ according to Climate Home and Down To Earth [4][8].
 3. **The Arab Group** rejected top-down sectoral targets and asked developed countries to phase out unilateral trade measures 🟡 [3]. **The European Union** wants no new mandates and asks to reference the 1.5 °C overshoot 🟡 [3]. **Grupo Sur** asks not to impose new reporting requirements on developing countries 🟡 [3].
-4. **António Guterres, UN Secretary-General**, said that even tripling adaptation finance would meet less than 30% of needs ✅ [5]. He asked UN climate funds to cut red tape for accessing money ✅ [5]. He described the climate finance system as marked by "structural injustice" 🟡 [4][7].<br>
-   🎥 Video not yet available
+4. **António Guterres, UN Secretary-General**, said that even tripling adaptation finance would meet less than 30% of needs ✅ [5]. He asked UN climate funds to cut red tape for accessing money ✅ [5]. He described the climate finance system as marked by "structural injustice" 🟡 [4][7]. In his farewell he said: "You cannot build peace on a burning planet" ⚠️ according to The Guardian [15].<br>
+   🎥 [Full video — António Guterres press conference, 13/11 (UN Web TV, 21 minutes)](https://webtv.un.org/en/asset/k1d/k1dgleivnu) [17]
 5. **British International Investment (UK), Norfund (Norway) and FinDev Canada**, the three countries' public development finance institutions, launched a USD 10 billion initiative for climate projects in emerging markets by 2030 ✅ [5][6]. The three institutions will also cooperate on climate reporting ⚠️ according to Reuters [6].
 6. **Mkhuthazi Steleki, Chair of the Article 6.4 Supervisory Body** (the UN carbon crediting mechanism), reported that the mechanism has issued its first credits and has 5 methodologies 🟡 [3]. He warned it is not yet self-financing and will have no resources after 2027 without new funding 🟡 [3].
 7. **China** has ruled itself out of hosting COP33 in 2028 🟡 [4][9]. **Ömer Bolat, Türkiye's Trade Minister**, opened the trade day: "trade should be an enabler to climate action, not an additional barrier to it" ⚠️ according to Climate Home [4]. **Nine trade ministers**, including **Maroš Šefčovič, EU Trade Commissioner**, call for less fragmentation of climate-related trade rules 🟡 [11].
+8. **The Global Initiative for Information Integrity on Climate Change (co-chaired by the UN, UNESCO and Brazil)** launched the "Priorities for Action on AI and Climate Information Integrity" ✅ [16]. The text asks AI companies to disclose energy use and their carbon, water and land footprints ✅ [16]. **Germany** committed more than USD 2.2 million to climate information research ✅ [16].
 
 ## Negotiations: where things stand
 | Topic | What moved | What is stuck | Texts released |
@@ -36,13 +37,14 @@ Theme of the day set by the **COP31 Presidency (Türkiye)**: "Finance and trade"
 |---|---|---|---|---|
 | [Final decision: the Presidencies' outline](panel/decisione-finale-traccia-presidenze.en.md) | COP31 Presidencies, negotiating groups | 1.5 °C overshoot, 35-by-35, methane, trade measures | Medium | Not foreseen (consultations) |
 | [Trade day: climate and competitiveness](panel/giornata-commercio.en.md) | Turkish Trade Ministry, WTO (World Trade Organization), ICC (International Chamber of Commerce), UNCTAD (UN trade and development agency), ITC (International Trade Centre) | Trade as a lever, not a barrier; SME session | High | Not yet available |
-| [Climate finance: Guterres and the "10by30" initiative](panel/finanza-guterres-10by30.en.md) | Guterres, Stiell, BII, Norfund, FinDev Canada | Structural injustice in finance; USD 10 bn for emerging markets | Medium | Not yet available |
+| [Climate finance: Guterres and the "10by30" initiative](panel/finanza-guterres-10by30.en.md) | Guterres, Stiell, BII, Norfund, FinDev Canada | Structural injustice in finance; USD 10 bn for emerging markets | Medium | [UN Web TV](https://webtv.un.org/en/asset/k1d/k1dgleivnu) |
+| [AI and climate information integrity](panel/ia-integrita-informazione.en.md) | UN (Department of Global Communications), UNESCO, Brazil, Conscious Advertising Network | Priorities for action on AI; transparency on AI energy use | Medium | — |
 | [Technical negotiations: Article 6.4, finance, adaptation](panel/negoziati-tecnici.en.md) | Co-facilitators, negotiating groups | Subsidiary bodies wrapping up; finance and AI sticking points | Medium | Not foreseen (informal sessions) |
 
 _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and medium-sized enterprises)._
 
 ## Events without a written account
-_Events confirmed by official programmes or organisers' pages; no written account found at 22:45 on 13/11 (Italian time)._
+_Events confirmed by official programmes or organisers' pages; no written account found at 10:00 on 14/11 (Italian time)._
 
 | Time | Event | Organiser | Video |
 |---|---|---|---|
@@ -51,24 +53,30 @@ _Events confirmed by official programmes or organisers' pages; no written accoun
 | 15:15–16:15 Antalya (13:15–14:15 Italian time) | Taxonomy Roadmap Initiative progress report [12] | Taxonomy Roadmap Initiative | — |
 | 15:30–16:30 Antalya (13:30–14:30 Italian time) | The adaptation gap: what physical climate risks mean for finance, with the **Bundesbank** [12] | German pavilion | — |
 | 16:00–17:00 Antalya (14:00–15:00 Italian time) | Empowering SMEs for climate-ready trade [1] | ITC, COP31 Presidency | — |
+| 13/11 (time n.a.) | UN Secretary-General meeting with civil society organisations: "Continuity of What Has Been Built" [18] | Office of the UN Secretary-General | [UN Web TV](https://webtv.un.org/en/asset/k1m/k1m5h6yagy) |
 | 19:00–20:00 Antalya (17:00–18:00 Italian time) | Interoperability of climate and trade rules: data, carbon accounting, MRV (measurement, reporting and verification) [1] | WTO, ISO (International Organization for Standardization), OECD, WBCSD (World Business Council for Sustainable Development) | — |
 
 ## What to expect tomorrow
-- **Australian Presidency of Negotiations**: Saturday 14 is the deadline for written views on the final decision ✅ [14]. A first draft is expected afterwards ⚠️ [4].
-- **Co-facilitators of the climate finance work programme**: first draft decision expected by Saturday ⚠️ [4].
-- **UNEP FI and the UN High-Level Climate Champions**: 10:15–11:15 Antalya (08:15–09:15 Italian time), session on financial institutions' transition plans ✅ [12].
-- **UNEP FI, UNCTAD, WTO, ITC**: 09:00–10:00 Antalya (07:00–08:00 Italian time), trade cooperation for green industrialisation ✅ [12].
-- **Subsidiary bodies**: many rooms are agreeing conclusions or forwarding items to the second week 🟡 [3].
+_Saturday 14: thematic day "Children, Youth, Education and Skills" ✅ [19]._
+
+| Time | Event | Who | Video |
+|---|---|---|---|
+| Morning | Negotiations (COP, CMP, CMA); FMCP4 part IV, the peer review of countries' transparency reports; closing of the Youth-led Climate Forum [19] | UNFCCC | — |
+| 09:00–10:00 Antalya (07:00–08:00 Italian time) | Trade cooperation for green industrialisation [12][20] | UNEP FI, UNCTAD, WTO, ITC, COP31 Presidency | [UNFCCC live stream](https://www.youtube.com/@UNClimateChangeEvents/streams) |
+| 10:15–11:15 Antalya (08:15–09:15 Italian time) | Financial institutions' transition plans [12] | UNEP FI, UN High-Level Climate Champions | — |
+| Afternoon | Closing plenaries of the subsidiary bodies (SBSTA and SBI); COP/CMP/CMA plenaries [19] | UNFCCC | UNFCCC webcast |
+
+- **Australian Presidency of Negotiations**: by Saturday evening Parties send their views on the final decision 🟡 [4][15].
 
 ## Source quality
 | Tier | No. of sources |
 |---|---|
-| A (official) | 6 |
-| B (specialised journalism or wires) | 5 |
+| A (official) | 11 |
+| B (specialised journalism or wires) | 6 |
 | C (other) | 3 |
 
-- **Sites not readable:** UNFCCC "live updates" and Global Implementation Accelerator pages (empty for automated readers); carbon-pulse.com (403); einnews.com (403); edie.net (redirect to paywall); wam.ae (empty page).
-- **Claims kept ⚠️:** detailed content of the Presidencies' note (Climate Home + Down To Earth, Tier C); Bolat's quote (Climate Home only); deadline of the finance draft (Climate Home only); reporting cooperation in the 10by30 initiative (Reuters only); Antalya Declaration on carbon markets (The Irish Times only); formal launch of the Global Implementation Accelerator (Climate Home only, not included in the facts).
+- **Sites not readable:** UNFCCC "live updates" pages (empty for automated readers); theguardian.com (blocked: read via the AOL syndicated copy); YouTube (anti-bot redirect); usnews.com (503); carbon-pulse.com (403); einnews.com (403); edie.net (paywall); wam.ae (empty page).
+- **Claims kept ⚠️:** 1.5 °C overshoot and unilateral trade measures in the Presidencies' note (Climate Home + Down To Earth, Tier C); quotes by Bolat (Climate Home only) and by Guterres on the "burning planet" (The Guardian only); reporting cooperation in the 10by30 initiative (Reuters only); Antalya Declaration on carbon markets (The Irish Times only).
 
 ## Sources
 
@@ -113,3 +121,21 @@ _Events confirmed by official programmes or organisers' pages; no written accoun
 
 14. **UN News** (L. Quinones) — [COP31: Cities rise on climate agenda as leaders face calls for action](https://news.un.org/en/story/2026/11/1168792)<br>
    <sub>Tier A · published 12/11/2026 · accessed 13/11/2026 · full page</sub>
+
+15. **The Guardian** (F. Harvey, O. Milman, G. Readfearn; syndicated by AOL) — [Climate must remain a priority, says Guterres in Cop31 farewell speech](https://www.aol.co.uk/articles/climate-must-remain-priority-says-170014000.html)<br>
+   <sub>Tier B · published 13/11/2026 · accessed 14/11/2026 · full page</sub>
+
+16. **UN News** — [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/en/story/2026/11/1168798)<br>
+   <sub>Tier A · published 13/11/2026 · accessed 14/11/2026 · full page</sub>
+
+17. **UN Web TV** — [Press conference of the Secretary-General — UN Climate Change Conference](https://webtv.un.org/en/asset/k1d/k1dgleivnu)<br>
+   <sub>Tier A · published 13/11/2026 · accessed 14/11/2026 · full page (video 20:52)</sub>
+
+18. **UN Web TV** — [UN Secretary-General High Level Meeting with Civil Society Organisations](https://webtv.un.org/en/asset/k1m/k1m5h6yagy)<br>
+   <sub>Tier A · published 13/11/2026 · accessed 14/11/2026 · full page (video 1:06:58)</sub>
+
+19. **UNFCCC** — [COP 31 Overview Schedule (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+   <sub>Tier A · date n.a. · accessed 14/11/2026 · full document</sub>
+
+20. **UNCTAD** — [UNCTAD at COP31: events calendar](https://unctad.org/unctad-at-cop31)<br>
+   <sub>Tier A · date n.a. · accessed 14/11/2026 · full page</sub>

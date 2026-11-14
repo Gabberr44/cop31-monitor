@@ -1,7 +1,7 @@
 # Finanza climatica: la conferenza stampa di Guterres e l'iniziativa "10by30"
 **Quando:** 13/11; conferenza stampa di Guterres alle 16:30 Antalya (14:30 ora italiana) secondo il calendario UNFCCC ⚠️ (solo risultati di ricerca) · **Dove:** Antalya EXPO Center, sala stampa · **Organizza:** Ufficio del segretario generale ONU; British International Investment, Norfund, FinDev Canada<br>
 **Relatori:** **António Guterres** (segretario generale ONU); **Simon Stiell** (segretario esecutivo UNFCCC)<br>
-🎥 Video non ancora disponibile
+🎥 [Video integrale — conferenza stampa di António Guterres (UN Web TV, 20:52)](https://webtv.un.org/en/asset/k1d/k1dgleivnu) [5]
 
 ## In breve
 Nel giorno della finanza, Guterres ha definito insufficiente la finanza climatica dei Paesi sviluppati e tre banche pubbliche di sviluppo hanno lanciato un'iniziativa da 10 miliardi di dollari. Conta perché più finanza verso progetti climatici porta con sé più richieste di dati climatici lungo le filiere.
@@ -39,3 +39,6 @@ Nel giorno della finanza, Guterres ha definito insufficiente la finanza climatic
 
 4. **Reuters** (S. Jessop, W. James; ripreso da BNN Bloomberg) — [Regno Unito, Norvegia e Canada lanciano un'iniziativa di finanza climatica da 10 miliardi di dollari](https://www.bnnbloomberg.ca/business/international/2026/11/13/uk-norway-and-canada-launch-us10-billion-climate-finance-initiative/)<br>
    <sub>Tier B · pubblicato 13/11/2026 · consultato 13/11/2026 · pagina completa</sub>
+
+5. **UN Web TV** — [Conferenza stampa del segretario generale — Conferenza ONU sul clima](https://webtv.un.org/en/asset/k1d/k1dgleivnu)<br>
+   <sub>Tier A · pubblicato 13/11/2026 · consultato 14/11/2026 · pagina completa (video 20:52)</sub>

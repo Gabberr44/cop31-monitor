@@ -13,6 +13,7 @@ The Presidencies circulated an informal note with possible elements of the "cove
 - **The European Union** asked that the outcome create no new mandates 🟡 [1]. It wants to reference the duration and magnitude of the 1.5 °C overshoot and the transition away from fossil fuels 🟡 [1].
 - **The African Group** opposed electrification targets without specifying the means of implementation 🟡 [1]. **Grupo Sur** asks not to impose additional reporting requirements on developing countries 🟡 [1].
 - **Russia, the Arab Group and China** questioned the mandate for the consultations on reforming the UNFCCC process 🟡 [1]. **Kushla Munro, co-facilitator**, replied that all views will be heard before proposing a way forward 🟡 [1].
+- **Chris Bowen, President of Negotiations (Australia)**, said the reflections text "is not a negotiating text" 🟡 [2][5]. Parties have until late Saturday to respond; the official draft is expected early next week 🟡 [2][5].
 
 ## Announcements and numbers
 - **The United Kingdom** recalled its commitment to deliver GBP 6 billion in climate finance over the next three years 🟡 [1].
@@ -34,3 +35,6 @@ The Presidencies circulated an informal note with possible elements of the "cove
 
 4. **Down To Earth** (P. Das) — [COP31: Cover decision consultations flag 1.5°C overshoot, 35% electrification target, fossil fuel transition](https://www.downtoearth.org.in/climate-change/cop31-cover-decision-consultations-flag-15c-overshoot-35-electrification-target-fossil-fuel-transition)<br>
    <sub>Tier C · published 13/11/2026 · accessed 13/11/2026 · full page</sub>
+
+5. **The Guardian** (F. Harvey, O. Milman, G. Readfearn; syndicated by AOL) — [Climate must remain a priority, says Guterres in Cop31 farewell speech](https://www.aol.co.uk/articles/climate-must-remain-priority-says-170014000.html)<br>
+   <sub>Tier B · published 13/11/2026 · accessed 14/11/2026 · full page</sub>

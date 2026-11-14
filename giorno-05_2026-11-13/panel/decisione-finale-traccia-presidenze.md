@@ -13,6 +13,7 @@ Le Presidenze hanno fatto circolare una nota informale con i possibili elementi 
 - **L'Unione Europea** ha chiesto che l'esito non crei nuovi mandati 🟡 [1]. Vuole citare durata e ampiezza del superamento di 1,5 °C e la transizione dai fossili 🟡 [1].
 - **Il Gruppo africano** si è opposto a obiettivi di elettrificazione senza indicare i mezzi di attuazione 🟡 [1]. **Il Grupo Sur** chiede di non imporre nuovi obblighi di rendicontazione ai Paesi in via di sviluppo 🟡 [1].
 - **Russia, Gruppo arabo e Cina** hanno chiesto su quale mandato si basino le consultazioni sulla riforma del processo UNFCCC 🟡 [1]. **Kushla Munro, co-facilitatrice**, ha risposto che ascolterà tutti prima di proporre come procedere 🟡 [1].
+- **Chris Bowen, Presidente dei negoziati (Australia)**, ha detto che il testo di riflessione "non è un testo negoziale" 🟡 [2][5]. Le Parti hanno tempo fino a sabato sera per le osservazioni; la bozza ufficiale è attesa a inizio settimana prossima 🟡 [2][5].
 
 ## Annunci e numeri
 - **Il Regno Unito** ha ricordato l'impegno a fornire 6 miliardi di sterline di finanza climatica nei prossimi tre anni 🟡 [1].
@@ -34,3 +35,6 @@ Le Presidenze hanno fatto circolare una nota informale con i possibili elementi 
 
 4. **Down To Earth** (P. Das) — [COP31: le consultazioni sulla decisione finale citano superamento di 1,5 °C, elettrificazione al 35% e transizione dai fossili](https://www.downtoearth.org.in/climate-change/cop31-cover-decision-consultations-flag-15c-overshoot-35-electrification-target-fossil-fuel-transition)<br>
    <sub>Tier C · pubblicato 13/11/2026 · consultato 13/11/2026 · pagina completa</sub>
+
+5. **The Guardian** (F. Harvey, O. Milman, G. Readfearn; ripubblicato da AOL) — [Il clima deve restare una priorità, dice Guterres nel discorso di congedo alla COP31](https://www.aol.co.uk/articles/climate-must-remain-priority-says-170014000.html)<br>
+   <sub>Tier B · pubblicato 13/11/2026 · consultato 14/11/2026 · pagina completa</sub>
