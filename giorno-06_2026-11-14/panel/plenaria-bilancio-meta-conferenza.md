@@ -1,35 +1,39 @@
-# Chiusura degli organi sussidiari e bilancio di metà conferenza
-**Quando:** 14/11, pomeriggio e sera Antalya (orario esatto n.d.) · **Dove:** Antalya EXPO Center, plenarie · **Organizza:** UNFCCC, Presidenze COP31 (Türkiye e Australia)<br>
-**Relatori:** **Adonia Ayebare** (presidente SBSTA); **Julia Gardiner** (presidente SBI); **Murat Kurum** (Presidente COP31, Türkiye); **Chris Bowen** (Presidente dei negoziati, Australia); **Simon Stiell** (segretario esecutivo UNFCCC)<br>
+# Chiusura degli organi sussidiari e piano per la seconda settimana
+**Quando:** 14/11, dal pomeriggio fino alle 00:48 del 15/11 Antalya (22:48 ora italiana del 14/11) · **Dove:** Antalya EXPO Center, plenarie · **Organizza:** UNFCCC, Presidenze COP31 (Türkiye e Australia)<br>
+**Relatori:** **Murat Kurum** (Presidente COP31, Türkiye); **Adonia Ayebare** (presidente SBSTA); **Julia Gardiner** (presidente SBI); **Simon Stiell** (segretario esecutivo UNFCCC)<br>
 🎥 Video non ancora disponibile
 
 ## In breve
-Gli organi tecnici della Convenzione hanno chiuso la loro sessione di una settimana; la sera le Presidenze hanno fatto il punto prima dell'arrivo dei ministri. Conta perché da lunedì i temi aperti passano dal livello tecnico a quello politico.
+Gli organi tecnici della Convenzione hanno chiuso la loro sessione dopo mezzanotte e passato quasi tutti i dossier difficili ai ministri. La Presidenza ha spiegato come lavorerà la seconda settimana: conta perché da lunedì le scelte diventano politiche.
 
 ## Punti chiave
-- **SBSTA (l'organo per la consulenza scientifica e tecnologica) e SBI (l'organo per l'attuazione)** chiudono la 65ª sessione (SB65), aperta il 9/11, con 46 punti all'ordine del giorno ✅ [2].
-- **UNFCCC** ha messo in calendario per il pomeriggio le plenarie di chiusura degli SB e le plenarie COP/CMP/CMA (le assemblee della Convenzione, del Protocollo di Kyoto e dell'Accordo di Parigi) ✅ [3].
-- **Le Presidenze COP31 (Türkiye e Australia)** hanno convocato una plenaria di bilancio in serata, dove dovrebbero emergere le prime "linee rosse" dei Paesi ⚠️ secondo Climate Home [1].
-- **Simon Stiell, segretario esecutivo UNFCCC**, ha definito i progressi "costruttivi" e ha chiesto di affrontare subito i temi più difficili ⚠️ secondo Climate Home [1].
-- **Chris Bowen, Presidente dei negoziati**, ha parlato di "conversazioni davvero buone e positive", ma alcuni temi richiedono più tempo ⚠️ secondo AFP [4].
-- **Gli esiti delle plenarie** non hanno ancora un resoconto scritto alle 22:45 (ora italiana): da verificare domattina.
+- **Murat Kurum, Presidente COP31**, ha annunciato quattro filoni di lavoro: impegno dei ministri, consultazioni della Presidenza, consultazioni ministeriali sui temi politici aperti, negoziati tecnici 🟡 [1].
+- **Murat Kurum** ha confermato cinque coppie di ministri facilitatori: mitigazione (Germania-India), finanza (Francia-Filippine), adattamento (Sierra Leone-Regno Unito), transizione giusta (Messico-Polonia), oceano (Canada-Palau) 🟡 [1].
+- **Russia, Gruppo arabo, Gruppo africano, LMDC (Paesi "like-minded", tra cui Cina e India) e Argentina** lamentano poca chiarezza sul mandato delle consultazioni della Presidenza e si oppongono a una "cover decision" (il testo politico finale) sulla riforma del processo ONU 🟡 [1].
+- **Il Gruppo arabo** ha detto che non accetterà obiettivi globali calati dall'alto né obiettivi per settori o fonti di energia; **la Svizzera** ha insistito sul limitare il superamento di 1,5 °C 🟡 [1].
+- **SBSTA (l'organo per la consulenza scientifica e tecnologica) e SBI (l'organo per l'attuazione)** hanno adottato i loro rapporti e chiuso alle 00:48 del 15/11 (ora di Antalya) 🟡 [1].
+- **Simon Stiell, segretario esecutivo UNFCCC**, aveva definito i progressi "costruttivi" e chiesto di passare subito ai temi più difficili ⚠️ secondo Climate Home [2].
+
+## Annunci e numeri
+- **5** coppie di ministri facilitatori e **4** filoni di lavoro per la seconda settimana 🟡 [1].
+- **Agricoltura**: la decisione slitta al 2027 (SBI 66) 🟡 [1].
 
 ## Citazioni
-- "Nessuna COP può far sparire questa crisi per magia, ma ognuna deve far avanzare i progressi" — **Simon Stiell, segretario esecutivo UNFCCC** [4]
+- "Nessuna COP può far sparire questa crisi per magia, ma ognuna deve far avanzare i progressi" — **Simon Stiell, segretario esecutivo UNFCCC** [3]
 
 ## Rilevanza per il VSME
-**Bassa** — passaggio procedurale; gli effetti per le imprese dipendono dai testi che usciranno la prossima settimana.
+**Bassa** — passaggio procedurale; gli effetti per le imprese dipendono dai testi che i ministri chiuderanno la prossima settimana.
 
 ## Fonti
 
-1. **Climate Home News** (S. Rodriguez, M. Rowling, V. Chime) — [Bollettino COP31, giorno 6: i manifestanti chiedono giustizia, i negoziati avanzano poco](https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/)<br>
+1. **IISD Earth Negotiations Bulletin** — [Conferenza di Antalya sul clima: sabato 14 novembre 2026 (ENB Vol. 12 n. 907, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12907e.pdf)<br>
+   <sub>Tier B · pubblicato 16/11/2026 (data di testata; online il 15/11) · consultato 15/11/2026 · documento completo</sub>
+
+2. **Climate Home News** (S. Rodriguez, M. Rowling, V. Chime) — [Bollettino COP31, giorno 6: i manifestanti chiedono giustizia, i negoziati avanzano poco](https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/)<br>
    <sub>Tier B · pubblicato 14/11/2026 · consultato 14/11/2026 · pagina completa</sub>
 
-2. **UNFCCC, presidenti degli organi sussidiari** — [Preparazione della 65ª sessione degli organi sussidiari: nota congiunta dei presidenti (PDF)](https://unfccc.int/sites/default/files/resource/SB65%20Joint%20Note%20by%20SB%20Chairs.pdf)<br>
-   <sub>Tier A · file del 26/10/2026 · consultato 14/11/2026 · documento completo</sub>
+3. **AFP** (ripreso da France 24) — [Migliaia in piazza contro la COP31 a metà dei negoziati](https://www.france24.com/en/live-news/20261114-thousands-rally-against-cop31-as-climate-talks-hit-midpoint)<br>
+   <sub>Tier B · pubblicato 14/11/2026 · consultato 14/11/2026 · pagina completa</sub>
 
-3. **UNFCCC** — [Calendario generale COP31 (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+4. **UNFCCC** — [Calendario generale COP31 (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
    <sub>Tier A · data n.d. · consultato 14/11/2026 · documento completo</sub>
-
-4. **AFP** (ripreso da France 24) — [Migliaia in piazza contro la COP31 a metà dei negoziati](https://www.france24.com/en/live-news/20261114-thousands-rally-against-cop31-as-climate-talks-hit-midpoint)<br>
-   <sub>Tier B · pubblicato 14/11/2026 · consultato 14/11/2026 · pagina completa</sub>

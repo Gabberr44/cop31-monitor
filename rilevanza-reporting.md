@@ -243,7 +243,7 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-05_2026-11-13/sintes
 - **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits (including UN Art. 6.4 credits) it reports them separately from B3 emissions, with type and standard.
 
 
-## 2026-11-14 — Giorno 6 / Day 6 _(🕘 versione serale provvisoria, 14/11/2026 22:45 ora italiana / provisional evening version, 14/11/2026 22:45 Italian time)_
+## 2026-11-14 — Giorno 6 / Day 6 _(✅ versione finale, consolidata il 15/11/2026 alle 09:47 ora italiana / final version, consolidated 15/11/2026 at 09:47 Italian time)_
 _Fonti / Sources: numerate come in / numbered as in `giorno-06_2026-11-14/sintesi-giornata.md`_
 
 ### 1. Rapporto UNEP sul superamento di 1,5 °C contestato / UNEP 1.5 °C overshoot report challenged — Rilevanza: Media / Medium
@@ -263,3 +263,15 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-06_2026-11-14/sintes
 - **What happened:** **the African Group** asks to triple adaptation finance to at least $120 billion a year by 2035; a rival option proposes reviewing the COP30 goal ⚠️ [3].
 - **Cosa cambia per una PMI che compila il VSME:** nessun effetto diretto in Italia; riguarda i flussi pubblici verso i Paesi in via di sviluppo.
 - **What changes for an SME filling in the VSME:** no direct effect in Italy; it concerns public flows to developing countries.
+
+### 4. Mercato ONU dei crediti (Art. 6.4): metodologie difficili per i piccoli progetti / UN crediting mechanism (Art. 6.4): methodologies hard for small projects — Rilevanza: Media / Medium
+- **Cosa è successo:** **i Paesi meno sviluppati** dicono che alcune metodologie Art. 6.4 sono difficili da applicare; **l'Ucraina** avverte che i piccoli progetti rischiano di non essere convenienti; **gli LMDC** temono per le finanze del meccanismo; i co-facilitatori preparano una bozza di decisione 🟡 [13].
+- **What happened:** **the Least Developed Countries** say some Art. 6.4 methodologies are hard to apply; **Ukraine** warns small projects may become unviable; **the LMDCs** fear for the mechanism's finances; co-facilitators are preparing a draft decision 🟡 [13].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI compra crediti, li tiene separati dalle emissioni del B3 e annota tipo, standard e progetto: l'offerta di crediti ONU resterà limitata ancora per un po'.
+- **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits, it keeps them separate from B3 emissions and notes type, standard and project: the supply of UN credits will remain limited for a while.
+
+### 5. Interfaccia ONU dei dati sui gas serra: nessun accordo, rinvio a giugno 2027 / UN greenhouse gas data interface: no agreement, postponed to June 2027 — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Adonia Ayebare, presidente SBSTA**, ha comunicato il mancato accordo; **Gruppo arabo e Russia** contestano nuove funzioni, **UE, Gruppo ombrello e isole del Pacifico** chiedono di pubblicare i moduli concordati 🟡 [13].
+- **What happened:** **Adonia Ayebare, SBSTA Chair**, reported no agreement; **the Arab Group and Russia** object to new functions, **the EU, the Umbrella Group and the Pacific islands** want the agreed modules published 🟡 [13].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. I fattori di emissione per il B3 restano quelli nazionali (in Italia ISPRA) o di banche dati riconosciute; questo strumento ONU riguarda gli inventari dei Paesi.
+- **What changes for an SME filling in the VSME:** nothing. Emission factors for B3 remain national ones (ISPRA in Italy) or from recognised databases; this UN tool concerns countries' inventories.

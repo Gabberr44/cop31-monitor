@@ -1,41 +1,44 @@
 # COP31 — Giorno 6 · sabato 14 novembre 2026
-🕘 Versione serale provvisoria — verrà consolidata domattina alle 09:30 (ora italiana)<br>
+✅ Versione finale — consolidata il 15/11/2026 alle 09:47 (ora italiana)<br>
 Prima stesura serale: 14/11/2026 alle 22:45 (ora italiana).
 
-Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Bambini, giovani, istruzione e competenze" ✅ [1]. È l'ultimo giorno degli organi sussidiari (SB, i due organi tecnici della Convenzione ONU sul clima) ✅ [1][2]. Domenica 15 la sede è chiusa.
+Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Bambini, giovani, istruzione e competenze" ✅ [1]. È stato l'ultimo giorno degli organi sussidiari (SB, i due organi tecnici della Convenzione ONU sul clima) ✅ [1][2]. Le plenarie sono andate avanti fino a notte: gli SB hanno chiuso alle 00:48 di domenica 15 ad Antalya (22:48 ora italiana di sabato) 🟡 [13]. Domenica 15 la sede è chiusa.
 
 ## In breve
-- **Cosa è successo:** gli **organi sussidiari (SBSTA e SBI)** hanno chiuso la prima settimana tecnica; le **Presidenze COP31 (Türkiye e Australia)** hanno convocato in serata una plenaria di bilancio di metà conferenza ✅ [1] ⚠️ [3].
-- **Perché conta:** i nodi passano ai ministri: finanza per l'adattamento, meccanismo per la transizione giusta, elettrificazione e il ruolo della scienza sul superamento di 1,5 °C ⚠️ [3][4][5].
+- **Cosa è successo:** gli **organi sussidiari (SBSTA e SBI)** hanno chiuso la settimana tecnica e passato quasi tutti i temi difficili ai ministri; **Murat Kurum, Presidente COP31**, ha annunciato come si lavorerà nella seconda settimana 🟡 [13].
+- **Perché conta:** da lunedì decidono i ministri, divisi in cinque coppie (mitigazione, finanza, adattamento, transizione giusta, oceano); restano aperte la decisione finale e gli obiettivi settoriali 🟡 [3][13].
 - **Domani:** domenica 15 la sede è chiusa; lunedì 16 si riparte con la giornata "Scienza, industria e tecnologia" ✅ [1].
 
 ## I fatti principali
-1. **Gli organi sussidiari della Convenzione (SBSTA, l'organo per la consulenza scientifica e tecnologica, e SBI, l'organo per l'attuazione)** hanno chiuso la loro 65ª sessione (SB65), con 46 punti all'ordine del giorno ✅ [2]. Nel pomeriggio erano in calendario le plenarie di chiusura degli SB e le plenarie COP/CMP/CMA (le assemblee della Convenzione, del Protocollo di Kyoto e dell'Accordo di Parigi) ✅ [1]. Le Parti dovevano chiudere il lavoro tecnico o decidere cosa passare alla seconda settimana ⚠️ secondo IISD ENB [12]. Alle 22:45 (ora italiana) non c'è ancora un resoconto scritto degli esiti.<br>
+1. **Murat Kurum, Presidente COP31 (Türkiye)**, nella plenaria di transizione COP/CMP/CMA (le assemblee della Convenzione, del Protocollo di Kyoto e dell'Accordo di Parigi), ha diviso il lavoro della seconda settimana in quattro filoni 🟡 [13]. I filoni sono: impegno dei ministri, consultazioni della Presidenza, consultazioni ministeriali sui temi politici aperti e negoziati tecnici 🟡 [13]. Ha invitato i ministri a un "divan", una riunione informale sul pacchetto complessivo 🟡 [13].<br>
    🎥 Video non ancora disponibile
-2. **Le Presidenze COP31 (Türkiye e Australia)** hanno convocato una plenaria di bilancio di metà conferenza per sabato sera ⚠️ secondo Climate Home [3]. **Simon Stiell, segretario esecutivo UNFCCC**, ha definito i progressi "costruttivi" e ha chiesto di passare subito ai temi più difficili ⚠️ secondo Climate Home [3]. Ai giornalisti ha detto: "Nessuna COP può far sparire questa crisi per magia, ma ognuna deve far avanzare i progressi" ⚠️ secondo AFP [5].
-3. **Chris Bowen, Presidente dei negoziati (Australia)**, ha definito "completa" la nota informale sul meccanismo per la transizione giusta ⚠️ secondo Climate Home [3]. La nota prevede due livelli (uno guidato dai governi, uno operativo con la società civile) e nessuna mobilitazione esplicita di finanza ⚠️ [3]. **Climate Action Network e Oil Change International** la giudicano troppo debole ⚠️ [3].
-4. **Il Gruppo africano (54 Paesi)** punta a triplicare la finanza per l'adattamento ad "almeno 120 miliardi di dollari l'anno entro il 2035" ⚠️ secondo Climate Home [3]. Una bozza sull'obiettivo globale sull'adattamento (GGA) uscita nella notte contiene anche l'opzione di rivedere l'obiettivo di finanza deciso alla COP30 ⚠️ [3].
-5. **Wopke Hoekstra, commissario UE per il clima**, ha ammorbidito la richiesta di un'elettrificazione "pulita": "un certo grado di pragmatismo è probabilmente giustificato e necessario" ⚠️ secondo Climate Home [3]. L'impegno volontario "35-by-35" porterebbe l'elettricità dal 23% al 35% dei consumi finali di energia entro il 2035, senza indicare le fonti ⚠️ [3].
-6. **Il Gruppo arabo, guidato dall'Arabia Saudita**, ha messo in dubbio il rigore scientifico del rapporto UNEP (Programma ONU per l'ambiente) sul superamento di 1,5 °C, nelle consultazioni sulla decisione finale ⚠️ secondo Climate Home, da fonti anonime [4]. **Laurence Tubiana (European Climate Foundation), Debra Roberts (ex co-presidente IPCC, il Gruppo intergovernativo sui cambiamenti climatici) e Bill Hare (Climate Analytics)** lo hanno difeso ⚠️ [4].
-7. **Migliaia di manifestanti** hanno sfilato ad Antalya per la giustizia climatica: oltre 7.000 secondo la polizia, oltre 10.000 secondo gli organizzatori 🟡 [5][6]. È la manifestazione più grande da inizio COP, autorizzata dalle autorità turche 🟡 [5][6].
-8. **UNICEF e il ministero turco della Famiglia e dei servizi sociali** hanno presentato con i ragazzi la "Chiamata all'azione dei bambini sul clima" ✅ [7]. **Paolo Marchi, rappresentante UNICEF in Türkiye**: "Il cambiamento climatico è una delle più grandi minacce ai diritti dei bambini" ✅ [7]. **La Türkiye** è il 100° Paese membro del Partenariato UNESCO per l'istruzione verde ✅ [10].
+2. **Murat Kurum** ha confermato cinque coppie di ministri facilitatori 🟡 [13]. Mitigazione: **Carsten Schneider (Germania)** e **Bhupender Yadav (India)**. Finanza: **Monique Barbut (Francia)** e **Robert Borje (Filippine)**. Adattamento: **Jiwoh Abdulai (Sierra Leone)** e **Miatta Fahnbulleh (Regno Unito)**. Transizione giusta: **Alicia Bárcena (Messico)** e **Krzysztof Bolesta (Polonia)**. Oceano: **Julie Dabrusin (Canada)** e **Steven Victor (Palau)** 🟡 [13].
+3. **Gli organi sussidiari della Convenzione (SBSTA, l'organo per la consulenza scientifica e tecnologica, e SBI, l'organo per l'attuazione)** hanno chiuso la 65ª sessione (SB65) 🟡 [13]. Hanno adottato conclusioni su comunicazioni sull'adattamento, Paesi meno sviluppati, ricerca e osservazione sistematica, genere 🟡 [13]. I dossier principali passano invece alla CMA 8 (l'assemblea dell'Accordo di Parigi di quest'anno) sulla base di bozze non concordate 🟡 [13]. Tra questi: obiettivo globale sull'adattamento, programma di lavoro sulla mitigazione, transizione giusta, Articolo 6.2 e 6.8 🟡 [13].
+4. **Russia, Gruppo arabo, Gruppo africano (54 Paesi), LMDC (Paesi "like-minded", tra cui Cina e India) e Argentina** si sono opposti a una "cover decision" (il testo politico che accompagna le decisioni tecniche) sul tema della riforma del processo ONU 🟡 [13]. **Il Gruppo arabo** ha detto che non accetterà obiettivi globali calati dall'alto né obiettivi per settori o fonti di energia 🟡 [3][13]. **UE, Gruppo ombrello (Paesi industrializzati non UE), Paesi meno sviluppati e isole del Pacifico** sostengono invece il piano di lavoro della Presidenza 🟡 [13]. **UE, AOSIS (i piccoli Stati insulari) e Svizzera** vogliono proseguire la discussione sulla riforma 🟡 [13].
+5. **Simon Stiell, segretario esecutivo UNFCCC**, ha definito i progressi "costruttivi" e ha chiesto di passare subito ai temi più difficili ⚠️ secondo Climate Home [3]. Ai giornalisti ha detto: "Nessuna COP può far sparire questa crisi per magia, ma ognuna deve far avanzare i progressi" ⚠️ secondo AFP [5].
+6. **Adonia Ayebare, presidente SBSTA**, ha comunicato che le Parti non hanno trovato un accordo sull'interfaccia dei dati sui gas serra (lo strumento online dell'ONU che pubblica i dati nazionali di emissione) 🟡 [13]. Il tema torna all'ordine del giorno dello SBSTA 66, a giugno 2027 🟡 [13]. **Il Gruppo arabo e la Russia** temono nuove funzioni non negoziate; **UE, Gruppo ombrello e isole del Pacifico** chiedono di pubblicare subito i moduli già concordati 🟡 [13].
+7. **Il Gruppo arabo, guidato dall'Arabia Saudita**, ha messo in dubbio il rigore scientifico del rapporto UNEP (Programma ONU per l'ambiente) sul superamento di 1,5 °C ⚠️ secondo Climate Home, da fonti anonime [4]. **L'Unione Europea e la Svizzera** hanno invece insistito in plenaria sull'urgenza di limitare il superamento di 1,5 °C 🟡 [4][13].
+8. **Migliaia di manifestanti** hanno sfilato ad Antalya per la giustizia climatica: oltre 7.000 secondo la polizia, oltre 10.000 secondo gli organizzatori 🟡 [5][6]. È la manifestazione più grande da inizio COP, autorizzata dalle autorità turche 🟡 [5][6].
+9. **UNICEF e il ministero turco della Famiglia e dei servizi sociali** hanno presentato con i ragazzi la "Chiamata all'azione dei bambini sul clima" ✅ [7]. **La Türkiye** è il 100° Paese membro del Partenariato UNESCO per l'istruzione verde ✅ [10].
 
 ## Negoziati: a che punto siamo
 | Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
 |---|---|---|---|
-| Decisione finale ("cover decision", il testo politico che accompagna le decisioni tecniche) | Le **Presidenze** hanno raccolto le osservazioni scritte entro sabato; la bozza è attesa a inizio settimana ⚠️ [3] | Alcuni grandi Paesi in via di sviluppo contestano la decisione stessa e ogni obiettivo settoriale, compreso il 35-by-35 ⚠️ [3] | Nessuna bozza ufficiale ⚠️ [3] |
-| Transizione giusta | Nota informale sul meccanismo (venerdì sera): struttura a due livelli, banca dati, rapporti, riunione annuale ⚠️ [3] | Manca l'organo formale con una task force sulla finanza chiesto dai Paesi in via di sviluppo ⚠️ [3] | Nota informale ⚠️ [3] |
-| Adattamento / GGA (obiettivo globale sull'adattamento) | Nuova bozza uscita nella notte ⚠️ [3] | **Gruppo africano**: triplicare a 120 miliardi l'anno entro il 2035; opzione rivale: rivedere l'obiettivo della COP30 ⚠️ [3] | Bozza di testo ⚠️ [3] |
-| Mitigazione (programma di lavoro sulla mitigazione, MWP) | **UE** propone di prolungarlo: opzioni fino al 2030, 2031 o 2040 ⚠️ [3] | Ampliarlo o no per alimentare il Global Stocktake 2028 (il bilancio globale dell'Accordo di Parigi) ⚠️ [3] | Nota informale con molte parentesi quadre ⚠️ [3] |
-| Finanza | — | **Tasneem Essop, Climate Action Network**: l'UE non ha annunciato nuova finanza climatica alla COP31 ⚠️ [3] | — |
-| Uscita dai combustibili fossili | **Lula da Silva, presidente del Brasile**, propone il Brasile come sede della prossima conferenza TAFF (sulla transizione dai fossili) ⚠️ [3] | La decisione finale contiene solo opzioni: "accogliere" la roadmap brasiliana o l'"attuazione continua" dell'accordo della COP28 ⚠️ [3] | — |
-| Scienza e superamento di 1,5 °C | **UE, Regno Unito, Paesi meno sviluppati e piccoli Stati insulari** vogliono la risposta al superamento di 1,5 °C tra le priorità ⚠️ [4] | **LMDC (Paesi "like-minded", tra cui Cina e India)**: nessun riferimento a rapporti esterni al processo ONU sul clima ⚠️ [4] | — |
+| Decisione finale e riforma del processo | **Presidenza**: consultazioni su decisione finale, regole di procedura, riforma del processo ONU; **Norvegia** chiede una nota informale entro lunedì 🟡 [13] | **Russia, Gruppo arabo, Gruppo africano, LMDC, Argentina** contrari a inserire la riforma in una decisione finale; no a obiettivi settoriali 🟡 [3][13] | Nessuna bozza ufficiale 🟡 [3][13] |
+| Mitigazione (programma di lavoro sulla mitigazione, MWP) | **AOSIS, UE, Regno Unito, Paesi meno sviluppati** volevano inoltrare la nota informale aggiornata 🟡 [13] | **Gruppo africano, Gruppo arabo, LMDC**: la nota va oltre il mandato; il tema passa alla CMA 8 🟡 [13] | Nota informale ⚠️ [3] |
+| Adattamento / GGA (obiettivo globale sull'adattamento) | Nuova bozza discussa; passa alla CMA 8 come base di lavoro 🟡 [13] | **Gruppo africano**: triplicare la finanza a 120 miliardi l'anno entro il 2035 ⚠️ [3]; poco tempo per ascoltare tutti 🟡 [13] | Bozza di testo 🟡 [13] |
+| Finanza | **Fondo per l'adattamento**: conclusioni SBI, il lavoro continua alla CMA 8 🟡 [13] | **Gruppo arabo**: allargare la base dei Paesi donatori è una "linea rossa"; **Filippine** contro l'uso crescente di prestiti 🟡 [13] | Bozza di guida al Fondo verde per il clima, da rivedere 🟡 [13] |
+| Articolo 6 (mercati del carbonio) | **Art. 6.4**: i co-facilitatori prepareranno una bozza di decisione CMA 🟡 [13] | **Art. 6.2** (scambi bilaterali): finanziamento rinviato alla CMA 8; **Art. 6.8** (approcci non di mercato): testo con parentesi quadre 🟡 [13] | Bozze di decisione 🟡 [13] |
+| Transizione giusta | Il programma di lavoro passa alla CMA 8, con la nota informale dei co-presidenti 🟡 [13] | Manca l'organo formale con finanza chiesto dai Paesi in via di sviluppo ⚠️ [3] | Nota informale 🟡 [3][13] |
+| Perdite e danni | **SBI**: conclusioni sul Meccanismo di Varsavia, poi adottate da COP e CMA 🟡 [13] | — | Decisioni adottate 🟡 [13] |
+| Altri temi (agricoltura, misure di risposta) | **Agricoltura**: conclusioni procedurali; **misure di risposta**: bozza passa a COP, CMP e CMA 🟡 [13] | **Agricoltura**: la decisione slitta al 2027 🟡 [13] | Bozza COP sull'agricoltura adottata 🟡 [13] |
 
 ## Panel ed eventi del giorno
 | Evento | Chi | In una riga | Rilevanza VSME | Video |
 |---|---|---|---|---|
-| [Chiusura degli organi sussidiari e bilancio di metà conferenza](panel/plenaria-bilancio-meta-conferenza.md) | SBSTA, SBI, Presidenze COP31, UNFCCC | Fine della settimana tecnica; i nodi passano ai ministri | Bassa | Non ancora disponibile |
-| [Meccanismo per la transizione giusta: la nota informale](panel/meccanismo-transizione-giusta.md) | Presidenza australiana dei negoziati, ONG | Struttura a due livelli, senza finanza dedicata | Bassa | Non previsto (consultazioni) |
+| [Chiusura degli organi sussidiari e piano per la seconda settimana](panel/plenaria-bilancio-meta-conferenza.md) | SBSTA, SBI, Presidenza COP31 | Fine della settimana tecnica; cinque coppie di ministri al lavoro | Bassa | Non ancora disponibile |
+| [Mercati del carbonio e dati sui gas serra](panel/articolo-6-dati-ghg.md) | Parti, co-facilitatori Art. 6.4, presidente SBSTA | Metodologie Art. 6.4 difficili da applicare; stallo sull'interfaccia dati GHG | Media | Non previsto (consultazioni) |
+| [Meccanismo per la transizione giusta](panel/meccanismo-transizione-giusta.md) | Presidenza australiana dei negoziati, ONG | Nota informale a due livelli; il tema passa alla CMA 8 | Bassa | Non previsto (consultazioni) |
 | [Il rapporto UNEP sul superamento di 1,5 °C sotto attacco](panel/rapporto-overshoot-unep.md) | Gruppo arabo, LMDC, scienziati | Disputa sull'uso della scienza nella decisione finale | Media | Non previsto (consultazioni) |
 | [Giornata bambini, giovani, istruzione e competenze](panel/giornata-bambini-giovani-istruzione.md) | UNICEF, Presidenza COP31, ministeri turchi | Chiamata all'azione dei bambini; competenze verdi | Bassa | Non ancora disponibile |
 | [La marcia per la giustizia climatica](panel/marcia-giustizia-climatica.md) | Organizzazioni della società civile | Migliaia in piazza ad Antalya | Bassa | — |
@@ -43,11 +46,11 @@ Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Bambini, giovani,
 _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità per le PMI (piccole e medie imprese)._
 
 ## Eventi senza resoconto scritto
-_Eventi confermati da programmi ufficiali o pagine degli organizzatori; nessun resoconto scritto trovato alle 22:45 del 14/11 (ora italiana)._
+_Eventi confermati da programmi ufficiali o pagine degli organizzatori; nessun resoconto scritto trovato al 15/11 mattina._
 
 | Orario | Evento | Organizza | Video |
 |---|---|---|---|
-| 09:00–10:00 Antalya (07:00–08:00 ora italiana) | Cooperazione commerciale per l'industrializzazione verde e gli obiettivi climatici [8][9] | UNCTAD (agenzia ONU per commercio e sviluppo), OMC, ITC, UNEP FI, Presidenza COP31 | [Canale UNFCCC (dirette)](https://www.youtube.com/@UNClimateChangeEvents/streams) |
+| 09:00–10:00 Antalya (07:00–08:00 ora italiana) | Cooperazione commerciale per l'industrializzazione verde e gli obiettivi climatici [8][9] | UNCTAD (agenzia ONU per commercio e sviluppo), OMC, ITC, UNEP FI, Presidenza COP31 | — |
 | 10:00–13:00 Antalya (08:00–11:00 ora italiana) | Chiusura della 4ª sessione FMCP (la revisione tra pari dei progressi dei Paesi sui rapporti di trasparenza) [1][11] | UNFCCC | — |
 | 10:15–11:15 Antalya (08:15–09:15 ora italiana) | Piani per accelerare i piani di transizione delle istituzioni finanziarie [8] | UNEP FI (Iniziativa finanziaria del Programma ONU per l'ambiente), coalizione dei Campioni ONU di alto livello per il clima | — |
 | 13–14/11 | Global Sustainable Insurance Summit [8] | UNEP FI, Associazione delle assicurazioni della Türkiye | — |
@@ -63,19 +66,21 @@ _Eventi confermati da programmi ufficiali o pagine degli organizzatori; nessun r
 |---|---|---|---|
 | Mattina | Tavola rotonda ministeriale di alto livello sulla transizione giusta [1] | Presidenza COP31, UNFCCC | — |
 | Pomeriggio | Evento della Presidenza sull'ACE (Azione per l'empowerment climatico: istruzione e sensibilizzazione) [1] | Presidenza COP31 | — |
-| Tutto il giorno | Negoziati COP/CMP/CMA a livello ministeriale [1] | Parti | — |
+| Tutto il giorno | Consultazioni ministeriali in cinque coppie e negoziati COP/CMP/CMA [1][13] | Parti, ministri facilitatori | — |
 
-- **Presidenze COP31**: prima bozza della decisione finale attesa all'inizio della settimana ⚠️ [3].
+- **Co-facilitatori dell'Art. 6.4**: bozza di decisione CMA attesa 🟡 [13].
+- **Presidenza COP31**: prima bozza della decisione finale attesa a inizio settimana ⚠️ [3].
 
 ## Qualità delle fonti
 | Tier | N. fonti |
 |---|---|
 | A (ufficiali) | 7 |
-| B (giornalismo specializzato o agenzie) | 5 |
+| B (giornalismo specializzato o agenzie) | 6 |
 | C (altro) | 0 |
 
-- **Siti non leggibili:** enb.iisd.org (HTTP 403: il resoconto IISD del 14/11 non è ancora disponibile); pagina UNFCCC sulla FMCP4 (vuota per lettori automatici); pagina UNCTAD dell'evento sul commercio (letta solo dai risultati di ricerca).
-- **Affermazioni rimaste ⚠️:** quasi tutti i fatti negoziali vengono da una sola testata (Climate Home); le frasi di Stiell e Bowen ai giornalisti solo da AFP. Da verificare domattina con il resoconto IISD ENB e i comunicati UNFCCC.
+- **Siti non leggibili:** pagina web IISD ENB del 14/11 (HTTP 403; letto invece il PDF completo del bollettino); pagine UNFCCC "live updates" e webcast (vuote per lettori automatici); pagina UNCTAD dell'evento sul commercio (solo risultati di ricerca).
+- **Video:** nessuna registrazione ufficiale delle plenarie di chiusura trovata su UN Web TV o sul canale YouTube UNFCCC al 15/11 mattina; da ricontrollare lunedì.
+- **Affermazioni rimaste ⚠️:** frasi di Stiell (solo Climate Home e AFP, ciascuna una sola fonte), la richiesta africana di 120 miliardi, la contestazione saudita al rapporto UNEP (fonti anonime).
 
 ## Fonti
 
@@ -114,3 +119,6 @@ _Eventi confermati da programmi ufficiali o pagine degli organizzatori; nessun r
 
 12. **IISD Earth Negotiations Bulletin** — [Conferenza di Antalya sul clima: venerdì 13 novembre 2026 (ENB Vol. 12 n. 906, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12906e.pdf)<br>
    <sub>Tier B · pubblicato 14/11/2026 (data di testata) · consultato 13/11/2026 · documento completo</sub>
+
+13. **IISD Earth Negotiations Bulletin** — [Conferenza di Antalya sul clima: sabato 14 novembre 2026 (ENB Vol. 12 n. 907, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12907e.pdf)<br>
+   <sub>Tier B · pubblicato 16/11/2026 (data di testata; online il 15/11) · consultato 15/11/2026 · documento completo</sub>

@@ -1,41 +1,44 @@
 # COP31 — Day 6 · Saturday 14 November 2026
-🕘 Provisional evening version — to be consolidated tomorrow morning at 09:30 (Italian time)<br>
+✅ Final version — consolidated on 15/11/2026 at 09:47 (Italian time)<br>
 First evening draft: 14/11/2026 at 22:45 (Italian time).
 
-Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Children, Youth, Education and Skills" ✅ [1]. It is the last day of the subsidiary bodies (SBs, the two technical bodies of the UN climate Convention) ✅ [1][2]. On Sunday 15 the venue is closed.
+Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Children, Youth, Education and Skills" ✅ [1]. It was the last day of the subsidiary bodies (SBs, the two technical bodies of the UN climate Convention) ✅ [1][2]. Plenaries ran late into the night: the SBs closed at 00:48 on Sunday 15 in Antalya (22:48 Italian time on Saturday) 🟡 [13]. On Sunday 15 the venue is closed.
 
 ## In brief
-- **What happened:** the **subsidiary bodies (SBSTA and SBI)** closed the first technical week; the **COP31 Presidencies (Türkiye and Australia)** called a midway stocktaking plenary in the evening ✅ [1] ⚠️ [3].
-- **Why it matters:** the knots now pass to ministers: adaptation finance, the just transition mechanism, electrification and the role of science on overshooting 1.5 °C ⚠️ [3][4][5].
+- **What happened:** the **subsidiary bodies (SBSTA and SBI)** closed the technical week and forwarded almost all hard issues to ministers; **Murat Kurum, COP31 President**, announced how the second week will work 🟡 [13].
+- **Why it matters:** from Monday ministers decide, split into five pairs (mitigation, finance, adaptation, just transition, Ocean); the final decision and sectoral targets remain open 🟡 [3][13].
 - **Tomorrow:** on Sunday 15 the venue is closed; on Monday 16 work resumes with the "Science, Industry and Technology" day ✅ [1].
 
 ## Key facts
-1. **The Convention's subsidiary bodies (SBSTA, the body for scientific and technological advice, and SBI, the body for implementation)** closed their 65th session (SB65), with 46 agenda items ✅ [2]. The SB closing plenaries and the COP/CMP/CMA plenaries (the assemblies of the Convention, the Kyoto Protocol and the Paris Agreement) were scheduled for the afternoon ✅ [1]. Parties were to finish technical work or agree what to forward to the second week ⚠️ according to IISD ENB [12]. At 22:45 (Italian time) there is no written account of the outcomes yet.<br>
+1. **Murat Kurum, COP31 President (Türkiye)**, in the COP/CMP/CMA transitional plenary (the assemblies of the Convention, the Kyoto Protocol and the Paris Agreement), split second-week work into four streams 🟡 [13]. The streams are: ministerial engagement, Presidency consultations, ministerial consultations on outstanding political issues, and technical negotiations 🟡 [13]. He invited ministers to a "divan", an informal meeting on the package as a whole 🟡 [13].<br>
    🎥 Video not yet available
-2. **The COP31 Presidencies (Türkiye and Australia)** called a midway stocktaking plenary for Saturday evening ⚠️ according to Climate Home [3]. **Simon Stiell, UNFCCC Executive Secretary**, called progress "constructive" and urged moving swiftly to the hardest issues ⚠️ according to Climate Home [3]. He told reporters: "No single COP can magic this crisis away, but each must drive progress" ⚠️ according to AFP [5].
-3. **Chris Bowen, President of Negotiations (Australia)**, called the informal note on the just transition mechanism "comprehensive" ⚠️ according to Climate Home [3]. The note proposes two tiers (one government-led, one implementation arm with civil society) and no explicit finance mobilisation ⚠️ [3]. **Climate Action Network and Oil Change International** consider it too weak ⚠️ [3].
-4. **The African Group (54 countries)** wants to triple adaptation finance to "at least $120 billion per year by 2035" ⚠️ according to Climate Home [3]. A draft on the global goal on adaptation (GGA) released overnight also contains an option to review the finance goal agreed at COP30 ⚠️ [3].
-5. **Wopke Hoekstra, EU Climate Commissioner**, softened the demand for "clean" electrification: "a certain degree of pragmatism is probably warranted and needed" ⚠️ according to Climate Home [3]. The voluntary "35-by-35" pledge would raise electricity from 23% to 35% of final energy consumption by 2035, without specifying sources ⚠️ [3].
-6. **The Arab Group, led by Saudi Arabia**, questioned the scientific rigour of the UNEP (UN Environment Programme) report on overshooting 1.5 °C, in the consultations on the final decision ⚠️ according to Climate Home, citing anonymous sources [4]. **Laurence Tubiana (European Climate Foundation), Debra Roberts (former co-chair of the IPCC, the Intergovernmental Panel on Climate Change) and Bill Hare (Climate Analytics)** defended it ⚠️ [4].
-7. **Thousands of protesters** marched in Antalya for climate justice: more than 7,000 according to police, more than 10,000 according to organisers 🟡 [5][6]. It is the largest demonstration since the COP began, authorised by Turkish authorities 🟡 [5][6].
-8. **UNICEF and Türkiye's Ministry of Family and Social Services** presented the "Children's Call to Action on Climate" with young people ✅ [7]. **Paolo Marchi, UNICEF Representative in Türkiye**: "Climate change is one of the greatest threats to children's rights" ✅ [7]. **Türkiye** is the 100th member country of UNESCO's Greening Education Partnership ✅ [10].
+2. **Murat Kurum** confirmed five pairs of facilitating ministers 🟡 [13]. Mitigation: **Carsten Schneider (Germany)** and **Bhupender Yadav (India)**. Finance: **Monique Barbut (France)** and **Robert Borje (Philippines)**. Adaptation: **Jiwoh Abdulai (Sierra Leone)** and **Miatta Fahnbulleh (UK)**. Just transition: **Alicia Bárcena (Mexico)** and **Krzysztof Bolesta (Poland)**. Ocean: **Julie Dabrusin (Canada)** and **Steven Victor (Palau)** 🟡 [13].
+3. **The Convention's subsidiary bodies (SBSTA, the body for scientific and technological advice, and SBI, the body for implementation)** closed their 65th session (SB65) 🟡 [13]. They adopted conclusions on adaptation communications, least developed countries, research and systematic observation, and gender 🟡 [13]. The main files instead go to CMA 8 (this year's Paris Agreement assembly) on the basis of non-agreed drafts 🟡 [13]. These include: the global goal on adaptation, the mitigation work programme, just transition, Article 6.2 and 6.8 🟡 [13].
+4. **Russia, the Arab Group, the African Group (54 countries), the LMDCs (Like-Minded Developing Countries, including China and India) and Argentina** opposed a "cover decision" (the political text accompanying the technical decisions) on reforming the UN process 🟡 [13]. **The Arab Group** said it will not accept top-down global targets or targets for specific sectors or energy sources 🟡 [3][13]. **The EU, the Umbrella Group (non-EU industrialised countries), the Least Developed Countries and the Pacific islands** instead support the Presidency's work plan 🟡 [13]. **The EU, AOSIS (the small island states) and Switzerland** want to continue the discussion on reform 🟡 [13].
+5. **Simon Stiell, UNFCCC Executive Secretary**, called progress "constructive" and urged moving swiftly to the hardest issues ⚠️ according to Climate Home [3]. He told reporters: "No single COP can magic this crisis away, but each must drive progress" ⚠️ according to AFP [5].
+6. **Adonia Ayebare, SBSTA Chair**, reported that Parties could not agree on the greenhouse gas data interface (the UN online tool publishing national emissions data) 🟡 [13]. The item returns to the SBSTA 66 agenda in June 2027 🟡 [13]. **The Arab Group and Russia** fear new, un-negotiated functions; **the EU, the Umbrella Group and the Pacific islands** want the already-agreed modules published swiftly 🟡 [13].
+7. **The Arab Group, led by Saudi Arabia**, questioned the scientific rigour of the UNEP (UN Environment Programme) report on overshooting 1.5 °C ⚠️ according to Climate Home, citing anonymous sources [4]. **The European Union and Switzerland** instead stressed in plenary the urgency of limiting 1.5 °C overshoot 🟡 [4][13].
+8. **Thousands of protesters** marched in Antalya for climate justice: more than 7,000 according to police, more than 10,000 according to organisers 🟡 [5][6]. It is the largest demonstration since the COP began, authorised by Turkish authorities 🟡 [5][6].
+9. **UNICEF and Türkiye's Ministry of Family and Social Services** presented the "Children's Call to Action on Climate" with young people ✅ [7]. **Türkiye** is the 100th member country of UNESCO's Greening Education Partnership ✅ [10].
 
 ## Negotiations: where we stand
 | Topic | What moved | What is stuck | Texts released |
 |---|---|---|---|
-| Final decision ("cover decision", the political text accompanying the technical decisions) | The **Presidencies** collected written inputs until Saturday; a draft is expected early in the week ⚠️ [3] | Some large developing countries question the decision itself and any sectoral target, including 35-by-35 ⚠️ [3] | No official draft ⚠️ [3] |
-| Just transition | Informal note on the mechanism (Friday night): two-tier structure, knowledge hub, reports, annual meeting ⚠️ [3] | No formal body with a finance taskforce, as developing countries demanded ⚠️ [3] | Informal note ⚠️ [3] |
-| Adaptation / GGA (global goal on adaptation) | New draft released overnight ⚠️ [3] | **African Group**: triple to $120 billion a year by 2035; rival option: review the COP30 goal ⚠️ [3] | Draft text ⚠️ [3] |
-| Mitigation (mitigation work programme, MWP) | **EU** proposes extending it: options to 2030, 2031 or 2040 ⚠️ [3] | Whether to widen it to inform the 2028 Global Stocktake (the Paris Agreement's global review) ⚠️ [3] | Heavily bracketed informal note ⚠️ [3] |
-| Finance | — | **Tasneem Essop, Climate Action Network**: the EU announced no new climate finance at COP31 ⚠️ [3] | — |
-| Transition away from fossil fuels | **Lula da Silva, President of Brazil**, proposes Brazil as host of the next TAFF conference (on transitioning away from fossil fuels) ⚠️ [3] | The final decision only has options: "welcome" the Brazilian roadmap or "ongoing implementation" of the COP28 deal ⚠️ [3] | — |
-| Science and 1.5 °C overshoot | **EU, UK, Least Developed Countries and small island states** want the response to overshoot among the priorities ⚠️ [4] | **LMDCs (Like-Minded Developing Countries, including China and India)**: no references to reports produced outside the UN climate process ⚠️ [4] | — |
+| Final decision and process reform | **Presidency**: consultations on the final decision, rules of procedure, reform of the UN process; **Norway** asks for an informal note by Monday 🟡 [13] | **Russia, Arab Group, African Group, LMDCs, Argentina** against putting the reform in a final decision; no to sectoral targets 🟡 [3][13] | No official draft 🟡 [3][13] |
+| Mitigation (mitigation work programme, MWP) | **AOSIS, EU, UK, LDCs** wanted to forward the updated informal note 🟡 [13] | **African Group, Arab Group, LMDCs**: the note goes beyond the mandate; the item goes to CMA 8 🟡 [13] | Informal note ⚠️ [3] |
+| Adaptation / GGA (global goal on adaptation) | New draft discussed; forwarded to CMA 8 as a basis for work 🟡 [13] | **African Group**: triple finance to $120 billion a year by 2035 ⚠️ [3]; little time to hear all Parties 🟡 [13] | Draft text 🟡 [13] |
+| Finance | **Adaptation Fund**: SBI conclusions, work continues at CMA 8 🟡 [13] | **Arab Group**: expanding the donor base is a "red line"; **Philippines** against the growing use of loans 🟡 [13] | Draft guidance to the Green Climate Fund, to be revised 🟡 [13] |
+| Article 6 (carbon markets) | **Art. 6.4**: co-facilitators will prepare a draft CMA decision 🟡 [13] | **Art. 6.2** (bilateral trading): funding arrangements forwarded to CMA 8; **Art. 6.8** (non-market approaches): bracketed text 🟡 [13] | Draft decisions 🟡 [13] |
+| Just transition | The work programme goes to CMA 8, with the co-chairs' informal note 🟡 [13] | No formal body with finance, as developing countries demanded ⚠️ [3] | Informal note 🟡 [3][13] |
+| Loss and damage | **SBI**: conclusions on the Warsaw Mechanism, then adopted by COP and CMA 🟡 [13] | — | Decisions adopted 🟡 [13] |
+| Other issues (agriculture, response measures) | **Agriculture**: procedural conclusions; **response measures**: draft goes to COP, CMP and CMA 🟡 [13] | **Agriculture**: the decision slips to 2027 🟡 [13] | Draft COP decision on agriculture adopted 🟡 [13] |
 
 ## Panels and events of the day
 | Event | Who | In one line | VSME relevance | Video |
 |---|---|---|---|---|
-| [Closing of the subsidiary bodies and midway stocktake](panel/plenaria-bilancio-meta-conferenza.en.md) | SBSTA, SBI, COP31 Presidencies, UNFCCC | End of the technical week; knots pass to ministers | Low | Not yet available |
-| [Just transition mechanism: the informal note](panel/meccanismo-transizione-giusta.en.md) | Australian Presidency of Negotiations, NGOs | Two-tier structure, no dedicated finance | Low | Not planned (consultations) |
+| [Closing of the subsidiary bodies and the second-week plan](panel/plenaria-bilancio-meta-conferenza.en.md) | SBSTA, SBI, COP31 Presidency | End of the technical week; five ministerial pairs at work | Low | Not yet available |
+| [Carbon markets and greenhouse gas data](panel/articolo-6-dati-ghg.en.md) | Parties, Art. 6.4 co-facilitators, SBSTA Chair | Art. 6.4 methodologies hard to apply; deadlock on the GHG data interface | Medium | Not planned (consultations) |
+| [Just transition mechanism](panel/meccanismo-transizione-giusta.en.md) | Australian Presidency of Negotiations, NGOs | Two-tier informal note; item goes to CMA 8 | Low | Not planned (consultations) |
 | [The UNEP 1.5 °C overshoot report under attack](panel/rapporto-overshoot-unep.en.md) | Arab Group, LMDCs, scientists | Dispute over the use of science in the final decision | Medium | Not planned (consultations) |
 | [Children, Youth, Education and Skills Day](panel/giornata-bambini-giovani-istruzione.en.md) | UNICEF, COP31 Presidency, Turkish ministries | Children's call to action; green skills | Low | Not yet available |
 | [The climate justice march](panel/marcia-giustizia-climatica.en.md) | Civil society organisations | Thousands on the streets of Antalya | Low | — |
@@ -43,11 +46,11 @@ Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Children, Youth
 _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and medium-sized enterprises)._
 
 ## Events without a written account
-_Events confirmed by official programmes or organisers' pages; no written account found at 22:45 on 14/11 (Italian time)._
+_Events confirmed by official programmes or organisers' pages; no written account found by the morning of 15/11._
 
 | Time | Event | Organiser | Video |
 |---|---|---|---|
-| 09:00–10:00 Antalya (07:00–08:00 Italian time) | Harnessing trade cooperation to deliver green industrialisation and climate goals [8][9] | UNCTAD (UN trade and development agency), WTO, ITC, UNEP FI, COP31 Presidency | [UNFCCC channel (live streams)](https://www.youtube.com/@UNClimateChangeEvents/streams) |
+| 09:00–10:00 Antalya (07:00–08:00 Italian time) | Harnessing trade cooperation to deliver green industrialisation and climate goals [8][9] | UNCTAD (UN trade and development agency), WTO, ITC, UNEP FI, COP31 Presidency | — |
 | 10:00–13:00 Antalya (08:00–11:00 Italian time) | Closing of the 4th FMCP session (the peer review of countries' progress based on transparency reports) [1][11] | UNFCCC | — |
 | 10:15–11:15 Antalya (08:15–09:15 Italian time) | Plans to accelerate the implementation of financial institution transition plans [8] | UNEP FI (UN Environment Programme Finance Initiative), Climate High-Level Champions coalition | — |
 | 13–14/11 | Global Sustainable Insurance Summit [8] | UNEP FI, Insurance Association of Türkiye | — |
@@ -61,28 +64,30 @@ _Events confirmed by official programmes or organisers' pages; no written accoun
 
 | Time | Event | Who | Video |
 |---|---|---|---|
-| Morning | High-level ministerial round table on just transition [1] | COP31 Presidency, UNFCCC | — |
+| Morning | High-level ministerial roundtable on just transition [1] | COP31 Presidency, UNFCCC | — |
 | Afternoon | Presidency event on ACE (Action for Climate Empowerment: education and public awareness) [1] | COP31 Presidency | — |
-| All day | COP/CMP/CMA negotiations at ministerial level [1] | Parties | — |
+| All day | Ministerial consultations in five pairs and COP/CMP/CMA negotiations [1][13] | Parties, facilitating ministers | — |
 
-- **COP31 Presidencies**: first draft of the final decision expected early in the week ⚠️ [3].
+- **Art. 6.4 co-facilitators**: draft CMA decision expected 🟡 [13].
+- **COP31 Presidency**: first draft of the final decision expected early in the week ⚠️ [3].
 
 ## Source quality
 | Tier | No. of sources |
 |---|---|
 | A (official) | 7 |
-| B (specialised journalism or wires) | 5 |
+| B (specialised journalism or wires) | 6 |
 | C (other) | 0 |
 
-- **Sites not readable:** enb.iisd.org (HTTP 403: the IISD report for 14/11 is not out yet); UNFCCC FMCP4 page (empty for automated readers); UNCTAD event page (read from search results only).
-- **Claims kept ⚠️:** almost all negotiation facts come from a single outlet (Climate Home); Stiell's and Bowen's remarks to reporters only from AFP. To be checked tomorrow morning against the IISD ENB report and UNFCCC releases.
+- **Sites not readable:** IISD ENB web page for 14/11 (HTTP 403; the full bulletin PDF was read instead); UNFCCC "live updates" and webcast pages (empty for automated readers); UNCTAD trade event page (search results only).
+- **Video:** no official recording of the closing plenaries found on UN Web TV or the UNFCCC YouTube channel by the morning of 15/11; to be re-checked on Monday.
+- **Claims kept ⚠️:** Stiell's remarks (Climate Home and AFP only, each a single source), the African $120 billion demand, the Saudi challenge to the UNEP report (anonymous sources).
 
 ## Sources
 
-1. **UNFCCC** — [COP 31 Overview Schedule (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
+1. **UNFCCC** — [COP31 Overview Schedule (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
    <sub>Tier A · date n/a · accessed 14/11/2026 · full document</sub>
 
-2. **UNFCCC, Chairs of the subsidiary bodies (Adonia Ayebare, SBSTA; Julia Gardiner, SBI)** — [Preparing for the Sixty-Fifth Sessions of the Subsidiary Bodies: Joint Note by the Chairs (PDF)](https://unfccc.int/sites/default/files/resource/SB65%20Joint%20Note%20by%20SB%20Chairs.pdf)<br>
+2. **UNFCCC, Chairs of the subsidiary bodies (Adonia Ayebare, SBSTA; Julia Gardiner, SBI)** — [SB65 Joint Note by SB Chairs (PDF)](https://unfccc.int/sites/default/files/resource/SB65%20Joint%20Note%20by%20SB%20Chairs.pdf)<br>
    <sub>Tier A · file dated 26/10/2026 · accessed 14/11/2026 · full document</sub>
 
 3. **Climate Home News** (S. Rodriguez, M. Rowling, V. Chime) — [COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress](https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/)<br>
@@ -94,23 +99,26 @@ _Events confirmed by official programmes or organisers' pages; no written accoun
 5. **AFP** (via France 24) — [Thousands rally against COP31 as climate talks hit midpoint](https://www.france24.com/en/live-news/20261114-thousands-rally-against-cop31-as-climate-talks-hit-midpoint)<br>
    <sub>Tier B · published 14/11/2026 · accessed 14/11/2026 · full page</sub>
 
-6. **dpa** (via Yahoo News) — [Activists defy heavy policing to march at COP31 climate summit](https://www.yahoo.com/news/world/articles/activists-defy-heavy-policing-march-144836825.html)<br>
+6. **dpa** (via Yahoo News) — [Activists defy heavy policing to march at COP31 summit](https://www.yahoo.com/news/world/articles/activists-defy-heavy-policing-march-144836825.html)<br>
    <sub>Tier B · published 14/11/2026 · accessed 14/11/2026 · full page</sub>
 
-7. **UNICEF Türkiye** — [Children and Young People Call for Climate Action and Greater Opportunities on Children, Youth, Education and Skills Day at COP31](https://www.unicef.org/turkiye/en/press-releases/children-and-young-people-call-climate-action-and-greater-opportunities-children)<br>
+7. **UNICEF Türkiye** — [Children and young people call for climate action and greater opportunities for children](https://www.unicef.org/turkiye/en/press-releases/children-and-young-people-call-climate-action-and-greater-opportunities-children)<br>
    <sub>Tier A · published 14/11/2026 · accessed 14/11/2026 · full page</sub>
 
 8. **UNEP FI (UN Environment Programme Finance Initiative)** — [UNEP FI at COP31: events programme](https://www.unepfi.org/themes/climate-change/unep-fi-at-cop31/)<br>
    <sub>Tier A · date n/a · accessed 14/11/2026 · full page</sub>
 
-9. **UNCTAD** — [COP31 Climate Action Agenda: Harnessing trade cooperation to deliver green industrialization and climate goals](https://unctad.org/meeting/cop31-climate-action-agenda-harnessing-trade-cooperation-deliver-green-industrialization)<br>
+9. **UNCTAD** — [COP31 Climate Action Agenda: Harnessing trade cooperation to deliver green industrialization](https://unctad.org/meeting/cop31-climate-action-agenda-harnessing-trade-cooperation-deliver-green-industrialization)<br>
    <sub>Tier A · date n/a · accessed 14/11/2026 · search results only</sub>
 
 10. **Ministry of National Education of Türkiye (MEB)** — [Minister Tekin invites members of the UNESCO Greening Education Partnership to COP31](https://www.meb.gov.tr/bakan-tekin-turkiyenin-100-uyesi-oldugu-unesco-yesil-egitim-ortakligi-uyelerini-cop31e-davet-etti/haber/42210/tr)<br>
    <sub>Tier A · published 19/10/2026 · accessed 14/11/2026 · full page</sub>
 
-11. **UNFCCC** — [Fourth working group session of the Facilitative, Multilateral Consideration of Progress (FMCP4)](https://unfccc.int/node/659547)<br>
+11. **UNFCCC** — [Fourth session of the FMCP working group (FMCP4)](https://unfccc.int/node/659547)<br>
    <sub>Tier A · date n/a · accessed 14/11/2026 · search results only</sub>
 
 12. **IISD Earth Negotiations Bulletin** — [Antalya Climate Change Conference: Friday, 13 November 2026 (ENB Vol. 12 No. 906, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12906e.pdf)<br>
    <sub>Tier B · published 14/11/2026 (masthead date) · accessed 13/11/2026 · full document</sub>
+
+13. **IISD Earth Negotiations Bulletin** — [Antalya Climate Change Conference: Saturday, 14 November 2026 (ENB Vol. 12 No. 907, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12907e.pdf)<br>
+   <sub>Tier B · published 16/11/2026 (masthead date; online on 15/11) · accessed 15/11/2026 · full document</sub>

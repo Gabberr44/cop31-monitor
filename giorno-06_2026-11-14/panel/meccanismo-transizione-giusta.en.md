@@ -13,6 +13,8 @@ An informal note proposes how to make the just transition mechanism work (the "B
 - **Anabella Rosemberg, Climate Action Network International**, notes the absence of the formal body with a finance taskforce that developing countries demanded ⚠️ [1].
 - **Romain Ioualalen, Oil Change International**, accuses the Australian Presidency of watering down the text ⚠️ [1].
 - **Chris Bowen, President of Negotiations**, sees "strong interest" in an ambitious outcome and calls the draft "comprehensive" ⚠️ [1].
+- **The subsidiary bodies (SBSTA and SBI)** forwarded the just transition work programme to CMA 8 (the Paris Agreement assembly), taking note of the co-chairs' informal note 🟡 [2].
+- **Murat Kurum, COP31 President**, entrusted ministerial consultations on just transition to **Alicia Bárcena (Mexico)** and **Krzysztof Bolesta (Poland)** 🟡 [2].
 
 ## Quotes
 - "Justice needs structures, not endless hollow words" — **Amiera Sawas, Fossil Fuel Treaty Initiative** [1]
@@ -24,3 +26,6 @@ An informal note proposes how to make the just transition mechanism work (the "B
 
 1. **Climate Home News** (S. Rodriguez, M. Rowling, V. Chime) — [COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress](https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/)<br>
    <sub>Tier B · published 14/11/2026 · accessed 14/11/2026 · full page</sub>
+
+2. **IISD Earth Negotiations Bulletin** — [Antalya Climate Change Conference: Saturday, 14 November 2026 (ENB Vol. 12 No. 907, PDF)](https://enb.iisd.org/sites/default/files/2026-11/enb12907e.pdf)<br>
+   <sub>Tier B · published 16/11/2026 (masthead date; online on 15/11) · accessed 15/11/2026 · full document</sub>
