@@ -275,3 +275,25 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-06_2026-11-14/sintes
 - **What happened:** **Adonia Ayebare, SBSTA Chair**, reported no agreement; **the Arab Group and Russia** object to new functions, **the EU, the Umbrella Group and the Pacific islands** want the agreed modules published 🟡 [13].
 - **Cosa cambia per una PMI che compila il VSME:** nulla. I fattori di emissione per il B3 restano quelli nazionali (in Italia ISPRA) o di banche dati riconosciute; questo strumento ONU riguarda gli inventari dei Paesi.
 - **What changes for an SME filling in the VSME:** nothing. Emission factors for B3 remain national ones (ISPRA in Italy) or from recognised databases; this UN tool concerns countries' inventories.
+
+
+## 2026-11-16 — Giorno 7 / Day 7 _(🕘 versione serale provvisoria, 16/11/2026 22:45 ora italiana / provisional evening version, 16/11/2026 22:45 Italian time)_
+_Fonti / Sources: numerate come in / numbered as in `giorno-07_2026-11-16/sintesi-giornata.md`_
+
+### 1. Patto di Antalya sull'IA: rendicontare l'impronta ambientale dell'IA / Antalya AI Pledge: reporting AI's environmental footprint — Rilevanza: Alta / High
+- **Cosa è successo:** **la Presidenza COP31 e l'ITU** hanno lanciato un patto volontario con quattro pilastri, tra cui la valutazione e la rendicontazione dell'impatto ambientale dell'IA con metodi standard; verifica annuale alla COP fino al 2030 ✅ [6]. **UN News** conta 80 adesioni e 271 impegni ✅ [5].
+- **What happened:** **the COP31 Presidency and the ITU** launched a voluntary pledge with four pillars, including assessing and reporting AI's environmental impact with standard methods; annual review at the COP until 2030 ✅ [6]. **UN News** counts 80 endorsements and 271 commitments ✅ [5].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Una PMI che usa cloud o IA in modo intensivo può chiedere al fornitore i consumi energetici e le emissioni del servizio, utili per lo Scope 3; chi ha server propri include i consumi nell'energia del B3.
+- **What changes for an SME filling in the VSME:** no obligation. An SME making heavy use of cloud or AI can ask its provider for the service's energy use and emissions, useful for Scope 3; those with their own servers include that consumption in B3 energy.
+
+### 2. Bozza della decisione finale: elettrificazione 35% e zero netto 2030 per i Paesi ricchi / Draft final decision: 35% electrification and net zero 2030 for rich countries — Rilevanza: Media / Medium
+- **Cosa è successo:** **Chris Bowen, Presidente dei negoziati COP31**, ha pubblicato una bozza di 18 pagine con il 35% di elettricità nei consumi finali entro il 2035 e zero netto al 2030 per i Paesi ricchi 🟡 [3][4]; **LMDC, Gruppo arabo e Russia** la respingono ⚠️ [2].
+- **What happened:** **Chris Bowen, COP31 President of Negotiations**, published an 18-page draft with 35% electricity in final consumption by 2035 and net zero by 2030 for rich countries 🟡 [3][4]; **the LMDCs, the Arab Group and Russia** reject it ⚠️ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nulla per ora. Se l'obiettivo di elettrificazione sopravvive, crescerà l'attenzione sulla quota di elettricità (e di rinnovabili) nei consumi: il B3 del VSME chiede già di distinguere l'energia per fonte.
+- **What changes for an SME filling in the VSME:** nothing for now. If the electrification goal survives, attention to the share of electricity (and renewables) in consumption will grow: VSME B3 already asks to break down energy by source.
+
+### 3. Mercato ONU dei crediti (Art. 6.4): spinta ad allentare le regole di integrità / UN crediting mechanism (Art. 6.4): push to loosen integrity rules — Rilevanza: Media / Medium
+- **Cosa è successo:** **LMDC, Paesi meno sviluppati e altri** chiedono di rivedere le regole prudenziali del PACM; la bozza parla di evitare un "eccessivo cumulo di aggiustamenti prudenziali"; **UE, Svizzera e Senegal** si oppongono 🟡 [2][8].
+- **What happened:** **the LMDCs, LDCs and others** want PACM's conservative rules revisited; the draft speaks of avoiding "excessive compounding of conservative adjustments"; **the EU, Switzerland and Senegal** oppose 🟡 [2][8].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI acquista crediti, conviene scegliere standard con regole di integrità robuste e indicarli separatamente dalle emissioni del B3.
+- **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits, it should choose standards with robust integrity rules and report them separately from B3 emissions.
