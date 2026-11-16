@@ -79,7 +79,7 @@ _Events confirmed by official programmes or organisers' pages; no written accoun
 | C (other) | 0 |
 
 - **Sites not readable:** IISD ENB web page for 14/11 (HTTP 403; the full bulletin PDF was read instead); UNFCCC "live updates" and webcast pages (empty for automated readers); UNCTAD trade event page (search results only).
-- **Video:** no official recording of the closing plenaries found on UN Web TV or the UNFCCC YouTube channel by the morning of 15/11; to be re-checked on Monday.
+- **Video:** no official recording of the closing plenaries found on UN Web TV or the UNFCCC YouTube channel by the morning of 15/11; re-checked on 16/11 at 09:55 (Italian time): still not published.
 - **Claims kept ⚠️:** Stiell's remarks (Climate Home and AFP only, each a single source), the African $120 billion demand, the Saudi challenge to the UNEP report (anonymous sources).
 
 ## Sources

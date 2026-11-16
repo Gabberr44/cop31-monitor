@@ -79,7 +79,7 @@ _Eventi confermati da programmi ufficiali o pagine degli organizzatori; nessun r
 | C (altro) | 0 |
 
 - **Siti non leggibili:** pagina web IISD ENB del 14/11 (HTTP 403; letto invece il PDF completo del bollettino); pagine UNFCCC "live updates" e webcast (vuote per lettori automatici); pagina UNCTAD dell'evento sul commercio (solo risultati di ricerca).
-- **Video:** nessuna registrazione ufficiale delle plenarie di chiusura trovata su UN Web TV o sul canale YouTube UNFCCC al 15/11 mattina; da ricontrollare lunedì.
+- **Video:** nessuna registrazione ufficiale delle plenarie di chiusura trovata su UN Web TV o sul canale YouTube UNFCCC al 15/11 mattina; ricontrollato il 16/11 alle 09:55 (ora italiana): ancora non pubblicata.
 - **Affermazioni rimaste ⚠️:** frasi di Stiell (solo Climate Home e AFP, ciascuna una sola fonte), la richiesta africana di 120 miliardi, la contestazione saudita al rapporto UNEP (fonti anonime).
 
 ## Fonti
