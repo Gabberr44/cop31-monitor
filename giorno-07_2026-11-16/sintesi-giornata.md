@@ -1,6 +1,6 @@
 # COP31 — Giorno 7 · lunedì 16 novembre 2026
 🕘 Versione serale provvisoria — verrà consolidata domattina alle 09:30 (ora italiana)<br>
-Prima stesura: 16/11/2026 alle 22:45 (ora italiana).
+Prima stesura: 16/11/2026 alle 22:45 · aggiornata il 16/11/2026 alle 23:55 (ora italiana).
 
 Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Scienza, industria e tecnologia" ✅ [1]. È il primo giorno della seconda e ultima settimana: la conferenza chiude venerdì 20 novembre 🟡 [4][9].
 
@@ -49,20 +49,20 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 
 ## Cosa aspettarsi domani
 - **Martedì 17 novembre:** apertura formale del segmento di alto livello con i ministri ✅ [5].
-- **Tema del giorno** "Oceano, mari, natura e uso del suolo" ⚠️ secondo un programma non ufficiale [13].
+- **La Presidenza COP31 (Türkiye)** ha dedicato martedì al tema "Oceano, mari, natura e uso del suolo" ✅ [13]. Mercoledì 18 sarà "Sviluppo umano e sociale e genere" ✅ [13].
 - **I co-facilitatori** presenteranno testi rivisti su adattamento, finanza, Art. 6.4 e transizione giusta ⚠️ [2].
 - **La Presidenza turca** convocherà i ministri a metà settimana per raccogliere le loro posizioni sulla bozza ⚠️ secondo Climate Home [3].
 
 ## Qualità delle fonti
 | Tier | N. fonti |
 |---|---|
-| A (ufficiali) | 5 |
+| A (ufficiali) | 6 |
 | B (giornalismo specializzato o agenzie) | 5 |
-| C (altro) | 3 |
+| C (altro) | 2 |
 
 - **Siti non leggibili:** Carbon Market Watch (HTTP 403); SDG Knowledge Hub IISD (HTTP 403); calendario generale UNFCCC e lettere della Presidenza (PDF bloccati ai lettori automatici, letti in passato); pagina trascrizioni del ministro Bowen (HTTP 503); UNEP, pagina eventi COP31 (HTTP 403).
 - **Video:** trovata la registrazione ufficiale della tavola rotonda sull'IA (canale YouTube UNFCCC Global Climate Action). Nessuna registrazione trovata della plenaria sulla scienza né di conferenze stampa sulla bozza.
-- **Affermazioni rimaste ⚠️:** posizioni dei gruppi negoziali riportate solo da ENB; numero di firmatari del Patto IA secondo Climate Home (diverso da UN News); 45 contributi e 160 governi; misure commerciali unilaterali nella bozza; programma di martedì; accordo Singapore–Kenya.
+- **Affermazioni rimaste ⚠️:** posizioni dei gruppi negoziali riportate solo da ENB; numero di firmatari del Patto IA secondo Climate Home (diverso da UN News); 45 contributi e 160 governi; misure commerciali unilaterali nella bozza; accordo Singapore–Kenya.
 
 ## Fonti
 
@@ -102,5 +102,5 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 12. **TNGlobal** (dal comunicato del ministero di Singapore) — [Singapore rafforza i partenariati sul mercato del carbonio con Kenya e Colombia alla COP31](https://technode.global/2026/11/16/singapore-deepens-carbon-markets-partnerships-with-kenya-colombia-at-cop31)<br>
     <sub>Tier C · pubblicato 16/11/2026 · consultato 16/11/2026 · pagina completa</sub>
 
-13. **Felix Dodds (blog)** — [Temi, priorità e giornate tematiche della COP31](https://blog.felixdodds.net/2026/08/cop31-themes-and-priorities-and.html)<br>
-    <sub>Tier C · pubblicato 31/08/2026 · consultato 16/11/2026 · pagina completa</sub>
+13. **Presidenza COP31** — [Sito ufficiale COP31: programma delle giornate tematiche](https://cop31.tr/)<br>
+    <sub>Tier A · data n.d. · consultato 16/11/2026 · pagina completa</sub>

@@ -1,6 +1,6 @@
 # COP31 — Day 7 · Monday 16 November 2026
 🕘 Provisional evening version — to be consolidated tomorrow morning at 09:30 (Italian time)<br>
-First draft: 16/11/2026 at 22:45 (Italian time).
+First draft: 16/11/2026 at 22:45 · updated 16/11/2026 at 23:55 (Italian time).
 
 Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Science, Industry and Technology" ✅ [1]. It is the first day of the second and final week: the conference closes on Friday 20 November 🟡 [4][9].
 
@@ -49,20 +49,20 @@ _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small
 
 ## What to expect tomorrow
 - **Tuesday 17 November:** formal opening of the high-level segment with ministers ✅ [5].
-- **Theme of the day** "Ocean, seas, nature and land use" ⚠️ according to an unofficial programme [13].
+- **The COP31 Presidency (Türkiye)** has dedicated Tuesday to "Ocean, Seas, Nature and Land Use" ✅ [13]. Wednesday 18 will be "Human, Social Development and Gender" ✅ [13].
 - **Co-facilitators** will present revised texts on adaptation, finance, Art. 6.4 and just transition ⚠️ [2].
 - **The Turkish Presidency** will convene ministers mid-week to gather their views on the draft ⚠️ according to Climate Home [3].
 
 ## Source quality
 | Tier | No. of sources |
 |---|---|
-| A (official) | 5 |
+| A (official) | 6 |
 | B (specialised journalism or wires) | 5 |
-| C (other) | 3 |
+| C (other) | 2 |
 
 - **Sites not readable:** Carbon Market Watch (HTTP 403); IISD SDG Knowledge Hub (HTTP 403); UNFCCC overview schedule and Presidency letters (PDFs blocked for automated readers, read earlier); Minister Bowen's transcripts page (HTTP 503); UNEP COP31 events page (HTTP 403).
 - **Videos:** found the official recording of the AI roundtable (UNFCCC Global Climate Action YouTube channel). No recording found of the science plenary or of press conferences on the draft.
-- **Claims kept ⚠️:** negotiating-group positions reported only by ENB; number of AI Pledge signatories according to Climate Home (different from UN News); 45 submissions and 160 governments; unilateral trade measures in the draft; Tuesday's programme; Singapore–Kenya agreement.
+- **Claims kept ⚠️:** negotiating-group positions reported only by ENB; number of AI Pledge signatories according to Climate Home (different from UN News); 45 submissions and 160 governments; unilateral trade measures in the draft; Singapore–Kenya agreement.
 
 ## Sources
 
@@ -102,5 +102,5 @@ _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small
 12. **TNGlobal** (from the Singapore ministry's statement) — [Singapore deepens carbon markets partnerships with Kenya, Colombia at COP31](https://technode.global/2026/11/16/singapore-deepens-carbon-markets-partnerships-with-kenya-colombia-at-cop31)<br>
     <sub>Tier C · published 16/11/2026 · accessed 16/11/2026 · full page</sub>
 
-13. **Felix Dodds (blog)** — [COP31 Themes and Priorities and Thematic Days](https://blog.felixdodds.net/2026/08/cop31-themes-and-priorities-and.html)<br>
-    <sub>Tier C · published 31/08/2026 · accessed 16/11/2026 · full page</sub>
+13. **COP31 Presidency** — [Official COP31 website: thematic days programme](https://cop31.tr/)<br>
+    <sub>Tier A · date n.d. · accessed 16/11/2026 · full page</sub>
