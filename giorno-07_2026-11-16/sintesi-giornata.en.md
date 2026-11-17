@@ -1,6 +1,6 @@
 # COP31 — Day 7 · Monday 16 November 2026
-🕘 Provisional evening version — to be consolidated tomorrow morning at 09:30 (Italian time)<br>
-First draft: 16/11/2026 at 22:45 · updated 16/11/2026 at 23:55 (Italian time).
+✅ Final version — consolidated on 17/11/2026 at 09:50 (Italian time)<br>
+First evening draft: 16/11/2026 at 22:45 (Italian time).
 
 Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Science, Industry and Technology" ✅ [1]. It is the first day of the second and final week: the conference closes on Friday 20 November 🟡 [4][9].
 
@@ -18,6 +18,9 @@ Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "Science, Indust
 5. **Tomas Lamanauskas, ITU Deputy Secretary-General**, said data-centre energy use for AI will double by 2030 ✅ [5]. According to the ITU, by 2030 AI data centres could use nearly 945 TWh of electricity a year ✅ [11]. According to UN News the Pledge had 80 endorsements and 271 commitments on Monday morning ✅ [5]. **Climate Home** instead counts nine countries and over 40 companies as signatories ⚠️ [3].
 6. **Several countries, from the LMDCs to the Least Developed Countries**, are asking to revisit the integrity rules of the UN carbon crediting mechanism (Art. 6.4) 🟡 [2][8]. The draft asks to avoid excessive "conservativeness" in calculating credits 🟡 [2][8]. **The European Union, Switzerland and Senegal** oppose this 🟡 [2][8].
 7. **Laurence Tubiana, CEO of the European Climate Foundation**, told the science plenary: "We have to defend science" ✅ [5]. **Mary Robinson, former President of Ireland**, urged not to undermine the IPCC (the UN climate science panel) ✅ [5]. **Solomon Islands** is the first country to announce a contribution to the Green Climate Fund at COP31 ✅ [5].
+8. **The COP31 Presidency (Türkiye)** reported that more than 50 countries and the European Union back the "Global Geothermal Ambition 2050" ✅ [14]. The collective goal is to scale geothermal power and heat to 12 times 2025 levels by 2050 ✅ [14]. The initiative was prepared with **IRENA (the International Renewable Energy Agency)** and is voluntary ✅ [14].
+9. **The COP31 Presidency** presented the "Antalya Ocean and Seas Compact", a voluntary 13-point compact on ocean climate action ✅ [15]. The text states explicitly that it creates no new obligations or mechanisms ✅ [15].
+10. **Canada** announced up to C$560 million in loans to the TFFF (the tropical forests fund) over four years ⚠️ according to Climate Home [3]. **Heike Henn, Germany's negotiator**, said the fossil fuel roadmap and the electrification goal are "not for us the ultimate benchmark for success" ⚠️ according to Climate Home [3].
 
 ## Negotiations: where things stand
 | Topic | What moved | What is blocked | Texts released |
@@ -48,7 +51,7 @@ _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small
 | 16/11 (time n/a) | Ministerial roundtable on just transition [1] | COP31 Presidency, UNFCCC | — |
 
 ## What to expect tomorrow
-- **Tuesday 17 November:** formal opening of the high-level segment with ministers ✅ [5].
+- **Tuesday 17 and Wednesday 18 November:** resumed high-level segment, with ministers' national statements in Plenary Anadolu ✅ [16]. Each country has 3 minutes, negotiating groups 5 ✅ [16]. **Wopke Hoekstra, EU Climate Commissioner**, speaks for the EU on Tuesday morning; **Gilberto Pichetto Fratin, Italy's Minister of Environment and Energy Security**, on Tuesday afternoon ✅ [16].
 - **The COP31 Presidency (Türkiye)** has dedicated Tuesday to "Ocean, Seas, Nature and Land Use" ✅ [13]. Wednesday 18 will be "Human, Social Development and Gender" ✅ [13].
 - **Co-facilitators** will present revised texts on adaptation, finance, Art. 6.4 and just transition ⚠️ [2].
 - **The Turkish Presidency** will convene ministers mid-week to gather their views on the draft ⚠️ according to Climate Home [3].
@@ -56,13 +59,14 @@ _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small
 ## Source quality
 | Tier | No. of sources |
 |---|---|
-| A (official) | 6 |
+| A (official) | 9 |
 | B (specialised journalism or wires) | 5 |
 | C (other) | 2 |
 
 - **Sites not readable:** Carbon Market Watch (HTTP 403); IISD SDG Knowledge Hub (HTTP 403); UNFCCC overview schedule and Presidency letters (PDFs blocked for automated readers, read earlier); Minister Bowen's transcripts page (HTTP 503); UNEP COP31 events page (HTTP 403).
-- **Videos:** found the official recording of the AI roundtable (UNFCCC Global Climate Action YouTube channel). No recording found of the science plenary or of press conferences on the draft.
-- **Claims kept ⚠️:** negotiating-group positions reported only by ENB; number of AI Pledge signatories according to Climate Home (different from UN News); 45 submissions and 160 governments; unilateral trade measures in the draft; Singapore–Kenya agreement.
+- **17/11 consolidation:** re-read the full Climate Home bulletin [3] (no update after 16/11); added three official releases [14][15][16]. The ENB report for the day [2] had already been read in full.
+- **Videos:** re-checked on 17/11 morning. Found the official recording of the AI roundtable (UNFCCC Global Climate Action YouTube channel). No recording found of the science plenary or of press conferences on the draft.
+- **Claims kept ⚠️:** negotiating-group positions reported only by ENB; number of AI Pledge signatories according to Climate Home (different from UN News); 45 submissions and 160 governments; unilateral trade measures in the draft; Singapore–Kenya agreement; Canada's TFFF loans and Heike Henn's remark (Climate Home only).
 
 ## Sources
 
@@ -104,3 +108,12 @@ _The VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small
 
 13. **COP31 Presidency** — [Official COP31 website: thematic days programme](https://cop31.tr/)<br>
     <sub>Tier A · date n.d. · accessed 16/11/2026 · full page</sub>
+
+14. **COP31 Presidency** — [More than 50 countries back Global Geothermal Ambition 2050](https://cop31.tr/news-detail/more-than-50-countries-back-global-geothermal-ambition-2050)<br>
+    <sub>Tier A · published 16/11/2026 · accessed 17/11/2026 · full page</sub>
+
+15. **COP31 Presidency** — [Antalya Ocean and Seas Compact](https://cop31.tr/news-detail/antalya-ocean-and-seas-compact)<br>
+    <sub>Tier A · published 16/11/2026 · accessed 17/11/2026 · full page</sub>
+
+16. **UNFCCC** — [Resumed high-level segment, 17–18 November 2026: modalities and list of speakers (PDF)](https://unfccc.int/sites/default/files/resource/updated_resumed_hls_2026.pdf)<br>
+    <sub>Tier A · published 14/11/2026 · accessed 17/11/2026 · full document</sub>

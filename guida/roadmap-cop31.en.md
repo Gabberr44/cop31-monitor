@@ -26,8 +26,8 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [5](../giorno-05_2026-11-13/sintesi-giornata.en.md) | Fri 13/11 | Finance and Trade ✅ [7] | The Presidencies circulate an outline of the final decision 🟡 [8] | ✅ done |
 | [6](../giorno-06_2026-11-14/sintesi-giornata.en.md) | Sat 14/11 | Children, Youth, Education and Skills ✅ [7] | Subsidiary bodies (SB65) close; five ministerial pairs appointed 🟡 [10] | ✅ done |
 | — | Sun 15/11 | "A Breath in Antalya" ✅ [7] | Venue closed | — |
-| [7](../giorno-07_2026-11-16/sintesi-giornata.en.md) | Mon 16/11 | Science, Industry and Technology ✅ [7] | First draft of the final decision; Antalya AI Pledge 🟡 [11] | ✅ done (provisional summary) |
-| 8 | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Opening of the high-level segment with ministers ✅ [12] | 📍 we are here |
+| [7](../giorno-07_2026-11-16/sintesi-giornata.en.md) | Mon 16/11 | Science, Industry and Technology ✅ [7] | First draft of the final decision; Antalya AI Pledge 🟡 [11] | ✅ done |
+| 8 | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Resumed high-level segment (17–18/11): ministers' statements, including Italy ✅ [16] | 📍 we are here |
 | 9 | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers work on open texts | ⏳ expected |
 | 10 | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | New drafts expected | ⏳ expected |
 | 11 | Fri 20/11 | Final Negotiations ✅ [7] | Closing plenary scheduled; possible overrun ✅ [1] | ⏳ expected |
@@ -90,3 +90,6 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 
 15. **Climate Home News** (M. Rowling, M. Civillini, T. Gadea Lara, S. Rodriguez) — [COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33 hosting](https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/)<br>
     <sub>Tier B · published 13/11/2026 · accessed 13/11/2026 · full page</sub>
+
+16. **UNFCCC** — [Resumed high-level segment, 17–18 November 2026: modalities and list of speakers (PDF)](https://unfccc.int/sites/default/files/resource/updated_resumed_hls_2026.pdf)<br>
+    <sub>Tier A · published 14/11/2026 · accessed 17/11/2026 · full document</sub>

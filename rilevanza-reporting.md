@@ -277,7 +277,7 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-06_2026-11-14/sintes
 - **What changes for an SME filling in the VSME:** nothing. Emission factors for B3 remain national ones (ISPRA in Italy) or from recognised databases; this UN tool concerns countries' inventories.
 
 
-## 2026-11-16 — Giorno 7 / Day 7 _(🕘 versione serale provvisoria, 16/11/2026 22:45 ora italiana / provisional evening version, 16/11/2026 22:45 Italian time)_
+## 2026-11-16 — Giorno 7 / Day 7 _(✅ versione finale, consolidata 17/11/2026 09:50 ora italiana / final version, consolidated 17/11/2026 09:50 Italian time)_
 _Fonti / Sources: numerate come in / numbered as in `giorno-07_2026-11-16/sintesi-giornata.md`_
 
 ### 1. Patto di Antalya sull'IA: rendicontare l'impronta ambientale dell'IA / Antalya AI Pledge: reporting AI's environmental footprint — Rilevanza: Alta / High

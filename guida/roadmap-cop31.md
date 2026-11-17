@@ -26,8 +26,8 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | [5](../giorno-05_2026-11-13/sintesi-giornata.md) | ven 13/11 | Finanza e commercio ✅ [7] | Le Presidenze diffondono la traccia della decisione finale 🟡 [8] | ✅ fatto |
 | [6](../giorno-06_2026-11-14/sintesi-giornata.md) | sab 14/11 | Bambini, giovani, istruzione e competenze ✅ [7] | Chiusura degli organi sussidiari (SB65); nominate cinque coppie di ministri 🟡 [10] | ✅ fatto |
 | — | dom 15/11 | "Un respiro ad Antalya" ✅ [7] | Sede chiusa | — |
-| [7](../giorno-07_2026-11-16/sintesi-giornata.md) | lun 16/11 | Scienza, industria e tecnologia ✅ [7] | Prima bozza della decisione finale; Patto di Antalya sull'IA 🟡 [11] | ✅ fatto (sintesi provvisoria) |
-| 8 | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Apertura del segmento di alto livello con i ministri ✅ [12] | 📍 siamo qui |
+| [7](../giorno-07_2026-11-16/sintesi-giornata.md) | lun 16/11 | Scienza, industria e tecnologia ✅ [7] | Prima bozza della decisione finale; Patto di Antalya sull'IA 🟡 [11] | ✅ fatto |
+| 8 | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Segmento di alto livello ripreso (17–18/11): dichiarazioni dei ministri, tra cui l'Italia ✅ [16] | 📍 siamo qui |
 | 9 | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Lavoro dei ministri sui testi aperti | ⏳ atteso |
 | 10 | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Nuove bozze attese | ⏳ atteso |
 | 11 | ven 20/11 | Negoziati finali ✅ [7] | Plenaria di chiusura prevista; possibile sforamento ✅ [1] | ⏳ atteso |
@@ -90,3 +90,6 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 
 15. **Climate Home News** (M. Rowling, M. Civillini, T. Gadea Lara, S. Rodriguez) — [Bollettino COP31, giorno 5: la lista dei desideri per la decisione finale, la Cina rinuncia alla COP33](https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/)<br>
     <sub>Tier B · pubblicato 13/11/2026 · consultato 13/11/2026 · pagina completa</sub>
+
+16. **UNFCCC** — [Segmento di alto livello ripreso, 17–18 novembre 2026: modalità e lista degli oratori (PDF)](https://unfccc.int/sites/default/files/resource/updated_resumed_hls_2026.pdf)<br>
+    <sub>Tier A · pubblicato 14/11/2026 · consultato 17/11/2026 · documento completo</sub>

@@ -1,6 +1,6 @@
 # COP31 — Giorno 7 · lunedì 16 novembre 2026
-🕘 Versione serale provvisoria — verrà consolidata domattina alle 09:30 (ora italiana)<br>
-Prima stesura: 16/11/2026 alle 22:45 · aggiornata il 16/11/2026 alle 23:55 (ora italiana).
+✅ Versione finale — consolidata il 17/11/2026 alle 09:50 (ora italiana)<br>
+Prima stesura serale: 16/11/2026 alle 22:45 (ora italiana).
 
 Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Scienza, industria e tecnologia" ✅ [1]. È il primo giorno della seconda e ultima settimana: la conferenza chiude venerdì 20 novembre 🟡 [4][9].
 
@@ -18,6 +18,9 @@ Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "Scienza, industri
 5. **Tomas Lamanauskas, vicesegretario generale ITU**, ha detto che il consumo di energia dei data center per l'IA raddoppierà entro il 2030 ✅ [5]. Secondo l'ITU, entro il 2030 i data center per l'IA potrebbero consumare quasi 945 TWh di elettricità l'anno ✅ [11]. Secondo UN News il Patto aveva 80 adesioni e 271 impegni lunedì mattina ✅ [5]. **Climate Home** conta invece nove Paesi e oltre 40 aziende firmatari ⚠️ [3].
 6. **Diversi Paesi, dagli LMDC ai Paesi meno sviluppati**, chiedono di rivedere le regole di integrità del mercato ONU dei crediti di carbonio (Art. 6.4) 🟡 [2][8]. La bozza chiede di evitare un eccesso di "prudenza" nel calcolo dei crediti 🟡 [2][8]. **L'Unione Europea, la Svizzera e il Senegal** si oppongono 🟡 [2][8].
 7. **Laurence Tubiana, amministratrice delegata della European Climate Foundation**, alla plenaria sulla scienza ha detto: "Dobbiamo difendere la scienza" ✅ [5]. **Mary Robinson, ex presidente dell'Irlanda**, ha chiesto di non indebolire l'IPCC (il gruppo scientifico ONU sul clima) ✅ [5]. **Le Isole Salomone** sono il primo Paese ad annunciare alla COP31 un contributo al Fondo verde per il clima ✅ [5].
+8. **La Presidenza COP31 (Türkiye)** ha comunicato che oltre 50 Paesi e l'Unione Europea sostengono la "Global Geothermal Ambition 2050" ✅ [14]. L'obiettivo collettivo è moltiplicare per 12 la geotermia (elettricità e calore) entro il 2050 rispetto al 2025 ✅ [14]. L'iniziativa è stata preparata con **IRENA (l'Agenzia internazionale per le energie rinnovabili)** ed è volontaria ✅ [14].
+9. **La Presidenza COP31** ha presentato l'"Antalya Ocean and Seas Compact", un patto volontario in 13 punti sull'azione climatica per gli oceani ✅ [15]. Il testo dice esplicitamente che non crea nuovi obblighi né nuovi meccanismi ✅ [15].
+10. **Il Canada** ha annunciato fino a 560 milioni di dollari canadesi in prestiti al TFFF (il fondo per le foreste tropicali) in quattro anni ⚠️ secondo Climate Home [3]. **Heike Henn, negoziatrice della Germania**, ha detto che la roadmap sui fossili e l'obiettivo di elettrificazione "non sono per noi il metro ultimo del successo" ⚠️ secondo Climate Home [3].
 
 ## Negoziati: a che punto siamo
 | Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
@@ -48,7 +51,7 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 | 16/11 (orario n.d.) | Tavola rotonda ministeriale sulla transizione giusta [1] | Presidenza COP31, UNFCCC | — |
 
 ## Cosa aspettarsi domani
-- **Martedì 17 novembre:** apertura formale del segmento di alto livello con i ministri ✅ [5].
+- **Martedì 17 e mercoledì 18 novembre:** segmento di alto livello ripreso, con le dichiarazioni nazionali dei ministri nella Plenaria Anadolu ✅ [16]. Ogni Paese ha 3 minuti, i gruppi negoziali 5 ✅ [16]. **Wopke Hoekstra, commissario UE per il clima**, parla per l'UE martedì mattina; **Gilberto Pichetto Fratin, ministro italiano dell'Ambiente e della sicurezza energetica**, martedì pomeriggio ✅ [16].
 - **La Presidenza COP31 (Türkiye)** ha dedicato martedì al tema "Oceano, mari, natura e uso del suolo" ✅ [13]. Mercoledì 18 sarà "Sviluppo umano e sociale e genere" ✅ [13].
 - **I co-facilitatori** presenteranno testi rivisti su adattamento, finanza, Art. 6.4 e transizione giusta ⚠️ [2].
 - **La Presidenza turca** convocherà i ministri a metà settimana per raccogliere le loro posizioni sulla bozza ⚠️ secondo Climate Home [3].
@@ -56,13 +59,14 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 ## Qualità delle fonti
 | Tier | N. fonti |
 |---|---|
-| A (ufficiali) | 6 |
+| A (ufficiali) | 9 |
 | B (giornalismo specializzato o agenzie) | 5 |
 | C (altro) | 2 |
 
 - **Siti non leggibili:** Carbon Market Watch (HTTP 403); SDG Knowledge Hub IISD (HTTP 403); calendario generale UNFCCC e lettere della Presidenza (PDF bloccati ai lettori automatici, letti in passato); pagina trascrizioni del ministro Bowen (HTTP 503); UNEP, pagina eventi COP31 (HTTP 403).
-- **Video:** trovata la registrazione ufficiale della tavola rotonda sull'IA (canale YouTube UNFCCC Global Climate Action). Nessuna registrazione trovata della plenaria sulla scienza né di conferenze stampa sulla bozza.
-- **Affermazioni rimaste ⚠️:** posizioni dei gruppi negoziali riportate solo da ENB; numero di firmatari del Patto IA secondo Climate Home (diverso da UN News); 45 contributi e 160 governi; misure commerciali unilaterali nella bozza; accordo Singapore–Kenya.
+- **Consolidamento del 17/11:** riletto per intero il bollettino Climate Home [3] (nessun aggiornamento dopo il 16/11); aggiunti tre comunicati ufficiali [14][15][16]. Il resoconto ENB della giornata [2] era già stato letto per intero.
+- **Video:** ricontrollato il 17/11 mattina. Trovata la registrazione ufficiale della tavola rotonda sull'IA (canale YouTube UNFCCC Global Climate Action). Nessuna registrazione trovata della plenaria sulla scienza né di conferenze stampa sulla bozza.
+- **Affermazioni rimaste ⚠️:** posizioni dei gruppi negoziali riportate solo da ENB; numero di firmatari del Patto IA secondo Climate Home (diverso da UN News); 45 contributi e 160 governi; misure commerciali unilaterali nella bozza; accordo Singapore–Kenya; prestiti del Canada al TFFF e frase di Heike Henn (solo Climate Home).
 
 ## Fonti
 
@@ -104,3 +108,12 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 
 13. **Presidenza COP31** — [Sito ufficiale COP31: programma delle giornate tematiche](https://cop31.tr/)<br>
     <sub>Tier A · data n.d. · consultato 16/11/2026 · pagina completa</sub>
+
+14. **Presidenza COP31** — [Oltre 50 Paesi sostengono la Global Geothermal Ambition 2050](https://cop31.tr/news-detail/more-than-50-countries-back-global-geothermal-ambition-2050)<br>
+    <sub>Tier A · pubblicato 16/11/2026 · consultato 17/11/2026 · pagina completa</sub>
+
+15. **Presidenza COP31** — [Antalya Ocean and Seas Compact](https://cop31.tr/news-detail/antalya-ocean-and-seas-compact)<br>
+    <sub>Tier A · pubblicato 16/11/2026 · consultato 17/11/2026 · pagina completa</sub>
+
+16. **UNFCCC** — [Segmento di alto livello ripreso, 17–18 novembre 2026: modalità e lista degli oratori (PDF)](https://unfccc.int/sites/default/files/resource/updated_resumed_hls_2026.pdf)<br>
+    <sub>Tier A · pubblicato 14/11/2026 · consultato 17/11/2026 · documento completo</sub>
