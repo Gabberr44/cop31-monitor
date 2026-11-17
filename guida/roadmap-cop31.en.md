@@ -27,7 +27,7 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [6](../giorno-06_2026-11-14/sintesi-giornata.en.md) | Sat 14/11 | Children, Youth, Education and Skills ✅ [7] | Subsidiary bodies (SB65) close; five ministerial pairs appointed 🟡 [10] | ✅ done |
 | — | Sun 15/11 | "A Breath in Antalya" ✅ [7] | Venue closed | — |
 | [7](../giorno-07_2026-11-16/sintesi-giornata.en.md) | Mon 16/11 | Science, Industry and Technology ✅ [7] | First draft of the final decision; Antalya AI Pledge 🟡 [11] | ✅ done |
-| 8 | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Resumed high-level segment (17–18/11): ministers' statements, including Italy ✅ [16] | 📍 we are here |
+| [8](../giorno-08_2026-11-17/sintesi-giornata.en.md) | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Resumed high-level segment (17–18/11): ministers' statements, including Italy ✅ [16] | 📍 we are here |
 | 9 | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers work on open texts | ⏳ expected |
 | 10 | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | New drafts expected | ⏳ expected |
 | 11 | Fri 20/11 | Final Negotiations ✅ [7] | Closing plenary scheduled; possible overrun ✅ [1] | ⏳ expected |

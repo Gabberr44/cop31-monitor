@@ -297,3 +297,31 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-07_2026-11-16/sintes
 - **What happened:** **the LMDCs, LDCs and others** want PACM's conservative rules revisited; the draft speaks of avoiding "excessive compounding of conservative adjustments"; **the EU, Switzerland and Senegal** oppose 🟡 [2][8].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI acquista crediti, conviene scegliere standard con regole di integrità robuste e indicarli separatamente dalle emissioni del B3.
 - **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits, it should choose standards with robust integrity rules and report them separately from B3 emissions.
+
+## 2026-11-17 — Giorno 8 / Day 8 _(🕘 versione serale provvisoria, 17/11/2026 22:45 ora italiana / provisional evening version, 17/11/2026 22:45 Italian time)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-08_2026-11-17/sintesi-giornata.md](giorno-08_2026-11-17/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 8 summary._
+
+### 1. L'UE sostiene l'elettrificazione al 35% entro il 2035 / The EU backs 35% electrification by 2035 — Rilevanza: Media / Medium
+- **Cosa è successo:** **Wopke Hoekstra, commissario UE per il clima**, ha sostenuto l'obiettivo volontario "35-by-35" e ha definito la bozza di decisione finale una "lista della spesa" 🟡 [2][3][4].
+- **What happened:** **Wopke Hoekstra, EU Climate Commissioner**, backed the voluntary "35-by-35" goal and called the draft final decision a "shopping list" 🟡 [2][3][4].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo nuovo. La direzione politica UE resta l'elettrificazione: conviene separare nel B3 i consumi di elettricità (e la quota rinnovabile) da quelli di combustibili, perché clienti e banche li chiederanno.
+- **What changes for an SME filling in the VSME:** no new obligation. The EU's policy direction remains electrification: it makes sense to separate electricity use (and its renewable share) from fuel use in B3, as customers and banks will ask for it.
+
+### 2. Rischio fisico: Climate Risk Index 2027 / Physical risk: Climate Risk Index 2027 — Rilevanza: Media / Medium
+- **Cosa è successo:** **Germanwatch** ha presentato il Climate Risk Index 2027; per il 2025 la Spagna è terza tra i Paesi più colpiti; oltre 916.000 morti per eventi estremi nel 1996–2025 ✅ secondo UN News [6].
+- **What happened:** **Germanwatch** presented the Climate Risk Index 2027; for 2025 Spain ranks third among the hardest-hit countries; more than 916,000 deaths from extreme events in 1996–2025 ✅ according to UN News [6].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Il rischio fisico è anche europeo: è utile documentare, almeno in forma qualitativa, l'esposizione di sedi e fornitori a caldo estremo, alluvioni e incendi.
+- **What changes for an SME filling in the VSME:** no obligation. Physical risk is European too: it is useful to document, at least qualitatively, how exposed sites and suppliers are to extreme heat, floods and wildfires.
+
+### 3. Italia: CLEAR Fund basato sull'Art. 6.2 / Italy: CLEAR Fund based on Art. 6.2 — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Gilberto Pichetto Fratin, ministro dell'Ambiente**, e **SEforALL** hanno presentato un fondo italiano per progetti di riduzione scambiabili tra Paesi (Art. 6.2), con progetti pilota a Cuba, in Etiopia e Tanzania ⚠️ [9].
+- **What happened:** **Gilberto Pichetto Fratin, Environment Minister**, and **SEforALL** presented an Italian fund for reduction projects tradable between countries (Art. 6.2), with pilots in Cuba, Ethiopia and Tanzania ⚠️ [9].
+- **Cosa cambia per una PMI che compila il VSME:** nulla di diretto. Chi acquista crediti deve continuare a indicarli a parte, senza sottrarli alle emissioni lorde del B3.
+- **What changes for an SME filling in the VSME:** nothing directly. Companies buying credits should keep reporting them separately, without netting them against B3 gross emissions.
+
+### 4. Finanza: proposta UE di un rapporto sull'Art. 2.1(c) / Finance: EU proposal for an Art. 2.1(c) report — Rilevanza: Bassa / Low
+- **Cosa è successo:** **l'UE** propone un rapporto biennale sull'allineamento dei flussi finanziari agli obiettivi di Parigi; **LDC, Gruppo arabo e AILAC** si oppongono ⚠️ [2].
+- **What happened:** **the EU** proposes a biennial report on aligning finance flows with the Paris goals; **LDCs, the Arab Group and AILAC** oppose ⚠️ [2].
+- **Cosa cambia per una PMI che compila il VSME:** per ora nulla. Se approvato, aumenterebbe nel tempo la pressione su banche e investitori a raccogliere dati climatici dai clienti, PMI comprese.
+- **What changes for an SME filling in the VSME:** nothing for now. If approved, it would over time increase pressure on banks and investors to collect climate data from clients, SMEs included.
