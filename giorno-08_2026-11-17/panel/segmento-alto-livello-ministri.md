@@ -1,12 +1,13 @@
 # Segmento di alto livello: parlano i ministri
 **Quando:** 17/11, dalle 10:00 Antalya (08:00 ora italiana) · **Dove:** Plenaria Anadolu, Antalya EXPO Center · **Organizza:** Presidenza COP31, UNFCCC<br>
-**Relatori:** **Wopke Hoekstra** (commissario UE per il clima, a nome dell'UE); **Gilberto Pichetto Fratin** (ministro dell'Ambiente e della sicurezza energetica, Italia); **Samira Nawa** (ministra per il clima e l'energia, Danimarca); **Michael Joseph** (ministro dell'Ambiente, Antigua e Barbuda); altri ministri<br>
-🎥 Video non ancora disponibile
+**Relatori:** **Cardinale Pietro Parolin** (segretario di Stato, Santa Sede); **Wopke Hoekstra** (commissario UE per il clima, a nome dell'UE); **Gilberto Pichetto Fratin** (ministro dell'Ambiente e della sicurezza energetica, Italia); **Samira Nawa** (ministra per il clima e l'energia, Danimarca); **Michael Joseph** (ministro dell'Ambiente, Antigua e Barbuda); altri ministri<br>
+🎥 Video non disponibile (nessuna registrazione ufficiale trovata al 18/11/2026)
 
 ## In breve
 I ministri dei Paesi i cui leader non avevano parlato all'inizio della COP hanno letto le dichiarazioni nazionali, 3 minuti ciascuno. Sono il segnale politico con cui i governi entrano nell'ultima fase del negoziato.
 
 ## Punti chiave
+- **Il cardinale Pietro Parolin, segretario di Stato vaticano**, ha aperto il segmento ✅ [1]. Nel messaggio di **Papa Leone** ha detto che la crisi climatica è "messa in ombra dalle tensioni geopolitiche" ⚠️ secondo Reuters [7].
 - **L'UNFCCC** ha fissato 3 minuti per Paese e una sola dichiarazione nazionale nei due giorni del 17 e 18 novembre ✅ [1].
 - **Wopke Hoekstra (UE)** ha sostenuto l'obiettivo volontario del 35% di elettricità nei consumi finali entro il 2035 🟡 [2][3]. Non chiede che la COP specifichi che l'elettricità debba essere pulita ⚠️ secondo Climate Home [3].
 - **Gilberto Pichetto Fratin (Italia)** ha chiamato l'Accordo di Parigi "fondamento dell'azione comune" e ha chiesto di trasformare l'adattamento in progetti finanziabili ⚠️ secondo Radiocor [4]. Ha indicato la COP32 in Etiopia come occasione per rafforzare la leadership africana ⚠️ [4].
@@ -44,3 +45,6 @@ I ministri dei Paesi i cui leader non avevano parlato all'inizio della COP hanno
 
 6. **ANSA** — [Cop31: A Sud, Pichetto non ha detto come e quando l'Italia vuole uscire dai fossili](https://www.ansa.it/ansa2030/notizie/lavoro_formazione/2026/11/17/cop31-a-sud-pichetto-non-ha-detto-come-e-quando-italia-vuole-uscire_12491900-015e-4081-9592-c2769fbc5d70.html)<br>
    <sub>Tier B · pubblicato 17/11/2026 · consultato 17/11/2026 · pagina completa</sub>
+
+7. **Reuters** (ripreso da Yahoo News) — [La COP31 deve guidare il passaggio a un'energia più pulita, dice il capo del clima UE](https://www.yahoo.com/news/science/articles/cop31-talks-must-drive-shift-103631104.html)<br>
+   <sub>Tier B · pubblicato 17/11/2026 · consultato 18/11/2026 · pagina completa</sub>

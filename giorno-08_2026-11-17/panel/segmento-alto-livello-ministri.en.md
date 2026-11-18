@@ -1,12 +1,13 @@
 # High-level segment: ministers speak
 **When:** 17/11, from 10:00 Antalya (08:00 Italian time) · **Where:** Anadolu Plenary, Antalya EXPO Center · **Organiser:** COP31 Presidency, UNFCCC<br>
-**Speakers:** **Wopke Hoekstra** (EU Climate Commissioner, on behalf of the EU); **Gilberto Pichetto Fratin** (Minister of Environment and Energy Security, Italy); **Samira Nawa** (Minister for Climate and Energy, Denmark); **Michael Joseph** (Minister of Environment, Antigua and Barbuda); other ministers<br>
-🎥 Video not yet available
+**Speakers:** **Cardinal Pietro Parolin** (Secretary of State, Holy See); **Wopke Hoekstra** (EU Climate Commissioner, on behalf of the EU); **Gilberto Pichetto Fratin** (Minister of Environment and Energy Security, Italy); **Samira Nawa** (Minister for Climate and Energy, Denmark); **Michael Joseph** (Minister of Environment, Antigua and Barbuda); other ministers<br>
+🎥 Video not available (no official recording found as of 18/11/2026)
 
 ## At a glance
 Ministers of countries whose leaders had not spoken at the start of the COP read their national statements, 3 minutes each. They are the political signal governments send as they enter the final phase of the negotiations.
 
 ## Key points
+- **Cardinal Pietro Parolin, Vatican Secretary of State**, opened the segment ✅ [1]. In **Pope Leo's** message he said the climate crisis is "being overshadowed by geopolitical tensions" ⚠️ according to Reuters [7].
 - **The UNFCCC** set 3 minutes per country and a single national statement over the two days of 17 and 18 November ✅ [1].
 - **Wopke Hoekstra (EU)** backed the voluntary goal of 35% electricity in final energy use by 2035 🟡 [2][3]. He is not insisting that the COP specify the electricity must be clean ⚠️ according to Climate Home [3].
 - **Gilberto Pichetto Fratin (Italy)** called the Paris Agreement "the foundation of common action" and asked to turn adaptation into fundable projects ⚠️ according to Radiocor [4]. He pointed to COP32 in Ethiopia as a chance to strengthen African leadership ⚠️ [4].
@@ -44,3 +45,6 @@ Ministers of countries whose leaders had not spoken at the start of the COP read
 
 6. **ANSA** — [Cop31: A Sud says Pichetto did not say how and when Italy wants to exit fossil fuels](https://www.ansa.it/ansa2030/notizie/lavoro_formazione/2026/11/17/cop31-a-sud-pichetto-non-ha-detto-come-e-quando-italia-vuole-uscire_12491900-015e-4081-9592-c2769fbc5d70.html)<br>
    <sub>Tier B · published 17/11/2026 · accessed 17/11/2026 · full page</sub>
+
+7. **Reuters** (via Yahoo News) — [COP31 talks must drive shift to greener energy, EU climate chief says](https://www.yahoo.com/news/science/articles/cop31-talks-must-drive-shift-103631104.html)<br>
+   <sub>Tier B · published 17/11/2026 · accessed 18/11/2026 · full page</sub>

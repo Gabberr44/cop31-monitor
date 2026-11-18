@@ -1,7 +1,7 @@
 # Giornata dell'oceano e della natura
 **Quando:** 17/11, tutto il giorno · **Dove:** zona blu e padiglioni, Antalya EXPO Center · **Organizza:** Presidenza COP31 e vari organizzatori<br>
 **Relatori:** **Marine Lecerf** (Ocean and Climate Platform); **Joanna Post** (UNESCO, Commissione oceanografica intergovernativa); **Brianna Fruean** (inviata giovanile del Pacifico per il clima); **Hindou Oumarou Ibrahim** (sostenitrice ONU degli Obiettivi di sviluppo sostenibile); **Amy Duchelle** (FAO); **Roberto Chang López** (viceministro delle Finanze, Honduras)<br>
-🎥 Video non ancora disponibile
+🎥 Video non disponibile (nessuna registrazione ufficiale trovata al 18/11/2026)
 
 ## In breve
 La giornata tematica della Presidenza turca è stata dedicata a oceano, mari, natura e uso del suolo. L'oceano ha un posto rilevante nella prima bozza della decisione finale, ma non è detto che ci resti ✅ [1].

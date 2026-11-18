@@ -1,7 +1,7 @@
 # Italy launches the CLEAR Fund
 **When:** 17/11, time n/a · **Where:** MASE–SEforALL event, Antalya · **Organiser:** MASE (Italian Ministry of Environment and Energy Security) and SEforALL (Sustainable Energy for All)<br>
 **Speakers:** **Gilberto Pichetto Fratin** (Minister of Environment and Energy Security)<br>
-🎥 Video not yet available
+🎥 Video not available (no official recording found as of 18/11/2026)
 
 ## At a glance
 Italy presented the CLEAR Fund, a climate finance fund based on Article 6.2 of the Paris Agreement. Article 6.2 lets countries trade emission reductions achieved through projects abroad.

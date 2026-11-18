@@ -27,9 +27,9 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | [6](../giorno-06_2026-11-14/sintesi-giornata.md) | sab 14/11 | Bambini, giovani, istruzione e competenze ✅ [7] | Chiusura degli organi sussidiari (SB65); nominate cinque coppie di ministri 🟡 [10] | ✅ fatto |
 | — | dom 15/11 | "Un respiro ad Antalya" ✅ [7] | Sede chiusa | — |
 | [7](../giorno-07_2026-11-16/sintesi-giornata.md) | lun 16/11 | Scienza, industria e tecnologia ✅ [7] | Prima bozza della decisione finale; Patto di Antalya sull'IA 🟡 [11] | ✅ fatto |
-| [8](../giorno-08_2026-11-17/sintesi-giornata.md) | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Segmento di alto livello ripreso (17–18/11): dichiarazioni dei ministri, tra cui l'Italia ✅ [16] | 📍 siamo qui |
-| 9 | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Lavoro dei ministri sui testi aperti | ⏳ atteso |
-| 10 | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Nuove bozze attese | ⏳ atteso |
+| [8](../giorno-08_2026-11-17/sintesi-giornata.md) | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Segmento di alto livello ripreso (17–18/11): dichiarazioni dei ministri, tra cui l'Italia ✅ [16]; l'UE chiede di cambiare la bozza 🟡 [17] | ✅ fatto |
+| 9 | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Fine delle dichiarazioni dei ministri ✅ [16]; la Presidenza dei negoziati raccoglie le reazioni alla bozza 🟡 [17] | 📍 siamo qui |
+| 10 | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Nuova bozza della decisione finale attesa entro venerdì 🟡 [17] | ⏳ atteso |
 | 11 | ven 20/11 | Negoziati finali ✅ [7] | Plenaria di chiusura prevista; possibile sforamento ✅ [1] | ⏳ atteso |
 
 ## Dopo la COP
@@ -93,3 +93,6 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 
 16. **UNFCCC** — [Segmento di alto livello ripreso, 17–18 novembre 2026: modalità e lista degli oratori (PDF)](https://unfccc.int/sites/default/files/resource/updated_resumed_hls_2026.pdf)<br>
     <sub>Tier A · pubblicato 14/11/2026 · consultato 17/11/2026 · documento completo</sub>
+
+17. **Reuters** (ripreso da Yahoo News) — [La COP31 deve guidare il passaggio a un'energia più pulita, dice il capo del clima UE](https://www.yahoo.com/news/science/articles/cop31-talks-must-drive-shift-103631104.html)<br>
+    <sub>Tier B · pubblicato 17/11/2026 · consultato 18/11/2026 · pagina completa</sub>

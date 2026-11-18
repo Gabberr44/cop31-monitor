@@ -1,7 +1,7 @@
 # L'Italia lancia il CLEAR Fund
 **Quando:** 17/11, orario n.d. · **Dove:** evento MASE–SEforALL, Antalya · **Organizza:** MASE (Ministero dell'Ambiente e della sicurezza energetica) e SEforALL (Sustainable Energy for All)<br>
 **Relatori:** **Gilberto Pichetto Fratin** (ministro dell'Ambiente e della sicurezza energetica)<br>
-🎥 Video non ancora disponibile
+🎥 Video non disponibile (nessuna registrazione ufficiale trovata al 18/11/2026)
 
 ## In breve
 L'Italia ha presentato il CLEAR Fund, un fondo di finanza climatica basato sull'Articolo 6.2 dell'Accordo di Parigi. L'Articolo 6.2 permette ai Paesi di scambiarsi riduzioni di emissioni ottenute con progetti all'estero.

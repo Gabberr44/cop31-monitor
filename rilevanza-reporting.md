@@ -298,7 +298,7 @@ _Fonti / Sources: numerate come in / numbered as in `giorno-07_2026-11-16/sintes
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se la PMI acquista crediti, conviene scegliere standard con regole di integrità robuste e indicarli separatamente dalle emissioni del B3.
 - **What changes for an SME filling in the VSME:** no obligation. If the SME buys credits, it should choose standards with robust integrity rules and report them separately from B3 emissions.
 
-## 2026-11-17 — Giorno 8 / Day 8 _(🕘 versione serale provvisoria, 17/11/2026 22:45 ora italiana / provisional evening version, 17/11/2026 22:45 Italian time)_
+## 2026-11-17 — Giorno 8 / Day 8 _(✅ versione finale, consolidata 18/11/2026 09:55 ora italiana / final version, consolidated 18/11/2026 09:55 Italian time)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-08_2026-11-17/sintesi-giornata.md](giorno-08_2026-11-17/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 8 summary._
 
@@ -325,3 +325,9 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-08_2026-11-17/sintesi-gior
 - **What happened:** **the EU** proposes a biennial report on aligning finance flows with the Paris goals; **LDCs, the Arab Group and AILAC** oppose ⚠️ [2].
 - **Cosa cambia per una PMI che compila il VSME:** per ora nulla. Se approvato, aumenterebbe nel tempo la pressione su banche e investitori a raccogliere dati climatici dai clienti, PMI comprese.
 - **What changes for an SME filling in the VSME:** nothing for now. If approved, it would over time increase pressure on banks and investors to collect climate data from clients, SMEs included.
+
+### 5. Bozza della decisione finale: eliminare le misure commerciali unilaterali entro il 2027 / Draft final decision: phase out unilateral trade measures by 2027 — Rilevanza: Alta / High
+- **Cosa è successo:** **la Presidenza COP31**, nella bozza ufficiale del 16/11, chiede ai Paesi sviluppati di eliminare entro la fine del 2027 le misure commerciali unilaterali legate al clima (paragrafo 119); il CBAM non è nominato ✅ [14]. Il testo non è concordato e cambierà 🟡 [4][13].
+- **What happened:** **the COP31 Presidency**, in the official draft of 16/11, calls on developed countries to phase out unilateral climate-related trade measures by the end of 2027 (paragraph 119); CBAM is not named ✅ [14]. The text is not agreed and will change 🟡 [4][13].
+- **Cosa cambia per una PMI che compila il VSME:** oggi nulla. Le regole CBAM restano in vigore e una decisione COP non può abolirle; chi importa acciaio, alluminio, cemento o fertilizzanti deve continuare a raccogliere dai fornitori i dati sulle emissioni incorporate, utili anche per lo Scope 3.
+- **What changes for an SME filling in the VSME:** nothing today. CBAM rules remain in force and a COP decision cannot abolish them; SMEs importing steel, aluminium, cement or fertilisers must keep collecting embedded-emissions data from suppliers, which is also useful for Scope 3.

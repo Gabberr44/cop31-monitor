@@ -1,7 +1,7 @@
 # Ocean and nature day
 **When:** 17/11, all day · **Where:** blue zone and pavilions, Antalya EXPO Center · **Organiser:** COP31 Presidency and various organisers<br>
 **Speakers:** **Marine Lecerf** (Ocean and Climate Platform); **Joanna Post** (UNESCO Intergovernmental Oceanographic Commission); **Brianna Fruean** (Pacific youth climate envoy); **Hindou Oumarou Ibrahim** (UN Sustainable Development Goals Advocate); **Amy Duchelle** (FAO); **Roberto Chang López** (Vice Minister of Finance, Honduras)<br>
-🎥 Video not yet available
+🎥 Video not available (no official recording found as of 18/11/2026)
 
 ## At a glance
 The Turkish Presidency's thematic day was devoted to ocean, seas, nature and land use. The ocean features prominently in the first draft of the final decision, but it may not stay there ✅ [1].
