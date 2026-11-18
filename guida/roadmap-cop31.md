@@ -28,8 +28,8 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | — | dom 15/11 | "Un respiro ad Antalya" ✅ [7] | Sede chiusa | — |
 | [7](../giorno-07_2026-11-16/sintesi-giornata.md) | lun 16/11 | Scienza, industria e tecnologia ✅ [7] | Prima bozza della decisione finale; Patto di Antalya sull'IA 🟡 [11] | ✅ fatto |
 | [8](../giorno-08_2026-11-17/sintesi-giornata.md) | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Segmento di alto livello ripreso (17–18/11): dichiarazioni dei ministri, tra cui l'Italia ✅ [16]; l'UE chiede di cambiare la bozza 🟡 [17] | ✅ fatto |
-| 9 | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Fine delle dichiarazioni dei ministri ✅ [16]; la Presidenza dei negoziati raccoglie le reazioni alla bozza 🟡 [17] | 📍 siamo qui |
-| 10 | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Nuova bozza della decisione finale attesa entro venerdì 🟡 [17] | ⏳ atteso |
+| [9](../giorno-09_2026-11-18/sintesi-giornata.md) | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Fine delle dichiarazioni dei ministri ✅ [16]; "Divan" dei ministri sulla bozza e lancio del secondo Global Stocktake ✅ [18] | 📍 siamo qui |
+| 10 | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Nuove bozze della decisione finale e dei testi tecnici attese in mattinata ✅ [18] | ⏳ atteso |
 | 11 | ven 20/11 | Negoziati finali ✅ [7] | Plenaria di chiusura prevista; possibile sforamento ✅ [1] | ⏳ atteso |
 
 ## Dopo la COP
@@ -96,3 +96,6 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 
 17. **Reuters** (ripreso da Yahoo News) — [La COP31 deve guidare il passaggio a un'energia più pulita, dice il capo del clima UE](https://www.yahoo.com/news/science/articles/cop31-talks-must-drive-shift-103631104.html)<br>
     <sub>Tier B · pubblicato 17/11/2026 · consultato 18/11/2026 · pagina completa</sub>
+
+18. **UN News** (L. Quiñones) — [COP31: lo stallo continua mentre i Paesi lanciano una nuova "verifica di realtà" sul clima](https://news.un.org/en/story/2026/11/1168833)<br>
+    <sub>Tier A · pubblicato 18/11/2026 · consultato 18/11/2026 · pagina completa</sub>

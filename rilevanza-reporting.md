@@ -331,3 +331,25 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-08_2026-11-17/sintesi-gior
 - **What happened:** **the COP31 Presidency**, in the official draft of 16/11, calls on developed countries to phase out unilateral climate-related trade measures by the end of 2027 (paragraph 119); CBAM is not named ✅ [14]. The text is not agreed and will change 🟡 [4][13].
 - **Cosa cambia per una PMI che compila il VSME:** oggi nulla. Le regole CBAM restano in vigore e una decisione COP non può abolirle; chi importa acciaio, alluminio, cemento o fertilizzanti deve continuare a raccogliere dai fornitori i dati sulle emissioni incorporate, utili anche per lo Scope 3.
 - **What changes for an SME filling in the VSME:** nothing today. CBAM rules remain in force and a COP decision cannot abolish them; SMEs importing steel, aluminium, cement or fertilisers must keep collecting embedded-emissions data from suppliers, which is also useful for Scope 3.
+
+## 2026-11-18 — Giorno 9 / Day 9 _(🕘 versione serale provvisoria, 18/11/2026 22:50 ora italiana / provisional evening version, 18/11/2026 22:50 Italian time)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-09_2026-11-18/sintesi-giornata.md](giorno-09_2026-11-18/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 9 summary._
+
+### 1. Parte il secondo Global Stocktake / The second Global Stocktake begins — Rilevanza: Media / Medium
+- **Cosa è successo:** **Simon Stiell, segretario esecutivo UNFCCC**, ha lanciato il secondo Global Stocktake, che si chiude nel 2028 e orienterà gli NDC attesi nel 2030 ✅ [3][6].
+- **What happened:** **Simon Stiell, UNFCCC Executive Secretary**, launched the second Global Stocktake, which closes in 2028 and will shape the NDCs due in 2030 ✅ [3][6].
+- **Cosa cambia per una PMI che compila il VSME:** nulla subito. Nei prossimi anni gli obiettivi nazionali e UE potrebbero diventare più stringenti: una serie storica di emissioni nel B3 aiuta a dimostrare i progressi a clienti e banche.
+- **What changes for an SME filling in the VSME:** nothing immediately. National and EU targets may tighten in the coming years: a time series of B3 emissions helps show progress to customers and banks.
+
+### 2. Rimozioni di CO₂ nella bozza della decisione finale / CO₂ removals in the draft final decision — Rilevanza: Media / Medium
+- **Cosa è successo:** **la prima bozza della decisione finale** contiene un obiettivo di aumento delle rimozioni di CO₂; **l'UE** si oppone alla formulazione ⚠️ [7]. **Inger Andersen, direttrice UNEP**, ha avvertito che le rimozioni non possono sostituire l'uscita dai fossili ⚠️ [3].
+- **What happened:** **the first draft of the final decision** contains a goal to scale up CO₂ removals; **the EU** opposes the wording ⚠️ [7]. **Inger Andersen, UNEP Executive Director**, warned that removals cannot replace the transition away from fossil fuels ⚠️ [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Se l'impresa acquista crediti da rimozioni (per esempio forestali), li indica a parte e non li sottrae alle emissioni lorde del B3.
+- **What changes for an SME filling in the VSME:** no obligation. If the company buys removal credits (e.g. forestry), it reports them separately and does not net them against B3 gross emissions.
+
+### 3. Misure commerciali unilaterali anche nella guida al Fondo di adattamento / Unilateral trade measures also in the Adaptation Fund guidance — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Cina e Gruppo arabo** chiedono di riconoscere gli ostacoli creati dalle misure unilaterali (categoria in cui rientra il CBAM); **UE e Svizzera** si oppongono ⚠️ [2].
+- **What happened:** **China and the Arab Group** want to recognise barriers created by unilateral measures (a category that includes CBAM); **the EU and Switzerland** oppose ⚠️ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. Il CBAM resta in vigore: chi importa merci coperte continua a chiedere ai fornitori le emissioni incorporate.
+- **What changes for an SME filling in the VSME:** nothing. CBAM remains in force: importers of covered goods keep asking suppliers for embedded emissions.

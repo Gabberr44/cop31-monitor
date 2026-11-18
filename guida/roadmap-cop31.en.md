@@ -28,8 +28,8 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | — | Sun 15/11 | "A Breath in Antalya" ✅ [7] | Venue closed | — |
 | [7](../giorno-07_2026-11-16/sintesi-giornata.en.md) | Mon 16/11 | Science, Industry and Technology ✅ [7] | First draft of the final decision; Antalya AI Pledge 🟡 [11] | ✅ done |
 | [8](../giorno-08_2026-11-17/sintesi-giornata.en.md) | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Resumed high-level segment (17–18/11): ministers' statements, including Italy ✅ [16]; the EU asks for the draft to change 🟡 [17] | ✅ done |
-| 9 | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers' statements end ✅ [16]; the Presidency of Negotiations gathers reactions to the draft 🟡 [17] | 📍 we are here |
-| 10 | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | New draft of the final decision expected by Friday 🟡 [17] | ⏳ expected |
+| [9](../giorno-09_2026-11-18/sintesi-giornata.en.md) | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers' statements end ✅ [16]; ministers' "Divan" on the draft and launch of the second Global Stocktake ✅ [18] | 📍 we are here |
+| 10 | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | New drafts of the final decision and technical texts expected in the morning ✅ [18] | ⏳ expected |
 | 11 | Fri 20/11 | Final Negotiations ✅ [7] | Closing plenary scheduled; possible overrun ✅ [1] | ⏳ expected |
 
 ## After the COP
@@ -96,3 +96,6 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 
 17. **Reuters** (via Yahoo News) — [COP31 talks must drive shift to greener energy, EU climate chief says](https://www.yahoo.com/news/science/articles/cop31-talks-must-drive-shift-103631104.html)<br>
     <sub>Tier B · published 17/11/2026 · accessed 18/11/2026 · full page</sub>
+
+18. **UN News** (L. Quiñones) — [COP31 deadlock persists as countries launch new "climate reality check"](https://news.un.org/en/story/2026/11/1168833)<br>
+    <sub>Tier A · published 18/11/2026 · accessed 18/11/2026 · full page</sub>
