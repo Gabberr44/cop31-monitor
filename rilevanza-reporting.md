@@ -359,3 +359,31 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-09_2026-11-18/sintesi-gior
 - **What happened:** **UN News** counts 75 countries backing Türkiye's goal of raising electricity to 35% of final energy consumption by 2035 ✅ [6]. The ministers' Divan did not settle the issues and the new "slimmer" draft may change the paragraph 🟡 [11][12].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo diretto. Separare nel B3 i consumi tra combustibili ed elettricità (con quota rinnovabile) prepara l'impresa alle domande su elettrificazione di banche e clienti.
 - **What changes for an SME filling in the VSME:** no direct obligation. Splitting B3 consumption between fuels and electricity (with the renewable share) prepares the company for electrification questions from banks and customers.
+
+## 2026-11-19 — Giorno 10 / Day 10 _(🕘 versione serale provvisoria, 19/11/2026 22:55 ora italiana / provisional evening version)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-10_2026-11-19/sintesi-giornata.md](giorno-10_2026-11-19/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 10 summary._
+
+### 1. Seconda bozza: elettrificazione al 35% e CCUS, fossili fuori / Second draft: 35% electrification and CCUS, fossil fuels out — Rilevanza: Media / Medium
+- **Cosa è successo:** **la Presidenza COP31** ha pubblicato una bozza di 80 paragrafi che chiede il 35% di elettricità nei consumi finali entro il 2035 e accelera il CCUS, senza citare i combustibili fossili ✅ [2].
+- **What happened:** **the COP31 Presidency** published an 80-paragraph draft calling for 35% electricity in final consumption by 2035 and accelerating CCUS, without mentioning fossil fuels ✅ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Nel B3 conviene separare i consumi di combustibili da quelli di elettricità (con la quota rinnovabile): è il dato che banche e clienti chiederanno per misurare l'elettrificazione.
+- **What changes for an SME filling in the VSME:** no obligation. In B3 it pays to split fuel consumption from electricity (with the renewable share): banks and customers will ask for it to measure electrification.
+
+### 2. Misure commerciali: toni più morbidi sul CBAM / Trade measures: softer tone on CBAM — Rilevanza: Media / Medium
+- **Cosa è successo:** **la seconda bozza** ora "prende nota delle preoccupazioni" sulle misure con effetti transfrontalieri ✅ [2]; è sparito l'invito a eliminare le misure unilaterali entro il 2027 🟡 [3][8].
+- **What happened:** **the second draft** now "notes the concerns" about measures with cross-border effects ✅ [2]; the call to phase out unilateral measures by 2027 is gone 🟡 [3][8].
+- **Cosa cambia per una PMI che compila il VSME:** il CBAM resta pienamente in vigore. Chi importa acciaio, alluminio, cemento o fertilizzanti deve continuare a chiedere ai fornitori le emissioni incorporate, utili anche per lo Scope 3.
+- **What changes for an SME filling in the VSME:** CBAM stays fully in force. Importers of steel, aluminium, cement or fertilisers must keep asking suppliers for embedded emissions, also useful for Scope 3.
+
+### 3. Mercati del carbonio: regole dell'Art. 6.2 rinviate / Carbon markets: Art. 6.2 rules postponed — Rilevanza: Media / Medium
+- **Cosa è successo:** **la bozza** riconosce i "mercati internazionali del carbonio ad alta integrità" ✅ [2]; **le Parti** rinviano al 2027 le commissioni del registro dell'Art. 6.2 ⚠️ [4].
+- **What happened:** **the draft** recognises "high-integrity international carbon markets" ✅ [2]; **Parties** postpone Art. 6.2 registry fees to 2027 ⚠️ [4].
+- **Cosa cambia per una PMI che compila il VSME:** nulla subito. Chi compra crediti di carbonio li riporta a parte e non li sottrae alle emissioni lorde del B3; meglio scegliere crediti con standard e registro verificabili.
+- **What changes for an SME filling in the VSME:** nothing immediately. Credit buyers report them separately and do not net them against B3 gross emissions; prefer credits with verifiable standards and registries.
+
+### 4. Trasparenza: rapporti biennali entro il 31/12/2026 / Transparency: biennial reports due 31/12/2026 — Rilevanza: Bassa / Low
+- **Cosa è successo:** **la bozza** invita tutte le Parti a presentare in tempo i rapporti biennali di trasparenza dovuti entro il 31/12/2026 ✅ [2].
+- **What happened:** **the draft** invites all Parties to submit on time the biennial transparency reports due by 31/12/2026 ✅ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo diretto. Gli inventari nazionali usano fattori di emissione aggiornati: conviene controllare ogni anno i fattori ISPRA usati nel B3.
+- **What changes for an SME filling in the VSME:** no direct obligation. National inventories use updated emission factors: check yearly the ISPRA factors used in B3.
