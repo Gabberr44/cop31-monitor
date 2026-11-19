@@ -332,7 +332,7 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-08_2026-11-17/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** oggi nulla. Le regole CBAM restano in vigore e una decisione COP non può abolirle; chi importa acciaio, alluminio, cemento o fertilizzanti deve continuare a raccogliere dai fornitori i dati sulle emissioni incorporate, utili anche per lo Scope 3.
 - **What changes for an SME filling in the VSME:** nothing today. CBAM rules remain in force and a COP decision cannot abolish them; SMEs importing steel, aluminium, cement or fertilisers must keep collecting embedded-emissions data from suppliers, which is also useful for Scope 3.
 
-## 2026-11-18 — Giorno 9 / Day 9 _(🕘 versione serale provvisoria, 18/11/2026 22:50 ora italiana / provisional evening version, 18/11/2026 22:50 Italian time)_
+## 2026-11-18 — Giorno 9 / Day 9 _(✅ versione finale, 19/11/2026 10:05 ora italiana / final version, 19/11/2026 10:05 Italian time)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-09_2026-11-18/sintesi-giornata.md](giorno-09_2026-11-18/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 9 summary._
 
@@ -353,3 +353,9 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-09_2026-11-18/sintesi-gior
 - **What happened:** **China and the Arab Group** want to recognise barriers created by unilateral measures (a category that includes CBAM); **the EU and Switzerland** oppose ⚠️ [2].
 - **Cosa cambia per una PMI che compila il VSME:** nulla. Il CBAM resta in vigore: chi importa merci coperte continua a chiedere ai fornitori le emissioni incorporate.
 - **What changes for an SME filling in the VSME:** nothing. CBAM remains in force: importers of covered goods keep asking suppliers for embedded emissions.
+
+### 4. Elettrificazione "35x35": 75 Paesi a favore, testo ancora aperto / "35x35" electrification: 75 countries in favour, text still open — Rilevanza: Media / Medium
+- **Cosa è successo:** **UN News** conta 75 Paesi a sostegno dell'obiettivo turco di portare l'elettricità al 35% dei consumi finali di energia entro il 2035 ✅ [6]. Il Divan dei ministri non ha chiuso i nodi e la nuova bozza "più snella" può cambiare il paragrafo 🟡 [11][12].
+- **What happened:** **UN News** counts 75 countries backing Türkiye's goal of raising electricity to 35% of final energy consumption by 2035 ✅ [6]. The ministers' Divan did not settle the issues and the new "slimmer" draft may change the paragraph 🟡 [11][12].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo diretto. Separare nel B3 i consumi tra combustibili ed elettricità (con quota rinnovabile) prepara l'impresa alle domande su elettrificazione di banche e clienti.
+- **What changes for an SME filling in the VSME:** no direct obligation. Splitting B3 consumption between fuels and electricity (with the renewable share) prepares the company for electrification questions from banks and customers.

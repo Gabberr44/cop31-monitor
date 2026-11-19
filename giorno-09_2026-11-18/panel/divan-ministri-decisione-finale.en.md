@@ -4,7 +4,7 @@
 🎥 No video expected (closed-door meeting)
 
 ## At a glance
-Ministers openly discussed the draft final ("cover") decision, the political text that closes the COP. The new draft, expected on Thursday morning, will show how much of the first version survives.
+Ministers openly discussed the draft final ("cover") decision, the political text that closes the COP, but without a clear breakthrough 🟡 [5][6]. The new, "slimmer" draft, expected on Thursday morning, will show how much of the first version survives.
 
 ## Key points
 - **Murat Kurum, COP31 President**, chaired the "Divan", a closed-door political exchange among ministers ✅ [1][3]. The aim was to find common ground for a "balanced package" ⚠️ according to Climate Home [1].
@@ -12,10 +12,12 @@ Ministers openly discussed the draft final ("cover") decision, the political tex
 - **The COP31 Presidency** still counts 21 unresolved issues on adaptation, finance, mitigation and just transition ✅ [3].
 - **The Arab Group and Russia** reject the current draft ⚠️ according to Climate Home [1].
 - **Monique Barbut, French Minister for Ecological Transition**, said the meeting may not have advanced the negotiations but helped countries understand each other ⚠️ according to AFP [2].
+- **Climate Home News** reports that the Divan made little concrete progress; according to experts at the **World Resources Institute (WRI)** many ministers were frustrated by the lack of guidance from the two Presidencies ⚠️ [5].
+- **Adão Soares Barbosa, chair of the Least Developed Countries (LDC) group**, called the discussion "constructive" ⚠️ according to Climate Home [5]. **Darragh O'Brien, Irish minister for the rotating EU Presidency**, asked for a "slimmer and focused" text ⚠️ according to AFP [6].
 - **Li Gao, head of China's delegation**, acknowledged ministers' "great efforts" towards a deal ⚠️ according to AFP [2].
 
 ## Announcements and numbers
-- **The Australian Presidency of Negotiations** is expected to publish the new draft on Thursday morning 🟡 [2][3].
+- **The Australian Presidency of Negotiations** is expected to publish the new draft on Thursday morning 🟡 [5][6].
 - **The official draft of 16/11** remains the basis: 144 paragraphs, with 35% electrification by 2035 and a call to phase out "unilateral" trade measures by 2027 ✅ [4].
 
 ## Quotes
@@ -37,3 +39,9 @@ Ministers openly discussed the draft final ("cover") decision, the political tex
 
 4. **UNFCCC – COP31 Presidency** — [Draft text of the final ("cover") decision, unedited version of 16/11/2026 (PDF)](https://unfccc.int/sites/default/files/resource/dt_cop31_cover_decision.pdf)<br>
    <sub>Tier A · published 16/11/2026 · accessed 18/11/2026 · full document</sub>
+
+5. **Climate Home News** (M. Rowling) — [COP31 Bulletin Day 10: Ministers' exchange makes little clear progress](https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/)<br>
+   <sub>Tier B · published 19/11/2026 · accessed 19/11/2026 · page partly paywalled</sub>
+
+6. **AFP** (via France 24) — [At COP31, ministers try to unblock talks to adopt a final text](https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-ministres-tentent-debloquer-climat-negociations-adopter-texte-final-environnement-onu-turquie-antalya)<br>
+   <sub>Tier B · published 19/11/2026 · accessed 19/11/2026 · full page (same agency as source 2)</sub>
