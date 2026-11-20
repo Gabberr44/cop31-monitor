@@ -1,5 +1,5 @@
 # COP31 Roadmap — before, during and after Antalya
-Created on 16/11/2026 at 23:55 · status last updated: 16/11/2026 at 23:55 (Italian time)<br>
+Created on 16/11/2026 at 23:55 · status last updated: 20/11/2026 at 09:50 (Italian time)<br>
 Versione italiana: [roadmap-cop31.md](roadmap-cop31.md) · Guide: [come-funziona-la-cop.en.md](come-funziona-la-cop.en.md)
 
 Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
@@ -29,8 +29,8 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [7](../giorno-07_2026-11-16/sintesi-giornata.en.md) | Mon 16/11 | Science, Industry and Technology ✅ [7] | First draft of the final decision; Antalya AI Pledge 🟡 [11] | ✅ done |
 | [8](../giorno-08_2026-11-17/sintesi-giornata.en.md) | Tue 17/11 | Ocean, Seas, Nature and Land Use ✅ [7] | Resumed high-level segment (17–18/11): ministers' statements, including Italy ✅ [16]; the EU asks for the draft to change 🟡 [17] | ✅ done |
 | [9](../giorno-09_2026-11-18/sintesi-giornata.en.md) | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers' statements end ✅ [16]; ministers' "Divan" on the draft and launch of the second Global Stocktake ✅ [18] | ✅ done |
-| [10](../giorno-10_2026-11-19/sintesi-giornata.en.md) | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | Second draft of the final decision published (80 paragraphs, no fossil-fuel reference) | 📍 we are here |
-| 11 | Fri 20/11 | Final Negotiations ✅ [7] | Closing plenary scheduled; possible overrun ✅ [1] | ⏳ expected |
+| [10](../giorno-10_2026-11-19/sintesi-giornata.en.md) | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | Second draft of the final decision published (80 paragraphs, no fossil-fuel reference) | ✅ done |
+| 11 | Fri 20/11 | Final Negotiations ✅ [7] | Closing plenary scheduled; possible overrun ✅ [1] | 📍 we are here |
 
 ## After the COP
 | Date | Milestone | Source |

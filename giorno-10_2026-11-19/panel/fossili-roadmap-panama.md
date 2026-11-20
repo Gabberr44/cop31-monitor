@@ -1,13 +1,14 @@
 # Fossili: roadmap nazionali e lettera di Panama
 **Quando:** 19/11, intera giornata · **Dove:** Antalya EXPO Center (padiglione UE-Irlanda e sale negoziali) · **Organizza:** vari (Panama, Unione Europea, Irlanda, Svizzera)<br>
 **Relatori:** **Juan Carlos Navarro** (ministro dell'Ambiente di Panama); **Monique Barbut** (ministra francese della Transizione ecologica)<br>
-🎥 Video non ancora disponibile
+🎥 Video non ancora disponibile (ricontrollato il 20/11 mattina)
 
 ## In breve
 Mentre i combustibili fossili spariscono dalla bozza della decisione finale ✅ [2], cresce il numero di Paesi che pubblicano roadmap nazionali di uscita ⚠️ [1]. Conta perché l'uscita dai fossili si sposta dai testi ONU alle politiche nazionali.
 
 ## Punti chiave
 - **Il governo di Panama** ha scritto alla Presidenza che bloccherà ogni testo senza un tetto alla produzione mondiale di petrolio 🟡 [3][4]. **Juan Carlos Navarro, ministro dell'Ambiente**, aveva già denunciato la "mafia del petrolio" 🟡 [4][5].
+- **La lettera di Panama** è indirizzata a **Murat Kurum**, **Chris Bowen**, **Simon Stiell (segretario esecutivo UNFCCC)** e al gruppo AILAC (Associazione indipendente dell'America Latina e dei Caraibi) ⚠️ secondo Carbon Brief [7]. Le otto richieste includono il tetto al petrolio ai livelli attuali, il voto a maggioranza semplice se manca il consenso ed elettrificazione da fonti rinnovabili ⚠️ [7].
 - **Sei Paesi europei** hanno pubblicato la propria roadmap di uscita dai fossili; **altri 21 Paesi**, tra cui Stati del Pacifico e Brasile, hanno annunciato che lo faranno ⚠️ secondo ENB [1].
 - **Pochi Paesi** bloccano ogni riferimento alle roadmap nella decisione finale ⚠️ secondo ENB [1]. **Gruppo arabo, Russia e LMDC (i Paesi in via di sviluppo "like-minded")** si oppongono a impegni sull'uscita dai fossili 🟡 [6].
 - **Monique Barbut, ministra francese della Transizione ecologica**, ha detto che la Francia spingerà per un'elettrificazione coperta da rinnovabili e nucleare ⚠️ secondo AFP [3].
@@ -35,3 +36,6 @@ Mentre i combustibili fossili spariscono dalla bozza della decisione finale ✅ 
 
 6. **ANSA** (S. Secondino) — [Cop31: nella bozza sì all'elettrificazione, ma niente sulle fonti fossili](https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html)<br>
    <sub>Tier B · pubblicato 19/11/2026 · consultato 19/11/2026 · pagina completa</sub>
+
+7. **Carbon Brief** (J. Gabbatiss) — [Panama "obietterà formalmente" all'esito della COP31 senza tetto al petrolio, finanza ed elettrificazione "rinnovabile"](https://connect.carbonbrief.org/t/panama-will-formally-object-to-cop31-outcome-without-oil-cap-finance-renewable-electrification/189)<br>
+   <sub>Tier B · pubblicato 19/11/2026 · consultato 20/11/2026 · pagina completa</sub>

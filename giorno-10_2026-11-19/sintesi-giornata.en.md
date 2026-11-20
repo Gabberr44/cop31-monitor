@@ -1,5 +1,5 @@
 # COP31 — Day 10 · Thursday 19 November 2026
-🕘 Provisional evening version — will be consolidated tomorrow morning at 09:30 (Italian time)<br>
+✅ Final version — consolidated on 20/11/2026 at 09:50 (Italian time)<br>
 First evening draft: 19/11/2026 at 22:55 (Italian time).
 
 Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "İmece: Enhancing Implementation" ✅ [1][14]. "İmece" is the Turkish word for a community's collective work.
@@ -15,18 +15,22 @@ Theme of the day chosen by the **COP31 Presidency (Türkiye)**: "İmece: Enhanci
 3. **The second draft** calls for raising electricity to 35% of final energy consumption by 2035, alongside tripling renewables and doubling energy efficiency by 2030 ✅ [2]. Today the share is about 23% 🟡 [5][11]. The same paragraph proposes accelerating CCUS, with a still-bracketed target of at least 500 million tonnes of CO₂ a year by 2035 ✅ [2].
 4. **The second draft** drops the USD 120 billion a year adaptation figure sought by developing countries 🟡 [5][6]. It postpones to CMA 9 (the 2027 meeting of the Paris Agreement Parties) the baseline for tripling adaptation finance by 2035 ✅ [2]. It launches the "Antalya-to-Addis Ababa Roadmap" on adaptation and resilience finance ✅ [2].
 5. **Mohamed Adow, director of the think tank Power Shift Africa**, said: "This new text has gone backwards" from the one released earlier in the week 🟡 [5][6]. **The government of Panama**, in a letter to the Presidency, threatens to block any text without a cap on global oil production 🟡 [6][10].
-6. **Chris Bowen, Australian Climate Minister and President of Negotiations**, announced consultations with every group in the afternoon and through the night 🟡 [6][8]. **Murat Kurum, COP31 President**, said "this is not the final text" ⚠️ according to Carbon Brief [8].
+6. **Chris Bowen, Australian Climate Minister and President of Negotiations**, announced consultations with every group in the afternoon and through the night 🟡 [6][8]. **Murat Kurum, COP31 President**, said "this is not the final text" ⚠️ according to Carbon Brief [8]. **Bowen** added that consultations will continue "until it is very clear" there is consensus ⚠️ according to AFP [18].
 7. **Fatma Varank, COP31 Chief Executive**, presented Türkiye's six voluntary goals at the high-level event on Global Climate Action (14:00–16:00 Antalya, 12:00–14:00 Italian time ✅ [15]) ⚠️ according to ENB [4]. **David Higgins, of the Presidency of Negotiations**, presented an Australia–Republic of Korea agreement to unlock USD 1 trillion for decarbonisation ⚠️ according to ENB [4].
 8. **The International Energy Agency (IEA)**, in its World Energy Outlook, counts 25 countries, mostly in Asia, with new electrification policies since the Hormuz crisis ⚠️ according to Climate Home [13].
 
-🎥 Video: no official recording found tonight for the Global Climate Action event or for press conferences on 19/11 (to be re-checked tomorrow morning).
+9. **The COP31 Presidency** circulated a new text on the climate finance work programme: 2 pages instead of 11 ⚠️ according to Carbon Brief [16]. The whole text is in square brackets, so "no text" remains possible ⚠️ [16]. "Burden sharing" among developed countries and widening the contributor base to emerging economies are gone ⚠️ [16].
+10. **Monique Barbut, French Minister for Ecological Transition**, called the omission of fossil fuels "a black mark": "We are going to fight for clean electrification" ⚠️ according to AFP [18]. **Ralph Regenvanu, Vanuatu's Climate Minister**, objects to the CCUS paragraph ⚠️ according to AFP [18].
+11. **Panama's letter**, signed by Environment Minister **Juan Carlos Navarro**, is addressed to **Kurum**, **Bowen**, **Simon Stiell (UNFCCC Executive Secretary)** and the Latin American group AILAC ⚠️ according to Carbon Brief [17]. It contains eight demands, including a cap on oil production at current levels and simple-majority voting when consensus fails ⚠️ [17].
+
+🎥 Video: re-checked on the morning of 20/11 on UN Web TV and UNFCCC channels; no official recording found for the Global Climate Action event or for the 19/11 press conferences.
 
 ## Negotiations: where we stand
 | Theme | What moved | What is blocked | Texts released |
 |---|---|---|---|
 | Final decision ("cover decision") | Second draft, 80 paragraphs ✅ [2]; overnight consultations by **Bowen** 🟡 [6][8] | **Panama** threatens a formal objection 🟡 [6][10]; **EU** opposes CCUS in the text ⚠️ [10] | Draft of 19/11, 14:10 ✅ [2] |
 | NDCs (national emission-reduction plans) / mitigation | The draft counts 167 Parties with new NDCs as at 18/11 ✅ [2] | Text on the annual Global Stocktake dialogue: **Norway** rejects weaker wording; heading for a procedural decision ⚠️ [4] | Procedural draft in preparation ⚠️ [4] |
-| Finance | The draft cites developing-country needs of USD 455–584 billion a year ✅ [2] | USD 120 billion adaptation figure removed 🟡 [5][6] | Standing Committee on Finance texts "clean", forwarded to the Presidency ⚠️ [4] |
+| Finance | The draft cites developing-country needs of USD 455–584 billion a year ✅ [2]; finance work programme: plan for 2027–2028 ⚠️ [16] | USD 120 billion adaptation figure removed 🟡 [5][6]; work programme text fully bracketed ⚠️ [16] | Standing Committee on Finance texts "clean", forwarded to the Presidency ⚠️ [4]; Presidency proposal on the work programme (2 pages) ⚠️ [16] |
 | Article 6 (carbon markets) | The draft recognises the role of "high-integrity international carbon markets" ✅ [2] | Fees for the Art. 6.2 registry: more information needed, likely deferral to 2027 ⚠️ [4]; non-market approaches (Art. 6.8) sent to the SB66 session of the subsidiary bodies (June 2027) ⚠️ [4] | "Light-touch" revision of the 6.2 text ⚠️ [4] |
 | Adaptation / GGA (Global Goal on Adaptation) | Antalya-to-Addis Ababa finance roadmap ✅ [2] | National adaptation plans (NAPs): no agreement, deferred to SB66 (June 2027) ⚠️ [4] | Informal note forwarded to SB66 ⚠️ [4] |
 | Trade / unilateral measures | The draft now only "notes the concerns" ✅ [2] | The call to phase out unilateral measures by 2027 is gone 🟡 [3][8] | Paragraphs 61–65 ✅ [2] |
@@ -52,7 +56,7 @@ _VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and
 |---|---|---|
 | Thursday–Friday night | **Chris Bowen** continues consultations with all negotiating groups 🟡 | [6][8] |
 | Friday 20 | Theme of the day: "Final Negotiations" ✅ | [1] |
-| Friday 20 (time tbc) | COP/CMP/CMA closing plenaries (the meetings of the Parties to the Convention, the Kyoto Protocol and the Paris Agreement); likely third draft and overrun to Saturday 🟡 | [5][9][14] |
+| Friday 20, morning and afternoon (times tbc) | COP/CMP/CMA closing plenaries (the meetings of the Parties to the Convention, the Kyoto Protocol and the Paris Agreement) scheduled ✅ [14]; likely third draft and overrun into the weekend 🟡 [5][6][18] | [5][6][14][18] |
 
 - **The main sticking point** remains the fossil-fuel wording, together with adaptation finance and CCUS 🟡 [6][10].
 - **Panama** has announced it will formally object in plenary if the text does not change 🟡 [10][12].
@@ -61,13 +65,14 @@ _VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and
 | Tier | No. of sources |
 |---|---|
 | A (official) | 5 |
-| B (specialised journalism or wires) | 9 |
+| B (specialised journalism or wires) | 12 |
 | C (other) | 1 |
 
 - **Sites not readable:** Climate Home articles largely behind a paywall; UNFCCC web pages (empty for automated readers, PDFs used); The Guardian and Politico Europe not reachable by the search tool.
-- **Claims kept ⚠️:** Global Climate Action event and technical negotiations (ENB only); Kurum quote (Carbon Brief only); IEA report (Climate Home only); EU position on CCUS (Il Sole 24 Ore only).
+- **Claims kept ⚠️:** Global Climate Action event and technical negotiations (ENB only); Kurum quote (Carbon Brief only); IEA report (Climate Home only); EU position on CCUS (Il Sole 24 Ore only); finance work programme text and details of Panama's letter (Carbon Brief only; the UNFCCC PDF of the finance text returns a 404 error); statements by Barbut, Regenvanu and Bowen's 20/11 remark (AFP only).
 - **Closing plenaries, part I:** no source confirms they took place on Thursday; ENB notes the absence of a stocktaking plenary [4].
-- **Video:** no official recording found tonight.
+- **Video:** no official recording found, neither on the evening of 19/11 nor at the 20/11 consolidation.
+- **20/11 consolidation:** no new ENB bulletin after no. 911; no new draft of the final decision found in the sources consulted.
 
 ## Sources
 
@@ -115,3 +120,12 @@ _VSME is EFRAG's voluntary sustainability reporting standard for SMEs (small and
 
 15. **UNFCCC** — [Global Climate Action at COP31: high-level event on 19/11, 14:00–16:00, Plenary Hall 2](https://unfccc.int/node/660518)<br>
     <sub>Tier A · date n/a · accessed 19/11/2026 · search results only</sub>
+
+16. **Carbon Brief** (J. Gabbatiss) — [NEW: Slimmed-down climate finance text lands, with most substance gone](https://connect.carbonbrief.org/t/new-slimmed-down-climate-finance-text-lands-with-most-substance-gone/192)<br>
+    <sub>Tier B · published 19/11/2026 · accessed 20/11/2026 · full page</sub>
+
+17. **Carbon Brief** (J. Gabbatiss) — [Panama will "formally object to" COP31 outcome – without oil cap, finance, "renewable" electrification](https://connect.carbonbrief.org/t/panama-will-formally-object-to-cop31-outcome-without-oil-cap-finance-renewable-electrification/189)<br>
+    <sub>Tier B · published 19/11/2026 · accessed 20/11/2026 · full page</sub>
+
+18. **AFP** (via France 24) — [UN climate talks enter crunch time with no deal in sight](https://www.france24.com/en/live-news/20261120-un-climate-talks-enter-crunch-time-with-no-deal-in-sight)<br>
+    <sub>Tier B · published 20/11/2026 at 03:04 · accessed 20/11/2026 · full page</sub>

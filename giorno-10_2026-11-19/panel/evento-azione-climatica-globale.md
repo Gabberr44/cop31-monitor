@@ -1,7 +1,7 @@
 # Evento di alto livello sull'Azione climatica globale
 **Quando:** 19/11, 14:00–16:00 Antalya (12:00–14:00 ora italiana) · **Dove:** Plenary Hall 2, Antalya EXPO Center · **Organizza:** Presidenze COP30 (Brasile) e COP31 (Türkiye e Australia), UNFCCC<br>
 **Relatori:** **Fatma Varank** (amministratrice delegata COP31); **Simon Stiell** (segretario esecutivo UNFCCC); **Ana Toni** (amministratrice delegata COP30); **David Higgins** (Presidenza dei negoziati COP31); **Rikki Dank** (Gudanji For Country)<br>
-🎥 Video non ancora disponibile
+🎥 Video non ancora disponibile (ricontrollato il 20/11 mattina)
 
 ## In breve
 È l'evento ufficiale previsto dalle decisioni COP per fare il punto sull'Agenda d'azione: le iniziative volontarie di imprese, città e coalizioni, fuori dai negoziati ✅ [2] ⚠️ [1]. Conta perché è qui che vivono gli obiettivi volontari, come il "35x35", che poi entrano nei testi negoziali.

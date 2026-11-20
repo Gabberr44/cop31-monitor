@@ -1,7 +1,7 @@
 # High-level event on Global Climate Action
 **When:** 19/11, 14:00–16:00 Antalya (12:00–14:00 Italian time) · **Where:** Plenary Hall 2, Antalya EXPO Center · **Organiser:** COP30 (Brazil) and COP31 (Türkiye and Australia) Presidencies, UNFCCC<br>
 **Speakers:** **Fatma Varank** (COP31 Chief Executive); **Simon Stiell** (UNFCCC Executive Secretary); **Ana Toni** (COP30 Chief Executive); **David Higgins** (COP31 Presidency of Negotiations); **Rikki Dank** (Gudanji For Country)<br>
-🎥 Video not yet available
+🎥 Video not yet available (re-checked on the morning of 20/11)
 
 ## In brief
 This is the official event mandated by COP decisions to take stock of the Action Agenda: voluntary initiatives by businesses, cities and coalitions, outside the negotiations ✅ [2] ⚠️ [1]. It matters because voluntary goals such as "35x35" start here and then enter the negotiating texts.

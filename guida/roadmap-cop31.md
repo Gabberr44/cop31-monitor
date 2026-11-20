@@ -1,5 +1,5 @@
 # Roadmap COP31 — prima, durante e dopo Antalya
-Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 16/11/2026 alle 23:55 (ora italiana)<br>
+Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 20/11/2026 alle 09:50 (ora italiana)<br>
 English version: [roadmap-cop31.en.md](roadmap-cop31.en.md) · Guida: [come-funziona-la-cop.md](come-funziona-la-cop.md)
 
 Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
@@ -29,8 +29,8 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | [7](../giorno-07_2026-11-16/sintesi-giornata.md) | lun 16/11 | Scienza, industria e tecnologia ✅ [7] | Prima bozza della decisione finale; Patto di Antalya sull'IA 🟡 [11] | ✅ fatto |
 | [8](../giorno-08_2026-11-17/sintesi-giornata.md) | mar 17/11 | Oceano, mari, natura e uso del suolo ✅ [7] | Segmento di alto livello ripreso (17–18/11): dichiarazioni dei ministri, tra cui l'Italia ✅ [16]; l'UE chiede di cambiare la bozza 🟡 [17] | ✅ fatto |
 | [9](../giorno-09_2026-11-18/sintesi-giornata.md) | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Fine delle dichiarazioni dei ministri ✅ [16]; "Divan" dei ministri sulla bozza e lancio del secondo Global Stocktake ✅ [18] | ✅ fatto |
-| [10](../giorno-10_2026-11-19/sintesi-giornata.md) | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Pubblicata la seconda bozza della decisione finale (80 paragrafi, senza riferimenti ai fossili) | 📍 siamo qui |
-| 11 | ven 20/11 | Negoziati finali ✅ [7] | Plenaria di chiusura prevista; possibile sforamento ✅ [1] | ⏳ atteso |
+| [10](../giorno-10_2026-11-19/sintesi-giornata.md) | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Pubblicata la seconda bozza della decisione finale (80 paragrafi, senza riferimenti ai fossili) | ✅ fatto |
+| 11 | ven 20/11 | Negoziati finali ✅ [7] | Plenaria di chiusura prevista; possibile sforamento ✅ [1] | 📍 siamo qui |
 
 ## Dopo la COP
 | Data | Tappa | Fonte |

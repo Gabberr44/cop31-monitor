@@ -1,5 +1,5 @@
 # COP31 — Giorno 10 · giovedì 19 novembre 2026
-🕘 Versione serale provvisoria — verrà consolidata domattina alle 09:30 (ora italiana)<br>
+✅ Versione finale — consolidata il 20/11/2026 alle 09:50 (ora italiana)<br>
 Prima stesura serale: 19/11/2026 alle 22:55 (ora italiana).
 
 Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "İmece: rafforzare l'attuazione" ✅ [1][14]. "İmece" è la parola turca per il lavoro collettivo di una comunità.
@@ -15,18 +15,22 @@ Tema del giorno scelto dalla **Presidenza COP31 (Türkiye)**: "İmece: rafforzar
 3. **La seconda bozza** chiede di portare l'elettricità al 35% dei consumi finali di energia entro il 2035, accanto al triplicare le rinnovabili e raddoppiare l'efficienza energetica entro il 2030 ✅ [2]. Oggi la quota è circa il 23% 🟡 [5][11]. Lo stesso paragrafo propone di accelerare il CCUS, con un obiettivo ancora tra parentesi di almeno 500 milioni di tonnellate di CO₂ l'anno al 2035 ✅ [2].
 4. **La seconda bozza** toglie la cifra di 120 miliardi di dollari l'anno per l'adattamento chiesta dai Paesi in via di sviluppo 🟡 [5][6]. Rinvia alla CMA 9 (l'assemblea delle Parti dell'Accordo di Parigi del 2027) la base di calcolo per triplicare la finanza per l'adattamento entro il 2035 ✅ [2]. Lancia la "Roadmap Antalya–Addis Abeba" sulla finanza per adattamento e resilienza ✅ [2].
 5. **Mohamed Adow, direttore del centro studi Power Shift Africa**, ha detto: "Questo nuovo testo è tornato indietro" rispetto a quello di inizio settimana 🟡 [5][6]. **Il governo di Panama**, in una lettera alla Presidenza, minaccia di bloccare ogni testo senza un tetto alla produzione mondiale di petrolio 🟡 [6][10].
-6. **Chris Bowen, ministro australiano del Clima e Presidente dei negoziati**, ha annunciato consultazioni con ogni gruppo nel pomeriggio e per tutta la notte 🟡 [6][8]. **Murat Kurum, Presidente della COP31**, ha detto che "non è il testo finale" ⚠️ secondo Carbon Brief [8].
+6. **Chris Bowen, ministro australiano del Clima e Presidente dei negoziati**, ha annunciato consultazioni con ogni gruppo nel pomeriggio e per tutta la notte 🟡 [6][8]. **Murat Kurum, Presidente della COP31**, ha detto che "non è il testo finale" ⚠️ secondo Carbon Brief [8]. **Bowen** ha aggiunto che le consultazioni andranno avanti "finché non sarà molto chiaro" che c'è consenso ⚠️ secondo AFP [18].
 7. **Fatma Varank, amministratrice delegata della COP31**, ha presentato all'evento di alto livello sull'Azione climatica globale (14:00–16:00 Antalya, 12:00–14:00 ora italiana ✅ [15]) i sei obiettivi volontari turchi ⚠️ secondo ENB [4]. **David Higgins, della Presidenza dei negoziati**, ha presentato un accordo Australia–Corea del Sud per sbloccare 1.000 miliardi di dollari per la decarbonizzazione ⚠️ secondo ENB [4].
 8. **L'Agenzia internazionale dell'energia (IEA)**, nel World Energy Outlook, conta 25 Paesi, soprattutto asiatici, con nuove politiche di elettrificazione dopo la crisi di Hormuz ⚠️ secondo Climate Home [13].
 
-🎥 Video: nessuna registrazione ufficiale trovata stasera per l'evento sull'Azione climatica globale o per conferenze stampa del 19/11 (da ricontrollare domattina).
+9. **La Presidenza della COP31** ha fatto circolare un nuovo testo sul programma di lavoro sulla finanza climatica: 2 pagine invece di 11 ⚠️ secondo Carbon Brief [16]. Il testo è tutto tra parentesi quadre, quindi resta possibile anche "nessun testo" ⚠️ [16]. Spariscono la "ripartizione degli oneri" tra Paesi sviluppati e l'allargamento dei contributori alle economie emergenti ⚠️ [16].
+10. **Monique Barbut, ministra francese della Transizione ecologica**, ha definito l'assenza dei fossili "una macchia nera": "Ci batteremo per un'elettrificazione pulita" ⚠️ secondo AFP [18]. **Ralph Regenvanu, ministro del Clima di Vanuatu**, contesta il paragrafo sul CCUS ⚠️ secondo AFP [18].
+11. **La lettera di Panama**, firmata dal ministro dell'Ambiente **Juan Carlos Navarro**, è indirizzata a **Kurum**, **Bowen**, **Simon Stiell (segretario esecutivo UNFCCC)** e al gruppo latinoamericano AILAC ⚠️ secondo Carbon Brief [17]. Contiene otto richieste: tra queste, un tetto alla produzione di petrolio ai livelli attuali e il voto a maggioranza semplice se manca il consenso ⚠️ [17].
+
+🎥 Video: ricontrollato il 20/11 mattina su UN Web TV e canali UNFCCC; nessuna registrazione ufficiale trovata per l'evento sull'Azione climatica globale o per le conferenze stampa del 19/11.
 
 ## Negoziati: a che punto siamo
 | Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
 |---|---|---|---|
 | Decisione finale ("cover decision") | Seconda bozza, 80 paragrafi ✅ [2]; consultazioni notturne di **Bowen** 🟡 [6][8] | **Panama** minaccia l'obiezione formale 🟡 [6][10]; **UE** contraria al CCUS nel testo ⚠️ [10] | Bozza del 19/11, ore 14:10 ✅ [2] |
 | NDC (i piani nazionali di riduzione) / mitigazione | La bozza conta 167 Parti con nuovi NDC al 18/11 ✅ [2] | Testo sul dialogo annuale del Global Stocktake: **Norvegia** contraria a formule più deboli; si va verso una decisione procedurale ⚠️ [4] | Bozza procedurale in preparazione ⚠️ [4] |
-| Finanza | La bozza cita fabbisogni dei Paesi in via di sviluppo di 455–584 miliardi di dollari l'anno ✅ [2] | Via la cifra di 120 miliardi per l'adattamento 🟡 [5][6] | Testi del Comitato permanente sulla finanza "puliti", inviati alla Presidenza ⚠️ [4] |
+| Finanza | La bozza cita fabbisogni dei Paesi in via di sviluppo di 455–584 miliardi di dollari l'anno ✅ [2]; programma di lavoro sulla finanza: piano per il 2027–2028 ⚠️ [16] | Via la cifra di 120 miliardi per l'adattamento 🟡 [5][6]; testo sul programma di lavoro tutto tra parentesi ⚠️ [16] | Testi del Comitato permanente sulla finanza "puliti", inviati alla Presidenza ⚠️ [4]; proposta della Presidenza sul programma di lavoro (2 pagine) ⚠️ [16] |
 | Articolo 6 (mercati del carbonio) | La bozza riconosce il ruolo dei "mercati internazionali del carbonio ad alta integrità" ✅ [2] | Commissioni per il registro dell'Art. 6.2: servono altre informazioni, rinvio probabile al 2027 ⚠️ [4]; approcci non di mercato (Art. 6.8) rinviati alla sessione SB66 degli organi sussidiari (giugno 2027) ⚠️ [4] | Revisione "leggera" del testo 6.2 ⚠️ [4] |
 | Adattamento / GGA (obiettivo globale sull'adattamento) | Roadmap Antalya–Addis Abeba sulla finanza ✅ [2] | Piani nazionali di adattamento (NAP): nessun accordo, rinvio alla SB66 (giugno 2027) ⚠️ [4] | Nota informale inviata alla SB66 ⚠️ [4] |
 | Commercio / misure unilaterali | La bozza ora solo "prende nota delle preoccupazioni" ✅ [2] | Sparito l'invito a eliminare le misure unilaterali entro il 2027 🟡 [3][8] | Paragrafi 61–65 ✅ [2] |
@@ -52,7 +56,7 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 |---|---|---|
 | Notte tra giovedì e venerdì | **Chris Bowen** prosegue le consultazioni con tutti i gruppi negoziali 🟡 | [6][8] |
 | Venerdì 20 | Tema della giornata: "Negoziati finali" ✅ | [1] |
-| Venerdì 20 (orario da confermare) | Plenarie di chiusura COP/CMP/CMA (le assemblee delle Parti di Convenzione, Protocollo di Kyoto e Accordo di Parigi); probabile terza bozza e sforamento a sabato 🟡 | [5][9][14] |
+| Venerdì 20, mattina e pomeriggio (orari da confermare) | Plenarie di chiusura COP/CMP/CMA (le assemblee delle Parti di Convenzione, Protocollo di Kyoto e Accordo di Parigi) in calendario ✅ [14]; probabile terza bozza e sforamento al fine settimana 🟡 [5][6][18] | [5][6][14][18] |
 
 - **Il nodo principale** resta la formula sui combustibili fossili, insieme a finanza per l'adattamento e CCUS 🟡 [6][10].
 - **Panama** ha annunciato che presenterà un'obiezione formale in plenaria se il testo non cambia 🟡 [10][12].
@@ -61,13 +65,14 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 | Tier | N. fonti |
 |---|---|
 | A (ufficiali) | 5 |
-| B (giornalismo specializzato o agenzie) | 9 |
+| B (giornalismo specializzato o agenzie) | 12 |
 | C (altro) | 1 |
 
 - **Siti non leggibili:** articoli di Climate Home in gran parte riservati agli abbonati; pagine web UNFCCC (vuote per i lettori automatici, usati i PDF); The Guardian e Politico Europe non raggiungibili dallo strumento di ricerca.
-- **Affermazioni rimaste ⚠️:** evento sull'Azione climatica globale e negoziati tecnici (solo ENB); frase di Kurum (solo Carbon Brief); rapporto IEA (solo Climate Home); posizione UE sul CCUS (solo Il Sole 24 Ore).
+- **Affermazioni rimaste ⚠️:** evento sull'Azione climatica globale e negoziati tecnici (solo ENB); frase di Kurum (solo Carbon Brief); rapporto IEA (solo Climate Home); posizione UE sul CCUS (solo Il Sole 24 Ore); testo sul programma di lavoro della finanza e dettagli della lettera di Panama (solo Carbon Brief; il PDF UNFCCC del testo sulla finanza restituisce errore 404); dichiarazioni di Barbut, Regenvanu e frase di Bowen del 20/11 (solo AFP).
 - **Plenarie di chiusura, parte I:** nessuna fonte conferma che si siano tenute giovedì; ENB nota l'assenza di una plenaria di bilancio [4].
-- **Video:** nessuna registrazione ufficiale trovata stasera.
+- **Video:** nessuna registrazione ufficiale trovata, né la sera del 19/11 né al consolidamento del 20/11.
+- **Consolidamento 20/11:** nessun nuovo bollettino ENB dopo il n. 911; nessuna nuova bozza della decisione finale trovata nelle fonti consultate.
 
 ## Fonti
 
@@ -115,3 +120,12 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 
 15. **UNFCCC** — [Azione climatica globale alla COP31: evento di alto livello del 19/11, 14:00–16:00, Plenary Hall 2](https://unfccc.int/node/660518)<br>
     <sub>Tier A · data n.d. · consultato 19/11/2026 · solo risultati di ricerca</sub>
+
+16. **Carbon Brief** (J. Gabbatiss) — [Nuovo: arriva un testo ridotto sulla finanza climatica, svuotato di gran parte dei contenuti](https://connect.carbonbrief.org/t/new-slimmed-down-climate-finance-text-lands-with-most-substance-gone/192)<br>
+    <sub>Tier B · pubblicato 19/11/2026 · consultato 20/11/2026 · pagina completa</sub>
+
+17. **Carbon Brief** (J. Gabbatiss) — [Panama "obietterà formalmente" all'esito della COP31 senza tetto al petrolio, finanza ed elettrificazione "rinnovabile"](https://connect.carbonbrief.org/t/panama-will-formally-object-to-cop31-outcome-without-oil-cap-finance-renewable-electrification/189)<br>
+    <sub>Tier B · pubblicato 19/11/2026 · consultato 20/11/2026 · pagina completa</sub>
+
+18. **AFP** (ripreso da France 24) — [I negoziati ONU sul clima entrano nella fase decisiva senza accordo in vista](https://www.france24.com/en/live-news/20261120-un-climate-talks-enter-crunch-time-with-no-deal-in-sight)<br>
+    <sub>Tier B · pubblicato 20/11/2026 alle 03:04 · consultato 20/11/2026 · pagina completa</sub>

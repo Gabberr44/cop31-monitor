@@ -360,7 +360,7 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-09_2026-11-18/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo diretto. Separare nel B3 i consumi tra combustibili ed elettricità (con quota rinnovabile) prepara l'impresa alle domande su elettrificazione di banche e clienti.
 - **What changes for an SME filling in the VSME:** no direct obligation. Splitting B3 consumption between fuels and electricity (with the renewable share) prepares the company for electrification questions from banks and customers.
 
-## 2026-11-19 — Giorno 10 / Day 10 _(🕘 versione serale provvisoria, 19/11/2026 22:55 ora italiana / provisional evening version)_
+## 2026-11-19 — Giorno 10 / Day 10 _(✅ versione finale, 20/11/2026 09:50 ora italiana / final version)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-10_2026-11-19/sintesi-giornata.md](giorno-10_2026-11-19/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 10 summary._
 
@@ -387,3 +387,9 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-10_2026-11-19/sintesi-gior
 - **What happened:** **the draft** invites all Parties to submit on time the biennial transparency reports due by 31/12/2026 ✅ [2].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo diretto. Gli inventari nazionali usano fattori di emissione aggiornati: conviene controllare ogni anno i fattori ISPRA usati nel B3.
 - **What changes for an SME filling in the VSME:** no direct obligation. National inventories use updated emission factors: check yearly the ISPRA factors used in B3.
+
+### 5. Finanza climatica: il programma di lavoro si riduce a un piano 2027–2028 / Climate finance: work programme shrinks to a 2027–2028 plan — Rilevanza: Bassa / Low
+- **Cosa è successo:** **la Presidenza COP31** ha proposto un testo di 2 pagine (prima 11) sul programma di lavoro sulla finanza climatica, tutto tra parentesi quadre, senza "ripartizione degli oneri" né cifra per l'adattamento ⚠️ [16].
+- **What happened:** **the COP31 Presidency** proposed a 2-page text (previously 11) on the climate finance work programme, fully bracketed, with no "burden sharing" and no adaptation figure ⚠️ [16].
+- **Cosa cambia per una PMI che compila il VSME:** nulla nel breve periodo. Meno finanza pubblica per l'adattamento significa più peso sui capitali privati: le banche continueranno a chiedere dati sui rischi climatici fisici (VSME, modulo completo, C4).
+- **What changes for an SME filling in the VSME:** nothing in the short term. Less public adaptation finance puts more weight on private capital: banks will keep asking for physical climate-risk data (VSME comprehensive module, C4).

@@ -1,13 +1,14 @@
 # Fossil fuels: national roadmaps and Panama's letter
 **When:** 19/11, all day · **Where:** Antalya EXPO Center (EU-Ireland pavilion and negotiating rooms) · **Organiser:** various (Panama, European Union, Ireland, Switzerland)<br>
 **Speakers:** **Juan Carlos Navarro** (Panama's Environment Minister); **Monique Barbut** (French Minister for Ecological Transition)<br>
-🎥 Video not yet available
+🎥 Video not yet available (re-checked on the morning of 20/11)
 
 ## In brief
 While fossil fuels disappear from the draft final decision ✅ [2], the number of countries publishing national exit roadmaps keeps growing ⚠️ [1]. It matters because the fossil-fuel exit is moving from UN texts to national policies.
 
 ## Key points
 - **The government of Panama** wrote to the Presidency that it will block any text without a cap on global oil production 🟡 [3][4]. **Juan Carlos Navarro, Environment Minister**, had already denounced the "petroleum mafia" 🟡 [4][5].
+- **Panama's letter** is addressed to **Murat Kurum**, **Chris Bowen**, **Simon Stiell (UNFCCC Executive Secretary)** and the AILAC group (Independent Association of Latin America and the Caribbean) ⚠️ according to Carbon Brief [7]. Its eight demands include an oil cap at current levels, simple-majority voting when consensus fails and renewables-based electrification ⚠️ [7].
 - **Six European countries** have published their fossil-fuel exit roadmaps; **21 more countries**, including Pacific states and Brazil, have announced they will do so ⚠️ according to ENB [1].
 - **A few countries** block any reference to the roadmaps in the final decision ⚠️ according to ENB [1]. **The Arab Group, Russia and the LMDCs (Like-Minded Developing Countries)** oppose commitments on a fossil-fuel exit 🟡 [6].
 - **Monique Barbut, French Minister for Ecological Transition**, said France will push for electrification met by renewables and nuclear ⚠️ according to AFP [3].
@@ -35,3 +36,6 @@ While fossil fuels disappear from the draft final decision ✅ [2], the number o
 
 6. **ANSA** (S. Secondino) — [Cop31: draft says yes to electrification, nothing on fossil fuels](https://www.ansa.it/sito/notizie/mondo/2026/11/19/cop31-nella-bozza-si-allelettrificazione-ma-niente-sulle-fonti-fossili_932cb245-527d-48a1-9535-d18aaf4af70b.html)<br>
    <sub>Tier B · published 19/11/2026 · accessed 19/11/2026 · full page</sub>
+
+7. **Carbon Brief** (J. Gabbatiss) — [Panama will "formally object to" COP31 outcome – without oil cap, finance, "renewable" electrification](https://connect.carbonbrief.org/t/panama-will-formally-object-to-cop31-outcome-without-oil-cap-finance-renewable-electrification/189)<br>
+   <sub>Tier B · published 19/11/2026 · accessed 20/11/2026 · full page</sub>
