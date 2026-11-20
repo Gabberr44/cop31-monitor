@@ -393,3 +393,25 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-10_2026-11-19/sintesi-gior
 - **What happened:** **the COP31 Presidency** proposed a 2-page text (previously 11) on the climate finance work programme, fully bracketed, with no "burden sharing" and no adaptation figure ⚠️ [16].
 - **Cosa cambia per una PMI che compila il VSME:** nulla nel breve periodo. Meno finanza pubblica per l'adattamento significa più peso sui capitali privati: le banche continueranno a chiedere dati sui rischi climatici fisici (VSME, modulo completo, C4).
 - **What changes for an SME filling in the VSME:** nothing in the short term. Less public adaptation finance puts more weight on private capital: banks will keep asking for physical climate-risk data (VSME comprehensive module, C4).
+
+## 2026-11-20 — Giorno 11 / Day 11 _(🕘 versione serale provvisoria, 20/11/2026 / provisional evening version)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-11_2026-11-20/sintesi-giornata.md](giorno-11_2026-11-20/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 11 summary._
+
+### 1. Cina e Australia sostengono l'elettrificazione al 35% / China and Australia back 35% electrification — Rilevanza: Media / Medium
+- **Cosa è successo:** **i governi di Cina e Australia** accolgono "su base volontaria" il 35% di elettricità nei consumi finali entro il 2035 e richiamano l'Art. 3.5 della Convenzione contro misure climatiche che restringono il commercio ✅ [8].
+- **What happened:** **the governments of China and Australia** welcome "on a voluntary basis" 35% electricity in final consumption by 2035 and cite Convention Art. 3.5 against climate measures that restrict trade ✅ [8].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. L'elettrificazione diventa un indicatore globale: nel B3 conviene tenere separati elettricità (con quota rinnovabile) e combustibili. Il CBAM resta in vigore per chi importa acciaio, alluminio, cemento o fertilizzanti.
+- **What changes for an SME filling in the VSME:** no obligation. Electrification becomes a global indicator: in B3 keep electricity (with renewable share) and fuels separate. CBAM stays in force for importers of steel, aluminium, cement or fertilisers.
+
+### 2. CCUS nella bozza: cifre ancora tra parentesi / CCUS in the draft: figures still in brackets — Rilevanza: Bassa / Low
+- **Cosa è successo:** **la bozza della decisione finale** propone di accelerare il CCUS con almeno 500 milioni di tonnellate di CO₂ l'anno al 2035, tra parentesi quadre ✅ [2]; per **Carbon Brief** è la contropartita chiesta dal Gruppo arabo ⚠️ [9].
+- **What happened:** **the draft final decision** proposes accelerating CCUS with at least 500 million tonnes of CO₂ a year by 2035, in square brackets ✅ [2]; for **Carbon Brief** it is the trade-off sought by the Arab Group ⚠️ [9].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. Il CCUS riguarda grandi impianti; per una PMI conta ridurre le emissioni lorde, non compensarle, e rendicontarle senza sottrarre crediti o rimozioni.
+- **What changes for an SME filling in the VSME:** nothing. CCUS concerns large plants; for an SME what counts is cutting gross emissions, not offsetting them, and reporting them without netting credits or removals.
+
+### 3. Gas fluorurati: impegno globale sull'SF6 (da confermare) / Fluorinated gases: global SF6 pledge (to be confirmed) — Rilevanza: Bassa / Low
+- **Cosa è successo:** **una dichiarazione ministeriale sui "super inquinanti"** e il lancio del Global SF6 Pledge sono citati come risultati della giornata ⚠️ riportato da una sola fonte [13].
+- **What happened:** **a ministerial declaration on "super pollutants"** and the launch of the Global SF6 Pledge are cited as outcomes of the day ⚠️ reported by a single source [13].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. L'SF6 si trova nei quadri elettrici di media tensione: chi ne possiede deve includere eventuali perdite nelle emissioni di Scope 1 del B3, con i dati dei registri di manutenzione.
+- **What changes for an SME filling in the VSME:** no obligation. SF6 is found in medium-voltage switchgear: owners must include any leaks in B3 Scope 1 emissions, using maintenance-log data.
