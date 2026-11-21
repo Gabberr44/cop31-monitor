@@ -421,3 +421,19 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-11_2026-11-20/sintesi-gior
 - **What happened:** **the 20/11 evening plenary** adopted, according to **Hürriyet Daily News**, a decision on Article 6 cooperation (carbon markets) ⚠️ reported by a single source [17]. The text is not yet published on the UNFCCC website.
 - **Cosa cambia per una PMI che compila il VSME:** nulla subito. Le regole dell'Art. 6 riguardano gli scambi tra Stati e i crediti del meccanismo ONU; chi compra crediti volontari li riporta a parte e non li sottrae alle emissioni lorde del B3.
 - **What changes for an SME filling in the VSME:** nothing immediately. Art. 6 rules cover trades between States and UN-mechanism credits; buyers of voluntary credits report them separately and do not net them against B3 gross emissions.
+
+## 2026-11-21 — Giorno 12 / Day 12 _(🕘 versione serale provvisoria / provisional evening version)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-12_2026-11-21/sintesi-giornata.md](giorno-12_2026-11-21/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 12 summary._
+
+### 1. "35 by 35": l'elettrificazione come indicatore globale / "35 by 35": electrification as a global indicator — Rilevanza: Media / Medium
+- **Cosa è successo:** **Carbon Brief** ricostruisce l'origine dell'obiettivo (rapporti IRENA 2026 e IEA 2024; quota attuale circa 23%) ⚠️ [3]; **Hürriyet Daily News** conta 75 Paesi e 94 istituzioni a favore ⚠️ [4].
+- **What happened:** **Carbon Brief** traces the goal's origin (IRENA 2026 and IEA 2024 reports; current share around 23%) ⚠️ [3]; **Hürriyet Daily News** counts 75 countries and 94 institutions in favour ⚠️ [4].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. La quota di elettricità sui consumi diventa una metrica che banche e clienti potrebbero chiedere: nel B3 conviene già distinguere elettricità (rinnovabile e non) e combustibili, in MWh.
+- **What changes for an SME filling in the VSME:** no obligation. The electricity share of consumption becomes a metric banks and customers may ask for: in B3 already split electricity (renewable and not) and fuels, in MWh.
+
+### 2. Rischio di nessun accordo o di sospensione / Risk of no deal or suspension — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Wopke Hoekstra, commissario UE per il Clima**: "o un buon accordo, o nessun accordo" ⚠️ [1]; **Carbon Brief** spiega che senza due terzi delle Parti presenti la COP verrebbe sospesa ⚠️ [2].
+- **What happened:** **Wopke Hoekstra, EU Climate Commissioner**: "either a good deal or no deal" ⚠️ [1]; **Carbon Brief** explains that without two thirds of the Parties present the COP would be suspended ⚠️ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. Gli obblighi UE (CSRD dopo l'Omnibus, CBAM) non dipendono dall'esito della COP31; il VSME resta lo strumento per rispondere alle richieste di dati della catena del valore.
+- **What changes for an SME filling in the VSME:** nothing. EU obligations (CSRD after the Omnibus, CBAM) do not depend on the COP31 outcome; the VSME remains the tool to answer value-chain data requests.

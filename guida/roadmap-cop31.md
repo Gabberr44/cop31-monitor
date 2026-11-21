@@ -1,5 +1,5 @@
 # Roadmap COP31 — prima, durante e dopo Antalya
-Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 20/11/2026 alle 22:49 (ora italiana)<br>
+Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 21/11/2026 alle 22:50 (ora italiana)<br>
 English version: [roadmap-cop31.en.md](roadmap-cop31.en.md) · Guida: [come-funziona-la-cop.md](come-funziona-la-cop.md)
 
 Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
@@ -31,7 +31,8 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | [9](../giorno-09_2026-11-18/sintesi-giornata.md) | mer 18/11 | Sviluppo umano e sociale e genere ✅ [7] | Fine delle dichiarazioni dei ministri ✅ [16]; "Divan" dei ministri sulla bozza e lancio del secondo Global Stocktake ✅ [18] | ✅ fatto |
 | [10](../giorno-10_2026-11-19/sintesi-giornata.md) | gio 19/11 | "İmece": rafforzare l'attuazione ✅ [7] | Pubblicata la seconda bozza della decisione finale (80 paragrafi, senza riferimenti ai fossili) | ✅ fatto |
 | [11](../giorno-11_2026-11-20/sintesi-giornata.md) | ven 20/11 | Negoziati finali ✅ [7] | Nessuna nuova bozza; sessione di chiusura serale solo su punti tecnici; accordo politico non raggiunto, plenaria sospesa a sabato | ✅ fatto (accordo rinviato) |
-| 12 | sab 21/11 | Supplementari | Nessuna terza bozza nella notte; terza bozza e ripresa delle plenarie di chiusura attese in giornata | 📍 siamo qui |
+| [12](../giorno-12_2026-11-21/sintesi-giornata.md) | sab 21/11 | Supplementari | Consultazioni della Presidenza gruppo per gruppo; nessuna terza bozza e nessuna plenaria fino a sera | ⚠️ in ritardo |
+| 13 | dom 22/11 | Supplementari | Terza bozza e plenarie di chiusura attese, orario da confermare | 📍 siamo qui |
 
 ## Dopo la COP
 | Data | Tappa | Fonte |

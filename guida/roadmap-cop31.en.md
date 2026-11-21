@@ -1,5 +1,5 @@
 # COP31 Roadmap — before, during and after Antalya
-Created on 16/11/2026 at 23:55 · status last updated: 20/11/2026 at 22:49 (Italian time)<br>
+Created on 16/11/2026 at 23:55 · status last updated: 21/11/2026 at 22:50 (Italian time)<br>
 Versione italiana: [roadmap-cop31.md](roadmap-cop31.md) · Guide: [come-funziona-la-cop.en.md](come-funziona-la-cop.en.md)
 
 Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
@@ -31,7 +31,8 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [9](../giorno-09_2026-11-18/sintesi-giornata.en.md) | Wed 18/11 | Human, Social Development and Gender ✅ [7] | Ministers' statements end ✅ [16]; ministers' "Divan" on the draft and launch of the second Global Stocktake ✅ [18] | ✅ done |
 | [10](../giorno-10_2026-11-19/sintesi-giornata.en.md) | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | Second draft of the final decision published (80 paragraphs, no fossil-fuel reference) | ✅ done |
 | [11](../giorno-11_2026-11-20/sintesi-giornata.en.md) | Fri 20/11 | Final Negotiations ✅ [7] | No new draft; late-evening closing session on technical items only; no political deal yet, plenary suspended to Saturday | ✅ done (deal postponed) |
-| 12 | Sat 21/11 | Overtime | No third draft overnight; third draft and resumed closing plenaries expected during the day | 📍 we are here |
+| [12](../giorno-12_2026-11-21/sintesi-giornata.en.md) | Sat 21/11 | Overtime | Presidency consultations group by group; no third draft and no plenary by the evening | ⚠️ delayed |
+| 13 | Sun 22/11 | Overtime | Third draft and closing plenaries expected, time to be confirmed | 📍 we are here |
 
 ## After the COP
 | Date | Milestone | Source |
