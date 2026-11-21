@@ -1,7 +1,7 @@
 # La società civile boccia la COP31
 **Quando:** 20/11, pomeriggio, orario n.d. · **Dove:** Antalya EXPO Center, sala stampa · **Organizza:** Climate Action Network (CAN) International<br>
 **Relatori:** **Tasneem Essop** (direttrice esecutiva, CAN International); **Mohamed Adow** (direttore, Power Shift Africa); **Anabella Rosemberg** (CAN); **Brandon Wu** (CAN)<br>
-🎥 Video non ancora disponibile
+🎥 Video non ancora disponibile (ricontrollato il 21/11/2026)
 
 ## In breve
 Le principali reti di ONG hanno chiuso la COP31 con un giudizio molto negativo e hanno chiesto ai Paesi del Sud del mondo di respingere il testo ✅ [1]. Conta perché misura la distanza tra la Presidenza e le richieste dei Paesi più vulnerabili.

@@ -1,7 +1,7 @@
 # Coalitions for a fossil-fuel exit
 **When:** 20/11, morning and afternoon, times n.a. · **Where:** Antalya EXPO Center, press rooms · **Organiser:** the Netherlands; France and Panama<br>
 **Speakers:** **Stientje van Veldhoven** (Dutch climate minister); **Monique Barbut** (French minister for ecological transition); **Juan Carlos Navarro** (Panama's environment minister)<br>
-🎥 Video not yet available
+🎥 Video not yet available (re-checked on 21/11/2026)
 
 ## In brief
 Two groups of countries want the transition away from fossil fuels, dropped from the second draft, back in the final decision ✅ [1] ⚠️ [2]. It matters because under consensus a single formal objection can stop the deal ✅ [1].

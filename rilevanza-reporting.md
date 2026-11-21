@@ -394,7 +394,7 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-10_2026-11-19/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** nulla nel breve periodo. Meno finanza pubblica per l'adattamento significa più peso sui capitali privati: le banche continueranno a chiedere dati sui rischi climatici fisici (VSME, modulo completo, C4).
 - **What changes for an SME filling in the VSME:** nothing in the short term. Less public adaptation finance puts more weight on private capital: banks will keep asking for physical climate-risk data (VSME comprehensive module, C4).
 
-## 2026-11-20 — Giorno 11 / Day 11 _(🕘 versione serale provvisoria, 20/11/2026 / provisional evening version)_
+## 2026-11-20 — Giorno 11 / Day 11 _(✅ versione finale, consolidata il 21/11/2026 / final version, consolidated on 21/11/2026)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-11_2026-11-20/sintesi-giornata.md](giorno-11_2026-11-20/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 11 summary._
 
@@ -410,8 +410,14 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-11_2026-11-20/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** nulla. Il CCUS riguarda grandi impianti; per una PMI conta ridurre le emissioni lorde, non compensarle, e rendicontarle senza sottrarre crediti o rimozioni.
 - **What changes for an SME filling in the VSME:** nothing. CCUS concerns large plants; for an SME what counts is cutting gross emissions, not offsetting them, and reporting them without netting credits or removals.
 
-### 3. Gas fluorurati: impegno globale sull'SF6 (da confermare) / Fluorinated gases: global SF6 pledge (to be confirmed) — Rilevanza: Bassa / Low
-- **Cosa è successo:** **una dichiarazione ministeriale sui "super inquinanti"** e il lancio del Global SF6 Pledge sono citati come risultati della giornata ⚠️ riportato da una sola fonte [13].
-- **What happened:** **a ministerial declaration on "super pollutants"** and the launch of the Global SF6 Pledge are cited as outcomes of the day ⚠️ reported by a single source [13].
-- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. L'SF6 si trova nei quadri elettrici di media tensione: chi ne possiede deve includere eventuali perdite nelle emissioni di Scope 1 del B3, con i dati dei registri di manutenzione.
-- **What changes for an SME filling in the VSME:** no obligation. SF6 is found in medium-voltage switchgear: owners must include any leaks in B3 Scope 1 emissions, using maintenance-log data.
+### 3. Gas fluorurati: impegno globale sull'SF6 / Fluorinated gases: global SF6 pledge — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Carsten Schneider, ministro tedesco dell'Ambiente**, ha presentato il 19/11 il Global SF6 Pledge, impegno volontario su dati, gestione delle perdite e tecnologie senza SF6, sostenuto anche dall'**Unione Europea** ✅ [19].
+- **What happened:** **Carsten Schneider, German Environment Minister**, presented on 19/11 the Global SF6 Pledge, a voluntary commitment on data, leak management and SF6-free technologies, also backed by the **European Union** ✅ [19].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo nuovo. L'SF6 si trova nei quadri elettrici di media tensione: chi ne possiede deve includere eventuali perdite nelle emissioni di Scope 1 del B3, con i dati dei registri di manutenzione. Nell'UE il regolamento sui gas fluorurati già limita l'SF6 nelle nuove apparecchiature.
+- **What changes for an SME filling in the VSME:** no new obligation. SF6 is found in medium-voltage switchgear: owners must include any leaks in B3 Scope 1 emissions, using maintenance-log data. In the EU the F-gas Regulation already restricts SF6 in new equipment.
+
+### 4. Articolo 6: adottata una decisione sulla cooperazione (da confermare) / Article 6: a cooperation decision adopted (to be confirmed) — Rilevanza: Media / Medium
+- **Cosa è successo:** **la plenaria serale del 20/11** ha adottato, secondo **Hürriyet Daily News**, una decisione sulla cooperazione dell'Articolo 6 (mercati del carbonio) ⚠️ riportato da una sola fonte [17]. Il testo non è ancora pubblicato sul sito UNFCCC.
+- **What happened:** **the 20/11 evening plenary** adopted, according to **Hürriyet Daily News**, a decision on Article 6 cooperation (carbon markets) ⚠️ reported by a single source [17]. The text is not yet published on the UNFCCC website.
+- **Cosa cambia per una PMI che compila il VSME:** nulla subito. Le regole dell'Art. 6 riguardano gli scambi tra Stati e i crediti del meccanismo ONU; chi compra crediti volontari li riporta a parte e non li sottrae alle emissioni lorde del B3.
+- **What changes for an SME filling in the VSME:** nothing immediately. Art. 6 rules cover trades between States and UN-mechanism credits; buyers of voluntary credits report them separately and do not net them against B3 gross emissions.

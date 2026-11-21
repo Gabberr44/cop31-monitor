@@ -1,7 +1,7 @@
 # Civil society rejects COP31
 **When:** 20/11, afternoon, time n.a. · **Where:** Antalya EXPO Center, press room · **Organiser:** Climate Action Network (CAN) International<br>
 **Speakers:** **Tasneem Essop** (Executive Director, CAN International); **Mohamed Adow** (Director, Power Shift Africa); **Anabella Rosemberg** (CAN); **Brandon Wu** (CAN)<br>
-🎥 Video not yet available
+🎥 Video not yet available (re-checked on 21/11/2026)
 
 ## In brief
 The main NGO networks closed COP31 with a very negative verdict and urged Global South countries to reject the text ✅ [1]. It matters because it measures the gap between the Presidency and the demands of the most vulnerable countries.

@@ -1,7 +1,7 @@
 # Le coalizioni per uscire dai fossili
 **Quando:** 20/11, mattina e pomeriggio, orari n.d. · **Dove:** Antalya EXPO Center, sale stampa · **Organizza:** Paesi Bassi; Francia e Panama<br>
 **Relatori:** **Stientje van Veldhoven** (ministra olandese del Clima); **Monique Barbut** (ministra francese della Transizione ecologica); **Juan Carlos Navarro** (ministro dell'Ambiente di Panama)<br>
-🎥 Video non ancora disponibile
+🎥 Video non ancora disponibile (ricontrollato il 21/11/2026)
 
 ## In breve
 Due gruppi di Paesi chiedono di rimettere nella decisione finale la transizione dai combustibili fossili, sparita dalla seconda bozza ✅ [1] ⚠️ [2]. Conta perché con il consenso basta un'obiezione formale per fermare l'accordo ✅ [1].

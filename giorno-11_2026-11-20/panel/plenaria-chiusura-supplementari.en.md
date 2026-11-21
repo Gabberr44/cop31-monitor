@@ -1,7 +1,7 @@
 # Closing plenary and overtime
 **When:** 20/11, late evening, exact time n.a. · **Where:** Antalya EXPO Center, plenary hall · **Organiser:** COP31 Presidencies (Türkiye and Australia)<br>
 **Speakers:** **Murat Kurum** (COP31 President, Turkish environment minister); **Chris Bowen** (President of Negotiations, Australian climate minister)<br>
-🎥 Video not yet available
+🎥 Video not yet available (re-checked on UN Web TV and UNFCCC YouTube on 21/11/2026)
 
 ## In brief
 COP31 did not close on the scheduled day: an evening session approved only some technical items ⚠️ [3]. It matters because the political package, with fossil fuels, finance and CCUS, slips to the weekend 🟡 [2][3].
@@ -9,6 +9,9 @@ COP31 did not close on the scheduled day: an evening session approved only some 
 ## Key points
 - **The COP31 Presidency** had not published a new draft by Friday afternoon; work continues on the 19/11 text ✅ [1].
 - **Reuters** expected a new draft in the evening, without major shifts in tone ⚠️ [2]. **AFP** reports the third draft is expected on Saturday ⚠️ [3].
+- **The evening plenary** was suspended until Saturday morning ⚠️ [6]. No third draft appeared overnight 🟡 [8].
+- **Hürriyet Daily News** reports that the decisions adopted include a text on cooperation under Article 6 of the Paris Agreement (carbon markets) ⚠️ reported by a single source [7].
+- **Murat Kurum, COP31 President**, called for closing with an "Antalya Consensus" ⚠️ [7].
 - **Murat Kurum, COP31 President**, opened the evening session; a protester shouted "You are killing the future!" and was escorted out ⚠️ according to AFP [3].
 - **Chris Bowen, President of Negotiations**, said he remains hopeful of a deal all Parties can support ⚠️ according to Reuters [2].
 - **Aloisio Lopes Pereira de Melo, Brazil's national secretary for climate change**, said that at this point "no one is happy" ⚠️ according to AFP [3].
@@ -37,3 +40,12 @@ COP31 did not close on the scheduled day: an evening session approved only some 
 
 5. **Carbon Brief** (S. Evans) — [COP31 cover text: Carbon capture and storage](https://connect.carbonbrief.org/t/cop31-cover-text-carbon-capture-and-storage/195)<br>
    <sub>Tier B · published 20/11/2026 · accessed 20/11/2026 · full page</sub>
+
+6. **Health Policy Watch** (S. Anderson, E. R. Fletcher) — [COP31 draft deal drops fossil fuels references as final session goes into overtime](https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/)<br>
+   <sub>Tier C · published 20/11/2026 · accessed 21/11/2026 · full page</sub>
+
+7. **Hürriyet Daily News** — [COP31 talks extended as countries seek final deal](https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651)<br>
+   <sub>Tier C · published 21/11/2026 · accessed 21/11/2026 · full page</sub>
+
+8. **AFP** (republished by France 24) — [Countries race to secure COP31 deal after fossil fuel row](https://www.france24.com/en/live-news/20261121-countries-race-to-secure-cop31-deal-after-fossil-fuel-row)<br>
+   <sub>Tier B · published 21/11/2026 · accessed 21/11/2026 · full page</sub>

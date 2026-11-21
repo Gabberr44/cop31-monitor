@@ -1,7 +1,7 @@
 # Plenaria di chiusura e supplementari
 **Quando:** 20/11, tarda sera, orario esatto n.d. · **Dove:** Antalya EXPO Center, sala plenaria · **Organizza:** Presidenze COP31 (Türkiye e Australia)<br>
 **Relatori:** **Murat Kurum** (Presidente COP31, ministro turco dell'Ambiente); **Chris Bowen** (Presidente dei negoziati, ministro australiano del Clima)<br>
-🎥 Video non ancora disponibile
+🎥 Video non ancora disponibile (ricontrollato su UN Web TV e YouTube UNFCCC il 21/11/2026)
 
 ## In breve
 La COP31 non ha chiuso nel giorno previsto: una sessione serale ha approvato solo alcuni punti tecnici ⚠️ [3]. Conta perché il pacchetto politico, con fossili, finanza e CCUS, slitta al fine settimana 🟡 [2][3].
@@ -9,6 +9,9 @@ La COP31 non ha chiuso nel giorno previsto: una sessione serale ha approvato sol
 ## Punti chiave
 - **La Presidenza COP31** non aveva pubblicato una nuova bozza entro il pomeriggio di venerdì; si lavora ancora sul testo del 19/11 ✅ [1].
 - **Reuters** prevedeva una nuova bozza in serata, senza grandi cambi di tono ⚠️ [2]. **AFP** riporta che la terza bozza è attesa sabato ⚠️ [3].
+- **La plenaria serale** è stata sospesa fino a sabato mattina ⚠️ [6]. Nella notte non è uscita alcuna terza bozza 🟡 [8].
+- **Hürriyet Daily News** riporta che tra le decisioni adottate c'è un testo sulla cooperazione dell'Articolo 6 dell'Accordo di Parigi (i mercati del carbonio) ⚠️ riportato da una sola fonte [7].
+- **Murat Kurum, Presidente della COP31**, ha chiesto di chiudere con un "Consenso di Antalya" ⚠️ [7].
 - **Murat Kurum, Presidente della COP31**, ha aperto la sessione serale; un manifestante ha gridato "State uccidendo il futuro!" ed è stato accompagnato fuori ⚠️ secondo AFP [3].
 - **Chris Bowen, Presidente dei negoziati**, si è detto fiducioso in un accordo che tutte le Parti possano sostenere ⚠️ secondo Reuters [2].
 - **Aloisio Lopes Pereira de Melo, segretario nazionale brasiliano per il clima**, ha detto che a questo punto "nessuno è contento" ⚠️ secondo AFP [3].
@@ -37,3 +40,12 @@ La COP31 non ha chiuso nel giorno previsto: una sessione serale ha approvato sol
 
 5. **Carbon Brief** (S. Evans) — [Testo della decisione finale della COP31: cattura e stoccaggio del carbonio](https://connect.carbonbrief.org/t/cop31-cover-text-carbon-capture-and-storage/195)<br>
    <sub>Tier B · pubblicato 20/11/2026 · consultato 20/11/2026 · pagina completa</sub>
+
+6. **Health Policy Watch** (S. Anderson, E. R. Fletcher) — [La bozza della COP31 toglie i combustibili fossili mentre la sessione finale va ai supplementari](https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/)<br>
+   <sub>Tier C · pubblicato 20/11/2026 · consultato 21/11/2026 · pagina completa</sub>
+
+7. **Hürriyet Daily News** — [I negoziati della COP31 prolungati mentre i Paesi cercano l'accordo finale](https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651)<br>
+   <sub>Tier C · pubblicato 21/11/2026 · consultato 21/11/2026 · pagina completa</sub>
+
+8. **AFP** (ripreso da France 24) — [I Paesi corrono per chiudere l'accordo della COP31 dopo lo scontro sui fossili](https://www.france24.com/en/live-news/20261121-countries-race-to-secure-cop31-deal-after-fossil-fuel-row)<br>
+   <sub>Tier B · pubblicato 21/11/2026 · consultato 21/11/2026 · pagina completa</sub>
