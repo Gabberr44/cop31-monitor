@@ -1,5 +1,5 @@
 # COP31 Roadmap — before, during and after Antalya
-Created on 16/11/2026 at 23:55 · status last updated: 22/11/2026 at 09:50 (Italian time)<br>
+Created on 16/11/2026 at 23:55 · status last updated: 22/11/2026 at 22:55 (Italian time)<br>
 Versione italiana: [roadmap-cop31.md](roadmap-cop31.md) · Guide: [come-funziona-la-cop.en.md](come-funziona-la-cop.en.md)
 
 Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
@@ -32,9 +32,11 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [10](../giorno-10_2026-11-19/sintesi-giornata.en.md) | Thu 19/11 | "İmece": Enhancing Implementation ✅ [7] | Second draft of the final decision published (80 paragraphs, no fossil-fuel reference) | ✅ done |
 | [11](../giorno-11_2026-11-20/sintesi-giornata.en.md) | Fri 20/11 | Final Negotiations ✅ [7] | No new draft; late-evening closing session on technical items only; no political deal yet, plenary suspended to Saturday | ✅ done (deal postponed) |
 | [12](../giorno-12_2026-11-21/sintesi-giornata.en.md) | Sat 21/11 | Overtime | Presidency consultations group by group; night plenary and third draft of the final decision published at 03:00 Antalya on 22/11 🟡 | ✅ done (delayed) |
-| 13 | Sun 22/11 | Overtime | Closing plenary convened at 09:00 Antalya (07:00 Italian time) to approve the package 🟡; outcome to be confirmed | 📍 we are here |
+| [13](../giorno-13_2026-11-22/sintesi-giornata.en.md) | Sun 22/11 | Overtime | Closing plenary: the final decision ("Antalya Pact") is not adopted for lack of consensus ✅; some technical decisions adopted, including just transition | ✅ done (no final decision) |
 
 ## After the COP
+📍 **We are here:** COP31 closed on 22/11/2026 without a final decision; open issues move to Bonn (June 2027) and COP32.
+
 | Date | Milestone | Source |
 |---|---|---|
 | 19/03/2027 | **EU member states** must transpose the Omnibus I directive (new CSRD scope and protection of SMEs in the value chain) ✅ | [13] |

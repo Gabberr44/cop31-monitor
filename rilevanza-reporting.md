@@ -450,3 +450,19 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-12_2026-11-21/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** nulla. È una formula di compromesso senza effetti sul CBAM europeo, che resta in vigore per chi importa acciaio, alluminio, cemento, fertilizzanti, idrogeno o elettricità.
 - **What changes for an SME filling in the VSME:** nothing. It is compromise wording with no effect on the EU CBAM, which stays in force for importers of steel, aluminium, cement, fertilisers, hydrogen or electricity.
 
+
+## 2026-11-22 — Giorno 13 / Day 13 _(🕘 versione serale provvisoria / provisional evening version)_
+
+_Riferimenti [n] = numerazione delle fonti in [giorno-13_2026-11-22/sintesi-giornata.md](giorno-13_2026-11-22/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 13 summary._
+
+### 1. La COP31 chiude senza decisione finale / COP31 closes without a final decision — Rilevanza: Media / Medium
+- **Cosa è successo:** **Murat Kurum, Presidente della COP31**, ha constatato l'assenza di consenso: il "Patto di Antalya" non è stato adottato; **l'Unione Europea** ha obiettato perché il testo non citava i combustibili fossili ✅ [1].
+- **What happened:** **Murat Kurum, COP31 President**, noted the lack of consensus: the "Antalya Pact" was not adopted; **the European Union** objected because the text did not mention fossil fuels ✅ [1].
+- **Cosa cambia per una PMI che compila il VSME:** nulla negli obblighi. CSRD dopo l'Omnibus, CBAM e richieste delle banche restano invariati; il VSME resta lo strumento per rispondere ai clienti. Senza un segnale globale, il divario tra regole UE ed extra-UE può pesare su chi esporta.
+- **What changes for an SME filling in the VSME:** nothing in terms of obligations. CSRD after the Omnibus, CBAM and bank requests are unchanged; the VSME remains the tool to answer customers. Without a global signal, the gap between EU and non-EU rules may weigh on exporters.
+
+### 2. Transizione giusta adottata, mitigazione rinviata a Bonn 2027 / Just transition adopted, mitigation deferred to Bonn 2027 — Rilevanza: Bassa / Low
+- **Cosa è successo:** **Simon Stiell, segretario esecutivo UNFCCC**, cita l'accordo sulla transizione giusta ✅ [1]; secondo **Carbon Brief** il programma sulla mitigazione è stato respinto e torna a Bonn a giugno 2027 ⚠️ [3].
+- **What happened:** **Simon Stiell, UNFCCC Executive Secretary**, cites the just transition agreement ✅ [1]; according to **Carbon Brief** the mitigation work programme was rejected and returns to Bonn in June 2027 ⚠️ [3].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. La transizione giusta riguarda lavoratori e comunità: chi usa il VSME può già descrivere formazione e riqualificazione del personale nelle informative sociali (B8–B10), se pertinenti.
+- **What changes for an SME filling in the VSME:** no obligation. Just transition concerns workers and communities: VSME users can already describe staff training and reskilling in the social disclosures (B8–B10), where relevant.
