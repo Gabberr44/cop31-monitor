@@ -1,36 +1,40 @@
 # COP31 — Giorno 12 · sabato 21 novembre 2026
-🕘 Versione serale provvisoria — verrà consolidata domattina alle 09:30 (ora italiana)<br>
-⏱️ Secondo giorno di supplementari: alle 22:40 ora italiana (23:40 Antalya) nessuna terza bozza della decisione finale risultava pubblicata e nessuna plenaria di chiusura era convocata 🟡 [1][2].
+✅ Versione finale — consolidata il 22/11/2026 alle 09:50 (ora italiana)<br>
+⏱️ Secondo giorno di supplementari. Nessuna nuova bozza per tutto il giorno; la terza bozza della decisione finale è uscita nella notte, alle 03:00 Antalya di domenica (01:00 ora italiana) 🟡 [8][9].
 
-Giornata non prevista dal calendario ufficiale: la COP31 doveva chiudere venerdì 20/11 ✅ [7]. Gli eventi pubblici e le esposizioni sono finiti; restano aperte solo le sale dei negoziati ⚠️ [4].
+Giornata non prevista dal calendario ufficiale: la COP31 doveva chiudere venerdì 20/11 ✅ [7]. Gli eventi pubblici e le esposizioni erano finiti; restavano aperte solo le sale dei negoziati ⚠️ [4].
 
 ## In breve
-- **Cosa è successo:** **la Presidenza COP31** ha consultato i gruppi negoziali uno alla volta, ma per tutto il giorno non ha pubblicato una nuova bozza 🟡 [1][2].
-- **Perché conta:** più passano le ore, più delegati partono; senza un numero minimo di Paesi presenti (il "quorum") la COP non può decidere e verrebbe sospesa ⚠️ [2].
-- **Domani:** domenica 22/11 si attendono la terza bozza e la plenaria di chiusura, senza orario confermato ⚠️ [1][4].
+- **Cosa è successo:** **la Presidenza COP31** ha consultato i gruppi negoziali per tutto il sabato e ha pubblicato la terza bozza della decisione finale solo nella notte 🟡 [2][8][9].
+- **Perché conta:** il nuovo testo non nomina i combustibili fossili, ma richiama l'accordo della COP28 sulla transizione; è la base per l'approvazione di domenica 🟡 [8][9].
+- **Domani:** domenica 22/11 alle 09:00 Antalya (07:00 ora italiana) è convocata la plenaria di chiusura per approvare il pacchetto 🟡 [8][9].
 
 ## I fatti principali
-1. **La Presidenza COP31** non aveva ancora pubblicato una nuova versione della decisione finale (la "cover decision") sabato pomeriggio 🟡 [1][2]. Sul tavolo resta il testo di giovedì 19/11, che non cita i combustibili fossili e non ha più la cifra di 120 miliardi di dollari per l'adattamento ✅ [6] 🟡 [1].<br>
+1. **La Presidenza COP31** non ha pubblicato nuovi testi per tutto il sabato 🟡 [1][2]. Sul tavolo è rimasta fino a notte la bozza di giovedì 19/11, senza la cifra di 120 miliardi di dollari per l'adattamento ✅ [6].<br>
    🎥 Video non previsto (consultazioni a porte chiuse)
-2. **Murat Kurum, Presidente della COP31 e ministro turco dell'Ambiente**, ha incontrato i rappresentanti di Unione Europea, Australia e Arabia Saudita per sbloccare lo stallo ⚠️ secondo Reuters [1]. Ha detto che "nessuno ha da guadagnare" a far saltare il processo "fissandosi su parole e frasi" ⚠️ [1].
-3. **La Presidenza COP31** ha consultato i gruppi negoziali uno per uno su singole parti del nuovo testo ⚠️ secondo Carbon Brief [2]. **La riunione dei capi delegazione** prevista alle 16:00 Antalya (14:00 ora italiana) è stata annullata ⚠️ [2]. **Il G77+Cina (il gruppo di oltre 130 Paesi in via di sviluppo)** e **l'Unione Europea** si sono riuniti separatamente per coordinarsi ⚠️ [2].
-4. **Wopke Hoekstra, commissario europeo per il Clima**, ha detto: "O sarà un buon accordo, o non ci sarà accordo" ⚠️ secondo Reuters [1]. Secondo **Carbon Brief** oltre 130 Paesi chiedono di rimettere nel testo la transizione dai combustibili fossili ⚠️ [2].
-5. **Isatou Camara, negoziatrice per la finanza del Gambia**, accusa alcuni Paesi di usare tattiche dilatorie per strappare un esito più debole ⚠️ secondo Reuters [1]. **Brenda Mwale, negoziatrice del Malawi per perdite e danni**, parla di "un grosso problema" per i tanti dossier ancora aperti ⚠️ [1].
-6. **Alcune delegazioni** hanno lasciato la sede per la notte ⚠️ secondo Carbon Brief [2]. **Lynda Tabuya, ministra del Clima delle Figi**, ha spostato il volo di rientro a lunedì ⚠️ secondo Carbon Brief, che cita il Guardian [2].
-7. **L'obiettivo di elettrificazione "35 by 35"** (35% di elettricità nei consumi finali di energia entro il 2035) nasce da un rapporto dell'**IRENA (l'Agenzia internazionale per le energie rinnovabili)** di maggio 2026 ⚠️ secondo Carbon Brief [3]. Oggi la quota globale è intorno al 23% ⚠️ [3]. Secondo **Hürriyet Daily News** lo sostengono 75 Paesi e 94 istituzioni ⚠️ riportato da una sola fonte [4].
+2. **Murat Kurum, Presidente della COP31 e ministro turco dell'Ambiente**, ha incontrato i rappresentanti di Unione Europea, Australia e Arabia Saudita ⚠️ secondo Reuters [1]. Ha detto che "nessuno ha da guadagnare" a far saltare il processo "fissandosi su parole e frasi" ⚠️ [1].
+3. **La riunione dei capi delegazione** delle 16:00 Antalya (14:00 ora italiana) è stata annullata ⚠️ secondo Carbon Brief [2]. **Il G77+Cina (il gruppo di oltre 130 Paesi in via di sviluppo)** e **l'Unione Europea** si sono riuniti separatamente ⚠️ [2].
+4. **Wopke Hoekstra, commissario europeo per il Clima**, ha detto: "O sarà un buon accordo, o non ci sarà accordo" ⚠️ secondo Reuters [1]. **Isatou Camara, negoziatrice per la finanza del Gambia**, ha accusato alcuni Paesi di tattiche dilatorie ⚠️ [1].
+5. **Murat Kurum**, in una plenaria nella notte tra sabato e domenica, ha detto: "Crediamo di aver presentato un testo su cui tutte le Parti possono essere d'accordo" ⚠️ secondo Reuters [8]. Secondo Kurum le preoccupazioni su fossili e finanza per l'adattamento sono state affrontate ⚠️ [8].<br>
+   🎥 Video non ancora disponibile
+6. **La Presidenza COP31** ha pubblicato la terza bozza della decisione finale alle 03:00 Antalya di domenica (01:00 ora italiana) 🟡 [8][9]. Il testo non cita esplicitamente i combustibili fossili, ma richiama l'accordo di una COP precedente sulla transizione da petrolio, gas e carbone 🟡 [8][9]. Riconosce che il riscaldamento è avviato a superare 1,5 °C e chiede di accelerare le tecnologie di rimozione e cattura della CO₂ 🟡 [8][9].
+7. **Carbon Brief** riferisce che nella notte sono usciti anche i testi su transizione giusta, programma sulla mitigazione, Fondo per l'adattamento e finanza ⚠️ [10]. Il meccanismo per la transizione giusta verrebbe definito a Bonn nel 2027 e adottato alla COP32 ⚠️ [10]. Restano senza testo l'obiettivo globale sull'adattamento e i piani nazionali di adattamento ⚠️ [10].
 
 ## Negoziati: a che punto siamo
 | Tema | Cosa si è mosso | Cosa è bloccato | Testi usciti |
 |---|---|---|---|
-| Decisione finale ("cover decision") | Consultazioni della Presidenza gruppo per gruppo ⚠️ [2]; incontri di Kurum con UE, Australia e Arabia Saudita ⚠️ [1] | Formula sui combustibili fossili; riunione dei capi delegazione annullata ⚠️ [2] | Nessuna terza bozza fino a sera 🟡 [1][2] |
-| NDC (i piani nazionali di riduzione) / mitigazione | "35 by 35" sostenuto da 75 Paesi ⚠️ [4] | La bozza prevede il superamento di 1,5 °C e chiede più rimozioni di CO₂; alcune delegazioni temono che serva a prolungare i fossili ⚠️ [1] | — |
-| Finanza | — | Cifra di 120 miliardi di dollari per l'adattamento ancora fuori dal testo 🟡 [1] ✅ [6] | — |
-| Perdite e danni | — | Molti punti aperti, secondo il **Malawi** ⚠️ [1] | — |
+| Decisione finale ("cover decision") | Terza bozza nella notte 🟡 [8][9]; 94 paragrafi, contro 144 della prima e 80 della seconda ⚠️ [9] | Formula sui fossili: solo un richiamo indiretto all'accordo della COP28 🟡 [8][9] | Terza bozza, 22/11 ore 03:00 Antalya 🟡 [8][9] |
+| NDC (i piani nazionali di riduzione) / mitigazione | Obiettivo "35 by 35" (35% di elettricità nei consumi finali entro il 2035) mantenuto, ma in un paragrafo debole ⚠️ [9] | Rimozioni e cattura di CO₂ spinte "su scala di gigatonnellate" al 2035, senza cifre vincolanti ⚠️ [9] | Programma sulla mitigazione, poco cambiato ⚠️ [10] |
+| Finanza e adattamento / GGA (l'obiettivo globale sull'adattamento) | Proposta di "discutere un percorso" per triplicare la finanza per l'adattamento ⚠️ [9] | Nessuna cifra di 120 miliardi ⚠️ [9]; nessun testo sul GGA ⚠️ [10] | Testi sulla finanza senza parentesi quadre ⚠️ [10] |
+| Perdite e danni | Il testo chiede di continuare ad aumentare le risorse del fondo ⚠️ [9] | Le risorse sono definite "insufficienti" rispetto alla domanda ⚠️ [10] | Rapporto del fondo rivisto ⚠️ [10] |
+| Transizione giusta | Approccio per fasi: funzioni a Bonn 2027, adozione alla COP32 ⚠️ [10] | Meccanismo rinviato di un anno ⚠️ [10] | Prima bozza di decisione ⚠️ [10] |
+| Commercio / misure unilaterali | La bozza "prende atto" che le misure commerciali possono avere effetti oltre confine ⚠️ [9] | Tolta la nuova valutazione d'impatto delle misure transfrontaliere ⚠️ [10] | Testo sulle "misure di risposta" ⚠️ [10] |
 
 ## Panel ed eventi del giorno
 | Evento | Chi | In una riga | Rilevanza VSME | Video |
 |---|---|---|---|---|
-| [Supplementari: le consultazioni della Presidenza](panel/supplementari-consultazioni-presidenza.md) | Presidenze COP31, UE, gruppi negoziali | Nessuna terza bozza; incontri bilaterali e coordinamenti | Media | Non previsto (porte chiuse) |
+| [Supplementari: le consultazioni della Presidenza](panel/supplementari-consultazioni-presidenza.md) | Presidenze COP31, UE, gruppi negoziali | Un sabato di consultazioni chiuso da una plenaria notturna | Media | Non previsto (porte chiuse) |
+| [La terza bozza della decisione finale](panel/terza-bozza-decisione-finale.md) | Presidenze COP31 | Fossili solo richiamati, 1,5 °C superato, rimozioni di CO₂ | Media | Non ancora disponibile |
 | [Quorum: cosa serve per sospendere la COP31](panel/quorum-sospensione-cop.md) | Carbon Brief ed esperti | Due terzi dei Paesi devono restare in sala | Bassa | Non previsto (testo scritto) |
 | [Da dove nasce il "35 by 35"](panel/origine-obiettivo-35by35.md) | IRENA, IEA, Presidenze COP31 | L'obiettivo di elettrificazione viene da IRENA e IEA | Media | Non previsto (testo scritto) |
 
@@ -45,25 +49,24 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 ## Cosa aspettarsi domani
 | Orario | Cosa | Fonte |
 |---|---|---|
-| Domenica 22/11, orario da confermare | Terza bozza della decisione finale ⚠️ | [1][4] |
-| Domenica 22/11, orario da confermare | Ripresa delle plenarie di chiusura COP/CMP/CMA (le assemblee delle Parti di Convenzione, Protocollo di Kyoto e Accordo di Parigi) ⚠️ | [5] |
+| Domenica 22/11, 06:00 Antalya (04:00 ora italiana) | Termine per presentare obiezioni al testo 🟡 | [8][9] |
+| Domenica 22/11, 09:00 Antalya (07:00 ora italiana) | Plenaria di chiusura per approvare il pacchetto 🟡 (una versione Reuters indica le 10:00 Antalya) | [8][9] |
 
-- **Il rischio** è che le partenze facciano mancare il quorum: servono due terzi delle Parti, cioè 132 Paesi su 198 nella Convenzione ⚠️ secondo Carbon Brief [2].
-- **L'ultimo vero fallimento** di una COP risale a Copenaghen nel 2009 ⚠️ secondo Reuters [1].
+- **La decisione** si prende per consenso: basta un'obiezione formale per bloccarla. **Il governo di Panama** aveva annunciato un'obiezione formale se il testo non cambiava, come riportato nella [sintesi del giorno 10](../giorno-10_2026-11-19/sintesi-giornata.md) 🟡.
+- **Le ultime modifiche** sono ancora possibili in plenaria ⚠️ secondo Carbon Brief [9].
 
 ## Qualità delle fonti
 | Tier | N. fonti |
 |---|---|
 | A (ufficiali) | 2 |
-| B (giornalismo specializzato o agenzie) | 3 |
+| B (giornalismo specializzato o agenzie) | 6 |
 | C (altro) | 2 |
 
-- **Siti non leggibili:** US News (HTTP 503; letto lo stesso testo Reuters su Al-Monitor); Newsy Today (HTTP 403); pagine web UNFCCC (protezione anti-bot).
-- **Nessuna nuova notizia COP31** su UN News e sul sito UNFCCC sabato 21/11 (ultimo articolo UN News: 20/11).
-- **Bollettino ENB (IISD)** sul 20/11 e 21/11 non ancora pubblicato (PDF n. 912 e 913: HTTP 404).
-- **Esclusa:** una notizia su una plenaria fissata per domenica mattina, apparsa solo su un sito aggregatore.
-- **Affermazioni rimaste ⚠️:** incontri di Kurum e frasi di Hoekstra, Camara e Mwale (solo Reuters); consultazioni gruppo per gruppo, riunione annullata, "oltre 130 Paesi", partenze e quorum (solo Carbon Brief); 75 Paesi a favore del "35 by 35" (solo Hürriyet).
-- **Video:** nessuna sessione pubblica registrata sabato 21/11 su UN Web TV o sul canale YouTube UNFCCC (ricerca del 21/11).
+- **Siti non leggibili:** pagine web e PDF UNFCCC (protezione anti-bot; la terza bozza non è stata scaricabile); IISD ENB (HTTP 403; bollettini n. 912 e 913 non ancora pubblicati, HTTP 404); US News (HTTP 503).
+- **Esclusi:** siti aggregatori che annunciavano un accordo già raggiunto prima della plenaria di domenica.
+- **Affermazioni rimaste ⚠️:** incontri e frasi di Kurum, Hoekstra e Camara (solo Reuters); dettagli della terza bozza e dei testi notturni (solo Carbon Brief); 75 Paesi a favore del "35 by 35" (solo Hürriyet).
+- **Conflitto di orario:** la plenaria di domenica è indicata alle 06:00 GMT (09:00 Antalya) da Reuters e Carbon Brief, alle 07:00 GMT in un'altra versione Reuters [8].
+- **Video:** nessuna registrazione ufficiale della plenaria notturna trovata su UN Web TV o sul canale YouTube UNFCCC (ricerca del 22/11).
 
 ## Fonti
 
@@ -77,7 +80,7 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
    <sub>Tier B · pubblicato 21/11/2026 · consultato 21/11/2026 · pagina completa</sub>
 
 4. **Hürriyet Daily News** — [I negoziati della COP31 si prolungano mentre i Paesi cercano l'accordo finale](https://www.hurriyetdailynews.com/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651)<br>
-   <sub>Tier C · pubblicato 21/11/2026 · consultato 21/11/2026 · pagina completa</sub>
+   <sub>Tier C · pubblicato 21/11/2026 · consultato 22/11/2026 · pagina completa</sub>
 
 5. **Xinhua** — [Conclusa la sessione di chiusura della COP31, documento finale atteso nel fine settimana](https://english.news.cn/europe/20261121/9dc6548149b44d3d8b5a580bf66ae70a/c.html)<br>
    <sub>Tier C · pubblicato 21/11/2026 · consultato 21/11/2026 · pagina completa</sub>
@@ -87,3 +90,12 @@ _Il VSME è lo standard volontario EFRAG di rendicontazione di sostenibilità pe
 
 7. **UNFCCC** — [Calendario generale della COP31 (PDF)](https://unfccc.int/sites/default/files/resource/COP_31_Overview_Schedule.pdf)<br>
    <sub>Tier A · data n.d. · consultato 20/11/2026 · documento completo</sub>
+
+8. **Reuters** (T. Gumrukcu, A. Kucukgocmen; ripreso da Al-Monitor) — [I negoziati della COP31 vicini all'accordo finale, dice il presidente del vertice](https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-close-final-deal-says-summit-president)<br>
+   <sub>Tier B · pubblicato 22/11/2026 · consultato 22/11/2026 · pagina completa</sub>
+
+9. **Carbon Brief** (S. Evans) — [COP31: la terza (e ultima?) bozza della decisione finale](https://connect.carbonbrief.org/t/cop31-third-and-final-draft-cover-decision/208)<br>
+   <sub>Tier B · pubblicato 22/11/2026 · consultato 22/11/2026 · pagina completa</sub>
+
+10. **Carbon Brief** (M. Lempriere) — [Testi notturni della COP31: un aggiornamento](https://connect.carbonbrief.org/t/late-night-cop31-text-drop-an-update/211)<br>
+    <sub>Tier B · pubblicato 22/11/2026 · consultato 22/11/2026 · pagina completa</sub>

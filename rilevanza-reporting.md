@@ -422,7 +422,7 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-11_2026-11-20/sintesi-gior
 - **Cosa cambia per una PMI che compila il VSME:** nulla subito. Le regole dell'Art. 6 riguardano gli scambi tra Stati e i crediti del meccanismo ONU; chi compra crediti volontari li riporta a parte e non li sottrae alle emissioni lorde del B3.
 - **What changes for an SME filling in the VSME:** nothing immediately. Art. 6 rules cover trades between States and UN-mechanism credits; buyers of voluntary credits report them separately and do not net them against B3 gross emissions.
 
-## 2026-11-21 — Giorno 12 / Day 12 _(🕘 versione serale provvisoria / provisional evening version)_
+## 2026-11-21 — Giorno 12 / Day 12 _(✅ versione finale, consolidata il 22/11/2026 / final version, consolidated on 22/11/2026)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-12_2026-11-21/sintesi-giornata.md](giorno-12_2026-11-21/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 12 summary._
 
@@ -437,3 +437,16 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-12_2026-11-21/sintesi-gior
 - **What happened:** **Wopke Hoekstra, EU Climate Commissioner**: "either a good deal or no deal" ⚠️ [1]; **Carbon Brief** explains that without two thirds of the Parties present the COP would be suspended ⚠️ [2].
 - **Cosa cambia per una PMI che compila il VSME:** nulla. Gli obblighi UE (CSRD dopo l'Omnibus, CBAM) non dipendono dall'esito della COP31; il VSME resta lo strumento per rispondere alle richieste di dati della catena del valore.
 - **What changes for an SME filling in the VSME:** nothing. EU obligations (CSRD after the Omnibus, CBAM) do not depend on the COP31 outcome; the VSME remains the tool to answer value-chain data requests.
+
+### 3. Terza bozza: superamento di 1,5 °C e rimozioni di CO₂ / Third draft: 1.5 °C overshoot and CO₂ removals — Rilevanza: Media / Medium
+- **Cosa è successo:** **la Presidenza COP31** ha pubblicato nella notte la terza bozza della decisione finale: riconosce che il riscaldamento supererà 1,5 °C e chiede di accelerare cattura e rimozione della CO₂ 🟡 [8][9]; nessuna cifra per la finanza all'adattamento ⚠️ [9].
+- **What happened:** **the COP31 Presidency** published the third draft of the final decision overnight: it acknowledges warming will exceed 1.5 °C and calls for faster CO₂ capture and removal 🟡 [8][9]; no figure for adaptation finance ⚠️ [9].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo nuovo. Con un superamento di 1,5 °C riconosciuto, i rischi fisici (calore, alluvioni, siccità) diventano più probabili: le banche li chiederanno, e chi usa il modulo Comprehensive li descrive nel C4. Le rimozioni non si sottraggono alle emissioni lorde del B3.
+- **What changes for an SME filling in the VSME:** no new obligation. With a 1.5 °C overshoot acknowledged, physical risks (heat, floods, drought) become more likely: banks will ask about them, and Comprehensive Module users describe them in C4. Removals are not netted against B3 gross emissions.
+
+### 4. Misure commerciali: la bozza "prende atto" degli effetti oltre confine / Trade measures: the draft "notes" cross-border impacts — Rilevanza: Bassa / Low
+- **Cosa è successo:** **la terza bozza** "prende atto" che le misure commerciali possono avere effetti oltre confine, soprattutto per i Paesi in via di sviluppo ⚠️ secondo Carbon Brief [9]; dal testo sulle "misure di risposta" è stata tolta una nuova valutazione d'impatto ⚠️ [10].
+- **What happened:** **the third draft** "notes" that trade measures may have cross-border impacts, particularly for developing countries ⚠️ according to Carbon Brief [9]; a new impact assessment was removed from the "response measures" text ⚠️ [10].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. È una formula di compromesso senza effetti sul CBAM europeo, che resta in vigore per chi importa acciaio, alluminio, cemento, fertilizzanti, idrogeno o elettricità.
+- **What changes for an SME filling in the VSME:** nothing. It is compromise wording with no effect on the EU CBAM, which stays in force for importers of steel, aluminium, cement, fertilisers, hydrogen or electricity.
+
