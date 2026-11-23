@@ -451,7 +451,7 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-12_2026-11-21/sintesi-gior
 - **What changes for an SME filling in the VSME:** nothing. It is compromise wording with no effect on the EU CBAM, which stays in force for importers of steel, aluminium, cement, fertilisers, hydrogen or electricity.
 
 
-## 2026-11-22 — Giorno 13 / Day 13 _(🕘 versione serale provvisoria / provisional evening version)_
+## 2026-11-22 — Giorno 13 / Day 13 _(✅ versione finale, consolidata il 23/11/2026 / final version, consolidated on 23/11/2026)_
 
 _Riferimenti [n] = numerazione delle fonti in [giorno-13_2026-11-22/sintesi-giornata.md](giorno-13_2026-11-22/sintesi-giornata.md#fonti). / [n] references = source numbering in the Day 13 summary._
 
@@ -462,7 +462,20 @@ _Riferimenti [n] = numerazione delle fonti in [giorno-13_2026-11-22/sintesi-gior
 - **What changes for an SME filling in the VSME:** nothing in terms of obligations. CSRD after the Omnibus, CBAM and bank requests are unchanged; the VSME remains the tool to answer customers. Without a global signal, the gap between EU and non-EU rules may weigh on exporters.
 
 ### 2. Transizione giusta adottata, mitigazione rinviata a Bonn 2027 / Just transition adopted, mitigation deferred to Bonn 2027 — Rilevanza: Bassa / Low
-- **Cosa è successo:** **Simon Stiell, segretario esecutivo UNFCCC**, cita l'accordo sulla transizione giusta ✅ [1]; secondo **Carbon Brief** il programma sulla mitigazione è stato respinto e torna a Bonn a giugno 2027 ⚠️ [3].
-- **What happened:** **Simon Stiell, UNFCCC Executive Secretary**, cites the just transition agreement ✅ [1]; according to **Carbon Brief** the mitigation work programme was rejected and returns to Bonn in June 2027 ⚠️ [3].
+- **Cosa è successo:** **Simon Stiell, segretario esecutivo UNFCCC**, cita l'accordo sulla transizione giusta ✅ [1]; secondo **Carbon Brief** il programma sulla mitigazione è stato respinto e torna a Bonn a giugno 2027 ⚠️ [6].
+- **What happened:** **Simon Stiell, UNFCCC Executive Secretary**, cites the just transition agreement ✅ [1]; according to **Carbon Brief** the mitigation work programme was rejected and returns to Bonn in June 2027 ⚠️ [6].
 - **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. La transizione giusta riguarda lavoratori e comunità: chi usa il VSME può già descrivere formazione e riqualificazione del personale nelle informative sociali (B8–B10), se pertinenti.
 - **What changes for an SME filling in the VSME:** no obligation. Just transition concerns workers and communities: VSME users can already describe staff training and reskilling in the social disclosures (B8–B10), where relevant.
+
+### 3. Misure commerciali e CBAM: il testo respinto e le critiche della Russia / Trade measures and CBAM: the rejected text and Russia's criticism — Rilevanza: Bassa / Low _(nuovo nella versione finale / new in the final version)_
+- **Cosa è successo:** **l'ultima bozza della decisione finale** chiedeva che le misure sul clima, "comprese quelle unilaterali", non diventassero discriminazioni commerciali ✅ [3]; **la Russia** ha criticato il CBAM europeo in plenaria ⚠️ secondo Il Sole 24 Ore [10]. Il testo non è stato adottato ✅ [1].
+- **What happened:** **the last draft of the final decision** asked that climate measures, "including unilateral ones", should not become trade discrimination ✅ [3]; **Russia** criticised the EU CBAM in plenary ⚠️ according to Il Sole 24 Ore [10]. The text was not adopted ✅ [1].
+- **Cosa cambia per una PMI che compila il VSME:** nulla. Il CBAM resta in vigore: chi importa acciaio, alluminio, cemento, fertilizzanti, idrogeno o elettricità prepara la prima dichiarazione annuale entro il 30/09/2027, chiedendo ai fornitori extra-UE le emissioni incorporate.
+- **What changes for an SME filling in the VSME:** nothing. CBAM stays in force: importers of steel, aluminium, cement, fertilisers, hydrogen or electricity prepare the first annual declaration by 30/09/2027, asking non-EU suppliers for embedded emissions.
+
+### 4. Guterres: "date e dollari" per l'adattamento / Guterres: "dates and dollars" for adaptation — Rilevanza: Media / Medium _(nuovo nella versione finale / new in the final version)_
+- **Cosa è successo:** **António Guterres, Segretario generale ONU**, ha scritto che il mondo è ormai destinato a superare 1,5 °C e ha chiesto ai Paesi sviluppati "date e dollari" per triplicare la finanza all'adattamento ✅ [2].
+- **What happened:** **António Guterres, UN Secretary-General**, wrote that the world is now poised to exceed 1.5 °C and asked developed countries for "dates and dollars" to triple adaptation finance ✅ [2].
+- **Cosa cambia per una PMI che compila il VSME:** nessun obbligo. Un superamento di 1,5 °C riconosciuto dall'ONU rende più probabili le domande di banche e assicurazioni sui rischi fisici delle sedi: chi usa il modulo Comprehensive li descrive nel C4.
+- **What changes for an SME filling in the VSME:** no obligation. A 1.5 °C overshoot acknowledged by the UN makes bank and insurer questions on site physical risks more likely: Comprehensive Module users describe them in C4.
+

@@ -1,5 +1,5 @@
 # Roadmap COP31 — prima, durante e dopo Antalya
-Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 22/11/2026 alle 22:55 (ora italiana)<br>
+Creata il 16/11/2026 alle 23:55 · ultimo aggiornamento dello stato: 23/11/2026 alle 09:56 (ora italiana)<br>
 English version: [roadmap-cop31.en.md](roadmap-cop31.en.md) · Guida: [come-funziona-la-cop.md](come-funziona-la-cop.md)
 
 Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
@@ -35,10 +35,11 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 | [13](../giorno-13_2026-11-22/sintesi-giornata.md) | dom 22/11 | Supplementari | Plenaria di chiusura: la decisione finale ("Patto di Antalya") non è adottata per mancanza di consenso ✅; adottate alcune decisioni tecniche, tra cui la transizione giusta | ✅ fatto (senza decisione finale) |
 
 ## Dopo la COP
-📍 **Siamo qui:** la COP31 si è chiusa il 22/11/2026 senza decisione finale; i temi aperti passano a Bonn (giugno 2027) e alla COP32.
+📍 **Siamo qui:** la COP31 si è chiusa il 22/11/2026 senza decisione finale; i temi aperti passano a Bonn (giugno 2027) e alla COP32. Bilancio completo nella [sintesi finale](../sintesi-finale.md).
 
 | Data | Tappa | Fonte |
 |---|---|---|
+| 31/12/2026 | **Le Parti dell'Accordo di Parigi** consegnano i rapporti biennali di trasparenza (BTR, i rapporti su emissioni e progressi) ✅ | [19] |
 | 19/03/2027 | **Gli Stati membri UE** devono recepire la direttiva Omnibus I (nuovo perimetro CSRD e tutela delle PMI nella catena del valore) ✅ | [13] |
 | Esercizi dal 01/01/2027 | **Le imprese della "seconda ondata" CSRD** (oltre 1.000 dipendenti e 450 mln € di fatturato) iniziano a rendicontare ✅ | [13] |
 | 01/02/2027 | **Gli Stati membri UE** iniziano a vendere i certificati CBAM su una piattaforma comune ✅ | [14] |
@@ -103,3 +104,6 @@ Legenda: ✅ fatto · 📍 siamo qui · ⏳ atteso · ⚠️ in ritardo
 
 18. **UN News** (L. Quiñones) — [COP31: lo stallo continua mentre i Paesi lanciano una nuova "verifica di realtà" sul clima](https://news.un.org/en/story/2026/11/1168833)<br>
     <sub>Tier A · pubblicato 18/11/2026 · consultato 18/11/2026 · pagina completa</sub>
+
+19. **UNFCCC** — [Bozza della decisione finale guidata dalla Presidenza, versione 22/11/2026 ore 2:00 (PDF), paragrafo 7](https://docs.unfccc.int/documents/10000406/files/en/dt_cma8_cover_decision.pdf)<br>
+    <sub>Tier A · pubblicato 22/11/2026 · consultato 23/11/2026 · documento completo (scadenza fissata dalla decisione 18/CMA.1, già in vigore)</sub>

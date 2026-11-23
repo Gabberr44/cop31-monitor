@@ -1,18 +1,19 @@
 # Plenaria di chiusura: il Patto di Antalya non passa
-**Quando:** 22/11, dalla mattina al pomeriggio, Antalya (2 ore prima in ora italiana); orario esatto da confermare · **Dove:** Antalya EXPO Center, sala plenaria · **Organizza:** Presidenze COP31 (Türkiye e Australia)<br>
+**Quando:** 22/11, nel pomeriggio, Antalya (2 ore prima in ora italiana); orario esatto non indicato dalle fonti ufficiali · **Dove:** Antalya EXPO Center, sala plenaria · **Organizza:** Presidenze COP31 (Türkiye e Australia)<br>
 **Relatori:** **Murat Kurum** (Presidente COP31, ministro turco dell'Ambiente); **Darragh O'Brien** (ministro irlandese per il Clima, per l'UE); delegazioni di Panama, Isole Marshall, Ghana (Gruppo africano), Arabia Saudita, Pakistan<br>
-🎥 Video non ancora disponibile
+🎥 [Video integrale — plenaria di chiusura della COP31 (canale ufficiale UN Climate Change, 1 h 07')](https://www.youtube.com/watch?v=Y3-yVRkgYBM)
 
 ## In breve
-**La plenaria di chiusura** non ha adottato la decisione finale della COP31, il cosiddetto "Patto di Antalya", per mancanza di consenso ✅ [1]. Conta perché il testo era la sintesi politica della conferenza: senza di esso la COP31 non lascia nuovi impegni comuni su fossili e finanza 🟡 [2][3].
+**La plenaria di chiusura** non ha adottato la decisione finale della COP31, il cosiddetto "Patto di Antalya", per mancanza di consenso ✅ [1][5]. Conta perché il testo era la sintesi politica della conferenza: senza di esso la COP31 non lascia nuovi impegni comuni su fossili e finanza 🟡 [2][3].
 
 ## Punti chiave
 - **Murat Kurum, Presidente della COP31**, ha detto che non c'era accordo sul testo e che le decisioni non erano adottate ✅ [1]. In precedenza aveva annunciato che non ci sarebbe stata una nuova bozza ⚠️ secondo The Independent [3].
 - **L'Unione Europea** ha presentato un'obiezione formale perché il testo non citava i combustibili fossili ✅ [1].
-- **Il governo di Panama** ha respinto il testo e **le Isole Marshall** non lo hanno sostenuto ✅ [1]. Secondo CNN anche **la Norvegia** si è opposta ⚠️ [2].
+- **Il governo di Panama** ha respinto il testo e **le Isole Marshall** non lo hanno sostenuto ✅ [1]. Si sono opposte anche **la Norvegia** e il gruppo dei **Paesi meno sviluppati (44 Paesi)** 🟡 [2][6].
+- **Juan Carlos Navarro, ministro dell'Ambiente di Panama**, ha detto che il mondo è "tenuto in ostaggio dalla mafia del petrolio" ⚠️ secondo NBC News [7].
 - **Il Ghana, a nome del Gruppo africano (54 Paesi)**, non ha bloccato il consenso, pur criticando il testo su finanza e perdite e danni ✅ [1].
 - **L'Arabia Saudita** ha difeso i riferimenti alla cattura e allo stoccaggio della CO₂ e ha promesso di restare impegnata ✅ [1]. **Il Pakistan** ha chiesto di continuare a lavorare per il consenso ✅ [1].
-- **La terza bozza** non conteneva le parole "fossili", "petrolio" o "carbone": richiamava solo l'accordo della COP28 sulla transizione ⚠️ secondo Kyunghyang Shinmun [4]. I dettagli sono nel [panel del giorno 12](../../giorno-12_2026-11-21/panel/terza-bozza-decisione-finale.md).
+- **L'ultima bozza (versione del 22/11, ore 02:00 Antalya)** non conteneva le parole "fossili", "petrolio" o "carbone": richiamava solo il "Consenso degli Emirati" della COP28 ✅ [8]. I dettagli sono nel [panel del giorno 12](../../giorno-12_2026-11-21/panel/terza-bozza-decisione-finale.md).
 
 ## Annunci e numeri
 - Oltre 44 ore di ritardo sulla chiusura prevista: è la COP più lunga di sempre, oltre la COP25 di Madrid (2019) 🟡 [2][3].
@@ -20,7 +21,7 @@
 
 ## Citazioni
 - "Ci sono Parti in questa sala che si oppongono a questo testo." — **Murat Kurum, Presidente della COP31** [2]
-- "Non sosterremo un accordo che non menziona nemmeno i combustibili fossili." — **Darragh O'Brien, ministro irlandese per il Clima, a nome dell'UE** [2]
+- "È inaccettabile un patto sul clima che non menziona i combustibili fossili." — **Darragh O'Brien, ministro irlandese per il Clima, a nome dell'UE** [7]
 
 ## Rilevanza per il VSME
 **Media** — nessun obbligo nuovo né cancellato per le PMI: le regole UE (CSRD dopo l'Omnibus, CBAM) restano, ma manca un segnale globale che spinga i Paesi extra-UE ad allinearsi.
@@ -38,3 +39,15 @@
 
 4. **Kyunghyang Shinmun** (Ban Gi-ung, Oh Kyung-min) — [La COP31, anche dopo i supplementari, finisce senza accordo](https://www.khan.co.kr/en/article/202611222110007)<br>
    <sub>Tier C · pubblicato 22/11/2026 · consultato 22/11/2026 · pagina completa</sub>
+
+5. **UN Climate Change (canale YouTube ufficiale)** — [Plenaria di chiusura, COP31](https://www.youtube.com/watch?v=Y3-yVRkgYBM)<br>
+   <sub>Tier A · trasmesso 22/11/2026 · consultato 23/11/2026 · video (1 h 07'), verificati titolo e canale</sub>
+
+6. **Climate Home News** (J. Lo, M. Civillini, M. Rowling) — [Bollettino COP31, giorno 13: i negoziati falliscono, molti Paesi respingono l'accordo](https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/)<br>
+   <sub>Tier B · pubblicato 22/11/2026 · consultato 23/11/2026 · pagina parziale (paywall)</sub>
+
+7. **NBC News** (F. Clayton) — [I negoziati della COP31 si rompono dopo uno scontro sui combustibili fossili](https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656)<br>
+   <sub>Tier B · pubblicato 22/11/2026 · consultato 23/11/2026 · pagina completa</sub>
+
+8. **UNFCCC** — [Bozza della decisione finale guidata dalla Presidenza, versione 22/11/2026 ore 2:00 (PDF)](https://docs.unfccc.int/documents/10000406/files/en/dt_cma8_cover_decision.pdf)<br>
+   <sub>Tier A · pubblicato 22/11/2026 · consultato 23/11/2026 · documento completo</sub>

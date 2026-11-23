@@ -1,5 +1,5 @@
 # COP31 Roadmap — before, during and after Antalya
-Created on 16/11/2026 at 23:55 · status last updated: 22/11/2026 at 22:55 (Italian time)<br>
+Created on 16/11/2026 at 23:55 · status last updated: 23/11/2026 at 09:56 (Italian time)<br>
 Versione italiana: [roadmap-cop31.md](roadmap-cop31.md) · Guide: [come-funziona-la-cop.en.md](come-funziona-la-cop.en.md)
 
 Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
@@ -35,10 +35,11 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 | [13](../giorno-13_2026-11-22/sintesi-giornata.en.md) | Sun 22/11 | Overtime | Closing plenary: the final decision ("Antalya Pact") is not adopted for lack of consensus ✅; some technical decisions adopted, including just transition | ✅ done (no final decision) |
 
 ## After the COP
-📍 **We are here:** COP31 closed on 22/11/2026 without a final decision; open issues move to Bonn (June 2027) and COP32.
+📍 **We are here:** COP31 closed on 22/11/2026 without a final decision; open issues move to Bonn (June 2027) and COP32. Full assessment in the [final summary](../sintesi-finale.en.md).
 
 | Date | Milestone | Source |
 |---|---|---|
+| 31/12/2026 | **Paris Agreement Parties** submit their biennial transparency reports (BTRs, reports on emissions and progress) ✅ | [19] |
 | 19/03/2027 | **EU member states** must transpose the Omnibus I directive (new CSRD scope and protection of SMEs in the value chain) ✅ | [13] |
 | Financial years from 01/01/2027 | **CSRD "second-wave" companies** (over 1,000 employees and EUR 450 m turnover) start reporting ✅ | [13] |
 | 01/02/2027 | **EU member states** start selling CBAM certificates on a common platform ✅ | [14] |
@@ -103,3 +104,6 @@ Legend: ✅ done · 📍 we are here · ⏳ expected · ⚠️ delayed
 
 18. **UN News** (L. Quiñones) — [COP31 deadlock persists as countries launch new "climate reality check"](https://news.un.org/en/story/2026/11/1168833)<br>
     <sub>Tier A · published 18/11/2026 · accessed 18/11/2026 · full page</sub>
+
+19. **UNFCCC** — [Draft Presidency-led cover decision, version 22/11/2026 2:00 (PDF), paragraph 7](https://docs.unfccc.int/documents/10000406/files/en/dt_cma8_cover_decision.pdf)<br>
+    <sub>Tier A · published 22/11/2026 · accessed 23/11/2026 · full document (deadline set by decision 18/CMA.1, already in force)</sub>
